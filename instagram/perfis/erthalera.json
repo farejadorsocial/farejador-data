@@ -8,7 +8,7 @@
       "id": "17841400544980416",
       "username": "erthalera",
       "nome": "Daniel Erthal / Artista / Venda",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwGa8ACl&_nc_oc=AdrNfhDohs2KZufUtaVpNNy1-DZY8uyOOFTxFgZCkL46duyJW51XogqvfK-LymBkEmJXwcQTaPN1IC1f_OF1N4D_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BF8nQtPPbBGPcDwhBDyPDA&_nc_ss=70689&oh=00_AQMSlebNHYKFKdfAQZA1yuaGtoHMPjZDd3WpnmLriV6TEw&oe=6AD60A0B"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 709447,
+        "valor_atual": 709620,
+        "variacao": 173,
+        "direcao": "aumento",
+        "descricao": "+173 seguidores",
+        "timestamp": "2026-10-15T12:02:33.468799",
+        "timestamp_anterior": "2026-10-15T00:24:05.144347",
+        "tempo_desde_anterior_segundos": 41908
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -498,6 +511,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 7592,
+        "valor_atual": 7591,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-15T12:02:33.468799",
+        "timestamp_anterior": "2026-10-14T12:04:55.471212",
+        "tempo_desde_anterior_segundos": 86257
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 7590,
         "valor_atual": 7592,
         "variacao": 2,
@@ -880,6 +906,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:33.468799",
+      "timestamp_anterior": "2026-10-15T00:24:05.144347",
+      "timestamp_atual": "2026-10-15T12:02:33.468799",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 26642166,
+        "id": "17841400544980416",
+        "username": "erthalera",
+        "nome": "Daniel Erthal / Artista / Venda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 709447,
+      "valor_atual": 709620,
+      "hash_anterior": "f6b8d97f9107e5468bc1296e180e574c730ec32c9a22fd91eb3f3be5887c925b",
+      "hash_atual": "0d618edbb1d773b8792ae42d14ed4ee6b311beb9a505b3ee6f9f2b658c539664",
+      "variacao": 173,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41908.324452,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41908.324452,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "titulo": "Ganhou 173 seguidores",
+      "descricao": "Os seguidores passaram de 709.447 para 709.620",
+      "variacao_texto": "+173 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:33.468799",
+      "timestamp_anterior": "2026-10-15T00:24:05.144347",
+      "timestamp_atual": "2026-10-15T12:02:33.468799",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 26642166,
+        "id": "17841400544980416",
+        "username": "erthalera",
+        "nome": "Daniel Erthal / Artista / Venda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 7592,
+      "valor_atual": 7591,
+      "hash_anterior": "f6b8d97f9107e5468bc1296e180e574c730ec32c9a22fd91eb3f3be5887c925b",
+      "hash_atual": "0d618edbb1d773b8792ae42d14ed4ee6b311beb9a505b3ee6f9f2b658c539664",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41908.324452,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 7.592 e passou a seguir 7.591",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:24:05.144347",
@@ -2844,26 +2940,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:05.068806",
-    "captura_mais_recente": "2026-10-15T00:24:05.144347",
-    "tempo_total_segundos": 887220,
-    "tempo_total_dias": 10.26875,
-    "tempo_total_texto": "10 dias, 6 horas e 27 minutos",
+    "captura_mais_recente": "2026-10-15T12:02:33.468799",
+    "tempo_total_segundos": 929128,
+    "tempo_total_dias": 10.753796,
+    "tempo_total_texto": "10 dias, 18 horas, 5 minutos e 28 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 9515,
+      "variacao": 8735,
       "direcao": "ganhou",
-      "quantidade": 9515,
-      "texto": "Ganhou 9515 seguidores",
+      "quantidade": 8735,
+      "texto": "Ganhou 8735 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:25:43.626414",
-      "captura_fim": "2026-10-15T00:24:05.144347",
-      "seguidores_inicio": 699932,
-      "seguidores_fim": 709447
+      "captura_inicio": "2026-10-08T09:09:24.659531",
+      "captura_fim": "2026-10-15T12:02:33.468799",
+      "seguidores_inicio": 700885,
+      "seguidores_fim": 709620
     },
     "30_dias": {
       "variacao": null,
@@ -2882,17 +2978,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 22625,
+      "variacao": 22798,
       "direcao": "ganhou",
-      "quantidade": 22625,
-      "texto": "Ganhou 22625 seguidores",
+      "quantidade": 22798,
+      "texto": "Ganhou 22798 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:05.068806",
-      "captura_mais_recente": "2026-10-15T00:24:05.144347",
-      "tempo_total_dias": 10.268751,
+      "captura_mais_recente": "2026-10-15T12:02:33.468799",
+      "tempo_total_dias": 10.753801,
       "seguidores_inicio": 686822,
-      "seguidores_fim": 709447
+      "seguidores_fim": 709620
     }
   }
 }
