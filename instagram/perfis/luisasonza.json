@@ -8,7 +8,7 @@
       "id": "17841401263064498",
       "username": "luisasonza",
       "nome": "LUÍSA SONZA",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/791045405_18641983525042103_8682800579442158044_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k6Pnf6fpx6cQ7kNvwG0N4wf&_nc_oc=AdpOIEglOnJEFbijUqrfZ-2Kl1DSLE4NyViDzrQFGuEXHuauEsViPVssPJ58Rv7FZbs7aeb6Qch261G-DdcbG__L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZWNpb3OjIUYs4oiQ2k2X4Q&_nc_ss=70689&oh=00_AQM_-GaoSiObMfIShkqWe83Y7b0N3D9KTox0t-bzD7LKCQ&oe=6AD623BF"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/791045405_18641983525042103_8682800579442158044_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Vf_gwZzjIh4Q7kNvwG5IJB9&_nc_oc=Adp2wgG33QZsOy-v0j_3_99HoHax3M5-FHnjuaPL0QHunDnc23LijwAHa7eED-SUr4g3wsr3hx5Vcx5eG1EgNT_l&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K_x2K2iBKi1btTfYOK8N9w&_nc_ss=70689&oh=00_AQPyJmWkflYxLtVY5xBlyTh7q9uUzrDY2Hcj-xp-LQ7V9Q&oe=6AD6CC7F"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 29151157,
+        "valor_atual": 29149919,
+        "variacao": -1238,
+        "direcao": "reducao",
+        "descricao": "-1238 seguidores",
+        "timestamp": "2026-10-15T12:02:20.544941",
+        "timestamp_anterior": "2026-10-15T00:26:26.085115",
+        "tempo_desde_anterior_segundos": 41754
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -580,6 +593,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 2816,
+        "valor_atual": 2815,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-15T12:02:20.544941",
+        "timestamp_anterior": "2026-10-14T12:16:18.347212",
+        "tempo_desde_anterior_segundos": 85562
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 2817,
         "valor_atual": 2816,
         "variacao": -1,
@@ -689,6 +715,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:20.544941",
+      "timestamp_anterior": "2026-10-15T00:26:26.085115",
+      "timestamp_atual": "2026-10-15T12:02:20.544941",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 287914102,
+        "id": "17841401263064498",
+        "username": "luisasonza",
+        "nome": "LUÍSA SONZA",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/791045405_18641983525042103_8682800579442158044_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Vf_gwZzjIh4Q7kNvwG5IJB9&_nc_oc=Adp2wgG33QZsOy-v0j_3_99HoHax3M5-FHnjuaPL0QHunDnc23LijwAHa7eED-SUr4g3wsr3hx5Vcx5eG1EgNT_l&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K_x2K2iBKi1btTfYOK8N9w&_nc_ss=70689&oh=00_AQPyJmWkflYxLtVY5xBlyTh7q9uUzrDY2Hcj-xp-LQ7V9Q&oe=6AD6CC7F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 29151157,
+      "valor_atual": 29149919,
+      "hash_anterior": "eefd30419824ec27a02bebdf56ae1c8dbb43dc4702ed73e12dd369a88efba1db",
+      "hash_atual": "c3e0253837a01e81b47ff82bb1cc373218aa97ede43c52945d696e53df9105e5",
+      "variacao": -1238,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41754.459826,
+        "texto": "11 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41754.459826,
+        "texto": "11 horas e 35 minutos e 54 segundos"
+      },
+      "titulo": "Perdeu 1.238 seguidores",
+      "descricao": "Os seguidores caíram de 29.151.157 para 29.149.919",
+      "variacao_texto": "-1.238 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:20.544941",
+      "timestamp_anterior": "2026-10-15T00:26:26.085115",
+      "timestamp_atual": "2026-10-15T12:02:20.544941",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 287914102,
+        "id": "17841401263064498",
+        "username": "luisasonza",
+        "nome": "LUÍSA SONZA",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/791045405_18641983525042103_8682800579442158044_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Vf_gwZzjIh4Q7kNvwG5IJB9&_nc_oc=Adp2wgG33QZsOy-v0j_3_99HoHax3M5-FHnjuaPL0QHunDnc23LijwAHa7eED-SUr4g3wsr3hx5Vcx5eG1EgNT_l&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K_x2K2iBKi1btTfYOK8N9w&_nc_ss=70689&oh=00_AQPyJmWkflYxLtVY5xBlyTh7q9uUzrDY2Hcj-xp-LQ7V9Q&oe=6AD6CC7F"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 2816,
+      "valor_atual": 2815,
+      "hash_anterior": "eefd30419824ec27a02bebdf56ae1c8dbb43dc4702ed73e12dd369a88efba1db",
+      "hash_atual": "c3e0253837a01e81b47ff82bb1cc373218aa97ede43c52945d696e53df9105e5",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41754.459826,
+        "texto": "11 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 2.816 e passou a seguir 2.815",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:26.085115",
@@ -2127,26 +2223,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:15.867579",
-    "captura_mais_recente": "2026-10-15T00:26:26.085115",
-    "tempo_total_segundos": 791110,
-    "tempo_total_dias": 9.156366,
-    "tempo_total_texto": "9 dias, 3 horas, 45 minutos e 10 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:20.544941",
+    "tempo_total_segundos": 832864,
+    "tempo_total_dias": 9.63963,
+    "tempo_total_texto": "9 dias, 15 horas, 21 minutos e 4 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -17970,
+      "variacao": -18248,
       "direcao": "perdeu",
-      "quantidade": 17970,
-      "texto": "Perdeu 17970 seguidores",
+      "quantidade": 18248,
+      "texto": "Perdeu 18248 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:26:59.836070",
-      "captura_fim": "2026-10-15T00:26:26.085115",
-      "seguidores_inicio": 29169127,
-      "seguidores_fim": 29151157
+      "captura_inicio": "2026-10-08T09:09:05.360964",
+      "captura_fim": "2026-10-15T12:02:20.544941",
+      "seguidores_inicio": 29168167,
+      "seguidores_fim": 29149919
     },
     "30_dias": {
       "variacao": null,
@@ -2165,17 +2261,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -25345,
+      "variacao": -26583,
       "direcao": "perdeu",
-      "quantidade": 25345,
-      "texto": "Perdeu 25345 seguidores",
+      "quantidade": 26583,
+      "texto": "Perdeu 26583 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:15.867579",
-      "captura_mais_recente": "2026-10-15T00:26:26.085115",
-      "tempo_total_dias": 9.156368,
+      "captura_mais_recente": "2026-10-15T12:02:20.544941",
+      "tempo_total_dias": 9.639637,
       "seguidores_inicio": 29176502,
-      "seguidores_fim": 29151157
+      "seguidores_fim": 29149919
     }
   }
 }
