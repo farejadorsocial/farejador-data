@@ -8,7 +8,7 @@
       "id": "17841401014630328",
       "username": "brunogagliasso",
       "nome": "Bruno Gagliasso",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HfU_5mIkPXEQ7kNvwFA040j&_nc_oc=AdqKgwqncNGXB7OtC6Jzc9N1ORGqd9Pm_tfEgQGM5IX4CFm_SkEKPSE1LPXIP0UNBfgIZ6kVti6cN7ts4_FLp7Di&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=k0C-aQ1vDvXRaeLwWSOgQQ&_nc_ss=70689&oh=00_AQOdzoGLTgWWmnTR1mVNe_xeWo5cG2S8Km6k-S5aJbQKqQ&oe=6AD60342"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HfU_5mIkPXEQ7kNvwGRG-x1&_nc_oc=AdrHN-A28RCFCK9-0PfDuscs-cNCr7QPURLbhLE0Nrz1FPAqdzpJJ260PUvyPoocyUnzMAAbHBPf5BseGRq6hlY_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Yl2tmlhpGbJFnJzndv10rg&_nc_ss=70689&oh=00_AQPKctvQknHWuYEd83s52zF1Y4DElfzoFbYd640hnsBpmw&oe=6AD6AC02"
     },
     "biografia": [
       {
@@ -94,6 +94,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 21225587,
+        "valor_atual": 21225588,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-15T12:03:31.583218",
+        "timestamp_anterior": "2026-10-15T12:01:36.730167",
+        "tempo_desde_anterior_segundos": 114
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 21226237,
+        "valor_atual": 21225587,
+        "variacao": -650,
+        "direcao": "reducao",
+        "descricao": "-650 seguidores",
+        "timestamp": "2026-10-15T12:01:36.730167",
+        "timestamp_anterior": "2026-10-15T00:26:54.854414",
+        "tempo_desde_anterior_segundos": 41681
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -849,6 +875,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 7600,
+        "valor_atual": 7601,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-10-15T12:01:36.730167",
+        "timestamp_anterior": "2026-10-15T00:23:08.072610",
+        "tempo_desde_anterior_segundos": 41908
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 7599,
         "valor_atual": 7600,
         "variacao": 1,
@@ -1205,6 +1244,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:03:31.583218",
+      "timestamp_anterior": "2026-10-15T12:01:36.730167",
+      "timestamp_atual": "2026-10-15T12:03:31.583218",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 21025821,
+        "id": "17841401014630328",
+        "username": "brunogagliasso",
+        "nome": "Bruno Gagliasso",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HfU_5mIkPXEQ7kNvwGRG-x1&_nc_oc=AdrHN-A28RCFCK9-0PfDuscs-cNCr7QPURLbhLE0Nrz1FPAqdzpJJ260PUvyPoocyUnzMAAbHBPf5BseGRq6hlY_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Yl2tmlhpGbJFnJzndv10rg&_nc_ss=70689&oh=00_AQPKctvQknHWuYEd83s52zF1Y4DElfzoFbYd640hnsBpmw&oe=6AD6AC02"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 21225587,
+      "valor_atual": 21225588,
+      "hash_anterior": "b6bebba8b73bbbc131919ea5dc1b0adee7a324ce8f82882152b7d9ce5484a952",
+      "hash_atual": "ceebc380e572c0d48d6930a792a1f88201ced44bb1f859fca3a9364f7f60eeb9",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 114.853051,
+        "texto": "1 minuto e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 114.853051,
+        "texto": "1 minuto e 54 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 21.225.587 para 21.225.588",
+      "variacao_texto": "+1 seguidor"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:36.730167",
+      "timestamp_anterior": "2026-10-15T00:26:54.854414",
+      "timestamp_atual": "2026-10-15T12:01:36.730167",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 21025821,
+        "id": "17841401014630328",
+        "username": "brunogagliasso",
+        "nome": "Bruno Gagliasso",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HfU_5mIkPXEQ7kNvwGRG-x1&_nc_oc=AdrHN-A28RCFCK9-0PfDuscs-cNCr7QPURLbhLE0Nrz1FPAqdzpJJ260PUvyPoocyUnzMAAbHBPf5BseGRq6hlY_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XDDCL9rM3LjTO8iqizGf8A&_nc_ss=70689&oh=00_AQNnFyZpeTM6HCwTiX8C0_gj47cv2SvKbBQp8MTihERw9A&oe=6AD6AC02"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 21226237,
+      "valor_atual": 21225587,
+      "hash_anterior": "d758c399173d76060338088f83a9929ef9a88b97195ca6960160c2241ad748ad",
+      "hash_atual": "b6bebba8b73bbbc131919ea5dc1b0adee7a324ce8f82882152b7d9ce5484a952",
+      "variacao": -650,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41681.875753,
+        "texto": "11 horas e 34 minutos e 41 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41681.875753,
+        "texto": "11 horas e 34 minutos e 41 segundos"
+      },
+      "titulo": "Perdeu 650 seguidores",
+      "descricao": "Os seguidores caíram de 21.226.237 para 21.225.587",
+      "variacao_texto": "-650 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:36.730167",
+      "timestamp_anterior": "2026-10-15T00:26:54.854414",
+      "timestamp_atual": "2026-10-15T12:01:36.730167",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 21025821,
+        "id": "17841401014630328",
+        "username": "brunogagliasso",
+        "nome": "Bruno Gagliasso",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HfU_5mIkPXEQ7kNvwGRG-x1&_nc_oc=AdrHN-A28RCFCK9-0PfDuscs-cNCr7QPURLbhLE0Nrz1FPAqdzpJJ260PUvyPoocyUnzMAAbHBPf5BseGRq6hlY_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XDDCL9rM3LjTO8iqizGf8A&_nc_ss=70689&oh=00_AQNnFyZpeTM6HCwTiX8C0_gj47cv2SvKbBQp8MTihERw9A&oe=6AD6AC02"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 7600,
+      "valor_atual": 7601,
+      "hash_anterior": "d758c399173d76060338088f83a9929ef9a88b97195ca6960160c2241ad748ad",
+      "hash_atual": "b6bebba8b73bbbc131919ea5dc1b0adee7a324ce8f82882152b7d9ce5484a952",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41681.875753,
+        "texto": "11 horas e 34 minutos e 41 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 7.600 e passou a seguir 7.601",
+      "variacao_texto": "+1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:54.854414",
@@ -4043,26 +4187,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:18.984648",
-    "captura_mais_recente": "2026-10-15T00:26:54.854414",
-    "tempo_total_segundos": 791195,
-    "tempo_total_dias": 9.15735,
-    "tempo_total_texto": "9 dias, 3 horas, 46 minutos e 35 segundos",
+    "captura_mais_recente": "2026-10-15T12:03:31.583218",
+    "tempo_total_segundos": 832992,
+    "tempo_total_dias": 9.641111,
+    "tempo_total_texto": "9 dias, 15 horas, 23 minutos e 12 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -16080,
+      "variacao": -14697,
       "direcao": "perdeu",
-      "quantidade": 16080,
-      "texto": "Perdeu 16080 seguidores",
+      "quantidade": 14697,
+      "texto": "Perdeu 14697 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:27:21.405017",
-      "captura_fim": "2026-10-15T00:26:54.854414",
-      "seguidores_inicio": 21242317,
-      "seguidores_fim": 21226237
+      "captura_inicio": "2026-10-08T09:14:42.013006",
+      "captura_fim": "2026-10-15T12:03:31.583218",
+      "seguidores_inicio": 21240285,
+      "seguidores_fim": 21225588
     },
     "30_dias": {
       "variacao": null,
@@ -4081,17 +4225,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -21816,
+      "variacao": -22465,
       "direcao": "perdeu",
-      "quantidade": 21816,
-      "texto": "Perdeu 21816 seguidores",
+      "quantidade": 22465,
+      "texto": "Perdeu 22465 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:18.984648",
-      "captura_mais_recente": "2026-10-15T00:26:54.854414",
-      "tempo_total_dias": 9.15736,
+      "captura_mais_recente": "2026-10-15T12:03:31.583218",
+      "tempo_total_dias": 9.641118,
       "seguidores_inicio": 21248053,
-      "seguidores_fim": 21226237
+      "seguidores_fim": 21225588
     }
   }
 }
