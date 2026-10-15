@@ -8,7 +8,7 @@
       "id": "17841400912812923",
       "username": "liverpoolfc",
       "nome": "Liverpool Football Club",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/756612614_18632516770030428_7230670390881588517_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=81_jyn8gV5gQ7kNvwHTPav7&_nc_oc=AdoPjKs8CFYkNSpTLb-k6p55P2BUGBUATIiT_7K3ICYRgrku2a6BqHdvHagkKJXV_GI187CPSXHGNRJc_lZNmKU_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RbP2CxYGrGjRPoJnONqHbw&_nc_ss=70689&oh=00_AQPkJQ6HzSMj_FHORymTYh4MfFUue8RYsFNvvT138uxhkw&oe=6AD61FEE"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/756612614_18632516770030428_7230670390881588517_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=81_jyn8gV5gQ7kNvwHaDwxp&_nc_oc=AdoTzFX7cG2R7N7T6BPrIDvIiLPUMLIUSpOEALUnOWJVbBJJfQ8vbiPiiLnUFUHzIEH1Q2FowmwXU6bm5C2tKP3l&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2xWpxN6VgLf1g8pfpVUP0w&_nc_ss=70689&oh=00_AQN21MM2OXYrx_lgOZ4YoUgtjWJkt8Q1pKBeB4jPdYtb3A&oe=6AD6C8AE"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 48310771,
+        "valor_atual": 48313088,
+        "variacao": 2317,
+        "direcao": "aumento",
+        "descricao": "+2317 seguidores",
+        "timestamp": "2026-10-15T12:02:45.215208",
+        "timestamp_anterior": "2026-10-15T00:24:18.287200",
+        "tempo_desde_anterior_segundos": 41906
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -385,6 +398,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 368,
+        "valor_atual": 367,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-15T12:02:45.215208",
+        "timestamp_anterior": "2026-10-06T21:42:55.797656",
+        "tempo_desde_anterior_segundos": 742789
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 368,
         "timestamp": "2026-10-06T21:42:55.797656",
         "tipo": "inicial"
@@ -442,6 +468,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:45.215208",
+      "timestamp_anterior": "2026-10-15T00:24:18.287200",
+      "timestamp_atual": "2026-10-15T12:02:45.215208",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 187102427,
+        "id": "17841400912812923",
+        "username": "liverpoolfc",
+        "nome": "Liverpool Football Club",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/756612614_18632516770030428_7230670390881588517_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=81_jyn8gV5gQ7kNvwHaDwxp&_nc_oc=AdoTzFX7cG2R7N7T6BPrIDvIiLPUMLIUSpOEALUnOWJVbBJJfQ8vbiPiiLnUFUHzIEH1Q2FowmwXU6bm5C2tKP3l&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2xWpxN6VgLf1g8pfpVUP0w&_nc_ss=70689&oh=00_AQN21MM2OXYrx_lgOZ4YoUgtjWJkt8Q1pKBeB4jPdYtb3A&oe=6AD6C8AE"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 48310771,
+      "valor_atual": 48313088,
+      "hash_anterior": "1e18259d3e3f61bc2d93d780b240de989811208af57a4b7942f284e68f09922a",
+      "hash_atual": "63692760ee64b666ab5de28f6a43620bb0b9116d0ce14cc5bd9ee48f6236f426",
+      "variacao": 2317,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41906.928008,
+        "texto": "11 horas e 38 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41906.928008,
+        "texto": "11 horas e 38 minutos e 26 segundos"
+      },
+      "titulo": "Ganhou 2.317 seguidores",
+      "descricao": "Os seguidores passaram de 48.310.771 para 48.313.088",
+      "variacao_texto": "+2.317 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:45.215208",
+      "timestamp_anterior": "2026-10-15T00:24:18.287200",
+      "timestamp_atual": "2026-10-15T12:02:45.215208",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 187102427,
+        "id": "17841400912812923",
+        "username": "liverpoolfc",
+        "nome": "Liverpool Football Club",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/756612614_18632516770030428_7230670390881588517_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=81_jyn8gV5gQ7kNvwHaDwxp&_nc_oc=AdoTzFX7cG2R7N7T6BPrIDvIiLPUMLIUSpOEALUnOWJVbBJJfQ8vbiPiiLnUFUHzIEH1Q2FowmwXU6bm5C2tKP3l&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2xWpxN6VgLf1g8pfpVUP0w&_nc_ss=70689&oh=00_AQN21MM2OXYrx_lgOZ4YoUgtjWJkt8Q1pKBeB4jPdYtb3A&oe=6AD6C8AE"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 368,
+      "valor_atual": 367,
+      "hash_anterior": "1e18259d3e3f61bc2d93d780b240de989811208af57a4b7942f284e68f09922a",
+      "hash_atual": "63692760ee64b666ab5de28f6a43620bb0b9116d0ce14cc5bd9ee48f6236f426",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41906.928008,
+        "texto": "11 horas e 38 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 368 e passou a seguir 367",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:24:18.287200",
@@ -1216,26 +1312,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:55.797656",
-    "captura_mais_recente": "2026-10-15T00:24:18.287200",
-    "tempo_total_segundos": 700882,
-    "tempo_total_dias": 8.11206,
-    "tempo_total_texto": "8 dias, 2 horas, 41 minutos e 22 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:45.215208",
+    "tempo_total_segundos": 742789,
+    "tempo_total_dias": 8.597095,
+    "tempo_total_texto": "8 dias, 14 horas, 19 minutos e 49 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 4156,
+      "variacao": 6375,
       "direcao": "ganhou",
-      "quantidade": 4156,
-      "texto": "Ganhou 4156 seguidores",
+      "quantidade": 6375,
+      "texto": "Ganhou 6375 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:28:44.574857",
-      "captura_fim": "2026-10-15T00:24:18.287200",
-      "seguidores_inicio": 48306615,
-      "seguidores_fim": 48310771
+      "captura_inicio": "2026-10-08T09:13:06.333742",
+      "captura_fim": "2026-10-15T12:02:45.215208",
+      "seguidores_inicio": 48306713,
+      "seguidores_fim": 48313088
     },
     "30_dias": {
       "variacao": null,
@@ -1254,17 +1350,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 2074,
+      "variacao": 4391,
       "direcao": "ganhou",
-      "quantidade": 2074,
-      "texto": "Ganhou 2074 seguidores",
+      "quantidade": 4391,
+      "texto": "Ganhou 4391 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:55.797656",
-      "captura_mais_recente": "2026-10-15T00:24:18.287200",
-      "tempo_total_dias": 8.112066,
+      "captura_mais_recente": "2026-10-15T12:02:45.215208",
+      "tempo_total_dias": 8.5971,
       "seguidores_inicio": 48308697,
-      "seguidores_fim": 48310771
+      "seguidores_fim": 48313088
     }
   }
 }
