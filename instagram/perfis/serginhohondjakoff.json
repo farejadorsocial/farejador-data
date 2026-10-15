@@ -8,7 +8,7 @@
       "id": "17841400748863016",
       "username": "serginhohondjakoff",
       "nome": "Sergio Hondjakoff",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5xlOk9LJ_ckQ7kNvwFZ8fyn&_nc_oc=Adoj38VtyK5oYKrfVaHvq5_AbDcnD_PwqjtVpRVneLZ00affDJx2SgXDa8chDwgVvqWRR9igwZIHPDTSApoYyz7I&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KaWaP8NNaQI6a7O_RQLprA&_nc_ss=70689&oh=00_AQPQ62d3j2wuMJEqXYInnANAZfkYsLs1ziT2MCEJl51Ojw&oe=6AD62457"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5xlOk9LJ_ckQ7kNvwEGVsHM&_nc_oc=AdqFOEe3E9fHJLfb5Ddsz6NViBMlOYAVgF9D3dhqBswQCpfcGXNms9etX782937yw0or0y3DqJ0S3fIrDfbMhlaJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=04HL0NAEm8i1-XjWTATFnA&_nc_ss=70689&oh=00_AQNcfBxkx9E52ZmMUMV803XyYI24XVUdm16qgM2ydkRQLw&oe=6AD6CD17"
     },
     "biografia": [
       {
@@ -231,6 +231,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 1679130,
+        "valor_atual": 1679024,
+        "variacao": -106,
+        "direcao": "reducao",
+        "descricao": "-106 seguidores",
+        "timestamp": "2026-10-15T12:01:22.405590",
+        "timestamp_anterior": "2026-10-15T00:22:53.836973",
+        "tempo_desde_anterior_segundos": 41908
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1402,6 +1415,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 3865,
+        "valor_atual": 3867,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "Seguiu +2",
+        "timestamp": "2026-10-15T12:01:22.405590",
+        "timestamp_anterior": "2026-10-14T12:03:15.786815",
+        "tempo_desde_anterior_segundos": 86286
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 3867,
         "valor_atual": 3865,
         "variacao": -2,
@@ -1940,6 +1966,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:22.405590",
+      "timestamp_anterior": "2026-10-15T00:22:53.836973",
+      "timestamp_atual": "2026-10-15T12:01:22.405590",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 193048962,
+        "id": "17841400748863016",
+        "username": "serginhohondjakoff",
+        "nome": "Sergio Hondjakoff",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5xlOk9LJ_ckQ7kNvwEGVsHM&_nc_oc=AdqFOEe3E9fHJLfb5Ddsz6NViBMlOYAVgF9D3dhqBswQCpfcGXNms9etX782937yw0or0y3DqJ0S3fIrDfbMhlaJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=04HL0NAEm8i1-XjWTATFnA&_nc_ss=70689&oh=00_AQNcfBxkx9E52ZmMUMV803XyYI24XVUdm16qgM2ydkRQLw&oe=6AD6CD17"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 1679130,
+      "valor_atual": 1679024,
+      "hash_anterior": "ce29d333e86e8c72bf57384244616e84438e68cb5b42ca9269628c9b36969528",
+      "hash_atual": "9ffa1cd09c50868d6e3b614c1e785c47bd4a476a087ed91932613819ba70eae4",
+      "variacao": -106,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41908.568617,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41908.568617,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "titulo": "Perdeu 106 seguidores",
+      "descricao": "Os seguidores caíram de 1.679.130 para 1.679.024",
+      "variacao_texto": "-106 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:22.405590",
+      "timestamp_anterior": "2026-10-15T00:22:53.836973",
+      "timestamp_atual": "2026-10-15T12:01:22.405590",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 193048962,
+        "id": "17841400748863016",
+        "username": "serginhohondjakoff",
+        "nome": "Sergio Hondjakoff",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5xlOk9LJ_ckQ7kNvwEGVsHM&_nc_oc=AdqFOEe3E9fHJLfb5Ddsz6NViBMlOYAVgF9D3dhqBswQCpfcGXNms9etX782937yw0or0y3DqJ0S3fIrDfbMhlaJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=04HL0NAEm8i1-XjWTATFnA&_nc_ss=70689&oh=00_AQNcfBxkx9E52ZmMUMV803XyYI24XVUdm16qgM2ydkRQLw&oe=6AD6CD17"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 3865,
+      "valor_atual": 3867,
+      "hash_anterior": "ce29d333e86e8c72bf57384244616e84438e68cb5b42ca9269628c9b36969528",
+      "hash_atual": "9ffa1cd09c50868d6e3b614c1e785c47bd4a476a087ed91932613819ba70eae4",
+      "variacao": 2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41908.568617,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 2 pessoas",
+      "descricao": "Estava seguindo 3.865 e passou a seguir 3.867",
+      "variacao_texto": "+2 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:22:53.836973",
@@ -6710,26 +6806,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:56:43.726035",
-    "captura_mais_recente": "2026-10-15T00:22:53.836973",
-    "tempo_total_segundos": 977170,
-    "tempo_total_dias": 11.309838,
-    "tempo_total_texto": "11 dias, 7 horas, 26 minutos e 10 segundos",
+    "captura_mais_recente": "2026-10-15T12:01:22.405590",
+    "tempo_total_segundos": 1019078,
+    "tempo_total_dias": 11.794884,
+    "tempo_total_texto": "11 dias, 19 horas, 4 minutos e 38 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 9717,
+      "variacao": 8012,
       "direcao": "ganhou",
-      "quantidade": 9717,
-      "texto": "Ganhou 9717 seguidores",
+      "quantidade": 8012,
+      "texto": "Ganhou 8012 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:24:10.912736",
-      "captura_fim": "2026-10-15T00:22:53.836973",
-      "seguidores_inicio": 1669413,
-      "seguidores_fim": 1679130
+      "captura_inicio": "2026-10-08T09:07:45.492854",
+      "captura_fim": "2026-10-15T12:01:22.405590",
+      "seguidores_inicio": 1671012,
+      "seguidores_fim": 1679024
     },
     "30_dias": {
       "variacao": null,
@@ -6748,17 +6844,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 39528,
+      "variacao": 39422,
       "direcao": "ganhou",
-      "quantidade": 39528,
-      "texto": "Ganhou 39528 seguidores",
+      "quantidade": 39422,
+      "texto": "Ganhou 39422 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:56:43.726035",
-      "captura_mais_recente": "2026-10-15T00:22:53.836973",
-      "tempo_total_dias": 11.309839,
+      "captura_mais_recente": "2026-10-15T12:01:22.405590",
+      "tempo_total_dias": 11.794892,
       "seguidores_inicio": 1639602,
-      "seguidores_fim": 1679130
+      "seguidores_fim": 1679024
     }
   }
 }
