@@ -8,7 +8,7 @@
       "id": "17841401279410556",
       "username": "adryanaribeirooficial",
       "nome": "A D R Y A N A   R I B E I R O",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/845061029_18645096232042648_7362331957460349029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=i7KDCNrtuOAQ7kNvwFe2BEm&_nc_oc=AdpHCZaLPAXGa1vasQiRjcpl0ZkpSBf3qAqgowl544Cy6F9TEAliqVm8H68zMjfNCTvVlX6wA2ybyF5dabZ-hPHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=favmQRTv5c9xKUwhTrq9Ww&_nc_ss=70689&oh=00_AQMTSTLkk7ircDpUneEz4GVg9w3xEMf2sIWPLjyUXcLmtw&oe=6AD621DD"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/845061029_18645096232042648_7362331957460349029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=i7KDCNrtuOAQ7kNvwGfQzgJ&_nc_oc=AdpKxcc5ez6wU2U0iq7KOhF6yUTnQWA5XJlHpLbZZpNVmnjZyDwCXxkfQuBt-1CqTJYzU8F2GfnTGKr1-n0zQDXH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iie73J1HztgzYtS6dBBCmA&_nc_ss=70689&oh=00_AQPufleGEbpgYJQNWR-2XNZ0LhPk1b6C3seen5Mf-l-ngw&oe=6AD6CA9D"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 510013,
+        "valor_atual": 509983,
+        "variacao": -30,
+        "direcao": "reducao",
+        "descricao": "-30 seguidores",
+        "timestamp": "2026-10-15T12:01:37.313394",
+        "timestamp_anterior": "2026-10-15T00:23:09.043006",
+        "tempo_desde_anterior_segundos": 41908
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -676,6 +689,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:37.313394",
+      "timestamp_anterior": "2026-10-15T00:23:09.043006",
+      "timestamp_atual": "2026-10-15T12:01:37.313394",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 35626647,
+        "id": "17841401279410556",
+        "username": "adryanaribeirooficial",
+        "nome": "A D R Y A N A   R I B E I R O",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/845061029_18645096232042648_7362331957460349029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=i7KDCNrtuOAQ7kNvwGfQzgJ&_nc_oc=AdpKxcc5ez6wU2U0iq7KOhF6yUTnQWA5XJlHpLbZZpNVmnjZyDwCXxkfQuBt-1CqTJYzU8F2GfnTGKr1-n0zQDXH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iie73J1HztgzYtS6dBBCmA&_nc_ss=70689&oh=00_AQPufleGEbpgYJQNWR-2XNZ0LhPk1b6C3seen5Mf-l-ngw&oe=6AD6CA9D"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 510013,
+      "valor_atual": 509983,
+      "hash_anterior": "3fc229b864313eb03346f63b0aadbcabae0a8e667d516f6646be68d2f0f6319a",
+      "hash_atual": "99945c20150498a597ecf31333248a2c438ffe24be39aa934cf6d2a371043c47",
+      "variacao": -30,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41908.270388,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41908.270388,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "titulo": "Perdeu 30 seguidores",
+      "descricao": "Os seguidores caíram de 510.013 para 509.983",
+      "variacao_texto": "-30 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:23:09.043006",
@@ -2079,26 +2127,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:55:50.806387",
-    "captura_mais_recente": "2026-10-15T00:23:09.043006",
-    "tempo_total_segundos": 887238,
-    "tempo_total_dias": 10.268958,
-    "tempo_total_texto": "10 dias, 6 horas, 27 minutos e 18 segundos",
+    "captura_mais_recente": "2026-10-15T12:01:37.313394",
+    "tempo_total_segundos": 929146,
+    "tempo_total_dias": 10.754005,
+    "tempo_total_texto": "10 dias, 18 horas, 5 minutos e 46 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 48,
-      "direcao": "ganhou",
-      "quantidade": 48,
-      "texto": "Ganhou 48 seguidores",
+      "variacao": -1,
+      "direcao": "perdeu",
+      "quantidade": 1,
+      "texto": "Perdeu 1 seguidor",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:24:30.072712",
-      "captura_fim": "2026-10-15T00:23:09.043006",
-      "seguidores_inicio": 509965,
-      "seguidores_fim": 510013
+      "captura_inicio": "2026-10-08T09:08:08.031632",
+      "captura_fim": "2026-10-15T12:01:37.313394",
+      "seguidores_inicio": 509984,
+      "seguidores_fim": 509983
     },
     "30_dias": {
       "variacao": null,
@@ -2117,17 +2165,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 283,
+      "variacao": 253,
       "direcao": "ganhou",
-      "quantidade": 283,
-      "texto": "Ganhou 283 seguidores",
+      "quantidade": 253,
+      "texto": "Ganhou 253 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:55:50.806387",
-      "captura_mais_recente": "2026-10-15T00:23:09.043006",
-      "tempo_total_dias": 10.268961,
+      "captura_mais_recente": "2026-10-15T12:01:37.313394",
+      "tempo_total_dias": 10.75401,
       "seguidores_inicio": 509730,
-      "seguidores_fim": 510013
+      "seguidores_fim": 509983
     }
   }
 }
