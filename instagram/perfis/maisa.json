@@ -8,7 +8,7 @@
       "id": "17841400031271589",
       "username": "maisa",
       "nome": "+A",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/628977031_18567508804001043_2695071776011622267_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ONcYU7Nd0eQQ7kNvwFO5zfz&_nc_oc=AdprV0lDkP8I8KyFd--Ca1Z4XOvRA3OyTF2fEIJmXL7AA196yX6aW43dxRrgV8SV5vcMEGxpxjlWLRoQvXEI_7w0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KXRJzcSrthLk_fow-D6RBQ&_nc_ss=70689&oh=00_AQMxEUME7YRObLHEUv-j-o11_G82GUgUUqBMkeoapUj5NA&oe=6AD63321"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/628977031_18567508804001043_2695071776011622267_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sHFokoBWtIEQ7kNvwHySEXi&_nc_oc=AdoCTsIFqZmpitUqhd9M_7bQ_LERlhHXbAkI-ELpth6QGhEyTu5_vtvYIEZH71RIJ98uDlApANYa_LajmmsWvmr-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KlKJ7QOkakpiR3HWXRYWxA&_nc_ss=70689&oh=00_AQOrl6Ro8yOhUQ4rUO9zTTT_rmQb_QEN2e3t9wLOHC7IbA&oe=6AD6A3A1"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 46576580,
+        "valor_atual": 46575271,
+        "variacao": -1309,
+        "direcao": "reducao",
+        "descricao": "-1309 seguidores",
+        "timestamp": "2026-10-15T12:02:34.347564",
+        "timestamp_anterior": "2026-10-15T00:26:51.740299",
+        "tempo_desde_anterior_segundos": 41742
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -593,6 +606,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 3212,
+        "valor_atual": 3215,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "Seguiu +3",
+        "timestamp": "2026-10-15T12:02:34.347564",
+        "timestamp_anterior": "2026-10-15T00:24:02.909725",
+        "tempo_desde_anterior_segundos": 41911
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 3210,
         "valor_atual": 3212,
         "variacao": 2,
@@ -806,6 +832,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:34.347564",
+      "timestamp_anterior": "2026-10-15T00:26:51.740299",
+      "timestamp_atual": "2026-10-15T12:02:34.347564",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 741697042,
+        "id": "17841400031271589",
+        "username": "maisa",
+        "nome": "+A",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/628977031_18567508804001043_2695071776011622267_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sHFokoBWtIEQ7kNvwHySEXi&_nc_oc=AdoCTsIFqZmpitUqhd9M_7bQ_LERlhHXbAkI-ELpth6QGhEyTu5_vtvYIEZH71RIJ98uDlApANYa_LajmmsWvmr-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KlKJ7QOkakpiR3HWXRYWxA&_nc_ss=70689&oh=00_AQOrl6Ro8yOhUQ4rUO9zTTT_rmQb_QEN2e3t9wLOHC7IbA&oe=6AD6A3A1"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 46576580,
+      "valor_atual": 46575271,
+      "hash_anterior": "e4140bef06a2e4ee4e7da8f91b2b8adfc503cd792c0214bb9685c1842bff9925",
+      "hash_atual": "9a8ada7d274ef381abd53a70c9146a943b7f811eaca535bd8321d34be73eeabe",
+      "variacao": -1309,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41742.607265,
+        "texto": "11 horas e 35 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41742.607265,
+        "texto": "11 horas e 35 minutos e 42 segundos"
+      },
+      "titulo": "Perdeu 1.309 seguidores",
+      "descricao": "Os seguidores caíram de 46.576.580 para 46.575.271",
+      "variacao_texto": "-1.309 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:34.347564",
+      "timestamp_anterior": "2026-10-15T00:26:51.740299",
+      "timestamp_atual": "2026-10-15T12:02:34.347564",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 741697042,
+        "id": "17841400031271589",
+        "username": "maisa",
+        "nome": "+A",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/628977031_18567508804001043_2695071776011622267_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sHFokoBWtIEQ7kNvwHySEXi&_nc_oc=AdoCTsIFqZmpitUqhd9M_7bQ_LERlhHXbAkI-ELpth6QGhEyTu5_vtvYIEZH71RIJ98uDlApANYa_LajmmsWvmr-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KlKJ7QOkakpiR3HWXRYWxA&_nc_ss=70689&oh=00_AQOrl6Ro8yOhUQ4rUO9zTTT_rmQb_QEN2e3t9wLOHC7IbA&oe=6AD6A3A1"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 3212,
+      "valor_atual": 3215,
+      "hash_anterior": "e4140bef06a2e4ee4e7da8f91b2b8adfc503cd792c0214bb9685c1842bff9925",
+      "hash_atual": "9a8ada7d274ef381abd53a70c9146a943b7f811eaca535bd8321d34be73eeabe",
+      "variacao": 3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41742.607265,
+        "texto": "11 horas e 35 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 3 pessoas",
+      "descricao": "Estava seguindo 3.212 e passou a seguir 3.215",
+      "variacao_texto": "+3 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:51.740299",
@@ -2560,26 +2656,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:33.096407",
-    "captura_mais_recente": "2026-10-15T00:26:51.740299",
-    "tempo_total_segundos": 791118,
-    "tempo_total_dias": 9.156458,
-    "tempo_total_texto": "9 dias, 3 horas, 45 minutos e 18 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:34.347564",
+    "tempo_total_segundos": 832861,
+    "tempo_total_dias": 9.639595,
+    "tempo_total_texto": "9 dias, 15 horas, 21 minutos e 1 segundo",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -33093,
+      "variacao": -28072,
       "direcao": "perdeu",
-      "quantidade": 33093,
-      "texto": "Perdeu 33093 seguidores",
+      "quantidade": 28072,
+      "texto": "Perdeu 28072 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:28:17.234523",
-      "captura_fim": "2026-10-15T00:26:51.740299",
-      "seguidores_inicio": 46609673,
-      "seguidores_fim": 46576580
+      "captura_inicio": "2026-10-08T09:12:53.245241",
+      "captura_fim": "2026-10-15T12:02:34.347564",
+      "seguidores_inicio": 46603343,
+      "seguidores_fim": 46575271
     },
     "30_dias": {
       "variacao": null,
@@ -2598,17 +2694,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -52591,
+      "variacao": -53900,
       "direcao": "perdeu",
-      "quantidade": 52591,
-      "texto": "Perdeu 52591 seguidores",
+      "quantidade": 53900,
+      "texto": "Perdeu 53900 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:33.096407",
-      "captura_mais_recente": "2026-10-15T00:26:51.740299",
-      "tempo_total_dias": 9.156466,
+      "captura_mais_recente": "2026-10-15T12:02:34.347564",
+      "tempo_total_dias": 9.639598,
       "seguidores_inicio": 46629171,
-      "seguidores_fim": 46576580
+      "seguidores_fim": 46575271
     }
   }
 }
