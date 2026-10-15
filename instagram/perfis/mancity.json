@@ -8,7 +8,7 @@
       "id": "17841401702830091",
       "username": "mancity",
       "nome": "Manchester City",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=fbCAL2UcSjMQ7kNvwHpjJq2&_nc_oc=AdoZengXP0u3msLPU4N1jKcuOYWDDI0faC4_Dn-vHTUaZVLzQMdI-cq9craJ5uGemXJJIbtR2aSjOXKo_ZotaUOS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jkyDA-RsdOrDDhGtoMK7Rw&_nc_ss=70689&oh=00_AQN5fBDX-mqRKypEUyWhdzRoq7j7Yc-_FK5hzaviOb_xnQ&oe=6AD61C68"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=fbCAL2UcSjMQ7kNvwHEXueW&_nc_oc=Adp8G7Gc_tYgUIkmNPQi_T7cXxfoEiPk2cuwajHUbi1quwP6d3PgroBoO6OCUuFqte41zHhJktJCUATCJxzbdYg8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=apcq_PF01XvuUhBlh2pRog&_nc_ss=70689&oh=00_AQO5q9KL07v_4os28ZSylvKZnJZUSsSY3j4o-NhaS7YwQg&oe=6AD6C528"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 57055129,
+        "valor_atual": 57057094,
+        "variacao": 1965,
+        "direcao": "aumento",
+        "descricao": "+1965 seguidores",
+        "timestamp": "2026-10-15T12:02:31.402871",
+        "timestamp_anterior": "2026-10-15T00:26:53.500337",
+        "tempo_desde_anterior_segundos": 41737
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -398,6 +411,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 807,
+        "valor_atual": 809,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "Seguiu +2",
+        "timestamp": "2026-10-15T12:02:31.402871",
+        "timestamp_anterior": "2026-10-06T21:42:35.254973",
+        "tempo_desde_anterior_segundos": 742796
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 807,
         "timestamp": "2026-10-06T21:42:35.254973",
         "tipo": "inicial"
@@ -455,6 +481,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:31.402871",
+      "timestamp_anterior": "2026-10-15T00:26:53.500337",
+      "timestamp_atual": "2026-10-15T12:02:31.402871",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=fbCAL2UcSjMQ7kNvwHEXueW&_nc_oc=Adp8G7Gc_tYgUIkmNPQi_T7cXxfoEiPk2cuwajHUbi1quwP6d3PgroBoO6OCUuFqte41zHhJktJCUATCJxzbdYg8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=apcq_PF01XvuUhBlh2pRog&_nc_ss=70689&oh=00_AQO5q9KL07v_4os28ZSylvKZnJZUSsSY3j4o-NhaS7YwQg&oe=6AD6C528"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 57055129,
+      "valor_atual": 57057094,
+      "hash_anterior": "02116c5602b9fba7bfde2952959aa533aeea8ecce1a72380e8c9ed00633b6838",
+      "hash_atual": "c67ea533b6f978f1ba0c8826ff650b46b2b968f71f8ba1072156f3f345bfd2d6",
+      "variacao": 1965,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41737.902534,
+        "texto": "11 horas e 35 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41737.902534,
+        "texto": "11 horas e 35 minutos e 37 segundos"
+      },
+      "titulo": "Ganhou 1.965 seguidores",
+      "descricao": "Os seguidores passaram de 57.055.129 para 57.057.094",
+      "variacao_texto": "+1.965 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:31.402871",
+      "timestamp_anterior": "2026-10-15T00:26:53.500337",
+      "timestamp_atual": "2026-10-15T12:02:31.402871",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=fbCAL2UcSjMQ7kNvwHEXueW&_nc_oc=Adp8G7Gc_tYgUIkmNPQi_T7cXxfoEiPk2cuwajHUbi1quwP6d3PgroBoO6OCUuFqte41zHhJktJCUATCJxzbdYg8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=apcq_PF01XvuUhBlh2pRog&_nc_ss=70689&oh=00_AQO5q9KL07v_4os28ZSylvKZnJZUSsSY3j4o-NhaS7YwQg&oe=6AD6C528"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 807,
+      "valor_atual": 809,
+      "hash_anterior": "02116c5602b9fba7bfde2952959aa533aeea8ecce1a72380e8c9ed00633b6838",
+      "hash_atual": "c67ea533b6f978f1ba0c8826ff650b46b2b968f71f8ba1072156f3f345bfd2d6",
+      "variacao": 2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41737.902534,
+        "texto": "11 horas e 35 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 2 pessoas",
+      "descricao": "Estava seguindo 807 e passou a seguir 809",
+      "variacao_texto": "+2 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:53.500337",
@@ -1264,26 +1360,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:35.254973",
-    "captura_mais_recente": "2026-10-15T00:26:53.500337",
-    "tempo_total_segundos": 701058,
-    "tempo_total_dias": 8.114097,
-    "tempo_total_texto": "8 dias, 2 horas, 44 minutos e 18 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:31.402871",
+    "tempo_total_segundos": 742796,
+    "tempo_total_dias": 8.597176,
+    "tempo_total_texto": "8 dias, 14 horas, 19 minutos e 56 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 18764,
+      "variacao": 21900,
       "direcao": "ganhou",
-      "quantidade": 18764,
-      "texto": "Ganhou 18764 seguidores",
+      "quantidade": 21900,
+      "texto": "Ganhou 21900 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:28:25.971032",
-      "captura_fim": "2026-10-15T00:26:53.500337",
-      "seguidores_inicio": 57036365,
-      "seguidores_fim": 57055129
+      "captura_inicio": "2026-10-08T09:12:46.426153",
+      "captura_fim": "2026-10-15T12:02:31.402871",
+      "seguidores_inicio": 57035194,
+      "seguidores_fim": 57057094
     },
     "30_dias": {
       "variacao": null,
@@ -1302,17 +1398,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 17200,
+      "variacao": 19165,
       "direcao": "ganhou",
-      "quantidade": 17200,
-      "texto": "Ganhou 17200 seguidores",
+      "quantidade": 19165,
+      "texto": "Ganhou 19165 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:35.254973",
-      "captura_mais_recente": "2026-10-15T00:26:53.500337",
-      "tempo_total_dias": 8.1141,
+      "captura_mais_recente": "2026-10-15T12:02:31.402871",
+      "tempo_total_dias": 8.597178,
       "seguidores_inicio": 57037929,
-      "seguidores_fim": 57055129
+      "seguidores_fim": 57057094
     }
   }
 }
