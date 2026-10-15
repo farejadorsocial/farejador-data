@@ -8,7 +8,7 @@
       "id": "17841408190472145",
       "username": "afazendarecord",
       "nome": "A Fazenda",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uhbtIdNEv5kQ7kNvwEZtjyx&_nc_oc=Adp7u6ILLxdD0-ZB8GfwYAuL94wJehIYOLFNDf8IRtXjAN-y1IrmVpu1lg-I-j89mrHhO4mbIXZcSMABdzZjxO_m&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=utgcO7hC-Watx6b5-06R6Q&_nc_ss=70689&oh=00_AQOy6yDExVz-BLmclFH5QKc88ZARYYMCy-rC3jv4dAQ1zw&oe=6AD6010B"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uhbtIdNEv5kQ7kNvwFmpDbU&_nc_oc=AdpRGDQkcqTXF0bNuZ1LERT0mjaw1-MnGsozES1K12I9KXxvPkUr9lSXNqJIVmntTZDMRcyU2tr6yE8pQ9ft1X-3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EPMC7NLYxTjk4k_2xdtBYw&_nc_ss=70689&oh=00_AQMC0NjombJRzCPXgsonOqwa5v4Y9KaLpT0eOsjq3-rh6g&oe=6AD6A9CB"
     },
     "biografia": [
       {
@@ -85,6 +85,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 5602315,
+        "valor_atual": 5602318,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "+3 seguidores",
+        "timestamp": "2026-10-15T12:03:34.105577",
+        "timestamp_anterior": "2026-10-15T12:01:37.314394",
+        "tempo_desde_anterior_segundos": 116
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 5602173,
+        "valor_atual": 5602315,
+        "variacao": 142,
+        "direcao": "aumento",
+        "descricao": "+142 seguidores",
+        "timestamp": "2026-10-15T12:01:37.314394",
+        "timestamp_anterior": "2026-10-15T00:26:04.449197",
+        "tempo_desde_anterior_segundos": 41732
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1703,6 +1729,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:03:34.105577",
+      "timestamp_anterior": "2026-10-15T12:01:37.314394",
+      "timestamp_atual": "2026-10-15T12:03:34.105577",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "reality show",
+        "pk": 8337161015,
+        "id": "17841408190472145",
+        "username": "afazendarecord",
+        "nome": "A Fazenda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uhbtIdNEv5kQ7kNvwFmpDbU&_nc_oc=AdpRGDQkcqTXF0bNuZ1LERT0mjaw1-MnGsozES1K12I9KXxvPkUr9lSXNqJIVmntTZDMRcyU2tr6yE8pQ9ft1X-3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EPMC7NLYxTjk4k_2xdtBYw&_nc_ss=70689&oh=00_AQMC0NjombJRzCPXgsonOqwa5v4Y9KaLpT0eOsjq3-rh6g&oe=6AD6A9CB"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 5602315,
+      "valor_atual": 5602318,
+      "hash_anterior": "9181810286834cf4cfeb037d66fb4fbc61bdd1feca4bda640c8ec27bde6449cd",
+      "hash_atual": "e7cc13057a734143f4a2f3caf91206d4e9a2c218787d924cef63e2bd5fe748e4",
+      "variacao": 3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 116.791183,
+        "texto": "1 minuto e 56 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 116.791183,
+        "texto": "1 minuto e 56 segundos"
+      },
+      "titulo": "Ganhou 3 seguidores",
+      "descricao": "Os seguidores passaram de 5.602.315 para 5.602.318",
+      "variacao_texto": "+3 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:37.314394",
+      "timestamp_anterior": "2026-10-15T00:26:04.449197",
+      "timestamp_atual": "2026-10-15T12:01:37.314394",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "reality show",
+        "pk": 8337161015,
+        "id": "17841408190472145",
+        "username": "afazendarecord",
+        "nome": "A Fazenda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uhbtIdNEv5kQ7kNvwFmpDbU&_nc_oc=AdpRGDQkcqTXF0bNuZ1LERT0mjaw1-MnGsozES1K12I9KXxvPkUr9lSXNqJIVmntTZDMRcyU2tr6yE8pQ9ft1X-3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=sn8bhJNVawwFlB1BiHNigw&_nc_ss=70689&oh=00_AQOCqtbcvd7qS2jfepxPnA-tce272JY3IxaOj0gw7YiAuA&oe=6AD6A9CB"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 5602173,
+      "valor_atual": 5602315,
+      "hash_anterior": "90f89ee9903f87d6d2d2f15399178549e0d2e53e5cd7308a6c35f9d81f4b47b8",
+      "hash_atual": "9181810286834cf4cfeb037d66fb4fbc61bdd1feca4bda640c8ec27bde6449cd",
+      "variacao": 142,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41732.865197,
+        "texto": "11 horas e 35 minutos e 32 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41732.865197,
+        "texto": "11 horas e 35 minutos e 32 segundos"
+      },
+      "titulo": "Ganhou 142 seguidores",
+      "descricao": "Os seguidores passaram de 5.602.173 para 5.602.315",
+      "variacao_texto": "+142 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:04.449197",
@@ -5872,26 +5968,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:23:32.318334",
-    "captura_mais_recente": "2026-10-15T00:26:04.449197",
-    "tempo_total_segundos": 889352,
-    "tempo_total_dias": 10.293426,
-    "tempo_total_texto": "10 dias, 7 horas, 2 minutos e 32 segundos",
+    "captura_mais_recente": "2026-10-15T12:03:34.105577",
+    "tempo_total_segundos": 931201,
+    "tempo_total_dias": 10.777789,
+    "tempo_total_texto": "10 dias, 18 horas, 40 minutos e 1 segundo",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 11978,
+      "variacao": 11004,
       "direcao": "ganhou",
-      "quantidade": 11978,
-      "texto": "Ganhou 11978 seguidores",
+      "quantidade": 11004,
+      "texto": "Ganhou 11004 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:28:46.887165",
-      "captura_fim": "2026-10-15T00:26:04.449197",
-      "seguidores_inicio": 5590195,
-      "seguidores_fim": 5602173
+      "captura_inicio": "2026-10-08T09:14:28.126480",
+      "captura_fim": "2026-10-15T12:03:34.105577",
+      "seguidores_inicio": 5591314,
+      "seguidores_fim": 5602318
     },
     "30_dias": {
       "variacao": null,
@@ -5910,17 +6006,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 22092,
+      "variacao": 22237,
       "direcao": "ganhou",
-      "quantidade": 22092,
-      "texto": "Ganhou 22092 seguidores",
+      "quantidade": 22237,
+      "texto": "Ganhou 22237 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:23:32.318334",
-      "captura_mais_recente": "2026-10-15T00:26:04.449197",
-      "tempo_total_dias": 10.293427,
+      "captura_mais_recente": "2026-10-15T12:03:34.105577",
+      "tempo_total_dias": 10.777798,
       "seguidores_inicio": 5580081,
-      "seguidores_fim": 5602173
+      "seguidores_fim": 5602318
     }
   }
 }
