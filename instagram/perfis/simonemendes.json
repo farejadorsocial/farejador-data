@@ -8,7 +8,7 @@
       "id": "17841401843112757",
       "username": "simonemendes",
       "nome": "Simone Mendes",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825269935_18642914041061438_7608930235951311903_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=XMeHqHDRJcwQ7kNvwG-7qSv&_nc_oc=AdovV24d1cLV_XFchjaz2HN47I0jZ1ZyMlg_7fRMpGmVvDmT2Ms-7lUizQsh8oHTAwMEcvu1ZTg15IuOIAjDgOrl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L3h2nBLZwNBbpDZbEQlaCQ&_nc_ss=70689&oh=00_AQNCVgnDD9mjCzCsLxNjFGCbVSwEIlIyarxQCwNFfxSteg&oe=6AD6257A"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825269935_18642914041061438_7608930235951311903_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=XMeHqHDRJcwQ7kNvwGa6YuA&_nc_oc=AdoQYVgLKOLIcmnTyyM9MPypNdxpdaJbBiGQIu0yNeJqjPeV_al-6efMmSVtof4NvNuBeU3qsblkHX1dhRBtsDep&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MJZt4Iw4yjOIfeAEm1OaNA&_nc_ss=70689&oh=00_AQNvSz22PHUBERJR7X2s03FlLFc5VQaGmVPaXSbU324P4A&oe=6AD6CE3A"
     },
     "biografia": [
       {
@@ -111,6 +111,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 40106343,
+        "valor_atual": 40104548,
+        "variacao": -1795,
+        "direcao": "reducao",
+        "descricao": "-1795 seguidores",
+        "timestamp": "2026-10-15T12:02:34.482539",
+        "timestamp_anterior": "2026-10-15T00:26:39.912601",
+        "tempo_desde_anterior_segundos": 41754
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1456,6 +1469,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:34.482539",
+      "timestamp_anterior": "2026-10-15T00:26:39.912601",
+      "timestamp_atual": "2026-10-15T12:02:34.482539",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 176509437,
+        "id": "17841401843112757",
+        "username": "simonemendes",
+        "nome": "Simone Mendes",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825269935_18642914041061438_7608930235951311903_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=XMeHqHDRJcwQ7kNvwGa6YuA&_nc_oc=AdoQYVgLKOLIcmnTyyM9MPypNdxpdaJbBiGQIu0yNeJqjPeV_al-6efMmSVtof4NvNuBeU3qsblkHX1dhRBtsDep&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MJZt4Iw4yjOIfeAEm1OaNA&_nc_ss=70689&oh=00_AQNvSz22PHUBERJR7X2s03FlLFc5VQaGmVPaXSbU324P4A&oe=6AD6CE3A"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 40106343,
+      "valor_atual": 40104548,
+      "hash_anterior": "510d10371d28553866fc05087aabc338968dc082d806e5a1c24006960459bc6b",
+      "hash_atual": "28e8efa539124aa67ecde7ed336cccb0282b536cbd85bb8fe0c3f4a702e3d4ff",
+      "variacao": -1795,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41754.569938,
+        "texto": "11 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41754.569938,
+        "texto": "11 horas e 35 minutos e 54 segundos"
+      },
+      "titulo": "Perdeu 1.795 seguidores",
+      "descricao": "Os seguidores caíram de 40.106.343 para 40.104.548",
+      "variacao_texto": "-1.795 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:39.912601",
@@ -4958,26 +5006,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:57:02.999891",
-    "captura_mais_recente": "2026-10-15T00:26:39.912601",
-    "tempo_total_segundos": 977376,
-    "tempo_total_dias": 11.312222,
-    "tempo_total_texto": "11 dias, 7 horas, 29 minutos e 36 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:34.482539",
+    "tempo_total_segundos": 1019131,
+    "tempo_total_dias": 11.795498,
+    "tempo_total_texto": "11 dias, 19 horas, 5 minutos e 31 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -14864,
+      "variacao": -15773,
       "direcao": "perdeu",
-      "quantidade": 14864,
-      "texto": "Perdeu 14864 seguidores",
+      "quantidade": 15773,
+      "texto": "Perdeu 15773 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:24:16.652759",
-      "captura_fim": "2026-10-15T00:26:39.912601",
-      "seguidores_inicio": 40121207,
-      "seguidores_fim": 40106343
+      "captura_inicio": "2026-10-08T09:12:28.655296",
+      "captura_fim": "2026-10-15T12:02:34.482539",
+      "seguidores_inicio": 40120321,
+      "seguidores_fim": 40104548
     },
     "30_dias": {
       "variacao": null,
@@ -4996,17 +5044,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -26575,
+      "variacao": -28370,
       "direcao": "perdeu",
-      "quantidade": 26575,
-      "texto": "Perdeu 26575 seguidores",
+      "quantidade": 28370,
+      "texto": "Perdeu 28370 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:57:02.999891",
-      "captura_mais_recente": "2026-10-15T00:26:39.912601",
-      "tempo_total_dias": 11.312233,
+      "captura_mais_recente": "2026-10-15T12:02:34.482539",
+      "tempo_total_dias": 11.795503,
       "seguidores_inicio": 40132918,
-      "seguidores_fim": 40106343
+      "seguidores_fim": 40104548
     }
   }
 }
