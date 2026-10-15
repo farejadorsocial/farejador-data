@@ -8,7 +8,7 @@
       "id": "17841400928500294",
       "username": "marinaruybarbosa",
       "nome": "Marina Ruy Barbosa",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/684221479_18598504858030951_4866017015660366752_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Ucefh4VIfsQ7kNvwETuTRH&_nc_oc=AdroFzbhVD205mgSrRy5vZESijPr08jWDeN97bKJomZdTlRbzvNhnpYEB-26L6_dQOW39-EA-8uraupN1_SJ2qyR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VAxUDUFgbmv2WaQuqCvPig&_nc_ss=70689&oh=00_AQNHQI79Ai9_Uey6A_vTaoTIoywBYXPyI77OYxgqcwkdIA&oe=6AD60E26"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/684221479_18598504858030951_4866017015660366752_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Ucefh4VIfsQ7kNvwF71DoI&_nc_oc=AdqejdW-pgsFzgzmfGJD3JGW1A_KkKXl_25Nl41IM0vTnkP0J30nkmSlCEkNweIxhbLzkjWDeGslJ2ThS-0wSq8A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8VxdhaeKTCQprEOfzAoimA&_nc_ss=70689&oh=00_AQPvVnUkOg8eAgg6f4uoXvf1JqrJhyUCyGAyWDHMJIvMAg&oe=6AD6B6E6"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 40019951,
+        "valor_atual": 40018802,
+        "variacao": -1149,
+        "direcao": "reducao",
+        "descricao": "-1149 seguidores",
+        "timestamp": "2026-10-15T12:01:52.265365",
+        "timestamp_anterior": "2026-10-15T00:26:09.882521",
+        "tempo_desde_anterior_segundos": 41742
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -950,6 +963,19 @@
         "plataforma": "instagram",
         "campo": "total_destaques",
         "nome": "Total de Destaques",
+        "valor_anterior": 6,
+        "valor_atual": 7,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 destaques",
+        "timestamp": "2026-10-15T12:01:52.265365",
+        "timestamp_anterior": "2026-10-13T15:58:56.272881",
+        "tempo_desde_anterior_segundos": 158575
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_destaques",
+        "nome": "Total de Destaques",
         "valor_anterior": 5,
         "valor_atual": 6,
         "variacao": 1,
@@ -1049,6 +1075,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:52.265365",
+      "timestamp_anterior": "2026-10-15T00:26:09.882521",
+      "timestamp_atual": "2026-10-15T12:01:52.265365",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 18846950,
+        "id": "17841400928500294",
+        "username": "marinaruybarbosa",
+        "nome": "Marina Ruy Barbosa",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/684221479_18598504858030951_4866017015660366752_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Ucefh4VIfsQ7kNvwF71DoI&_nc_oc=AdqejdW-pgsFzgzmfGJD3JGW1A_KkKXl_25Nl41IM0vTnkP0J30nkmSlCEkNweIxhbLzkjWDeGslJ2ThS-0wSq8A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8VxdhaeKTCQprEOfzAoimA&_nc_ss=70689&oh=00_AQPvVnUkOg8eAgg6f4uoXvf1JqrJhyUCyGAyWDHMJIvMAg&oe=6AD6B6E6"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 40019951,
+      "valor_atual": 40018802,
+      "hash_anterior": "f4b9aad5906a78d82fac1e31aecf3172e0e20c624486b9f7822bf275aeee8f12",
+      "hash_atual": "9b76b29d2a93f29354e46d2538bd95466f91f274c2fe885772c66ceee1d17282",
+      "variacao": -1149,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41742.382844,
+        "texto": "11 horas e 35 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41742.382844,
+        "texto": "11 horas e 35 minutos e 42 segundos"
+      },
+      "titulo": "Perdeu 1.149 seguidores",
+      "descricao": "Os seguidores caíram de 40.019.951 para 40.018.802",
+      "variacao_texto": "-1.149 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:52.265365",
+      "timestamp_anterior": "2026-10-15T00:26:09.882521",
+      "timestamp_atual": "2026-10-15T12:01:52.265365",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 18846950,
+        "id": "17841400928500294",
+        "username": "marinaruybarbosa",
+        "nome": "Marina Ruy Barbosa",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/684221479_18598504858030951_4866017015660366752_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Ucefh4VIfsQ7kNvwF71DoI&_nc_oc=AdqejdW-pgsFzgzmfGJD3JGW1A_KkKXl_25Nl41IM0vTnkP0J30nkmSlCEkNweIxhbLzkjWDeGslJ2ThS-0wSq8A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8VxdhaeKTCQprEOfzAoimA&_nc_ss=70689&oh=00_AQPvVnUkOg8eAgg6f4uoXvf1JqrJhyUCyGAyWDHMJIvMAg&oe=6AD6B6E6"
+      },
+      "tipo": "total_destaques",
+      "campo": "total_destaques",
+      "nome_campo": "Total de Destaques",
+      "valor_anterior": 6,
+      "valor_atual": 7,
+      "hash_anterior": "f4b9aad5906a78d82fac1e31aecf3172e0e20c624486b9f7822bf275aeee8f12",
+      "hash_atual": "9b76b29d2a93f29354e46d2538bd95466f91f274c2fe885772c66ceee1d17282",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 41742.382844,
+        "texto": "11 horas e 35 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Criou 1 destaque",
+      "descricao": "O total mudou de 6 para 7",
+      "variacao_texto": "+1 destaque"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:26:09.882521",
@@ -3468,26 +3564,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:23:50.975559",
-    "captura_mais_recente": "2026-10-15T00:26:09.882521",
-    "tempo_total_segundos": 889338,
-    "tempo_total_dias": 10.293264,
-    "tempo_total_texto": "10 dias, 7 horas, 2 minutos e 18 segundos",
+    "captura_mais_recente": "2026-10-15T12:01:52.265365",
+    "tempo_total_segundos": 931081,
+    "tempo_total_dias": 10.7764,
+    "tempo_total_texto": "10 dias, 18 horas, 38 minutos e 1 segundo",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -65293,
+      "variacao": -58679,
       "direcao": "perdeu",
-      "quantidade": 65293,
-      "texto": "Perdeu 65293 seguidores",
+      "quantidade": 58679,
+      "texto": "Perdeu 58679 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:27:22.868225",
-      "captura_fim": "2026-10-15T00:26:09.882521",
-      "seguidores_inicio": 40085244,
-      "seguidores_fim": 40019951
+      "captura_inicio": "2026-10-08T09:11:54.033991",
+      "captura_fim": "2026-10-15T12:01:52.265365",
+      "seguidores_inicio": 40077481,
+      "seguidores_fim": 40018802
     },
     "30_dias": {
       "variacao": null,
@@ -3506,17 +3602,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -59812,
+      "variacao": -60961,
       "direcao": "perdeu",
-      "quantidade": 59812,
-      "texto": "Perdeu 59812 seguidores",
+      "quantidade": 60961,
+      "texto": "Perdeu 60961 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:23:50.975559",
-      "captura_mais_recente": "2026-10-15T00:26:09.882521",
-      "tempo_total_dias": 10.293274,
+      "captura_mais_recente": "2026-10-15T12:01:52.265365",
+      "tempo_total_dias": 10.776404,
       "seguidores_inicio": 40079763,
-      "seguidores_fim": 40019951
+      "seguidores_fim": 40018802
     }
   }
 }
