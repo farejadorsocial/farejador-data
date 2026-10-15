@@ -8,7 +8,7 @@
       "id": "17841401284379210",
       "username": "cauareymond",
       "nome": "Cauã Reymond",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0ZmzEOfjS20Q7kNvwGMvsyx&_nc_oc=Adq2iwzRRh0G0N58zpkgKR6257ZVvFoM8AyzBovbYWHmD6Fc8ei5UM1zDh1FqAHZLSfpYPtTqn_Og_ycoRIIi3lU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=V06V-6IqYO1YPH2LbovU0Q&_nc_ss=70689&oh=00_AQP7G9mHSCwvllafTAcQlDpSFUAKORv2B8yNyCIKug9WNw&oe=6AD614B0"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0ZmzEOfjS20Q7kNvwFpWfNV&_nc_oc=AdpxazCSZjMMzrdbMCX7rK0tPkzoYq9uRXrlG6pfOMWkN5pt9ImoJ77pBztlM4h982IZjuaHeS2GbgWPVKKXMy_K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gfHmkfdZHcneoGazQpFMmA&_nc_ss=70689&oh=00_AQOLAMKabe7WCEY0tNpXyiyrIgxX8HPfburKdgSdBT6ejQ&oe=6AD6BD70"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 14659151,
+        "valor_atual": 14659252,
+        "variacao": 101,
+        "direcao": "aumento",
+        "descricao": "+101 seguidores",
+        "timestamp": "2026-10-15T12:02:33.629958",
+        "timestamp_anterior": "2026-10-15T00:25:57.141063",
+        "tempo_desde_anterior_segundos": 41796
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -795,6 +808,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 4377,
+        "valor_atual": 4376,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 posts",
+        "timestamp": "2026-10-15T12:02:33.629958",
+        "timestamp_anterior": "2026-10-15T00:24:03.639280",
+        "tempo_desde_anterior_segundos": 41909
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 4372,
         "valor_atual": 4377,
         "variacao": 5,
@@ -923,6 +949,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:33.629958",
+      "timestamp_anterior": "2026-10-15T00:25:57.141063",
+      "timestamp_atual": "2026-10-15T12:02:33.629958",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 1229482812,
+        "id": "17841401284379210",
+        "username": "cauareymond",
+        "nome": "Cauã Reymond",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0ZmzEOfjS20Q7kNvwFpWfNV&_nc_oc=AdpxazCSZjMMzrdbMCX7rK0tPkzoYq9uRXrlG6pfOMWkN5pt9ImoJ77pBztlM4h982IZjuaHeS2GbgWPVKKXMy_K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gfHmkfdZHcneoGazQpFMmA&_nc_ss=70689&oh=00_AQOLAMKabe7WCEY0tNpXyiyrIgxX8HPfburKdgSdBT6ejQ&oe=6AD6BD70"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 14659151,
+      "valor_atual": 14659252,
+      "hash_anterior": "6cdee6e0c5d2e9dbba772eb1a380b906df1bf81a196afc289beddb69ce20d456",
+      "hash_atual": "9ba0228deda188289e281156f3af2d924b8e3e6317bf5868402dc66e24b16fb9",
+      "variacao": 101,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41796.488895,
+        "texto": "11 horas e 36 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41796.488895,
+        "texto": "11 horas e 36 minutos e 36 segundos"
+      },
+      "titulo": "Ganhou 101 seguidores",
+      "descricao": "Os seguidores passaram de 14.659.151 para 14.659.252",
+      "variacao_texto": "+101 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:33.629958",
+      "timestamp_anterior": "2026-10-15T00:25:57.141063",
+      "timestamp_atual": "2026-10-15T12:02:33.629958",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 1229482812,
+        "id": "17841401284379210",
+        "username": "cauareymond",
+        "nome": "Cauã Reymond",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0ZmzEOfjS20Q7kNvwFpWfNV&_nc_oc=AdpxazCSZjMMzrdbMCX7rK0tPkzoYq9uRXrlG6pfOMWkN5pt9ImoJ77pBztlM4h982IZjuaHeS2GbgWPVKKXMy_K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gfHmkfdZHcneoGazQpFMmA&_nc_ss=70689&oh=00_AQOLAMKabe7WCEY0tNpXyiyrIgxX8HPfburKdgSdBT6ejQ&oe=6AD6BD70"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 4377,
+      "valor_atual": 4376,
+      "hash_anterior": "6cdee6e0c5d2e9dbba772eb1a380b906df1bf81a196afc289beddb69ce20d456",
+      "hash_atual": "9ba0228deda188289e281156f3af2d924b8e3e6317bf5868402dc66e24b16fb9",
+      "variacao": -1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 41796.488895,
+        "texto": "11 horas e 36 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Removeu 1 post",
+      "descricao": "O total mudou de 4.377 para 4.376",
+      "variacao_texto": "-1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:25:57.141063",
@@ -2991,26 +3087,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:35.305618",
-    "captura_mais_recente": "2026-10-15T00:25:57.141063",
-    "tempo_total_segundos": 791061,
-    "tempo_total_dias": 9.155799,
-    "tempo_total_texto": "9 dias, 3 horas, 44 minutos e 21 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:33.629958",
+    "tempo_total_segundos": 832858,
+    "tempo_total_dias": 9.63956,
+    "tempo_total_texto": "9 dias, 15 horas, 20 minutos e 58 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -7154,
+      "variacao": -6591,
       "direcao": "perdeu",
-      "quantidade": 7154,
-      "texto": "Perdeu 7154 seguidores",
+      "quantidade": 6591,
+      "texto": "Perdeu 6591 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:28:36.293940",
-      "captura_fim": "2026-10-15T00:25:57.141063",
-      "seguidores_inicio": 14666305,
-      "seguidores_fim": 14659151
+      "captura_inicio": "2026-10-08T09:13:48.621699",
+      "captura_fim": "2026-10-15T12:02:33.629958",
+      "seguidores_inicio": 14665843,
+      "seguidores_fim": 14659252
     },
     "30_dias": {
       "variacao": null,
@@ -3029,17 +3125,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -10499,
+      "variacao": -10398,
       "direcao": "perdeu",
-      "quantidade": 10499,
-      "texto": "Perdeu 10499 seguidores",
+      "quantidade": 10398,
+      "texto": "Perdeu 10398 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:35.305618",
-      "captura_mais_recente": "2026-10-15T00:25:57.141063",
-      "tempo_total_dias": 9.155808,
+      "captura_mais_recente": "2026-10-15T12:02:33.629958",
+      "tempo_total_dias": 9.639564,
       "seguidores_inicio": 14669650,
-      "seguidores_fim": 14659151
+      "seguidores_fim": 14659252
     }
   }
 }
