@@ -8,7 +8,7 @@
       "id": "17841400104730252",
       "username": "lucaslucco",
       "nome": "Lucas Lucco",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/569577180_18584209747003492_4359432457018972138_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zOTMuQzMifQ%3D%3D&_nc_ohc=hqwezpwvCd8Q7kNvwFOpFgV&_nc_oc=Adpq4jWs7CmzmhYpyXvI8n98H3bCEoEzBFEf4wo8LUrek5hzuM_-w4q5XbZ7Lwmg4CHg9rtEy3mhEiENnRHiIBYr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MLR4tCfpaNycmsBRqKPkpA&_nc_ss=70689&oh=00_AQMXeeejEfMnGyjmUIHGM5q4nazadBY5sR6_ak3CNwll9g&oe=6AD61253"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/569577180_18584209747003492_4359432457018972138_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zOTMuQzMifQ%3D%3D&_nc_ohc=hqwezpwvCd8Q7kNvwHzUwlJ&_nc_oc=AdqhRbWBHjN9Vvw7zYixvlSV9A2BakX7JzGWUHo2AjJku49YMhzOne1T0TfmPaDgSJZm47K8PH-w0-YrFAD-wOey&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BpOT4y-rqxnEC33wuS_ZKA&_nc_ss=70689&oh=00_AQO7VJkwqMDdlcnzryagk2FGzWTQ5HFJWHEIf8ml0uQEBg&oe=6AD6BB13"
     },
     "biografia": [
       {
@@ -101,6 +101,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 16810651,
+        "valor_atual": 16809917,
+        "variacao": -734,
+        "direcao": "reducao",
+        "descricao": "-734 seguidores",
+        "timestamp": "2026-10-15T12:03:14.979904",
+        "timestamp_anterior": "2026-10-15T00:24:46.278904",
+        "tempo_desde_anterior_segundos": 41908
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -679,6 +692,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:03:14.979904",
+      "timestamp_anterior": "2026-10-15T00:24:46.278904",
+      "timestamp_atual": "2026-10-15T12:03:14.979904",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 16131491,
+        "id": "17841400104730252",
+        "username": "lucaslucco",
+        "nome": "Lucas Lucco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/569577180_18584209747003492_4359432457018972138_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zOTMuQzMifQ%3D%3D&_nc_ohc=hqwezpwvCd8Q7kNvwHzUwlJ&_nc_oc=AdqhRbWBHjN9Vvw7zYixvlSV9A2BakX7JzGWUHo2AjJku49YMhzOne1T0TfmPaDgSJZm47K8PH-w0-YrFAD-wOey&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BpOT4y-rqxnEC33wuS_ZKA&_nc_ss=70689&oh=00_AQO7VJkwqMDdlcnzryagk2FGzWTQ5HFJWHEIf8ml0uQEBg&oe=6AD6BB13"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 16810651,
+      "valor_atual": 16809917,
+      "hash_anterior": "c806347a5b9acafb2843835ed1b1e2f898b1feabf3aab9b9fbdbdd8aee97073c",
+      "hash_atual": "d048f60535bb625421e1e26084f8b2c9aa58b567da8bdcff0afe24669d9db8b8",
+      "variacao": -734,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41908.701,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41908.701,
+        "texto": "11 horas e 38 minutos e 28 segundos"
+      },
+      "titulo": "Perdeu 734 seguidores",
+      "descricao": "Os seguidores caíram de 16.810.651 para 16.809.917",
+      "variacao_texto": "-734 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:24:46.278904",
@@ -2082,26 +2130,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:46.076696",
-    "captura_mais_recente": "2026-10-15T00:24:46.278904",
-    "tempo_total_segundos": 790920,
-    "tempo_total_dias": 9.154167,
-    "tempo_total_texto": "9 dias, 3 horas e 42 minutos",
+    "captura_mais_recente": "2026-10-15T12:03:14.979904",
+    "tempo_total_segundos": 832828,
+    "tempo_total_dias": 9.639213,
+    "tempo_total_texto": "9 dias, 15 horas, 20 minutos e 28 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -9772,
+      "variacao": -9978,
       "direcao": "perdeu",
-      "quantidade": 9772,
-      "texto": "Perdeu 9772 seguidores",
+      "quantidade": 9978,
+      "texto": "Perdeu 9978 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:28:25.032094",
-      "captura_fim": "2026-10-15T00:24:46.278904",
-      "seguidores_inicio": 16820423,
-      "seguidores_fim": 16810651
+      "captura_inicio": "2026-10-08T09:13:26.697907",
+      "captura_fim": "2026-10-15T12:03:14.979904",
+      "seguidores_inicio": 16819895,
+      "seguidores_fim": 16809917
     },
     "30_dias": {
       "variacao": null,
@@ -2120,17 +2168,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -13662,
+      "variacao": -14396,
       "direcao": "perdeu",
-      "quantidade": 13662,
-      "texto": "Perdeu 13662 seguidores",
+      "quantidade": 14396,
+      "texto": "Perdeu 14396 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:46.076696",
-      "captura_mais_recente": "2026-10-15T00:24:46.278904",
-      "tempo_total_dias": 9.154169,
+      "captura_mais_recente": "2026-10-15T12:03:14.979904",
+      "tempo_total_dias": 9.639223,
       "seguidores_inicio": 16824313,
-      "seguidores_fim": 16810651
+      "seguidores_fim": 16809917
     }
   }
 }
