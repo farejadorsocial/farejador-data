@@ -8,7 +8,7 @@
       "id": "17841400490747778",
       "username": "monicafonsecatv",
       "nome": "Mônica Fonseca",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/810931367_18647163163016359_1001952050656370493_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D8-yIoA2XPcQ7kNvwGGIL0A&_nc_oc=AdrFya68rbP4t7AZIH4wjmTEoKqhtHtNqvVqooysTjWo_tcEGwaCf2cnkDLWz74CJEDFSCTmHq9hIk44D82syeaa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2woINdaxAXALLVbEhSXSUw&_nc_ss=70689&oh=00_AQMedbfnXPUcGtm5lza9eNwfwtUIsnqcqjYchYNWDbRC5Q&oe=6AD61FAE"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/810931367_18647163163016359_1001952050656370493_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D8-yIoA2XPcQ7kNvwGwcU9A&_nc_oc=AdoyYdsf0XlSwPmK7yUgbbv-0_ls-J4DoO4QgAD4Fqc2kj3Xw5PxgvUYpmPbYn5_Jb1kKh51gAt7uIDs1GNluzvL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ob6Jbev82V8X3KQZ5pW65w&_nc_ss=70689&oh=00_AQONbAaAX0ADEGCxsYUE6U0BMeif0s2EZwIfFo3HdkbQRQ&oe=6AD6C86E"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 195057,
+        "valor_atual": 195050,
+        "variacao": -7,
+        "direcao": "reducao",
+        "descricao": "-7 seguidores",
+        "timestamp": "2026-10-15T12:03:43.111659",
+        "timestamp_anterior": "2026-10-15T00:25:15.143986",
+        "tempo_desde_anterior_segundos": 41907
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -557,6 +570,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1078,
+        "valor_atual": 1079,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-15T12:03:43.111659",
+        "timestamp_anterior": "2026-10-15T00:25:15.143986",
+        "tempo_desde_anterior_segundos": 41907
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1076,
         "valor_atual": 1078,
         "variacao": 2,
@@ -750,6 +776,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:03:43.111659",
+      "timestamp_anterior": "2026-10-15T00:25:15.143986",
+      "timestamp_atual": "2026-10-15T12:03:43.111659",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 497808358,
+        "id": "17841400490747778",
+        "username": "monicafonsecatv",
+        "nome": "Mônica Fonseca",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/810931367_18647163163016359_1001952050656370493_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D8-yIoA2XPcQ7kNvwGwcU9A&_nc_oc=AdoyYdsf0XlSwPmK7yUgbbv-0_ls-J4DoO4QgAD4Fqc2kj3Xw5PxgvUYpmPbYn5_Jb1kKh51gAt7uIDs1GNluzvL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ob6Jbev82V8X3KQZ5pW65w&_nc_ss=70689&oh=00_AQONbAaAX0ADEGCxsYUE6U0BMeif0s2EZwIfFo3HdkbQRQ&oe=6AD6C86E"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 195057,
+      "valor_atual": 195050,
+      "hash_anterior": "c512a40a1d9c59a7afe4e7a0af64feca6a6999858d9d4f0b6d8a093737fecd14",
+      "hash_atual": "653d56e56281a2318ebe1cb2bbed62a9032c0fcf2cfd2129820ac48a49318865",
+      "variacao": -7,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41907.967673,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41907.967673,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "titulo": "Perdeu 7 seguidores",
+      "descricao": "Os seguidores caíram de 195.057 para 195.050",
+      "variacao_texto": "-7 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:03:43.111659",
+      "timestamp_anterior": "2026-10-15T00:25:15.143986",
+      "timestamp_atual": "2026-10-15T12:03:43.111659",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 497808358,
+        "id": "17841400490747778",
+        "username": "monicafonsecatv",
+        "nome": "Mônica Fonseca",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/810931367_18647163163016359_1001952050656370493_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D8-yIoA2XPcQ7kNvwGwcU9A&_nc_oc=AdoyYdsf0XlSwPmK7yUgbbv-0_ls-J4DoO4QgAD4Fqc2kj3Xw5PxgvUYpmPbYn5_Jb1kKh51gAt7uIDs1GNluzvL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ob6Jbev82V8X3KQZ5pW65w&_nc_ss=70689&oh=00_AQONbAaAX0ADEGCxsYUE6U0BMeif0s2EZwIfFo3HdkbQRQ&oe=6AD6C86E"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1078,
+      "valor_atual": 1079,
+      "hash_anterior": "c512a40a1d9c59a7afe4e7a0af64feca6a6999858d9d4f0b6d8a093737fecd14",
+      "hash_atual": "653d56e56281a2318ebe1cb2bbed62a9032c0fcf2cfd2129820ac48a49318865",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 41907.967673,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 1.078 para 1.079",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:25:15.143986",
@@ -2364,26 +2460,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:14:00.579393",
-    "captura_mais_recente": "2026-10-15T00:25:15.143986",
-    "tempo_total_segundos": 796274,
-    "tempo_total_dias": 9.216134,
-    "tempo_total_texto": "9 dias, 5 horas, 11 minutos e 14 segundos",
+    "captura_mais_recente": "2026-10-15T12:03:43.111659",
+    "tempo_total_segundos": 838182,
+    "tempo_total_dias": 9.701181,
+    "tempo_total_texto": "9 dias, 16 horas, 49 minutos e 42 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 436,
+      "variacao": 252,
       "direcao": "ganhou",
-      "quantidade": 436,
-      "texto": "Ganhou 436 seguidores",
+      "quantidade": 252,
+      "texto": "Ganhou 252 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:27:16.604839",
-      "captura_fim": "2026-10-15T00:25:15.143986",
-      "seguidores_inicio": 194621,
-      "seguidores_fim": 195057
+      "captura_inicio": "2026-10-08T09:10:58.845132",
+      "captura_fim": "2026-10-15T12:03:43.111659",
+      "seguidores_inicio": 194798,
+      "seguidores_fim": 195050
     },
     "30_dias": {
       "variacao": null,
@@ -2402,17 +2498,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 1727,
+      "variacao": 1720,
       "direcao": "ganhou",
-      "quantidade": 1727,
-      "texto": "Ganhou 1727 seguidores",
+      "quantidade": 1720,
+      "texto": "Ganhou 1720 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:14:00.579393",
-      "captura_mais_recente": "2026-10-15T00:25:15.143986",
-      "tempo_total_dias": 9.216141,
+      "captura_mais_recente": "2026-10-15T12:03:43.111659",
+      "tempo_total_dias": 9.701187,
       "seguidores_inicio": 193330,
-      "seguidores_fim": 195057
+      "seguidores_fim": 195050
     }
   }
 }
