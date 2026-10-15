@@ -8,7 +8,7 @@
       "id": "17841448819140452",
       "username": "manchesterunited",
       "nome": "형준 Jun",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH3aynu&_nc_oc=AdowZXvr-L0BgNGBkd9OdjdLIxLkIGZ_ojjITzXOQ_5o1Z3Cm0bWnrQV_0X8y5uFQDR64GY5GbqGTbzN5vG0VZ3r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EdgMNBpPyREOZO0Qo_zH7Q&_nc_ss=70689&oh=00_AQM3RcEjwjpPvv1QUQhbT-2Pjdp0ysc0PX7pjhPweitgIw&oe=6AD62C0C"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwEO8Lrw&_nc_oc=Ado5h_HFgfx--ZThOSl-69PCTtDtxJNWSncF0XbxnRCLe5HQvMvK-j7o5xhr0c_X616vhQykrQsd2MDsQEDaKvhp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lIz2_pWLosK7E-b8AuCBDQ&_nc_ss=70689&oh=00_AQNa4mQcnE-Eami4yFxy16S989PrPQHQp54ffJ_JEyeZEw&oe=6AD6D4CC"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 521,
+        "valor_atual": 520,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 seguidores",
+        "timestamp": "2026-10-15T12:02:03.739941",
+        "timestamp_anterior": "2026-10-15T00:23:36.574455",
+        "tempo_desde_anterior_segundos": 41907
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -425,6 +438,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:03.739941",
+      "timestamp_anterior": "2026-10-15T00:23:36.574455",
+      "timestamp_atual": "2026-10-15T12:02:03.739941",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 48883619304,
+        "id": "17841448819140452",
+        "username": "manchesterunited",
+        "nome": "형준 Jun",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwEO8Lrw&_nc_oc=Ado5h_HFgfx--ZThOSl-69PCTtDtxJNWSncF0XbxnRCLe5HQvMvK-j7o5xhr0c_X616vhQykrQsd2MDsQEDaKvhp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lIz2_pWLosK7E-b8AuCBDQ&_nc_ss=70689&oh=00_AQNa4mQcnE-Eami4yFxy16S989PrPQHQp54ffJ_JEyeZEw&oe=6AD6D4CC"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 521,
+      "valor_atual": 520,
+      "hash_anterior": "db46ce93749b7ed77cf9ed5d8a95434df21f19c4f3d0e6ba2ae331d826ac05ce",
+      "hash_atual": "a1f389fc2730108a790d02405a015bbe081d9e9fc8b28d0779fe5f37fdcea91c",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41907.165486,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41907.165486,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "titulo": "Perdeu 1 seguidor",
+      "descricao": "Os seguidores caíram de 521 para 520",
+      "variacao_texto": "-1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:23:36.574455",
@@ -1163,26 +1211,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:56.859607",
-    "captura_mais_recente": "2026-10-15T00:23:36.574455",
-    "tempo_total_segundos": 700899,
-    "tempo_total_dias": 8.112257,
-    "tempo_total_texto": "8 dias, 2 horas, 41 minutos e 39 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:03.739941",
+    "tempo_total_segundos": 742806,
+    "tempo_total_dias": 8.597292,
+    "tempo_total_texto": "8 dias, 14 horas, 20 minutos e 6 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 23,
+      "variacao": 21,
       "direcao": "ganhou",
-      "quantidade": 23,
-      "texto": "Ganhou 23 seguidores",
+      "quantidade": 21,
+      "texto": "Ganhou 21 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:17:28.758260",
-      "captura_fim": "2026-10-15T00:23:36.574455",
-      "seguidores_inicio": 498,
-      "seguidores_fim": 521
+      "captura_inicio": "2026-10-08T09:08:44.423902",
+      "captura_fim": "2026-10-15T12:02:03.739941",
+      "seguidores_inicio": 499,
+      "seguidores_fim": 520
     },
     "30_dias": {
       "variacao": null,
@@ -1201,17 +1249,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 28,
+      "variacao": 27,
       "direcao": "ganhou",
-      "quantidade": 28,
-      "texto": "Ganhou 28 seguidores",
+      "quantidade": 27,
+      "texto": "Ganhou 27 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:56.859607",
-      "captura_mais_recente": "2026-10-15T00:23:36.574455",
-      "tempo_total_dias": 8.112265,
+      "captura_mais_recente": "2026-10-15T12:02:03.739941",
+      "tempo_total_dias": 8.597302,
       "seguidores_inicio": 493,
-      "seguidores_fim": 521
+      "seguidores_fim": 520
     }
   }
 }
