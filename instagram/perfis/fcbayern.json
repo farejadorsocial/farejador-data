@@ -8,7 +8,7 @@
       "id": "17841400005735914",
       "username": "fcbayern",
       "nome": "FC Bayern",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/463281725_8713193798739895_6134653029583022650_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G_u2GX4xmboQ7kNvwENE1fp&_nc_oc=AdrcWl_IA6xYSfTezeyilzZomvQ3JVtylvJgpSTBSe51k4cIU0yUFYChAjbE7DbcQX2WMqQVcJuSb_ykSFpMTXVc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPCeLQN7XV4ZVGsYZ-UjItoA6lSbvQfLxM5Gl66tX9B-w&oe=6AD6038F"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/463281725_8713193798739895_6134653029583022650_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G_u2GX4xmboQ7kNvwH6nmn3&_nc_oc=Adoa6YXQaNgfGtyg2MhvcwSPyHClp1GjM47SQVRLYMIHPwE4caH5_NAx4fOhdydih46Cb6ffWFILRs6qnUkmDYJX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQN1ErBYYYFO2qKh-OBmwKML4v-xm-S2yy2KsMYC46PpYA&oe=6AD6AC4F"
     },
     "biografia": [
       {
@@ -88,6 +88,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 45705592,
+        "valor_atual": 45707405,
+        "variacao": 1813,
+        "direcao": "aumento",
+        "descricao": "+1813 seguidores",
+        "timestamp": "2026-10-15T12:03:13.221915",
+        "timestamp_anterior": "2026-10-15T00:24:46.215943",
+        "tempo_desde_anterior_segundos": 41907
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -328,6 +341,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:03:13.221915",
+      "timestamp_anterior": "2026-10-15T00:24:46.215943",
+      "timestamp_atual": "2026-10-15T12:03:13.221915",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 378496191,
+        "id": "17841400005735914",
+        "username": "fcbayern",
+        "nome": "FC Bayern",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/463281725_8713193798739895_6134653029583022650_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G_u2GX4xmboQ7kNvwH6nmn3&_nc_oc=Adoa6YXQaNgfGtyg2MhvcwSPyHClp1GjM47SQVRLYMIHPwE4caH5_NAx4fOhdydih46Cb6ffWFILRs6qnUkmDYJX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQN1ErBYYYFO2qKh-OBmwKML4v-xm-S2yy2KsMYC46PpYA&oe=6AD6AC4F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 45705592,
+      "valor_atual": 45707405,
+      "hash_anterior": "37c498aa6b54b6feb1b07d56e85d216abb876838dbdac95559fd8e8bfae18c69",
+      "hash_atual": "7f1ce11c8a6940e8a05b1d384d9ee1f144afab2dfaac4794c7b1aeb53b6e680b",
+      "variacao": 1813,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41907.005972,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41907.005972,
+        "texto": "11 horas e 38 minutos e 27 segundos"
+      },
+      "titulo": "Ganhou 1.813 seguidores",
+      "descricao": "Os seguidores passaram de 45.705.592 para 45.707.405",
+      "variacao_texto": "+1.813 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:24:46.215943",
@@ -787,26 +835,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:33.942177",
-    "captura_mais_recente": "2026-10-15T00:24:46.215943",
-    "tempo_total_segundos": 700872,
-    "tempo_total_dias": 8.111944,
-    "tempo_total_texto": "8 dias, 2 horas, 41 minutos e 12 segundos",
+    "captura_mais_recente": "2026-10-15T12:03:13.221915",
+    "tempo_total_segundos": 742779,
+    "tempo_total_dias": 8.596979,
+    "tempo_total_texto": "8 dias, 14 horas, 19 minutos e 39 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 37452,
+      "variacao": 36013,
       "direcao": "ganhou",
-      "quantidade": 37452,
-      "texto": "Ganhou 37452 seguidores",
+      "quantidade": 36013,
+      "texto": "Ganhou 36013 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:26:01.309988",
-      "captura_fim": "2026-10-15T00:24:46.215943",
-      "seguidores_inicio": 45668140,
-      "seguidores_fim": 45705592
+      "captura_inicio": "2026-10-08T09:13:44.203208",
+      "captura_fim": "2026-10-15T12:03:13.221915",
+      "seguidores_inicio": 45671392,
+      "seguidores_fim": 45707405
     },
     "30_dias": {
       "variacao": null,
@@ -825,17 +873,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 44028,
+      "variacao": 45841,
       "direcao": "ganhou",
-      "quantidade": 44028,
-      "texto": "Ganhou 44028 seguidores",
+      "quantidade": 45841,
+      "texto": "Ganhou 45841 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:33.942177",
-      "captura_mais_recente": "2026-10-15T00:24:46.215943",
-      "tempo_total_dias": 8.111948,
+      "captura_mais_recente": "2026-10-15T12:03:13.221915",
+      "tempo_total_dias": 8.596982,
       "seguidores_inicio": 45661564,
-      "seguidores_fim": 45705592
+      "seguidores_fim": 45707405
     }
   }
 }
