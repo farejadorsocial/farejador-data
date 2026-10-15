@@ -8,7 +8,7 @@
       "id": "17841400609120167",
       "username": "felipeneto",
       "nome": "Felipe Neto 🦉",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/761627330_18624230500020305_3757060703803809978_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDYwLkMzIn0%3D&_nc_ohc=1giNdDYbA5wQ7kNvwGx2wiM&_nc_oc=AdqEmjdZ-E9LdPH4gYN21E0UdBaAyyrx2lQkTdKIqgOBXdToxoDr-ED2sQ1_P4-33NREHiqARn2z55MkG0TBpK-e&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2Qz5wL31K0J9JfcQ26_WNQ&_nc_ss=70689&oh=00_AQPw4fPte6PIg2epJznwSE2E4XJ9G418i4yqOElBvy8sYA&oe=6AD6C5EC"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/761627330_18624230500020305_3757060703803809978_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDYwLkMzIn0%3D&_nc_ohc=1giNdDYbA5wQ7kNvwGx2wiM&_nc_oc=AdqEmjdZ-E9LdPH4gYN21E0UdBaAyyrx2lQkTdKIqgOBXdToxoDr-ED2sQ1_P4-33NREHiqARn2z55MkG0TBpK-e&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=INCcI0n9wcCrDzkSBnxEYA&_nc_ss=70689&oh=00_AQP2mp9xv9X8ZLTy6z-1o8u1NUOGFXyQu-2UxJ6JM3ChzQ&oe=6AD6C5EC"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 16910968,
+        "valor_atual": 16911759,
+        "variacao": 791,
+        "direcao": "aumento",
+        "descricao": "+791 seguidores",
+        "timestamp": "2026-10-15T13:49:33.105931",
+        "timestamp_anterior": "2026-10-15T12:02:45.316403",
+        "tempo_desde_anterior_segundos": 6407
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -702,6 +715,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T13:49:33.105931",
+      "timestamp_anterior": "2026-10-15T12:02:45.316403",
+      "timestamp_atual": "2026-10-15T13:49:33.105931",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 10708304,
+        "id": "17841400609120167",
+        "username": "felipeneto",
+        "nome": "Felipe Neto 🦉",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/761627330_18624230500020305_3757060703803809978_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDYwLkMzIn0%3D&_nc_ohc=1giNdDYbA5wQ7kNvwGx2wiM&_nc_oc=AdqEmjdZ-E9LdPH4gYN21E0UdBaAyyrx2lQkTdKIqgOBXdToxoDr-ED2sQ1_P4-33NREHiqARn2z55MkG0TBpK-e&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=INCcI0n9wcCrDzkSBnxEYA&_nc_ss=70689&oh=00_AQP2mp9xv9X8ZLTy6z-1o8u1NUOGFXyQu-2UxJ6JM3ChzQ&oe=6AD6C5EC"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 16910968,
+      "valor_atual": 16911759,
+      "hash_anterior": "db7ca93dfb6fe2893fedbb63e29507fcbe5c8c6f3f71753d7a993a73eff4962d",
+      "hash_atual": "0c86f5ffa55d2fbd042cd29e4fcaaac5c282158e3eef0074fedf110799db0a18",
+      "variacao": 791,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 6407.789528,
+        "texto": "1 hora e 46 minutos e 47 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 6407.789528,
+        "texto": "1 hora e 46 minutos e 47 segundos"
+      },
+      "titulo": "Ganhou 791 seguidores",
+      "descricao": "Os seguidores passaram de 16.910.968 para 16.911.759",
+      "variacao_texto": "+791 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:02:45.316403",
@@ -2175,26 +2223,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:49.734028",
-    "captura_mais_recente": "2026-10-15T12:02:45.316403",
-    "tempo_total_segundos": 742795,
-    "tempo_total_dias": 8.597164,
-    "tempo_total_texto": "8 dias, 14 horas, 19 minutos e 55 segundos",
+    "captura_mais_recente": "2026-10-15T13:49:33.105931",
+    "tempo_total_segundos": 749203,
+    "tempo_total_dias": 8.671331,
+    "tempo_total_texto": "8 dias, 16 horas, 6 minutos e 43 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 12708,
+      "variacao": 13499,
       "direcao": "ganhou",
-      "quantidade": 12708,
-      "texto": "Ganhou 12708 seguidores",
+      "quantidade": 13499,
+      "texto": "Ganhou 13499 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-08T09:12:32.362471",
-      "captura_fim": "2026-10-15T12:02:45.316403",
+      "captura_fim": "2026-10-15T13:49:33.105931",
       "seguidores_inicio": 16898260,
-      "seguidores_fim": 16910968
+      "seguidores_fim": 16911759
     },
     "30_dias": {
       "variacao": null,
@@ -2213,17 +2261,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 16069,
+      "variacao": 16860,
       "direcao": "ganhou",
-      "quantidade": 16069,
-      "texto": "Ganhou 16069 seguidores",
+      "quantidade": 16860,
+      "texto": "Ganhou 16860 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:49.734028",
-      "captura_mais_recente": "2026-10-15T12:02:45.316403",
-      "tempo_total_dias": 8.597171,
+      "captura_mais_recente": "2026-10-15T13:49:33.105931",
+      "tempo_total_dias": 8.671335,
       "seguidores_inicio": 16894899,
-      "seguidores_fim": 16910968
+      "seguidores_fim": 16911759
     }
   }
 }
