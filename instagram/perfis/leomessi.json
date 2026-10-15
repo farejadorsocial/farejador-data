@@ -8,7 +8,7 @@
       "id": "17841401016706680",
       "username": "leomessi",
       "nome": "Leo Messi",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/424905549_7243065989106669_45026390061580919_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Hso09uduxXcQ7kNvwHrWbCB&_nc_oc=AdoXO907qPmQ8-SNUkOsWpum0t11dHi-jLWA7cUUN7bSMMyUYBPpNxwGvuOmXZmT0rsFGmWgs9S97mI3Cym1au8i&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMm2FpQiXyceJagmVIrvj6FUuxtCEpwqMjzlzTuHsXkjw&oe=6AD63171"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/424905549_7243065989106669_45026390061580919_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Hso09uduxXcQ7kNvwFhvKIt&_nc_oc=AdonO4gQej-hdAPBCYGfE5u1sS2Zgw1v6z8TenNCoVi-wa0XmH2BOrcMMfDZyTdkTLl9oM98tLozXXLKWymK7RvR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPjedi-c9UHYz7wpVbnQ8Qq-Li7_t0C_gxvvXKOSnUcog&oe=6AD6A1F1"
     },
     "biografia": [
       {
@@ -117,6 +117,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 517785674,
+        "valor_atual": 517797182,
+        "variacao": 11508,
+        "direcao": "aumento",
+        "descricao": "+11508 seguidores",
+        "timestamp": "2026-10-15T12:01:36.808152",
+        "timestamp_anterior": "2026-10-15T00:25:56.996190",
+        "tempo_desde_anterior_segundos": 41739
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -994,6 +1007,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:01:36.808152",
+      "timestamp_anterior": "2026-10-15T00:25:56.996190",
+      "timestamp_atual": "2026-10-15T12:01:36.808152",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 427553890,
+        "id": "17841401016706680",
+        "username": "leomessi",
+        "nome": "Leo Messi",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/424905549_7243065989106669_45026390061580919_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Hso09uduxXcQ7kNvwFhvKIt&_nc_oc=AdonO4gQej-hdAPBCYGfE5u1sS2Zgw1v6z8TenNCoVi-wa0XmH2BOrcMMfDZyTdkTLl9oM98tLozXXLKWymK7RvR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPjedi-c9UHYz7wpVbnQ8Qq-Li7_t0C_gxvvXKOSnUcog&oe=6AD6A1F1"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 517785674,
+      "valor_atual": 517797182,
+      "hash_anterior": "3899bf845226ffdef03caa95f5be923aa6c854d72d15092576556d5c2b17d30e",
+      "hash_atual": "427d7adbd20e9c291f9a87c6359fc2a8c83099027f09b75931a1fb1b6ae5de8f",
+      "variacao": 11508,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41739.811962,
+        "texto": "11 horas e 35 minutos e 39 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41739.811962,
+        "texto": "11 horas e 35 minutos e 39 segundos"
+      },
+      "titulo": "Ganhou 11.508 seguidores",
+      "descricao": "Os seguidores passaram de 517.785.674 para 517.797.182",
+      "variacao_texto": "+11.508 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:25:56.996190",
@@ -3236,26 +3284,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:07:31.255869",
-    "captura_mais_recente": "2026-10-15T00:25:56.996190",
-    "tempo_total_segundos": 901105,
-    "tempo_total_dias": 10.429456,
-    "tempo_total_texto": "10 dias, 10 horas, 18 minutos e 25 segundos",
+    "captura_mais_recente": "2026-10-15T12:01:36.808152",
+    "tempo_total_segundos": 942845,
+    "tempo_total_dias": 10.912558,
+    "tempo_total_texto": "10 dias, 21 horas, 54 minutos e 5 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 421879,
+      "variacao": 241578,
       "direcao": "ganhou",
-      "quantidade": 421879,
-      "texto": "Ganhou 421879 seguidores",
+      "quantidade": 241578,
+      "texto": "Ganhou 241578 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T19:26:55.712563",
-      "captura_fim": "2026-10-15T00:25:56.996190",
-      "seguidores_inicio": 517363795,
-      "seguidores_fim": 517785674
+      "captura_inicio": "2026-10-08T09:11:30.054312",
+      "captura_fim": "2026-10-15T12:01:36.808152",
+      "seguidores_inicio": 517555604,
+      "seguidores_fim": 517797182
     },
     "30_dias": {
       "variacao": null,
@@ -3274,17 +3322,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 927189,
+      "variacao": 938697,
       "direcao": "ganhou",
-      "quantidade": 927189,
-      "texto": "Ganhou 927189 seguidores",
+      "quantidade": 938697,
+      "texto": "Ganhou 938697 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:07:31.255869",
-      "captura_mais_recente": "2026-10-15T00:25:56.996190",
-      "tempo_total_dias": 10.429465,
+      "captura_mais_recente": "2026-10-15T12:01:36.808152",
+      "tempo_total_dias": 10.912564,
       "seguidores_inicio": 516858485,
-      "seguidores_fim": 517785674
+      "seguidores_fim": 517797182
     }
   }
 }
