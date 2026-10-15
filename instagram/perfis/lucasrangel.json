@@ -8,7 +8,7 @@
       "id": "17841401458900133",
       "username": "lucasrangel",
       "nome": "Lucas Rangel",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFAcGUA&_nc_oc=AdrQfEAn8K_6QKNrm9_Jzdl86_2Hl0F_zKdRfhBM4zsOY3xr3ShfH2CEOVzfbbKPWH0abenK6kAXoUXy0kHupRd5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mKdy0Bep9DRPNZTjcJM3QA&_nc_ss=70689&oh=00_AQPGd90pPqbLzaELfuQV7BC90OXMoTSZ3MOV2Ye2JYAtxg&oe=6AD60B50"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 2372,
+        "valor_atual": 2369,
+        "variacao": -3,
+        "direcao": "reducao",
+        "descricao": "-3 seguidores",
+        "timestamp": "2026-10-15T12:02:17.680118",
+        "timestamp_anterior": "2026-10-14T12:07:57.461333",
+        "tempo_desde_anterior_segundos": 86060
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 2373,
         "valor_atual": 2372,
         "variacao": -1,
@@ -169,6 +182,19 @@
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 625,
+        "valor_atual": 624,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-15T12:02:17.680118",
+        "timestamp_anterior": "2026-10-13T15:57:58.878446",
+        "tempo_desde_anterior_segundos": 158658
+      },
       {
         "plataforma": "instagram",
         "campo": "seguindo",
@@ -295,6 +321,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:17.680118",
+      "timestamp_anterior": "2026-10-15T00:23:51.170414",
+      "timestamp_atual": "2026-10-15T12:02:17.680118",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 2372,
+      "valor_atual": 2369,
+      "hash_anterior": "73b660917d7f86e1771d69e29f0d1bc185529110871ba456725bb2178bf8ed8b",
+      "hash_atual": "faacd03d0a573ce3ea02e1d4dc4876ee12859ffb35db9932946667ed5da46670",
+      "variacao": -3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41906.509704,
+        "texto": "11 horas e 38 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 41906.509704,
+        "texto": "11 horas e 38 minutos e 26 segundos"
+      },
+      "titulo": "Perdeu 3 seguidores",
+      "descricao": "Os seguidores caíram de 2.372 para 2.369",
+      "variacao_texto": "-3 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-15T12:02:17.680118",
+      "timestamp_anterior": "2026-10-15T00:23:51.170414",
+      "timestamp_atual": "2026-10-15T12:02:17.680118",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 625,
+      "valor_atual": 624,
+      "hash_anterior": "73b660917d7f86e1771d69e29f0d1bc185529110871ba456725bb2178bf8ed8b",
+      "hash_atual": "faacd03d0a573ce3ea02e1d4dc4876ee12859ffb35db9932946667ed5da46670",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 41906.509704,
+        "texto": "11 horas e 38 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 625 e passou a seguir 624",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T00:23:51.170414",
@@ -683,10 +779,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:09.861950",
-    "captura_mais_recente": "2026-10-15T00:23:51.170414",
-    "tempo_total_segundos": 700901,
-    "tempo_total_dias": 8.11228,
-    "tempo_total_texto": "8 dias, 2 horas, 41 minutos e 41 segundos",
+    "captura_mais_recente": "2026-10-15T12:02:17.680118",
+    "tempo_total_segundos": 742807,
+    "tempo_total_dias": 8.597303,
+    "tempo_total_texto": "8 dias, 14 horas, 20 minutos e 7 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
@@ -699,10 +795,10 @@
       "texto": "Perdeu 6 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-06T21:42:09.861950",
-      "captura_fim": "2026-10-14T12:07:57.461333",
-      "seguidores_inicio": 2378,
-      "seguidores_fim": 2372
+      "captura_inicio": "2026-10-08T09:09:03.293123",
+      "captura_fim": "2026-10-15T12:02:17.680118",
+      "seguidores_inicio": 2375,
+      "seguidores_fim": 2369
     },
     "30_dias": {
       "variacao": null,
@@ -721,17 +817,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -6,
+      "variacao": -9,
       "direcao": "perdeu",
-      "quantidade": 6,
-      "texto": "Perdeu 6 seguidores",
+      "quantidade": 9,
+      "texto": "Perdeu 9 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:09.861950",
-      "captura_mais_recente": "2026-10-14T12:07:57.461333",
-      "tempo_total_dias": 7.601245,
+      "captura_mais_recente": "2026-10-15T12:02:17.680118",
+      "tempo_total_dias": 8.597313,
       "seguidores_inicio": 2378,
-      "seguidores_fim": 2372
+      "seguidores_fim": 2369
     }
   }
 }
