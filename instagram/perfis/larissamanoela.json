@@ -8,7 +8,7 @@
       "id": "17841401742366022",
       "username": "larissamanoela",
       "nome": "Larissa Manoela",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=m5xH3z9hvRsQ7kNvwE10OAq&_nc_oc=AdplmhlVrya6dPpZRU5XHUJJRyOlMKNcEcPgat_ud3AZIH271IUkKUg0ytEfrYJhr98axfBmW4P7xR7Sx_YE71Ex&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bJ_qqeOlz0FCcSUZDDQSOw&_nc_ss=70689&oh=00_AQNvrY-CVSXIKR__hEoI9H9bjdMZTnd46U-C373F0Isu2A&oe=6AD6A369"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wXDvQ6GCYA4-dIU8RMHnDw&_nc_ss=70689&oh=00_AQMrmoV068KLZuTfu757dgflS5C4X5BSJTnDhjpVeGtBUA&oe=6AD82D29"
     },
     "biografia": [
       {
@@ -21,6 +21,32 @@
       }
     ],
     "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor_anterior": "fazenda 2026",
+        "valor_atual": "atriz",
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Categoria alterada de \"fazenda 2026\" para \"atriz\"",
+        "timestamp": "2026-10-16T14:01:21.360952",
+        "timestamp_anterior": "2026-10-16T13:58:44.990674",
+        "tempo_desde_anterior_segundos": 156
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor_anterior": "atriz",
+        "valor_atual": "fazenda 2026",
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Categoria alterada de \"atriz\" para \"fazenda 2026\"",
+        "timestamp": "2026-10-16T13:58:44.990674",
+        "timestamp_anterior": "2026-10-15T00:23:49.022740",
+        "tempo_desde_anterior_segundos": 135295
+      },
       {
         "plataforma": "instagram",
         "campo": "categoria",
@@ -455,6 +481,58 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 51719055,
+        "valor_atual": 51719044,
+        "variacao": -11,
+        "direcao": "reducao",
+        "descricao": "-11 seguidores",
+        "timestamp": "2026-10-16T14:01:21.360952",
+        "timestamp_anterior": "2026-10-16T13:58:44.990674",
+        "tempo_desde_anterior_segundos": 156
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 51719057,
+        "valor_atual": 51719055,
+        "variacao": -2,
+        "direcao": "reducao",
+        "descricao": "-2 seguidores",
+        "timestamp": "2026-10-16T13:58:44.990674",
+        "timestamp_anterior": "2026-10-16T13:57:55.654600",
+        "tempo_desde_anterior_segundos": 49
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 51719069,
+        "valor_atual": 51719057,
+        "variacao": -12,
+        "direcao": "reducao",
+        "descricao": "-12 seguidores",
+        "timestamp": "2026-10-16T13:57:55.654600",
+        "timestamp_anterior": "2026-10-16T13:54:30.911924",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 51725239,
+        "valor_atual": 51719069,
+        "variacao": -6170,
+        "direcao": "reducao",
+        "descricao": "-6170 seguidores",
+        "timestamp": "2026-10-16T13:54:30.911924",
+        "timestamp_anterior": "2026-10-15T12:02:20.480540",
+        "tempo_desde_anterior_segundos": 93130
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1197,6 +1275,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 2978,
+        "valor_atual": 2979,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-10-16T13:54:30.911924",
+        "timestamp_anterior": "2026-10-15T12:02:20.480540",
+        "tempo_desde_anterior_segundos": 93130
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 2975,
         "valor_atual": 2978,
         "variacao": 3,
@@ -1488,6 +1579,249 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T14:01:21.360952",
+      "timestamp_anterior": "2026-10-16T13:58:44.990674",
+      "timestamp_atual": "2026-10-16T14:01:21.360952",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wXDvQ6GCYA4-dIU8RMHnDw&_nc_ss=70689&oh=00_AQMrmoV068KLZuTfu757dgflS5C4X5BSJTnDhjpVeGtBUA&oe=6AD82D29"
+      },
+      "tipo": "categoria",
+      "campo": "categoria",
+      "nome_campo": "Categoria",
+      "valor_anterior": "fazenda 2026",
+      "valor_atual": "atriz",
+      "hash_anterior": "9eb49bbf4d43864c1cfc6b47f2f60dd583f3664eab4b1d0c65d6295ea071de4b",
+      "hash_atual": "f4057e9c25c3f4e240deea8348656c7b2effd093f0b7424c647ce982489a120a",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 156.370278,
+        "texto": "2 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 156.370278,
+        "texto": "2 minutos e 36 segundos"
+      },
+      "titulo": "Alterou a categoria do perfil",
+      "descricao": "A categoria mudou de \"fazenda 2026\" para \"atriz\""
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T14:01:21.360952",
+      "timestamp_anterior": "2026-10-16T13:58:44.990674",
+      "timestamp_atual": "2026-10-16T14:01:21.360952",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wXDvQ6GCYA4-dIU8RMHnDw&_nc_ss=70689&oh=00_AQMrmoV068KLZuTfu757dgflS5C4X5BSJTnDhjpVeGtBUA&oe=6AD82D29"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 51719055,
+      "valor_atual": 51719044,
+      "hash_anterior": "9eb49bbf4d43864c1cfc6b47f2f60dd583f3664eab4b1d0c65d6295ea071de4b",
+      "hash_atual": "f4057e9c25c3f4e240deea8348656c7b2effd093f0b7424c647ce982489a120a",
+      "variacao": -11,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 156.370278,
+        "texto": "2 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 11 seguidores",
+      "descricao": "Os seguidores caíram de 51.719.055 para 51.719.044",
+      "variacao_texto": "-11 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:44.990674",
+      "timestamp_anterior": "2026-10-16T13:57:55.654600",
+      "timestamp_atual": "2026-10-16T13:58:44.990674",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DMTIhzo8aSh6gzSS5F3G-A&_nc_ss=70689&oh=00_AQN2UOjwUE84MJmQ-1rMrLgfa1zi03vvzOOyv7n6hiSYqg&oe=6AD82D29"
+      },
+      "tipo": "categoria",
+      "campo": "categoria",
+      "nome_campo": "Categoria",
+      "valor_anterior": "atriz",
+      "valor_atual": "fazenda 2026",
+      "hash_anterior": "05844292db57aa4332cf0a8c2c71753f10956eca29988ec44eb93b67473877a8",
+      "hash_atual": "9eb49bbf4d43864c1cfc6b47f2f60dd583f3664eab4b1d0c65d6295ea071de4b",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 49.336074,
+        "texto": "49 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 49.336074,
+        "texto": "49 segundos"
+      },
+      "titulo": "Alterou a categoria do perfil",
+      "descricao": "A categoria mudou de \"atriz\" para \"fazenda 2026\""
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:44.990674",
+      "timestamp_anterior": "2026-10-16T13:57:55.654600",
+      "timestamp_atual": "2026-10-16T13:58:44.990674",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DMTIhzo8aSh6gzSS5F3G-A&_nc_ss=70689&oh=00_AQN2UOjwUE84MJmQ-1rMrLgfa1zi03vvzOOyv7n6hiSYqg&oe=6AD82D29"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 51719057,
+      "valor_atual": 51719055,
+      "hash_anterior": "05844292db57aa4332cf0a8c2c71753f10956eca29988ec44eb93b67473877a8",
+      "hash_atual": "9eb49bbf4d43864c1cfc6b47f2f60dd583f3664eab4b1d0c65d6295ea071de4b",
+      "variacao": -2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49.336074,
+        "texto": "49 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 2 seguidores",
+      "descricao": "Os seguidores caíram de 51.719.057 para 51.719.055",
+      "variacao_texto": "-2 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:57:55.654600",
+      "timestamp_anterior": "2026-10-16T13:54:30.911924",
+      "timestamp_atual": "2026-10-16T13:57:55.654600",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X_hcmGLVjVy2pMANrhzTiw&_nc_ss=70689&oh=00_AQPNiU9YlRHjMKoVNlI8RO1h8YtkQHvfCUml2hcFNX6r3w&oe=6AD82D29"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 51719069,
+      "valor_atual": 51719057,
+      "hash_anterior": "f4921d88cb5460da8e7aa5788a1e393830c7a4f059af0f9136921481a65a378b",
+      "hash_atual": "05844292db57aa4332cf0a8c2c71753f10956eca29988ec44eb93b67473877a8",
+      "variacao": -12,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.742676,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.742676,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 12 seguidores",
+      "descricao": "Os seguidores caíram de 51.719.069 para 51.719.057",
+      "variacao_texto": "-12 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:30.911924",
+      "timestamp_anterior": "2026-10-15T12:02:20.480540",
+      "timestamp_atual": "2026-10-16T13:54:30.911924",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wu7SWv1j_FOAuiu7H39_IQ&_nc_ss=70689&oh=00_AQN4zcS9FY9buKE6knSCYB6V6-IT9gIDZxbvjWIFuPflEg&oe=6AD82D29"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 51725239,
+      "valor_atual": 51719069,
+      "hash_anterior": "5606638eefa0da42e8d9e89c531d5a71580ed09fd7e042c1ad652793a92f7eb1",
+      "hash_atual": "f4921d88cb5460da8e7aa5788a1e393830c7a4f059af0f9136921481a65a378b",
+      "variacao": -6170,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93130.431384,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93130.431384,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "titulo": "Perdeu 6.170 seguidores",
+      "descricao": "Os seguidores caíram de 51.725.239 para 51.719.069",
+      "variacao_texto": "-6.170 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:30.911924",
+      "timestamp_anterior": "2026-10-15T12:02:20.480540",
+      "timestamp_atual": "2026-10-16T13:54:30.911924",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 1665466078,
+        "id": "17841401742366022",
+        "username": "larissamanoela",
+        "nome": "Larissa Manoela",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/824802354_18652934908058079_5448245793313958377_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1yk4qHI8ZXUQ7kNvwFwAkKQ&_nc_oc=AdoERhBeVqcOeOma9fB2wMXUmbxgZFHNBtnBFCsAQz_Nk1ZzkzuIsrv3jGrNo1H3B-5bujUO54vg9IF0ToLPY9Cg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wu7SWv1j_FOAuiu7H39_IQ&_nc_ss=70689&oh=00_AQN4zcS9FY9buKE6knSCYB6V6-IT9gIDZxbvjWIFuPflEg&oe=6AD82D29"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 2978,
+      "valor_atual": 2979,
+      "hash_anterior": "5606638eefa0da42e8d9e89c531d5a71580ed09fd7e042c1ad652793a92f7eb1",
+      "hash_atual": "f4921d88cb5460da8e7aa5788a1e393830c7a4f059af0f9136921481a65a378b",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93130.431384,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 2.978 e passou a seguir 2.979",
+      "variacao_texto": "+1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:02:20.480540",
@@ -5034,26 +5368,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:14.598660",
-    "captura_mais_recente": "2026-10-15T12:02:20.480540",
-    "tempo_total_segundos": 832865,
-    "tempo_total_dias": 9.639641,
-    "tempo_total_texto": "9 dias, 15 horas, 21 minutos e 5 segundos",
+    "captura_mais_recente": "2026-10-16T14:01:21.360952",
+    "tempo_total_segundos": 926406,
+    "tempo_total_dias": 10.722292,
+    "tempo_total_texto": "10 dias, 17 horas, 20 minutos e 6 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -38540,
+      "variacao": -36639,
       "direcao": "perdeu",
-      "quantidade": 38540,
-      "texto": "Perdeu 38540 seguidores",
+      "quantidade": 36639,
+      "texto": "Perdeu 36639 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:14:48.544704",
-      "captura_fim": "2026-10-15T12:02:20.480540",
-      "seguidores_inicio": 51763779,
-      "seguidores_fim": 51725239
+      "captura_inicio": "2026-10-09T09:31:07.569222",
+      "captura_fim": "2026-10-16T14:01:21.360952",
+      "seguidores_inicio": 51755683,
+      "seguidores_fim": 51719044
     },
     "30_dias": {
       "variacao": null,
@@ -5072,17 +5406,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -66901,
+      "variacao": -73096,
       "direcao": "perdeu",
-      "quantidade": 66901,
-      "texto": "Perdeu 66901 seguidores",
+      "quantidade": 73096,
+      "texto": "Perdeu 73096 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:14.598660",
-      "captura_mais_recente": "2026-10-15T12:02:20.480540",
-      "tempo_total_dias": 9.639651,
+      "captura_mais_recente": "2026-10-16T14:01:21.360952",
+      "tempo_total_dias": 10.7223,
       "seguidores_inicio": 51792140,
-      "seguidores_fim": 51725239
+      "seguidores_fim": 51719044
     }
   }
 }
