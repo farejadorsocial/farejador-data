@@ -8,7 +8,7 @@
       "id": "17841401303470278",
       "username": "julianapaes",
       "nome": "Juliana Paes",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/567252543_18538934149043450_2471238321863040457_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FZTnwRhnUooQ7kNvwH45jHc&_nc_oc=AdpnOqKicdQi_pfEbFAR0vySXCoLXTAi0Zp2J2Pe0o8CHjyoepUCISpcpjSFcHDQcznFnJ1ARkpkHS-v2pTqPsUc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UY7amCZAALAvDF4aQPz-DA&_nc_ss=70689&oh=00_AQNpvDgPrT0vNeyWC2FMqUcz0fA8dk99mO5vFF3r1cGq8A&oe=6AD6C1B9"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/567252543_18538934149043450_2471238321863040457_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FZTnwRhnUooQ7kNvwE6i89m&_nc_oc=AdpxYq-0bNIqbZsEacFQkc-vWywR-tulH-ANmrYB8cjZBFB0xaX8CbAJQC2h9v9C0ApooWpqTWppnQ1sc5AMzFVj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lh3uHIlxD69p16wqUw6uqg&_nc_ss=70689&oh=00_AQNSIAkECnnlbN740KdEmZmop7IvrwSm1iiJ4XUiLUR70w&oe=6AD81339"
     },
     "biografia": [
       {
@@ -81,6 +81,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 29618630,
+        "valor_atual": 29618627,
+        "variacao": -3,
+        "direcao": "reducao",
+        "descricao": "-3 seguidores",
+        "timestamp": "2026-10-16T13:58:24.380523",
+        "timestamp_anterior": "2026-10-16T13:54:59.484269",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 29620653,
+        "valor_atual": 29618630,
+        "variacao": -2023,
+        "direcao": "reducao",
+        "descricao": "-2023 seguidores",
+        "timestamp": "2026-10-16T13:54:59.484269",
+        "timestamp_anterior": "2026-10-15T12:02:48.321818",
+        "tempo_desde_anterior_segundos": 93131
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -550,6 +576,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 4397,
+        "valor_atual": 4401,
+        "variacao": 4,
+        "direcao": "aumento",
+        "descricao": "Seguiu +4",
+        "timestamp": "2026-10-16T13:54:59.484269",
+        "timestamp_anterior": "2026-10-15T12:02:48.321818",
+        "tempo_desde_anterior_segundos": 93131
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 4398,
         "valor_atual": 4397,
         "variacao": -1,
@@ -737,6 +776,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:24.380523",
+      "timestamp_anterior": "2026-10-16T13:54:59.484269",
+      "timestamp_atual": "2026-10-16T13:58:24.380523",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 17835449,
+        "id": "17841401303470278",
+        "username": "julianapaes",
+        "nome": "Juliana Paes",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/567252543_18538934149043450_2471238321863040457_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FZTnwRhnUooQ7kNvwE6i89m&_nc_oc=AdpxYq-0bNIqbZsEacFQkc-vWywR-tulH-ANmrYB8cjZBFB0xaX8CbAJQC2h9v9C0ApooWpqTWppnQ1sc5AMzFVj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lh3uHIlxD69p16wqUw6uqg&_nc_ss=70689&oh=00_AQNSIAkECnnlbN740KdEmZmop7IvrwSm1iiJ4XUiLUR70w&oe=6AD81339"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 29618630,
+      "valor_atual": 29618627,
+      "hash_anterior": "fa663ca89743880e18df7812c51739f4a6b4d47e7281a2f06d1985d60c8874c3",
+      "hash_atual": "79458bc091690b10c877802ac14ef77899f5185bdc89cb0eaeaf1e369573056b",
+      "variacao": -3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.896254,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.896254,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 3 seguidores",
+      "descricao": "Os seguidores caíram de 29.618.630 para 29.618.627",
+      "variacao_texto": "-3 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:59.484269",
+      "timestamp_anterior": "2026-10-15T12:02:48.321818",
+      "timestamp_atual": "2026-10-16T13:54:59.484269",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 17835449,
+        "id": "17841401303470278",
+        "username": "julianapaes",
+        "nome": "Juliana Paes",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/567252543_18538934149043450_2471238321863040457_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FZTnwRhnUooQ7kNvwE6i89m&_nc_oc=AdpxYq-0bNIqbZsEacFQkc-vWywR-tulH-ANmrYB8cjZBFB0xaX8CbAJQC2h9v9C0ApooWpqTWppnQ1sc5AMzFVj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=e12OZ8Wby3vxLveGlsUQ-A&_nc_ss=70689&oh=00_AQNNe4wBuOHF8SjopCIj33q3JyzHrFQQB6Ppwww_WQRyqQ&oe=6AD81339"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 29620653,
+      "valor_atual": 29618630,
+      "hash_anterior": "edc1b508e90fec9ce9c1c43510a5628d44b70c3996ae4b00d0a3bb360dce470f",
+      "hash_atual": "fa663ca89743880e18df7812c51739f4a6b4d47e7281a2f06d1985d60c8874c3",
+      "variacao": -2023,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93131.162451,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93131.162451,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 2.023 seguidores",
+      "descricao": "Os seguidores caíram de 29.620.653 para 29.618.630",
+      "variacao_texto": "-2.023 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:59.484269",
+      "timestamp_anterior": "2026-10-15T12:02:48.321818",
+      "timestamp_atual": "2026-10-16T13:54:59.484269",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 17835449,
+        "id": "17841401303470278",
+        "username": "julianapaes",
+        "nome": "Juliana Paes",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/567252543_18538934149043450_2471238321863040457_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FZTnwRhnUooQ7kNvwE6i89m&_nc_oc=AdpxYq-0bNIqbZsEacFQkc-vWywR-tulH-ANmrYB8cjZBFB0xaX8CbAJQC2h9v9C0ApooWpqTWppnQ1sc5AMzFVj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=e12OZ8Wby3vxLveGlsUQ-A&_nc_ss=70689&oh=00_AQNNe4wBuOHF8SjopCIj33q3JyzHrFQQB6Ppwww_WQRyqQ&oe=6AD81339"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 4397,
+      "valor_atual": 4401,
+      "hash_anterior": "edc1b508e90fec9ce9c1c43510a5628d44b70c3996ae4b00d0a3bb360dce470f",
+      "hash_atual": "fa663ca89743880e18df7812c51739f4a6b4d47e7281a2f06d1985d60c8874c3",
+      "variacao": 4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93131.162451,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 4 pessoas",
+      "descricao": "Estava seguindo 4.397 e passou a seguir 4.401",
+      "variacao_texto": "+4 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:02:48.321818",
@@ -2316,26 +2460,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:51.375329",
-    "captura_mais_recente": "2026-10-15T12:02:48.321818",
-    "tempo_total_segundos": 832856,
-    "tempo_total_dias": 9.639537,
-    "tempo_total_texto": "9 dias, 15 horas, 20 minutos e 56 segundos",
+    "captura_mais_recente": "2026-10-16T13:58:24.380523",
+    "tempo_total_segundos": 926193,
+    "tempo_total_dias": 10.719826,
+    "tempo_total_texto": "10 dias, 17 horas, 16 minutos e 33 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -14096,
+      "variacao": -14155,
       "direcao": "perdeu",
-      "quantidade": 14096,
-      "texto": "Perdeu 14096 seguidores",
+      "quantidade": 14155,
+      "texto": "Perdeu 14155 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:13:12.059781",
-      "captura_fim": "2026-10-15T12:02:48.321818",
-      "seguidores_inicio": 29634749,
-      "seguidores_fim": 29620653
+      "captura_inicio": "2026-10-09T09:31:44.698446",
+      "captura_fim": "2026-10-16T13:58:24.380523",
+      "seguidores_inicio": 29632782,
+      "seguidores_fim": 29618627
     },
     "30_dias": {
       "variacao": null,
@@ -2354,17 +2498,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -20091,
+      "variacao": -22117,
       "direcao": "perdeu",
-      "quantidade": 20091,
-      "texto": "Perdeu 20091 seguidores",
+      "quantidade": 22117,
+      "texto": "Perdeu 22117 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:51.375329",
-      "captura_mais_recente": "2026-10-15T12:02:48.321818",
-      "tempo_total_dias": 9.639548,
+      "captura_mais_recente": "2026-10-16T13:58:24.380523",
+      "tempo_total_dias": 10.719826,
       "seguidores_inicio": 29640744,
-      "seguidores_fim": 29620653
+      "seguidores_fim": 29618627
     }
   }
 }
