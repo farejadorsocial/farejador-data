@@ -10,12 +10,12 @@
       "username": "yhago.cinaudis",
       "nome": "yhago Cinaudis",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=822b699f&x-expires=1792328400&x-signature=ewdQW5Nk44gUNIwhcrK24jeXqsM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=39280697&x-expires=1792328400&x-signature=nhfHThkxnTEIFVM7Ng4kDxNWt3g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d9809393&x-expires=1792335600&x-signature=pEPH0wt7Bq44f5WemSLXJmEAyDQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=67e32ab9&x-expires=1792335600&x-signature=PcUvAblCahWSTDbyPRwhgEHcLSA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "thumb": ""
       },
       "conta_criada_em": "2025-04-03T16:59:03.000-03:00",
-      "total_likes": 496,
+      "total_likes": 497,
       "total_amigos": 0,
       "total_posts": 41
     },
@@ -243,6 +243,19 @@
         "plataforma": "tiktok",
         "campo": "total_likes",
         "nome": "Curtidas totais",
+        "valor_anterior": 496,
+        "valor_atual": 497,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 curtidas",
+        "timestamp": "2026-10-16T12:07:36.346802",
+        "timestamp_anterior": "2026-10-16T01:07:48.794684",
+        "tempo_desde_anterior_segundos": 39587
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "total_likes",
+        "nome": "Curtidas totais",
         "valor": 496,
         "timestamp": "2026-10-16T01:07:48.794684",
         "tipo": "inicial"
@@ -280,6 +293,50 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-10-16T12:07:36.346802",
+      "timestamp_anterior": "2026-10-16T10:11:08.817800",
+      "timestamp_atual": "2026-10-16T12:07:36.346802",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteúdo",
+        "pk": null,
+        "id": "7436000252899804215",
+        "sec_uid": "MS4wLjABAAAALK3ud7ps8fRfH42GW4G9pznc7aSZmltUk3pl4xgQOOMRTIKZ6VPRNDoSnX68HxDa",
+        "username": "yhago.cinaudis",
+        "nome": "yhago Cinaudis",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d9809393&x-expires=1792335600&x-signature=pEPH0wt7Bq44f5WemSLXJmEAyDQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=67e32ab9&x-expires=1792335600&x-signature=PcUvAblCahWSTDbyPRwhgEHcLSA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2025-04-03T16:59:03.000-03:00",
+        "total_likes": 497,
+        "total_amigos": 0,
+        "total_posts": 41
+      },
+      "tipo": "total_likes",
+      "campo": "total_likes",
+      "nome_campo": "Curtidas totais",
+      "valor_anterior": 496,
+      "valor_atual": 497,
+      "hash_anterior": "c3ea52098edf5bddcd486947e69c1aa7e7ae58f997b92a859d9db1b53240869c",
+      "hash_atual": "53d563de9fe414f5544864141d5dcaabe7f1174fa8e282637f8db8d6e5011a87",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 6987.529002,
+        "texto": "1 hora e 56 minutos e 27 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 6987.529002,
+        "texto": "1 hora e 56 minutos e 27 segundos"
+      },
+      "titulo": "Recebeu 1 curtida",
+      "descricao": "O total mudou de 496 para 497",
+      "variacao_texto": "+1 curtida"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-10-16T10:11:08.817800",
@@ -422,10 +479,10 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T01:07:48.794684",
-    "captura_mais_recente": "2026-10-16T10:11:08.817800",
-    "tempo_total_segundos": 32600,
-    "tempo_total_dias": 0.377315,
-    "tempo_total_texto": "9 horas, 3 minutos e 20 segundos",
+    "captura_mais_recente": "2026-10-16T12:07:36.346802",
+    "tempo_total_segundos": 39587,
+    "tempo_total_dias": 0.458183,
+    "tempo_total_texto": "10 horas, 59 minutos e 47 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
