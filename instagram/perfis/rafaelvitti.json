@@ -8,7 +8,7 @@
       "id": "17841401480024792",
       "username": "rafaelvitti",
       "nome": "Dr. Rafael Vitti Monteiro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHBVYTw&_nc_oc=Adrh48kDuAJOIu8Quv-Z8Tk2JqFZvY5rLkp-4nbbmbuowMo_HQGg8sCSqRr_Aql158ezHmjbuXO38Xx-dEVdnk_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LHXzRlU9ZB8c52svbq0UDQ&_nc_ss=70689&oh=00_AQPdUG9Qm3kFzq_oR9PKKsaGEyM-Ph6Cy6xsogSqA88Vug&oe=6AD6D7DD"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=veaQ3BHQJvYQ7kNvwH_2_TS&_nc_oc=Adq3DDnl-zyHjbAs0YOEkHfnAtotanCIk44OqjwZvbtLzX7upCWH1uLdVwQX4DF9UtV0Tzy9Z2SqvRKh37LvlEy1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZsEJ4oRE-OwIxVqJLJ1D_g&_nc_ss=70689&oh=00_AQMzxv0R7sOzkflnI2Rx5vxxjQ9UwEWcHXBP8RlYE77Pxw&oe=6AD8295D"
     },
     "biografia": [
       {
@@ -242,6 +242,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 1249,
+        "valor_atual": 1248,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-16T13:53:33.648617",
+        "timestamp_anterior": "2026-10-15T12:01:22.405590",
+        "tempo_desde_anterior_segundos": 93131
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 1248,
         "valor_atual": 1249,
         "variacao": 1,
@@ -403,6 +416,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:53:33.648617",
+      "timestamp_anterior": "2026-10-15T12:01:22.405590",
+      "timestamp_atual": "2026-10-16T13:53:33.648617",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 306737334,
+        "id": "17841401480024792",
+        "username": "rafaelvitti",
+        "nome": "Dr. Rafael Vitti Monteiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=veaQ3BHQJvYQ7kNvwH_2_TS&_nc_oc=Adq3DDnl-zyHjbAs0YOEkHfnAtotanCIk44OqjwZvbtLzX7upCWH1uLdVwQX4DF9UtV0Tzy9Z2SqvRKh37LvlEy1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZsEJ4oRE-OwIxVqJLJ1D_g&_nc_ss=70689&oh=00_AQMzxv0R7sOzkflnI2Rx5vxxjQ9UwEWcHXBP8RlYE77Pxw&oe=6AD8295D"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1249,
+      "valor_atual": 1248,
+      "hash_anterior": "d63bea1734ea91327cfeb9ca8b2abd9090f833cddbc5cd23221ff517e4992674",
+      "hash_atual": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93131.243027,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93131.243027,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 1.249 e passou a seguir 1.248",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:01:22.405590",
@@ -1071,10 +1119,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:00.080176",
-    "captura_mais_recente": "2026-10-15T12:01:22.405590",
-    "tempo_total_segundos": 832882,
-    "tempo_total_dias": 9.639838,
-    "tempo_total_texto": "9 dias, 15 horas, 21 minutos e 22 segundos",
+    "captura_mais_recente": "2026-10-16T13:53:33.648617",
+    "tempo_total_segundos": 926013,
+    "tempo_total_dias": 10.717743,
+    "tempo_total_texto": "10 dias, 17 horas, 13 minutos e 33 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
