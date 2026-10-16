@@ -8,7 +8,7 @@
       "id": "17841402946646943",
       "username": "erling",
       "nome": "Erling Braut Haaland",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/797683849_18498315073098222_7563349267448783898_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CkZOEKWsGeYQ7kNvwEB-q-v&_nc_oc=AdqFsMc0k2uJ5dIHz_F9zmySV2DLYzRXohNzfCiEtDPnW-iyreI-MrQXWWd72VwzrWfEDpQ7ny70Ro7anfAr7Y9Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_vr4m_jygv_iL9H0IzyeAg&_nc_ss=70689&oh=00_AQMtvagc5jG0j-YznWzn-_pDSLhoogkL-Y7r3edPzjMjOw&oe=6AD6B00D"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/797683849_18498315073098222_7563349267448783898_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=a58S81tHMQ0Q7kNvwFeYrJ1&_nc_oc=Adryf5ggIKqzwhYeV1ziOtQqpYXMREJeuuQ-pWJGpDh7RuvDsXo2hfQIBmEApoOU5atWr9ZGs3z6XgEd7xghcVjJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L4rtn0kdTiiY9qzOHMPRWw&_nc_ss=70689&oh=00_AQOyQMcq344vQO5doYDV4nu15aJBphmDIVs249F1RQZ9bg&oe=6AD839CD"
     },
     "biografia": [
       {
@@ -101,6 +101,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 76780700,
+        "valor_atual": 76780611,
+        "variacao": -89,
+        "direcao": "reducao",
+        "descricao": "-89 seguidores",
+        "timestamp": "2026-10-16T13:58:06.676992",
+        "timestamp_anterior": "2026-10-16T13:54:43.191718",
+        "tempo_desde_anterior_segundos": 203
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 76805857,
+        "valor_atual": 76780700,
+        "variacao": -25157,
+        "direcao": "reducao",
+        "descricao": "-25157 seguidores",
+        "timestamp": "2026-10-16T13:54:43.191718",
+        "timestamp_anterior": "2026-10-15T12:02:33.629958",
+        "tempo_desde_anterior_segundos": 93129
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -668,6 +694,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1126,
+        "valor_atual": 1128,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "+2 posts",
+        "timestamp": "2026-10-16T13:54:43.191718",
+        "timestamp_anterior": "2026-10-13T17:17:01.809903",
+        "tempo_desde_anterior_segundos": 247061
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1125,
         "valor_atual": 1126,
         "variacao": 1,
@@ -757,6 +796,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:06.676992",
+      "timestamp_anterior": "2026-10-16T13:54:43.191718",
+      "timestamp_atual": "2026-10-16T13:58:06.676992",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 3015546221,
+        "id": "17841402946646943",
+        "username": "erling",
+        "nome": "Erling Braut Haaland",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/797683849_18498315073098222_7563349267448783898_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=a58S81tHMQ0Q7kNvwFeYrJ1&_nc_oc=Adryf5ggIKqzwhYeV1ziOtQqpYXMREJeuuQ-pWJGpDh7RuvDsXo2hfQIBmEApoOU5atWr9ZGs3z6XgEd7xghcVjJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L4rtn0kdTiiY9qzOHMPRWw&_nc_ss=70689&oh=00_AQOyQMcq344vQO5doYDV4nu15aJBphmDIVs249F1RQZ9bg&oe=6AD839CD"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 76780700,
+      "valor_atual": 76780611,
+      "hash_anterior": "41cbfad9482da33972cd0a3baa34b2dec33043e78537ec0aa51f08cc73f71d14",
+      "hash_atual": "962350aaeb20cfa45b5d4516977febeb14aba584b466a0318e95e994a07563ec",
+      "variacao": -89,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 203.485274,
+        "texto": "3 minutos e 23 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 203.485274,
+        "texto": "3 minutos e 23 segundos"
+      },
+      "titulo": "Perdeu 89 seguidores",
+      "descricao": "Os seguidores caíram de 76.780.700 para 76.780.611",
+      "variacao_texto": "-89 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:43.191718",
+      "timestamp_anterior": "2026-10-15T12:02:33.629958",
+      "timestamp_atual": "2026-10-16T13:54:43.191718",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 3015546221,
+        "id": "17841402946646943",
+        "username": "erling",
+        "nome": "Erling Braut Haaland",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/797683849_18498315073098222_7563349267448783898_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=a58S81tHMQ0Q7kNvwFeYrJ1&_nc_oc=Adryf5ggIKqzwhYeV1ziOtQqpYXMREJeuuQ-pWJGpDh7RuvDsXo2hfQIBmEApoOU5atWr9ZGs3z6XgEd7xghcVjJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HOToHJGhAK3jb5nJ1xvy2w&_nc_ss=70689&oh=00_AQPZlEV1GOrkpBKey0ZBMKtTFgFXODG1iUbeiyM5sq_4WA&oe=6AD839CD"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 76805857,
+      "valor_atual": 76780700,
+      "hash_anterior": "e7f55ed5922e056906aa10b42a0616a5c11685c553f4755e9a6606729f7a83eb",
+      "hash_atual": "41cbfad9482da33972cd0a3baa34b2dec33043e78537ec0aa51f08cc73f71d14",
+      "variacao": -25157,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93129.56176,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93129.56176,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "titulo": "Perdeu 25.157 seguidores",
+      "descricao": "Os seguidores caíram de 76.805.857 para 76.780.700",
+      "variacao_texto": "-25.157 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:43.191718",
+      "timestamp_anterior": "2026-10-15T12:02:33.629958",
+      "timestamp_atual": "2026-10-16T13:54:43.191718",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 3015546221,
+        "id": "17841402946646943",
+        "username": "erling",
+        "nome": "Erling Braut Haaland",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/797683849_18498315073098222_7563349267448783898_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=a58S81tHMQ0Q7kNvwFeYrJ1&_nc_oc=Adryf5ggIKqzwhYeV1ziOtQqpYXMREJeuuQ-pWJGpDh7RuvDsXo2hfQIBmEApoOU5atWr9ZGs3z6XgEd7xghcVjJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HOToHJGhAK3jb5nJ1xvy2w&_nc_ss=70689&oh=00_AQPZlEV1GOrkpBKey0ZBMKtTFgFXODG1iUbeiyM5sq_4WA&oe=6AD839CD"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1126,
+      "valor_atual": 1128,
+      "hash_anterior": "e7f55ed5922e056906aa10b42a0616a5c11685c553f4755e9a6606729f7a83eb",
+      "hash_atual": "41cbfad9482da33972cd0a3baa34b2dec33043e78537ec0aa51f08cc73f71d14",
+      "variacao": 2,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 93129.56176,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 2 posts",
+      "descricao": "O total mudou de 1.126 para 1.128",
+      "variacao_texto": "+2 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:02:33.629958",
@@ -2370,26 +2514,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:32.250474",
-    "captura_mais_recente": "2026-10-15T12:02:33.629958",
-    "tempo_total_segundos": 832861,
-    "tempo_total_dias": 9.639595,
-    "tempo_total_texto": "9 dias, 15 horas, 21 minutos e 1 segundo",
+    "captura_mais_recente": "2026-10-16T13:58:06.676992",
+    "tempo_total_segundos": 926194,
+    "tempo_total_dias": 10.719838,
+    "tempo_total_texto": "10 dias, 17 horas, 16 minutos e 34 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -155649,
+      "variacao": -158137,
       "direcao": "perdeu",
-      "quantidade": 155649,
-      "texto": "Perdeu 155649 seguidores",
+      "quantidade": 158137,
+      "texto": "Perdeu 158137 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:12:45.687781",
-      "captura_fim": "2026-10-15T12:02:33.629958",
-      "seguidores_inicio": 76961506,
-      "seguidores_fim": 76805857
+      "captura_inicio": "2026-10-09T09:31:31.788761",
+      "captura_fim": "2026-10-16T13:58:06.676992",
+      "seguidores_inicio": 76938748,
+      "seguidores_fim": 76780611
     },
     "30_dias": {
       "variacao": null,
@@ -2408,17 +2552,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -179575,
+      "variacao": -204821,
       "direcao": "perdeu",
-      "quantidade": 179575,
-      "texto": "Perdeu 179575 seguidores",
+      "quantidade": 204821,
+      "texto": "Perdeu 204821 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:32.250474",
-      "captura_mais_recente": "2026-10-15T12:02:33.629958",
-      "tempo_total_dias": 9.639599,
+      "captura_mais_recente": "2026-10-16T13:58:06.676992",
+      "tempo_total_dias": 10.719843,
       "seguidores_inicio": 76985432,
-      "seguidores_fim": 76805857
+      "seguidores_fim": 76780611
     }
   }
 }
