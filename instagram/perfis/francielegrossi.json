@@ -8,7 +8,7 @@
       "id": "17841400802620700",
       "username": "francielegrossi",
       "nome": "FRAN",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811616502_18632100259026755_6011018972340547871_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kJkMEUGRNmEQ7kNvwHVNWLi&_nc_oc=AdoNHGWVPckTYjKmKjRGQxA7QUOpeoBRDQ9nKSvetoBp-YxdRj5f9rNFG63qP9-rZsVRFPHJjIC0Az-bAuhtl4K7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VS8M8jdM7t6lf4r89yJFfA&_nc_ss=70689&oh=00_AQPERRyLVGtoXkcCzY6_tIBdKceX2fNrbvDMJrUmJA0JMA&oe=6AD6AE2F"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811616502_18632100259026755_6011018972340547871_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XNL6CHBhO5YQ7kNvwEHin1X&_nc_oc=AdoaznBvh19RE-rzkR4IyYbLuog4KMZ7PtySq5NbViwd8sD2kjzAMY2zW8njKrlltZLj7gENccWD8WI7xaoKzQC8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lDTA48Vol3LMe6ixo4RHJQ&_nc_ss=70689&oh=00_AQOxNf32Qk1X1S4dzPYdGl7spgSas_iE3I4FqWsf7Mrugw&oe=6AD837EF"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 833727,
+        "valor_atual": 833675,
+        "variacao": -52,
+        "direcao": "reducao",
+        "descricao": "-52 seguidores",
+        "timestamp": "2026-10-16T13:55:26.455702",
+        "timestamp_anterior": "2026-10-15T12:03:15.218999",
+        "tempo_desde_anterior_segundos": 93131
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -609,6 +622,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 5120,
+        "valor_atual": 5121,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-16T13:55:26.455702",
+        "timestamp_anterior": "2026-10-15T12:03:15.218999",
+        "tempo_desde_anterior_segundos": 93131
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 5119,
         "valor_atual": 5120,
         "variacao": 1,
@@ -815,6 +841,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:26.455702",
+      "timestamp_anterior": "2026-10-15T12:03:15.218999",
+      "timestamp_atual": "2026-10-16T13:55:26.455702",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 44826754,
+        "id": "17841400802620700",
+        "username": "francielegrossi",
+        "nome": "FRAN",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811616502_18632100259026755_6011018972340547871_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XNL6CHBhO5YQ7kNvwEHin1X&_nc_oc=AdoaznBvh19RE-rzkR4IyYbLuog4KMZ7PtySq5NbViwd8sD2kjzAMY2zW8njKrlltZLj7gENccWD8WI7xaoKzQC8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lDTA48Vol3LMe6ixo4RHJQ&_nc_ss=70689&oh=00_AQOxNf32Qk1X1S4dzPYdGl7spgSas_iE3I4FqWsf7Mrugw&oe=6AD837EF"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 833727,
+      "valor_atual": 833675,
+      "hash_anterior": "f9517c88c94491cf369241977192db0d8628af56b3b156910b57d8cdd6e8fe5c",
+      "hash_atual": "4e6f5b5ca9b1e3fe3bac634fafac36c88cf1bd35c4d53c9bb7964a85b362beb8",
+      "variacao": -52,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93131.236703,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93131.236703,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 52 seguidores",
+      "descricao": "Os seguidores caíram de 833.727 para 833.675",
+      "variacao_texto": "-52 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:26.455702",
+      "timestamp_anterior": "2026-10-15T12:03:15.218999",
+      "timestamp_atual": "2026-10-16T13:55:26.455702",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 44826754,
+        "id": "17841400802620700",
+        "username": "francielegrossi",
+        "nome": "FRAN",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811616502_18632100259026755_6011018972340547871_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XNL6CHBhO5YQ7kNvwEHin1X&_nc_oc=AdoaznBvh19RE-rzkR4IyYbLuog4KMZ7PtySq5NbViwd8sD2kjzAMY2zW8njKrlltZLj7gENccWD8WI7xaoKzQC8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lDTA48Vol3LMe6ixo4RHJQ&_nc_ss=70689&oh=00_AQOxNf32Qk1X1S4dzPYdGl7spgSas_iE3I4FqWsf7Mrugw&oe=6AD837EF"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 5120,
+      "valor_atual": 5121,
+      "hash_anterior": "f9517c88c94491cf369241977192db0d8628af56b3b156910b57d8cdd6e8fe5c",
+      "hash_atual": "4e6f5b5ca9b1e3fe3bac634fafac36c88cf1bd35c4d53c9bb7964a85b362beb8",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 93131.236703,
+        "texto": "1 dia e 1 hora e 52 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 5.120 para 5.121",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:03:15.218999",
@@ -2604,26 +2700,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:59.846917",
-    "captura_mais_recente": "2026-10-15T12:03:15.218999",
-    "tempo_total_segundos": 929115,
-    "tempo_total_dias": 10.753646,
-    "tempo_total_texto": "10 dias, 18 horas, 5 minutos e 15 segundos",
+    "captura_mais_recente": "2026-10-16T13:55:26.455702",
+    "tempo_total_segundos": 1022246,
+    "tempo_total_dias": 11.831551,
+    "tempo_total_texto": "11 dias, 19 horas, 57 minutos e 26 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -676,
+      "variacao": -607,
       "direcao": "perdeu",
-      "quantidade": 676,
-      "texto": "Perdeu 676 seguidores",
+      "quantidade": 607,
+      "texto": "Perdeu 607 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:10:20.552021",
-      "captura_fim": "2026-10-15T12:03:15.218999",
-      "seguidores_inicio": 834403,
-      "seguidores_fim": 833727
+      "captura_inicio": "2026-10-09T09:28:57.069164",
+      "captura_fim": "2026-10-16T13:55:26.455702",
+      "seguidores_inicio": 834282,
+      "seguidores_fim": 833675
     },
     "30_dias": {
       "variacao": null,
@@ -2642,17 +2738,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -773,
+      "variacao": -825,
       "direcao": "perdeu",
-      "quantidade": 773,
-      "texto": "Perdeu 773 seguidores",
+      "quantidade": 825,
+      "texto": "Perdeu 825 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:59.846917",
-      "captura_mais_recente": "2026-10-15T12:03:15.218999",
-      "tempo_total_dias": 10.75365,
+      "captura_mais_recente": "2026-10-16T13:55:26.455702",
+      "tempo_total_dias": 11.831558,
       "seguidores_inicio": 834500,
-      "seguidores_fim": 833727
+      "seguidores_fim": 833675
     }
   }
 }
