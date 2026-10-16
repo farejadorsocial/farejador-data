@@ -8,7 +8,7 @@
       "id": "17841401702830091",
       "username": "mancity",
       "nome": "Manchester City",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=fbCAL2UcSjMQ7kNvwHEXueW&_nc_oc=Adp8G7Gc_tYgUIkmNPQi_T7cXxfoEiPk2cuwajHUbi1quwP6d3PgroBoO6OCUuFqte41zHhJktJCUATCJxzbdYg8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=apcq_PF01XvuUhBlh2pRog&_nc_ss=70689&oh=00_AQO5q9KL07v_4os28ZSylvKZnJZUSsSY3j4o-NhaS7YwQg&oe=6AD6C528"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=TcLwnO1W2oAQ7kNvwH6oJqC&_nc_oc=AdreKf2NzG0rPi0-oN584_w9SZpRClQJaCJGl56oyHaf8UqbFlaGiusuA7wc00KjVfzbldZWnZ0VLDSMlODOROpi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z8SjEQWS_aD7OJl_F9tz_Q&_nc_ss=70689&oh=00_AQOMIXLHKbsThkebqns-oFD_UHkovEqvElJX0sXBwwqbVQ&oe=6AD816A8"
     },
     "biografia": [
       {
@@ -85,6 +85,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 57066563,
+        "valor_atual": 57066584,
+        "variacao": 21,
+        "direcao": "aumento",
+        "descricao": "+21 seguidores",
+        "timestamp": "2026-10-16T13:58:07.760054",
+        "timestamp_anterior": "2026-10-16T13:54:43.455347",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 57057094,
+        "valor_atual": 57066563,
+        "variacao": 9469,
+        "direcao": "aumento",
+        "descricao": "+9469 seguidores",
+        "timestamp": "2026-10-16T13:54:43.455347",
+        "timestamp_anterior": "2026-10-15T12:02:31.402871",
+        "tempo_desde_anterior_segundos": 93132
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -481,6 +507,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:07.760054",
+      "timestamp_anterior": "2026-10-16T13:54:43.455347",
+      "timestamp_atual": "2026-10-16T13:58:07.760054",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=TcLwnO1W2oAQ7kNvwH6oJqC&_nc_oc=AdreKf2NzG0rPi0-oN584_w9SZpRClQJaCJGl56oyHaf8UqbFlaGiusuA7wc00KjVfzbldZWnZ0VLDSMlODOROpi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z8SjEQWS_aD7OJl_F9tz_Q&_nc_ss=70689&oh=00_AQOMIXLHKbsThkebqns-oFD_UHkovEqvElJX0sXBwwqbVQ&oe=6AD816A8"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 57066563,
+      "valor_atual": 57066584,
+      "hash_anterior": "589499e53492a1d7a07a25c693fbd5d6e68d50558bd615abec28ebe0b88199dd",
+      "hash_atual": "6d9987b04221002b8a520b81f790ea16e783870e5e6d2b617d1c19827f914508",
+      "variacao": 21,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.304707,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.304707,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Ganhou 21 seguidores",
+      "descricao": "Os seguidores passaram de 57.066.563 para 57.066.584",
+      "variacao_texto": "+21 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:43.455347",
+      "timestamp_anterior": "2026-10-15T12:02:31.402871",
+      "timestamp_atual": "2026-10-16T13:54:43.455347",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/582259652_18555606019056762_8242529787388071816_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=TcLwnO1W2oAQ7kNvwH6oJqC&_nc_oc=AdreKf2NzG0rPi0-oN584_w9SZpRClQJaCJGl56oyHaf8UqbFlaGiusuA7wc00KjVfzbldZWnZ0VLDSMlODOROpi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-l_QKDD_3Z3_wL8A_LQAPA&_nc_ss=70689&oh=00_AQPbthUgEw1KUuozbfZOFiCFCXpXgN1MndzpzssrsDCWvA&oe=6AD816A8"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 57057094,
+      "valor_atual": 57066563,
+      "hash_anterior": "c67ea533b6f978f1ba0c8826ff650b46b2b968f71f8ba1072156f3f345bfd2d6",
+      "hash_atual": "589499e53492a1d7a07a25c693fbd5d6e68d50558bd615abec28ebe0b88199dd",
+      "variacao": 9469,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93132.052476,
+        "texto": "1 dia e 1 hora e 52 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93132.052476,
+        "texto": "1 dia e 1 hora e 52 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 9.469 seguidores",
+      "descricao": "Os seguidores passaram de 57.057.094 para 57.066.563",
+      "variacao_texto": "+9.469 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:02:31.402871",
@@ -1360,26 +1456,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:35.254973",
-    "captura_mais_recente": "2026-10-15T12:02:31.402871",
-    "tempo_total_segundos": 742796,
-    "tempo_total_dias": 8.597176,
-    "tempo_total_texto": "8 dias, 14 horas, 19 minutos e 56 segundos",
+    "captura_mais_recente": "2026-10-16T13:58:07.760054",
+    "tempo_total_segundos": 836132,
+    "tempo_total_dias": 9.677454,
+    "tempo_total_texto": "9 dias, 16 horas, 15 minutos e 32 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 21900,
+      "variacao": 36940,
       "direcao": "ganhou",
-      "quantidade": 21900,
-      "texto": "Ganhou 21900 seguidores",
+      "quantidade": 36940,
+      "texto": "Ganhou 36940 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:12:46.426153",
-      "captura_fim": "2026-10-15T12:02:31.402871",
-      "seguidores_inicio": 57035194,
-      "seguidores_fim": 57057094
+      "captura_inicio": "2026-10-09T09:31:16.930212",
+      "captura_fim": "2026-10-16T13:58:07.760054",
+      "seguidores_inicio": 57029644,
+      "seguidores_fim": 57066584
     },
     "30_dias": {
       "variacao": null,
@@ -1398,17 +1494,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 19165,
+      "variacao": 28655,
       "direcao": "ganhou",
-      "quantidade": 19165,
-      "texto": "Ganhou 19165 seguidores",
+      "quantidade": 28655,
+      "texto": "Ganhou 28655 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:35.254973",
-      "captura_mais_recente": "2026-10-15T12:02:31.402871",
-      "tempo_total_dias": 8.597178,
+      "captura_mais_recente": "2026-10-16T13:58:07.760054",
+      "tempo_total_dias": 9.67746,
       "seguidores_inicio": 57037929,
-      "seguidores_fim": 57057094
+      "seguidores_fim": 57066584
     }
   }
 }
