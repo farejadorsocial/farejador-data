@@ -8,7 +8,7 @@
       "id": "17841400961178070",
       "username": "mccabelinho",
       "nome": "",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFtN5SB&_nc_oc=AdotGM2Zw0FkZhAjJjWxa3-Hr1xZdnc7IkTvKnmOCBYqfk4Hm--zaPABbs05aG2rXQk3DyNHTsa0oFJQtFlqbrB6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Coy9HrTwRNVZUnslvNYbzg&_nc_ss=70689&oh=00_AQPq3YwciPuSHRKu2p-pmBAG3dpA9PgkKboucQN3un_RaQ&oe=6AD6AAC7"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bawv63F1So4TMZ3GwYHovA&_nc_ss=70689&oh=00_AQP1177Vqg-3sIIaws-9tPlM-yMn0i9BR5gTKXzlALlZKg&oe=6AD83487"
     },
     "biografia": [
       {
@@ -94,6 +94,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 12232261,
+        "valor_atual": 12232257,
+        "variacao": -4,
+        "direcao": "reducao",
+        "descricao": "-4 seguidores",
+        "timestamp": "2026-10-16T13:58:22.606275",
+        "timestamp_anterior": "2026-10-16T13:55:11.036594",
+        "tempo_desde_anterior_segundos": 191
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 12234525,
+        "valor_atual": 12232261,
+        "variacao": -2264,
+        "direcao": "reducao",
+        "descricao": "-2264 seguidores",
+        "timestamp": "2026-10-16T13:55:11.036594",
+        "timestamp_anterior": "2026-10-15T12:03:01.035370",
+        "tempo_desde_anterior_segundos": 93130
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -576,6 +602,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 197,
+        "valor_atual": 200,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "Seguiu +3",
+        "timestamp": "2026-10-16T13:55:11.036594",
+        "timestamp_anterior": "2026-10-15T12:03:01.035370",
+        "tempo_desde_anterior_segundos": 93130
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 196,
         "valor_atual": 197,
         "variacao": 1,
@@ -737,6 +776,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:22.606275",
+      "timestamp_anterior": "2026-10-16T13:55:11.036594",
+      "timestamp_atual": "2026-10-16T13:58:22.606275",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 516512039,
+        "id": "17841400961178070",
+        "username": "mccabelinho",
+        "nome": "",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bawv63F1So4TMZ3GwYHovA&_nc_ss=70689&oh=00_AQP1177Vqg-3sIIaws-9tPlM-yMn0i9BR5gTKXzlALlZKg&oe=6AD83487"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 12232261,
+      "valor_atual": 12232257,
+      "hash_anterior": "5dbe228c2ba742684764ef579695d5d6bfcbbf507313455cb05129932b89e10b",
+      "hash_atual": "f79744f157e99742a292d4e8d985856772ec6c0d15f7569c205d1f48008789ce",
+      "variacao": -4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 191.569681,
+        "texto": "3 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 191.569681,
+        "texto": "3 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 4 seguidores",
+      "descricao": "Os seguidores caíram de 12.232.261 para 12.232.257",
+      "variacao_texto": "-4 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:11.036594",
+      "timestamp_anterior": "2026-10-15T12:03:01.035370",
+      "timestamp_atual": "2026-10-16T13:55:11.036594",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 516512039,
+        "id": "17841400961178070",
+        "username": "mccabelinho",
+        "nome": "",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LmZMF2gYTbFg-cfVWGD8-w&_nc_ss=70689&oh=00_AQN4TlLu9-APi5Pjeav0ASSgmAPL1TH78XXGgIbkjCnimQ&oe=6AD83487"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 12234525,
+      "valor_atual": 12232261,
+      "hash_anterior": "035788d138852e7812ebb9dd49ad0d58da10d876166c9169339522a6e114670d",
+      "hash_atual": "5dbe228c2ba742684764ef579695d5d6bfcbbf507313455cb05129932b89e10b",
+      "variacao": -2264,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93130.001224,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93130.001224,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "titulo": "Perdeu 2.264 seguidores",
+      "descricao": "Os seguidores caíram de 12.234.525 para 12.232.261",
+      "variacao_texto": "-2.264 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:11.036594",
+      "timestamp_anterior": "2026-10-15T12:03:01.035370",
+      "timestamp_atual": "2026-10-16T13:55:11.036594",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 516512039,
+        "id": "17841400961178070",
+        "username": "mccabelinho",
+        "nome": "",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LmZMF2gYTbFg-cfVWGD8-w&_nc_ss=70689&oh=00_AQN4TlLu9-APi5Pjeav0ASSgmAPL1TH78XXGgIbkjCnimQ&oe=6AD83487"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 197,
+      "valor_atual": 200,
+      "hash_anterior": "035788d138852e7812ebb9dd49ad0d58da10d876166c9169339522a6e114670d",
+      "hash_atual": "5dbe228c2ba742684764ef579695d5d6bfcbbf507313455cb05129932b89e10b",
+      "variacao": 3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93130.001224,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 3 pessoas",
+      "descricao": "Estava seguindo 197 e passou a seguir 200",
+      "variacao_texto": "+3 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:03:01.035370",
@@ -2315,26 +2459,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:27.840564",
-    "captura_mais_recente": "2026-10-15T12:03:01.035370",
-    "tempo_total_segundos": 832833,
-    "tempo_total_dias": 9.639271,
-    "tempo_total_texto": "9 dias, 15 horas, 20 minutos e 33 segundos",
+    "captura_mais_recente": "2026-10-16T13:58:22.606275",
+    "tempo_total_segundos": 926154,
+    "tempo_total_dias": 10.719375,
+    "tempo_total_texto": "10 dias, 17 horas, 15 minutos e 54 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -23727,
+      "variacao": -21888,
       "direcao": "perdeu",
-      "quantidade": 23727,
-      "texto": "Perdeu 23727 seguidores",
+      "quantidade": 21888,
+      "texto": "Perdeu 21888 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:13:07.469785",
-      "captura_fim": "2026-10-15T12:03:01.035370",
-      "seguidores_inicio": 12258252,
-      "seguidores_fim": 12234525
+      "captura_inicio": "2026-10-09T09:31:47.049707",
+      "captura_fim": "2026-10-16T13:58:22.606275",
+      "seguidores_inicio": 12254145,
+      "seguidores_fim": 12232257
     },
     "30_dias": {
       "variacao": null,
@@ -2353,17 +2497,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -29402,
+      "variacao": -31670,
       "direcao": "perdeu",
-      "quantidade": 29402,
-      "texto": "Perdeu 29402 seguidores",
+      "quantidade": 31670,
+      "texto": "Perdeu 31670 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:27.840564",
-      "captura_mais_recente": "2026-10-15T12:03:01.035370",
-      "tempo_total_dias": 9.639273,
+      "captura_mais_recente": "2026-10-16T13:58:22.606275",
+      "tempo_total_dias": 10.719384,
       "seguidores_inicio": 12263927,
-      "seguidores_fim": 12234525
+      "seguidores_fim": 12232257
     }
   }
 }
