@@ -8,7 +8,7 @@
       "id": "17841401765200845",
       "username": "stephaniegomees",
       "nome": "Stephanie Gomes 🐈",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/829672179_18629910166058841_9026180879382722916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pzvuE_wMtdkQ7kNvwEo9uzS&_nc_oc=AdoXmw6ajAHyEBptSGmwhnQtc99pvyCesoLO2QYVUlmn1sw0uj4x11sUyXXA5mRqWuNq5f8boqNpm9C8Rimnr_jA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rp9WysTV6yCusLw30eNCFA&_nc_ss=70689&oh=00_AQONi1XD4LPlu9M5vB6FY7IHYnjZOCsldtUS852_E6S7wg&oe=6AD6CFBB"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/829672179_18629910166058841_9026180879382722916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pzvuE_wMtdkQ7kNvwGY-sEi&_nc_oc=AdrtKJGc0eiH5SAlMivYRtYshqLkWR38iw_ZNIeYdqs_SIUQ9NbhlD7o2rYnkYHC_fHd9O8QKMbVMQJeSOhSQBRZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=28fLYpZfefccYTSZV-k87Q&_nc_ss=70689&oh=00_AQMj929rFVkYjIPAb3Mil_FNkoit3TBTE8EychBUmQ8trA&oe=6AD8213B"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 236669,
+        "valor_atual": 236595,
+        "variacao": -74,
+        "direcao": "reducao",
+        "descricao": "-74 seguidores",
+        "timestamp": "2026-10-16T13:56:21.910021",
+        "timestamp_anterior": "2026-10-15T12:04:11.101567",
+        "tempo_desde_anterior_segundos": 93130
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -394,6 +407,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 1350,
+        "valor_atual": 1349,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-16T13:56:21.910021",
+        "timestamp_anterior": "2026-10-15T12:04:11.101567",
+        "tempo_desde_anterior_segundos": 93130
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 1347,
         "valor_atual": 1350,
         "variacao": 3,
@@ -698,6 +724,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:56:21.910021",
+      "timestamp_anterior": "2026-10-15T12:04:11.101567",
+      "timestamp_atual": "2026-10-16T13:56:21.910021",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 54138840,
+        "id": "17841401765200845",
+        "username": "stephaniegomees",
+        "nome": "Stephanie Gomes 🐈",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/829672179_18629910166058841_9026180879382722916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pzvuE_wMtdkQ7kNvwGY-sEi&_nc_oc=AdrtKJGc0eiH5SAlMivYRtYshqLkWR38iw_ZNIeYdqs_SIUQ9NbhlD7o2rYnkYHC_fHd9O8QKMbVMQJeSOhSQBRZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=28fLYpZfefccYTSZV-k87Q&_nc_ss=70689&oh=00_AQMj929rFVkYjIPAb3Mil_FNkoit3TBTE8EychBUmQ8trA&oe=6AD8213B"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 236669,
+      "valor_atual": 236595,
+      "hash_anterior": "87c2db0da8d7ee63d47ec7d11e0adaa784d24c143a3a161c836a2855ce284492",
+      "hash_atual": "111531da7de40b9ef8c1e301040c06033519ea58f3a3b963f1918ccc4f174534",
+      "variacao": -74,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93130.808454,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93130.808454,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "titulo": "Perdeu 74 seguidores",
+      "descricao": "Os seguidores caíram de 236.669 para 236.595",
+      "variacao_texto": "-74 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:56:21.910021",
+      "timestamp_anterior": "2026-10-15T12:04:11.101567",
+      "timestamp_atual": "2026-10-16T13:56:21.910021",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 54138840,
+        "id": "17841401765200845",
+        "username": "stephaniegomees",
+        "nome": "Stephanie Gomes 🐈",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/829672179_18629910166058841_9026180879382722916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pzvuE_wMtdkQ7kNvwGY-sEi&_nc_oc=AdrtKJGc0eiH5SAlMivYRtYshqLkWR38iw_ZNIeYdqs_SIUQ9NbhlD7o2rYnkYHC_fHd9O8QKMbVMQJeSOhSQBRZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=28fLYpZfefccYTSZV-k87Q&_nc_ss=70689&oh=00_AQMj929rFVkYjIPAb3Mil_FNkoit3TBTE8EychBUmQ8trA&oe=6AD8213B"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1350,
+      "valor_atual": 1349,
+      "hash_anterior": "87c2db0da8d7ee63d47ec7d11e0adaa784d24c143a3a161c836a2855ce284492",
+      "hash_atual": "111531da7de40b9ef8c1e301040c06033519ea58f3a3b963f1918ccc4f174534",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93130.808454,
+        "texto": "1 dia e 1 hora e 52 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 1.350 e passou a seguir 1.349",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:04:11.101567",
@@ -2172,26 +2268,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:14:38.000985",
-    "captura_mais_recente": "2026-10-15T12:04:11.101567",
-    "tempo_total_segundos": 838173,
-    "tempo_total_dias": 9.701076,
-    "tempo_total_texto": "9 dias, 16 horas, 49 minutos e 33 segundos",
+    "captura_mais_recente": "2026-10-16T13:56:21.910021",
+    "tempo_total_segundos": 931303,
+    "tempo_total_dias": 10.77897,
+    "tempo_total_texto": "10 dias, 18 horas, 41 minutos e 43 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -1330,
+      "variacao": -724,
       "direcao": "perdeu",
-      "quantidade": 1330,
-      "texto": "Perdeu 1330 seguidores",
+      "quantidade": 724,
+      "texto": "Perdeu 724 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:11:38.448935",
-      "captura_fim": "2026-10-15T12:04:11.101567",
-      "seguidores_inicio": 237999,
-      "seguidores_fim": 236669
+      "captura_inicio": "2026-10-09T09:30:11.373874",
+      "captura_fim": "2026-10-16T13:56:21.910021",
+      "seguidores_inicio": 237319,
+      "seguidores_fim": 236595
     },
     "30_dias": {
       "variacao": null,
@@ -2210,17 +2306,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -1998,
+      "variacao": -2072,
       "direcao": "perdeu",
-      "quantidade": 1998,
-      "texto": "Perdeu 1998 seguidores",
+      "quantidade": 2072,
+      "texto": "Perdeu 2072 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:14:38.000985",
-      "captura_mais_recente": "2026-10-15T12:04:11.101567",
-      "tempo_total_dias": 9.701078,
+      "captura_mais_recente": "2026-10-16T13:56:21.910021",
+      "tempo_total_dias": 10.77898,
       "seguidores_inicio": 238667,
-      "seguidores_fim": 236669
+      "seguidores_fim": 236595
     }
   }
 }
