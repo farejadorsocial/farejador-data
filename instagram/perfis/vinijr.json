@@ -8,7 +8,7 @@
       "id": "17841401364464029",
       "username": "vinijr",
       "nome": "Vinicius Jr. ⚡️🇧🇷",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/765732222_18624346672045483_3264091613700656668_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ib8gwLRRwUQ7kNvwG-a07h&_nc_oc=AdpOtk3VmlUQJXPyIGR1n50W_hd7FLz8cv4ylJqs_LxRYHwxFJ5yVeeWTRJ8I2Ib3sma3tW1jfwgFsZQcid9_LWn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qy2-45wFoirzeGeHcDwttQ&_nc_ss=70689&oh=00_AQO07x0k0O04O8pjhwzPZiVLyb-z3lsDuqdhHZXisQOJWw&oe=6AD6CAB8"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/765732222_18624346672045483_3264091613700656668_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ib8gwLRRwUQ7kNvwFxA6YN&_nc_oc=Adr2p-5lQvEvzPqiNGBzMhgd6ZmfKfOxSEW0SmPEWjB1qgBdHfNOzmQi0ihTasJDYBoU93-aCjPtHwwMAmi1aXx-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RNRyNgTPxb-wdky-i17azg&_nc_ss=70689&oh=00_AQPtWINLDJvJy2cQBUhHma4PQicJ5QTSd8nISFdlKXpxjA&oe=6AD81C38"
     },
     "biografia": [
       {
@@ -107,6 +107,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 63939574,
+        "valor_atual": 63939561,
+        "variacao": -13,
+        "direcao": "reducao",
+        "descricao": "-13 seguidores",
+        "timestamp": "2026-10-16T13:59:03.693745",
+        "timestamp_anterior": "2026-10-16T13:55:38.411317",
+        "tempo_desde_anterior_segundos": 205
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 63948830,
+        "valor_atual": 63939574,
+        "variacao": -9256,
+        "direcao": "reducao",
+        "descricao": "-9256 seguidores",
+        "timestamp": "2026-10-16T13:55:38.411317",
+        "timestamp_anterior": "2026-10-15T12:03:29.147347",
+        "tempo_desde_anterior_segundos": 93129
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -828,6 +854,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:59:03.693745",
+      "timestamp_anterior": "2026-10-16T13:55:38.411317",
+      "timestamp_atual": "2026-10-16T13:59:03.693745",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 257901482,
+        "id": "17841401364464029",
+        "username": "vinijr",
+        "nome": "Vinicius Jr. ⚡️🇧🇷",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/765732222_18624346672045483_3264091613700656668_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ib8gwLRRwUQ7kNvwFxA6YN&_nc_oc=Adr2p-5lQvEvzPqiNGBzMhgd6ZmfKfOxSEW0SmPEWjB1qgBdHfNOzmQi0ihTasJDYBoU93-aCjPtHwwMAmi1aXx-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RNRyNgTPxb-wdky-i17azg&_nc_ss=70689&oh=00_AQPtWINLDJvJy2cQBUhHma4PQicJ5QTSd8nISFdlKXpxjA&oe=6AD81C38"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 63939574,
+      "valor_atual": 63939561,
+      "hash_anterior": "1322fe6fb3216901f7f5df30e5bbab330c409f4a8752f06a40ba7725955c14a3",
+      "hash_atual": "68d7fe9d0a544164aedc42552b5dec063140752094e4b638ab98e52e7ef81c10",
+      "variacao": -13,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 205.282428,
+        "texto": "3 minutos e 25 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 205.282428,
+        "texto": "3 minutos e 25 segundos"
+      },
+      "titulo": "Perdeu 13 seguidores",
+      "descricao": "Os seguidores caíram de 63.939.574 para 63.939.561",
+      "variacao_texto": "-13 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:38.411317",
+      "timestamp_anterior": "2026-10-15T12:03:29.147347",
+      "timestamp_atual": "2026-10-16T13:55:38.411317",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 257901482,
+        "id": "17841401364464029",
+        "username": "vinijr",
+        "nome": "Vinicius Jr. ⚡️🇧🇷",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/765732222_18624346672045483_3264091613700656668_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ib8gwLRRwUQ7kNvwFxA6YN&_nc_oc=Adr2p-5lQvEvzPqiNGBzMhgd6ZmfKfOxSEW0SmPEWjB1qgBdHfNOzmQi0ihTasJDYBoU93-aCjPtHwwMAmi1aXx-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f8V3gFmrM2n7u-klg2kVHg&_nc_ss=70689&oh=00_AQM-va3Ulji177hFfbJZjant5Gzqd3o95urTAmM0Otx_CQ&oe=6AD81C38"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 63948830,
+      "valor_atual": 63939574,
+      "hash_anterior": "caf9c21183c52e9a9b033808a853912ba698f1d0e89ccd5a147cf335fc6931d6",
+      "hash_atual": "1322fe6fb3216901f7f5df30e5bbab330c409f4a8752f06a40ba7725955c14a3",
+      "variacao": -9256,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93129.26397,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93129.26397,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "titulo": "Perdeu 9.256 seguidores",
+      "descricao": "Os seguidores caíram de 63.948.830 para 63.939.574",
+      "variacao_texto": "-9.256 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:03:29.147347",
@@ -2650,26 +2746,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:08:07.766247",
-    "captura_mais_recente": "2026-10-15T12:03:29.147347",
-    "tempo_total_segundos": 942921,
-    "tempo_total_dias": 10.913438,
-    "tempo_total_texto": "10 dias, 21 horas, 55 minutos e 21 segundos",
+    "captura_mais_recente": "2026-10-16T13:59:03.693745",
+    "tempo_total_segundos": 1036255,
+    "tempo_total_dias": 11.993692,
+    "tempo_total_texto": "11 dias, 23 horas, 50 minutos e 55 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -53876,
+      "variacao": -62220,
       "direcao": "perdeu",
-      "quantidade": 53876,
-      "texto": "Perdeu 53876 seguidores",
+      "quantidade": 62220,
+      "texto": "Perdeu 62220 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:14:03.459065",
-      "captura_fim": "2026-10-15T12:03:29.147347",
-      "seguidores_inicio": 64002706,
-      "seguidores_fim": 63948830
+      "captura_inicio": "2026-10-09T09:29:16.115614",
+      "captura_fim": "2026-10-16T13:59:03.693745",
+      "seguidores_inicio": 64001781,
+      "seguidores_fim": 63939561
     },
     "30_dias": {
       "variacao": null,
@@ -2688,17 +2784,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -57942,
+      "variacao": -67211,
       "direcao": "perdeu",
-      "quantidade": 57942,
-      "texto": "Perdeu 57942 seguidores",
+      "quantidade": 67211,
+      "texto": "Perdeu 67211 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:08:07.766247",
-      "captura_mais_recente": "2026-10-15T12:03:29.147347",
-      "tempo_total_dias": 10.913442,
+      "captura_mais_recente": "2026-10-16T13:59:03.693745",
+      "tempo_total_dias": 11.993703,
       "seguidores_inicio": 64006772,
-      "seguidores_fim": 63948830
+      "seguidores_fim": 63939561
     }
   }
 }
