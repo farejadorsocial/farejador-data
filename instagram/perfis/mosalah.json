@@ -8,7 +8,7 @@
       "id": "17841400061328191",
       "username": "mosalah",
       "nome": "Mohamed Salah",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HsKcI2YkslkQ7kNvwFkt79o&_nc_oc=Adp8H2yQtVYD3hHwK0tUe9dZTRXeIBsC9yCtXwpM56QNinyfPcPUMY_CxDJjzpKtTzh6sRCJEL_kM6htRODbzU4A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMZ09AoGdk0mmfwUtcJJnGwkGr66s6Jmbf6bKkgXV8qqg&oe=6AD6A3DB"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uV2y8JOtf3EQ7kNvwGqeC97&_nc_oc=AdrC7cY-BFsKCo0eXHIQOK0LDp62F1FvktKxHMkVce-Mdq_Jzxi_4RwVakBC-TJb22HyhNhV8GbwoLkKCr2zebeZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP8PSqIkNtuoeQbgfUxUKa17cAIK6FLbN9qCVhgba3BWA&oe=6AD82D9B"
     },
     "biografia": [
       {
@@ -94,6 +94,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 67894270,
+        "valor_atual": 67894294,
+        "variacao": 24,
+        "direcao": "aumento",
+        "descricao": "+24 seguidores",
+        "timestamp": "2026-10-16T13:58:48.977343",
+        "timestamp_anterior": "2026-10-16T13:55:24.566623",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 67891950,
+        "valor_atual": 67894270,
+        "variacao": 2320,
+        "direcao": "aumento",
+        "descricao": "+2320 seguidores",
+        "timestamp": "2026-10-16T13:55:24.566623",
+        "timestamp_anterior": "2026-10-15T12:03:15.228992",
+        "tempo_desde_anterior_segundos": 93129
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -570,6 +596,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1188,
+        "valor_atual": 1189,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-16T13:55:24.566623",
+        "timestamp_anterior": "2026-10-10T13:48:05.650393",
+        "tempo_desde_anterior_segundos": 518838
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1187,
         "valor_atual": 1188,
         "variacao": 1,
@@ -620,6 +659,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:58:48.977343",
+      "timestamp_anterior": "2026-10-16T13:55:24.566623",
+      "timestamp_atual": "2026-10-16T13:58:48.977343",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 524226044,
+        "id": "17841400061328191",
+        "username": "mosalah",
+        "nome": "Mohamed Salah",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uV2y8JOtf3EQ7kNvwGqeC97&_nc_oc=AdrC7cY-BFsKCo0eXHIQOK0LDp62F1FvktKxHMkVce-Mdq_Jzxi_4RwVakBC-TJb22HyhNhV8GbwoLkKCr2zebeZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP8PSqIkNtuoeQbgfUxUKa17cAIK6FLbN9qCVhgba3BWA&oe=6AD82D9B"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 67894270,
+      "valor_atual": 67894294,
+      "hash_anterior": "5adb72d57dcf2890fbf8691b5266090ad274443189beb7e89b2b389625e4d2c3",
+      "hash_atual": "34acefcf135879335c369f78ecd0e3bbb4a66633a8b1e8c6977d04336d7102ef",
+      "variacao": 24,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.41072,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.41072,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Ganhou 24 seguidores",
+      "descricao": "Os seguidores passaram de 67.894.270 para 67.894.294",
+      "variacao_texto": "+24 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:24.566623",
+      "timestamp_anterior": "2026-10-15T12:03:15.228992",
+      "timestamp_atual": "2026-10-16T13:55:24.566623",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 524226044,
+        "id": "17841400061328191",
+        "username": "mosalah",
+        "nome": "Mohamed Salah",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uV2y8JOtf3EQ7kNvwGqeC97&_nc_oc=AdrC7cY-BFsKCo0eXHIQOK0LDp62F1FvktKxHMkVce-Mdq_Jzxi_4RwVakBC-TJb22HyhNhV8GbwoLkKCr2zebeZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP8PSqIkNtuoeQbgfUxUKa17cAIK6FLbN9qCVhgba3BWA&oe=6AD82D9B"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 67891950,
+      "valor_atual": 67894270,
+      "hash_anterior": "72014fc32bc6549be7b0731be8340e5ece03a1b616b2947ebf75688bfdba94e1",
+      "hash_atual": "5adb72d57dcf2890fbf8691b5266090ad274443189beb7e89b2b389625e4d2c3",
+      "variacao": 2320,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93129.337631,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93129.337631,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "titulo": "Ganhou 2.320 seguidores",
+      "descricao": "Os seguidores passaram de 67.891.950 para 67.894.270",
+      "variacao_texto": "+2.320 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:55:24.566623",
+      "timestamp_anterior": "2026-10-15T12:03:15.228992",
+      "timestamp_atual": "2026-10-16T13:55:24.566623",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 524226044,
+        "id": "17841400061328191",
+        "username": "mosalah",
+        "nome": "Mohamed Salah",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uV2y8JOtf3EQ7kNvwGqeC97&_nc_oc=AdrC7cY-BFsKCo0eXHIQOK0LDp62F1FvktKxHMkVce-Mdq_Jzxi_4RwVakBC-TJb22HyhNhV8GbwoLkKCr2zebeZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP8PSqIkNtuoeQbgfUxUKa17cAIK6FLbN9qCVhgba3BWA&oe=6AD82D9B"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1188,
+      "valor_atual": 1189,
+      "hash_anterior": "72014fc32bc6549be7b0731be8340e5ece03a1b616b2947ebf75688bfdba94e1",
+      "hash_atual": "5adb72d57dcf2890fbf8691b5266090ad274443189beb7e89b2b389625e4d2c3",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 93129.337631,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 1.188 para 1.189",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:03:15.228992",
@@ -1883,26 +2027,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:28.411614",
-    "captura_mais_recente": "2026-10-15T12:03:15.228992",
-    "tempo_total_segundos": 832846,
-    "tempo_total_dias": 9.639421,
-    "tempo_total_texto": "9 dias, 15 horas, 20 minutos e 46 segundos",
+    "captura_mais_recente": "2026-10-16T13:58:48.977343",
+    "tempo_total_segundos": 926180,
+    "tempo_total_dias": 10.719676,
+    "tempo_total_texto": "10 dias, 17 horas, 16 minutos e 20 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -23346,
+      "variacao": -17003,
       "direcao": "perdeu",
-      "quantidade": 23346,
-      "texto": "Perdeu 23346 seguidores",
+      "quantidade": 17003,
+      "texto": "Perdeu 17003 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:13:44.994498",
-      "captura_fim": "2026-10-15T12:03:15.228992",
-      "seguidores_inicio": 67915296,
-      "seguidores_fim": 67891950
+      "captura_inicio": "2026-10-09T09:28:57.941659",
+      "captura_fim": "2026-10-16T13:58:48.977343",
+      "seguidores_inicio": 67911297,
+      "seguidores_fim": 67894294
     },
     "30_dias": {
       "variacao": null,
@@ -1921,17 +2065,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -29582,
+      "variacao": -27238,
       "direcao": "perdeu",
-      "quantidade": 29582,
-      "texto": "Perdeu 29582 seguidores",
+      "quantidade": 27238,
+      "texto": "Perdeu 27238 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:28.411614",
-      "captura_mais_recente": "2026-10-15T12:03:15.228992",
-      "tempo_total_dias": 9.639431,
+      "captura_mais_recente": "2026-10-16T13:58:48.977343",
+      "tempo_total_dias": 10.719682,
       "seguidores_inicio": 67921532,
-      "seguidores_fim": 67891950
+      "seguidores_fim": 67894294
     }
   }
 }
