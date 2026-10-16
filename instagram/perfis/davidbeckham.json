@@ -8,7 +8,7 @@
       "id": "17841400748562920",
       "username": "davidbeckham",
       "nome": "David Beckham",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwGJ5Um4&_nc_oc=Adq_lw7HM1twhAix76WaYIG1ebVvs_G2oLVg9CfqPjHXdcC5pkakBGUV0YKFXMWkegU4lqB9ey0-wqdStrNoyKap&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nwPTA_3dwTCLlb_vZtzRsA&_nc_ss=70689&oh=00_AQM1bOgXJhAEQju7qec41nRpYOOvCi4SoO64TClUrB6ryA&oe=6AD6BCDC"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X7PsbjEm__lw4VXS-7Dh2w&_nc_ss=70689&oh=00_AQNXYmNKruNJqV2jAS58Fa3r0P4ZXlYfBTgzEUwIQdWyuw&oe=6AD8469C"
     },
     "biografia": [
       {
@@ -98,6 +98,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 87648568,
+        "valor_atual": 87648575,
+        "variacao": 7,
+        "direcao": "aumento",
+        "descricao": "+7 seguidores",
+        "timestamp": "2026-10-16T14:01:18.852346",
+        "timestamp_anterior": "2026-10-16T13:54:29.320800",
+        "tempo_desde_anterior_segundos": 409
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 87651965,
+        "valor_atual": 87648568,
+        "variacao": -3397,
+        "direcao": "reducao",
+        "descricao": "-3397 seguidores",
+        "timestamp": "2026-10-16T13:54:29.320800",
+        "timestamp_anterior": "2026-10-15T12:02:19.532577",
+        "tempo_desde_anterior_segundos": 93129
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -613,6 +639,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 2283,
+        "valor_atual": 2284,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-16T13:54:29.320800",
+        "timestamp_anterior": "2026-10-13T16:04:39.039160",
+        "tempo_desde_anterior_segundos": 251390
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 2281,
         "valor_atual": 2283,
         "variacao": 2,
@@ -715,6 +754,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T14:01:18.852346",
+      "timestamp_anterior": "2026-10-16T13:54:29.320800",
+      "timestamp_atual": "2026-10-16T14:01:18.852346",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 186904952,
+        "id": "17841400748562920",
+        "username": "davidbeckham",
+        "nome": "David Beckham",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X7PsbjEm__lw4VXS-7Dh2w&_nc_ss=70689&oh=00_AQNXYmNKruNJqV2jAS58Fa3r0P4ZXlYfBTgzEUwIQdWyuw&oe=6AD8469C"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 87648568,
+      "valor_atual": 87648575,
+      "hash_anterior": "c0f3f8b122731f6ec46196dcf92e674b5909c5710967eee0965661ee8ca54300",
+      "hash_atual": "d7fc084783df57696d360b1e37331c924fdd34c3c38e90e89263de2701cf04e0",
+      "variacao": 7,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 409.531546,
+        "texto": "6 minutos e 49 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 409.531546,
+        "texto": "6 minutos e 49 segundos"
+      },
+      "titulo": "Ganhou 7 seguidores",
+      "descricao": "Os seguidores passaram de 87.648.568 para 87.648.575",
+      "variacao_texto": "+7 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:29.320800",
+      "timestamp_anterior": "2026-10-15T12:02:19.532577",
+      "timestamp_atual": "2026-10-16T13:54:29.320800",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 186904952,
+        "id": "17841400748562920",
+        "username": "davidbeckham",
+        "nome": "David Beckham",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bRhJz8r6rFQblNTIgyntDg&_nc_ss=70689&oh=00_AQPjvOx2GTBwVOLeFIKRtjfH1tnuVGWE1_FWrVPN_nbHag&oe=6AD80E5C"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 87651965,
+      "valor_atual": 87648568,
+      "hash_anterior": "d840f0de759761c8134c63188a1a201451771ce44f4a6394cebf7970d289c1a3",
+      "hash_atual": "c0f3f8b122731f6ec46196dcf92e674b5909c5710967eee0965661ee8ca54300",
+      "variacao": -3397,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 93129.788223,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 93129.788223,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "titulo": "Perdeu 3.397 seguidores",
+      "descricao": "Os seguidores caíram de 87.651.965 para 87.648.568",
+      "variacao_texto": "-3.397 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T13:54:29.320800",
+      "timestamp_anterior": "2026-10-15T12:02:19.532577",
+      "timestamp_atual": "2026-10-16T13:54:29.320800",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 186904952,
+        "id": "17841400748562920",
+        "username": "davidbeckham",
+        "nome": "David Beckham",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bRhJz8r6rFQblNTIgyntDg&_nc_ss=70689&oh=00_AQPjvOx2GTBwVOLeFIKRtjfH1tnuVGWE1_FWrVPN_nbHag&oe=6AD80E5C"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 2283,
+      "valor_atual": 2284,
+      "hash_anterior": "d840f0de759761c8134c63188a1a201451771ce44f4a6394cebf7970d289c1a3",
+      "hash_atual": "c0f3f8b122731f6ec46196dcf92e674b5909c5710967eee0965661ee8ca54300",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 93129.788223,
+        "texto": "1 dia e 1 hora e 52 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 2.283 para 2.284",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:02:19.532577",
@@ -2223,26 +2367,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:13.788304",
-    "captura_mais_recente": "2026-10-15T12:02:19.532577",
-    "tempo_total_segundos": 832865,
-    "tempo_total_dias": 9.639641,
-    "tempo_total_texto": "9 dias, 15 horas, 21 minutos e 5 segundos",
+    "captura_mais_recente": "2026-10-16T14:01:18.852346",
+    "tempo_total_segundos": 926405,
+    "tempo_total_dias": 10.72228,
+    "tempo_total_texto": "10 dias, 17 horas, 20 minutos e 5 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -22627,
+      "variacao": -22148,
       "direcao": "perdeu",
-      "quantidade": 22627,
-      "texto": "Perdeu 22627 seguidores",
+      "quantidade": 22148,
+      "texto": "Perdeu 22148 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T09:12:26.864724",
-      "captura_fim": "2026-10-15T12:02:19.532577",
-      "seguidores_inicio": 87674592,
-      "seguidores_fim": 87651965
+      "captura_inicio": "2026-10-09T09:31:13.196379",
+      "captura_fim": "2026-10-16T14:01:18.852346",
+      "seguidores_inicio": 87670723,
+      "seguidores_fim": 87648575
     },
     "30_dias": {
       "variacao": null,
@@ -2261,17 +2405,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -17116,
+      "variacao": -20506,
       "direcao": "perdeu",
-      "quantidade": 17116,
-      "texto": "Perdeu 17116 seguidores",
+      "quantidade": 20506,
+      "texto": "Perdeu 20506 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:13.788304",
-      "captura_mais_recente": "2026-10-15T12:02:19.532577",
-      "tempo_total_dias": 9.63965,
+      "captura_mais_recente": "2026-10-16T14:01:18.852346",
+      "tempo_total_dias": 10.722281,
       "seguidores_inicio": 87669081,
-      "seguidores_fim": 87651965
+      "seguidores_fim": 87648575
     }
   }
 }
