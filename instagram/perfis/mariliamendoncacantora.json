@@ -8,7 +8,7 @@
       "id": "17841400271444291",
       "username": "mariliamendoncacantora",
       "nome": "Marilia Mendonça",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/846467160_18660884869009049_210575214744678608_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=Sj1AQWZbU20Q7kNvwGqzvlm&_nc_oc=AdpNbxynyXqdLye7xBT6tOfVbJqHoYDt0FavVIkX86BOPHdSRGy5hyS_sSB8l-bYoXHlDIpAU2yQAWiV6epeagJe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iU_pwzZcQylcqJG7Ytyvdw&_nc_ss=70689&oh=00_AQOM5ZI0BFSMubZ5oJbuHcQ6Yl1CRkGleWbBkjES-zvgGQ&oe=6AD81091"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/846467160_18660884869009049_210575214744678608_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=JgFxJwetS_8Q7kNvwHWPIwT&_nc_oc=Adpayi-ItgJ9AmnXwpitRkW2DAGBbbnMhQk1IIPur1zP0RKwhbU7tMndiS7Tr2rIGpgm1OESYEAtM0v3bmZ3pD3F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XhmKf6MCfRajsiLBW95V9Q&_nc_ss=70689&oh=00_AQO1DnCFcWcO9IleoGLC4d46Ey_EapIzuscb1asJp12O3A&oe=6AD8B951"
     },
     "biografia": [
       {
@@ -114,6 +114,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 37909204,
+        "valor_atual": 37909200,
+        "variacao": -4,
+        "direcao": "reducao",
+        "descricao": "-4 seguidores",
+        "timestamp": "2026-10-16T23:26:40.358703",
+        "timestamp_anterior": "2026-10-16T23:23:29.155249",
+        "tempo_desde_anterior_segundos": 191
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 37909051,
+        "valor_atual": 37909204,
+        "variacao": 153,
+        "direcao": "aumento",
+        "descricao": "+153 seguidores",
+        "timestamp": "2026-10-16T23:23:29.155249",
+        "timestamp_anterior": "2026-10-16T14:00:10.433168",
+        "tempo_desde_anterior_segundos": 33798
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1589,6 +1615,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:26:40.358703",
+      "timestamp_anterior": "2026-10-16T23:23:29.155249",
+      "timestamp_atual": "2026-10-16T23:26:40.358703",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 274633048,
+        "id": "17841400271444291",
+        "username": "mariliamendoncacantora",
+        "nome": "Marilia Mendonça",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/846467160_18660884869009049_210575214744678608_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=JgFxJwetS_8Q7kNvwHWPIwT&_nc_oc=Adpayi-ItgJ9AmnXwpitRkW2DAGBbbnMhQk1IIPur1zP0RKwhbU7tMndiS7Tr2rIGpgm1OESYEAtM0v3bmZ3pD3F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XhmKf6MCfRajsiLBW95V9Q&_nc_ss=70689&oh=00_AQO1DnCFcWcO9IleoGLC4d46Ey_EapIzuscb1asJp12O3A&oe=6AD8B951"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 37909204,
+      "valor_atual": 37909200,
+      "hash_anterior": "25015239a3dadb3d0b6864310f3bea530b8a59640d5f2c8c633ff1db40aade37",
+      "hash_atual": "4fa47decc899603feb185789ee6c8600a2825ba5a3fa135daa71e755613eaaff",
+      "variacao": -4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 191.203454,
+        "texto": "3 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 191.203454,
+        "texto": "3 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 4 seguidores",
+      "descricao": "Os seguidores caíram de 37.909.204 para 37.909.200",
+      "variacao_texto": "-4 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:29.155249",
+      "timestamp_anterior": "2026-10-16T14:00:10.433168",
+      "timestamp_atual": "2026-10-16T23:23:29.155249",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 274633048,
+        "id": "17841400271444291",
+        "username": "mariliamendoncacantora",
+        "nome": "Marilia Mendonça",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/846467160_18660884869009049_210575214744678608_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=JgFxJwetS_8Q7kNvwHWPIwT&_nc_oc=Adpayi-ItgJ9AmnXwpitRkW2DAGBbbnMhQk1IIPur1zP0RKwhbU7tMndiS7Tr2rIGpgm1OESYEAtM0v3bmZ3pD3F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JlNYWdIuYNs5VZ-tNMtrUg&_nc_ss=70689&oh=00_AQPdg6Vf_N05CHo2WfhtV-QiysoSd5i_6vrvGNFyf-9otA&oe=6AD8B951"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 37909051,
+      "valor_atual": 37909204,
+      "hash_anterior": "dabb7a090e4054c7e90207a085b4096f0a2f861a7e34170e43c8952db379a928",
+      "hash_atual": "25015239a3dadb3d0b6864310f3bea530b8a59640d5f2c8c633ff1db40aade37",
+      "variacao": 153,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33798.722081,
+        "texto": "9 horas e 23 minutos e 18 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33798.722081,
+        "texto": "9 horas e 23 minutos e 18 segundos"
+      },
+      "titulo": "Ganhou 153 seguidores",
+      "descricao": "Os seguidores passaram de 37.909.051 para 37.909.204",
+      "variacao_texto": "+153 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T14:00:10.433168",
@@ -5441,26 +5537,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:56:43.726035",
-    "captura_mais_recente": "2026-10-16T14:00:10.433168",
-    "tempo_total_segundos": 1112606,
-    "tempo_total_dias": 12.877384,
-    "tempo_total_texto": "12 dias, 21 horas, 3 minutos e 26 segundos",
+    "captura_mais_recente": "2026-10-16T23:26:40.358703",
+    "tempo_total_segundos": 1146596,
+    "tempo_total_dias": 13.270787,
+    "tempo_total_texto": "13 dias, 6 horas, 29 minutos e 56 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -18590,
+      "variacao": -17749,
       "direcao": "perdeu",
-      "quantidade": 18590,
-      "texto": "Perdeu 18590 seguidores",
+      "quantidade": 17749,
+      "texto": "Perdeu 17749 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:29:45.130635",
-      "captura_fim": "2026-10-16T14:00:10.433168",
-      "seguidores_inicio": 37927641,
-      "seguidores_fim": 37909051
+      "captura_inicio": "2026-10-09T22:23:51.940309",
+      "captura_fim": "2026-10-16T23:26:40.358703",
+      "seguidores_inicio": 37926949,
+      "seguidores_fim": 37909200
     },
     "30_dias": {
       "variacao": null,
@@ -5479,17 +5575,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -38130,
+      "variacao": -37981,
       "direcao": "perdeu",
-      "quantidade": 38130,
-      "texto": "Perdeu 38130 seguidores",
+      "quantidade": 37981,
+      "texto": "Perdeu 37981 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:56:43.726035",
-      "captura_mais_recente": "2026-10-16T14:00:10.433168",
-      "tempo_total_dias": 12.877392,
+      "captura_mais_recente": "2026-10-16T23:26:40.358703",
+      "tempo_total_dias": 13.270794,
       "seguidores_inicio": 37947181,
-      "seguidores_fim": 37909051
+      "seguidores_fim": 37909200
     }
   }
 }
