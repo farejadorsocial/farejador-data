@@ -8,7 +8,7 @@
       "id": "17841400959704165",
       "username": "santosfc",
       "nome": "Santos Futebol Clube",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/819146637_18626313691031991_6853649810724104491_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=bQlE1vrIB5MQ7kNvwH30aNI&_nc_oc=Ado1n35x2QL8kCGMf4gGM4l3tCBrmGJuusrkFxpmemXto_dgMcbM1-jJYHGvWQ9xj3zvFbMZoIQzO-4lIkIw9wbr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RsSOk3judVwPjxPrkkdzww&_nc_ss=70689&oh=00_AQNCq8R4zoqPWWkZjpAdM8HvmKiaTOToDu2wumZRxV_QVw&oe=6AD82DBE"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/819146637_18626313691031991_6853649810724104491_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=bQlE1vrIB5MQ7kNvwH30aNI&_nc_oc=Ado1n35x2QL8kCGMf4gGM4l3tCBrmGJuusrkFxpmemXto_dgMcbM1-jJYHGvWQ9xj3zvFbMZoIQzO-4lIkIw9wbr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=snwUnjuPVq-9xh_qUkNAfw&_nc_ss=70689&oh=00_AQN-ZKWe6jcOQnx_dVpnVgw8rIYrClfo5SSnHhxAe70m_A&oe=6AD89E3E"
     },
     "biografia": [
       {
@@ -85,6 +85,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 8697156,
+        "valor_atual": 8697163,
+        "variacao": 7,
+        "direcao": "aumento",
+        "descricao": "+7 seguidores",
+        "timestamp": "2026-10-16T23:27:08.068693",
+        "timestamp_anterior": "2026-10-16T23:23:43.259130",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 8696551,
+        "valor_atual": 8697156,
+        "variacao": 605,
+        "direcao": "aumento",
+        "descricao": "+605 seguidores",
+        "timestamp": "2026-10-16T23:23:43.259130",
+        "timestamp_anterior": "2026-10-16T13:57:26.107449",
+        "tempo_desde_anterior_segundos": 33977
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -546,6 +572,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:27:08.068693",
+      "timestamp_anterior": "2026-10-16T23:23:43.259130",
+      "timestamp_atual": "2026-10-16T23:27:08.068693",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 266591990,
+        "id": "17841400959704165",
+        "username": "santosfc",
+        "nome": "Santos Futebol Clube",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/819146637_18626313691031991_6853649810724104491_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=bQlE1vrIB5MQ7kNvwH30aNI&_nc_oc=Ado1n35x2QL8kCGMf4gGM4l3tCBrmGJuusrkFxpmemXto_dgMcbM1-jJYHGvWQ9xj3zvFbMZoIQzO-4lIkIw9wbr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=snwUnjuPVq-9xh_qUkNAfw&_nc_ss=70689&oh=00_AQN-ZKWe6jcOQnx_dVpnVgw8rIYrClfo5SSnHhxAe70m_A&oe=6AD89E3E"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 8697156,
+      "valor_atual": 8697163,
+      "hash_anterior": "b80eeed2a4d6d5261ab51409fc73ca2a9ee0b21b797f5498c3d6747c518d1f35",
+      "hash_atual": "5845506fa9ece880fdd3806a6e2aeb0fc2355319cfd2a7baa8c6d5943ba1ea20",
+      "variacao": 7,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.809563,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.809563,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Ganhou 7 seguidores",
+      "descricao": "Os seguidores passaram de 8.697.156 para 8.697.163",
+      "variacao_texto": "+7 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:43.259130",
+      "timestamp_anterior": "2026-10-16T13:57:26.107449",
+      "timestamp_atual": "2026-10-16T23:23:43.259130",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 266591990,
+        "id": "17841400959704165",
+        "username": "santosfc",
+        "nome": "Santos Futebol Clube",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/819146637_18626313691031991_6853649810724104491_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=bQlE1vrIB5MQ7kNvwH30aNI&_nc_oc=Ado1n35x2QL8kCGMf4gGM4l3tCBrmGJuusrkFxpmemXto_dgMcbM1-jJYHGvWQ9xj3zvFbMZoIQzO-4lIkIw9wbr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=V0VGJ7slo0mEWoHM3DUfkA&_nc_ss=70689&oh=00_AQPyirRNZT1_bCprltxIqAw-cvFC-duPkeAKas0HmbDbkQ&oe=6AD89E3E"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 8696551,
+      "valor_atual": 8697156,
+      "hash_anterior": "87e28ae37a1b7887a1261fcf8bd8ff635b1cbcb5dfd67fe97f77f7e18e5ac4e4",
+      "hash_atual": "b80eeed2a4d6d5261ab51409fc73ca2a9ee0b21b797f5498c3d6747c518d1f35",
+      "variacao": 605,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33977.151681,
+        "texto": "9 horas e 26 minutos e 17 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33977.151681,
+        "texto": "9 horas e 26 minutos e 17 segundos"
+      },
+      "titulo": "Ganhou 605 seguidores",
+      "descricao": "Os seguidores passaram de 8.696.551 para 8.697.156",
+      "variacao_texto": "+605 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:57:26.107449",
@@ -1600,26 +1696,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:35.012419",
-    "captura_mais_recente": "2026-10-16T13:57:26.107449",
-    "tempo_total_segundos": 836151,
-    "tempo_total_dias": 9.677674,
-    "tempo_total_texto": "9 dias, 16 horas, 15 minutos e 51 segundos",
+    "captura_mais_recente": "2026-10-16T23:27:08.068693",
+    "tempo_total_segundos": 870333,
+    "tempo_total_dias": 10.073299,
+    "tempo_total_texto": "10 dias, 1 hora, 45 minutos e 33 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 17049,
+      "variacao": 8711,
       "direcao": "ganhou",
-      "quantidade": 17049,
-      "texto": "Ganhou 17049 seguidores",
+      "quantidade": 8711,
+      "texto": "Ganhou 8711 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:30:22.750506",
-      "captura_fim": "2026-10-16T13:57:26.107449",
-      "seguidores_inicio": 8679502,
-      "seguidores_fim": 8696551
+      "captura_inicio": "2026-10-09T22:21:06.641961",
+      "captura_fim": "2026-10-16T23:27:08.068693",
+      "seguidores_inicio": 8688452,
+      "seguidores_fim": 8697163
     },
     "30_dias": {
       "variacao": null,
@@ -1638,17 +1734,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 33743,
+      "variacao": 34355,
       "direcao": "ganhou",
-      "quantidade": 33743,
-      "texto": "Ganhou 33743 seguidores",
+      "quantidade": 34355,
+      "texto": "Ganhou 34355 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:35.012419",
-      "captura_mais_recente": "2026-10-16T13:57:26.107449",
-      "tempo_total_dias": 9.677675,
+      "captura_mais_recente": "2026-10-16T23:27:08.068693",
+      "tempo_total_dias": 10.073299,
       "seguidores_inicio": 8662808,
-      "seguidores_fim": 8696551
+      "seguidores_fim": 8697163
     }
   }
 }
