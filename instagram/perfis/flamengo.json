@@ -8,7 +8,7 @@
       "id": "17841401359783566",
       "username": "flamengo",
       "nome": "Flamengo",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280653_18630167071045327_4583180821371763732_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDMxLkMzIn0%3D&_nc_ohc=KwCZLHbkpyoQ7kNvwHvT7ok&_nc_oc=Adro0rljGJrSsiM7NlaY2Kys6WfMoEla1VW7M3ftG7cm-yOcxpvXTTzwATTXcIsXnVT1HVTenWUjmUcIzU0r1PaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jSIkxZm0PIJWP5q98eqNhA&_nc_ss=70689&oh=00_AQO2sDQfepz7iwIXo39lH5tleweLRoLMKyEfM_KgrNuvlQ&oe=6AD818ED"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280653_18630167071045327_4583180821371763732_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDMxLkMzIn0%3D&_nc_ohc=KwCZLHbkpyoQ7kNvwHvT7ok&_nc_oc=Adro0rljGJrSsiM7NlaY2Kys6WfMoEla1VW7M3ftG7cm-yOcxpvXTTzwATTXcIsXnVT1HVTenWUjmUcIzU0r1PaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jgh74qnj7bzLklQrEn0l_g&_nc_ss=70689&oh=00_AQP09nx-KlwnUsgfo_QvB_23ymcYfrK9wYgj2oLLgfhutw&oe=6AD8C1AD"
     },
     "biografia": [
       {
@@ -88,6 +88,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 25186524,
+        "valor_atual": 25186540,
+        "variacao": 16,
+        "direcao": "aumento",
+        "descricao": "+16 seguidores",
+        "timestamp": "2026-10-16T23:26:40.282992",
+        "timestamp_anterior": "2026-10-16T23:23:14.377036",
+        "tempo_desde_anterior_segundos": 205
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 25184077,
+        "valor_atual": 25186524,
+        "variacao": 2447,
+        "direcao": "aumento",
+        "descricao": "+2447 seguidores",
+        "timestamp": "2026-10-16T23:23:14.377036",
+        "timestamp_anterior": "2026-10-16T14:00:22.375369",
+        "tempo_desde_anterior_segundos": 33772
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -614,6 +640,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:26:40.282992",
+      "timestamp_anterior": "2026-10-16T23:23:14.377036",
+      "timestamp_atual": "2026-10-16T23:26:40.282992",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 228269326,
+        "id": "17841401359783566",
+        "username": "flamengo",
+        "nome": "Flamengo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280653_18630167071045327_4583180821371763732_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDMxLkMzIn0%3D&_nc_ohc=KwCZLHbkpyoQ7kNvwHvT7ok&_nc_oc=Adro0rljGJrSsiM7NlaY2Kys6WfMoEla1VW7M3ftG7cm-yOcxpvXTTzwATTXcIsXnVT1HVTenWUjmUcIzU0r1PaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jgh74qnj7bzLklQrEn0l_g&_nc_ss=70689&oh=00_AQP09nx-KlwnUsgfo_QvB_23ymcYfrK9wYgj2oLLgfhutw&oe=6AD8C1AD"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 25186524,
+      "valor_atual": 25186540,
+      "hash_anterior": "157c57068cc339af58a1535a43849209787230d86fbad6d01660563915586a07",
+      "hash_atual": "87a39268741a0412666ff1352e7975a74d81bcde0ccf543dd03d37580c6b3c65",
+      "variacao": 16,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 205.905956,
+        "texto": "3 minutos e 25 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 205.905956,
+        "texto": "3 minutos e 25 segundos"
+      },
+      "titulo": "Ganhou 16 seguidores",
+      "descricao": "Os seguidores passaram de 25.186.524 para 25.186.540",
+      "variacao_texto": "+16 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:14.377036",
+      "timestamp_anterior": "2026-10-16T14:00:22.375369",
+      "timestamp_atual": "2026-10-16T23:23:14.377036",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 228269326,
+        "id": "17841401359783566",
+        "username": "flamengo",
+        "nome": "Flamengo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280653_18630167071045327_4583180821371763732_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDMxLkMzIn0%3D&_nc_ohc=KwCZLHbkpyoQ7kNvwHvT7ok&_nc_oc=Adro0rljGJrSsiM7NlaY2Kys6WfMoEla1VW7M3ftG7cm-yOcxpvXTTzwATTXcIsXnVT1HVTenWUjmUcIzU0r1PaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-xhUlsS78s9mRMImiDgtVQ&_nc_ss=70689&oh=00_AQPBloVZ_C65vQmRs78wGCk7v30iZJniyd6CLRTIdrfl0Q&oe=6AD8C1AD"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 25184077,
+      "valor_atual": 25186524,
+      "hash_anterior": "65050579ee0d5247374bf265bd667233320388da4ed981ba59666c0df8009c51",
+      "hash_atual": "157c57068cc339af58a1535a43849209787230d86fbad6d01660563915586a07",
+      "variacao": 2447,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33772.001667,
+        "texto": "9 horas e 22 minutos e 52 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33772.001667,
+        "texto": "9 horas e 22 minutos e 52 segundos"
+      },
+      "titulo": "Ganhou 2.447 seguidores",
+      "descricao": "Os seguidores passaram de 25.184.077 para 25.186.524",
+      "variacao_texto": "+2.447 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T14:00:22.375369",
@@ -1843,26 +1939,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:40:53.439419",
-    "captura_mais_recente": "2026-10-16T14:00:22.375369",
-    "tempo_total_segundos": 836368,
-    "tempo_total_dias": 9.680185,
-    "tempo_total_texto": "9 dias, 16 horas, 19 minutos e 28 segundos",
+    "captura_mais_recente": "2026-10-16T23:26:40.282992",
+    "tempo_total_segundos": 870346,
+    "tempo_total_dias": 10.073449,
+    "tempo_total_texto": "10 dias, 1 hora, 45 minutos e 46 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 15232,
+      "variacao": 17532,
       "direcao": "ganhou",
-      "quantidade": 15232,
-      "texto": "Ganhou 15232 seguidores",
+      "quantidade": 17532,
+      "texto": "Ganhou 17532 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:29:45.193133",
-      "captura_fim": "2026-10-16T14:00:22.375369",
-      "seguidores_inicio": 25168845,
-      "seguidores_fim": 25184077
+      "captura_inicio": "2026-10-09T22:20:23.662362",
+      "captura_fim": "2026-10-16T23:26:40.282992",
+      "seguidores_inicio": 25169008,
+      "seguidores_fim": 25186540
     },
     "30_dias": {
       "variacao": null,
@@ -1881,17 +1977,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 15392,
+      "variacao": 17855,
       "direcao": "ganhou",
-      "quantidade": 15392,
-      "texto": "Ganhou 15392 seguidores",
+      "quantidade": 17855,
+      "texto": "Ganhou 17855 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:40:53.439419",
-      "captura_mais_recente": "2026-10-16T14:00:22.375369",
-      "tempo_total_dias": 9.680196,
+      "captura_mais_recente": "2026-10-16T23:26:40.282992",
+      "tempo_total_dias": 10.073459,
       "seguidores_inicio": 25168685,
-      "seguidores_fim": 25184077
+      "seguidores_fim": 25186540
     }
   }
 }
