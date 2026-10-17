@@ -8,7 +8,7 @@
       "id": "17841401355460406",
       "username": "tatawerneck",
       "nome": "Tata Werneck",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/12677624_525015697673067_466669943_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40OTkuQzMifQ%3D%3D&_nc_ohc=um7VV8CNUwIQ7kNvwH3rKmR&_nc_oc=AdqO7ZEHW_Fba3mP5j7DqslNI79Y0SzjHlHUzs60_Gypd-5N1sJ13_4uwArA6yojSQyYFvBhEiyg0lQH7XjtV7MO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPu9wwxHRiTRbK61dqk7H8A1tpid_HQvDrhgD3Q1JhGLg&oe=6AD83461"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/12677624_525015697673067_466669943_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40OTkuQzMifQ%3D%3D&_nc_ohc=um7VV8CNUwIQ7kNvwH3rKmR&_nc_oc=AdqO7ZEHW_Fba3mP5j7DqslNI79Y0SzjHlHUzs60_Gypd-5N1sJ13_4uwArA6yojSQyYFvBhEiyg0lQH7XjtV7MO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMtbG5kJbdjO1dYyosvqx13fY1KHC2_jkUtBTlHMwBryA&oe=6AD8A4E1"
     },
     "biografia": [
       {
@@ -133,6 +133,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 54356741,
+        "valor_atual": 54356709,
+        "variacao": -32,
+        "direcao": "reducao",
+        "descricao": "-32 seguidores",
+        "timestamp": "2026-10-16T23:27:20.584676",
+        "timestamp_anterior": "2026-10-16T23:23:56.114762",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 54360739,
+        "valor_atual": 54356741,
+        "variacao": -3998,
+        "direcao": "reducao",
+        "descricao": "-3998 seguidores",
+        "timestamp": "2026-10-16T23:23:56.114762",
+        "timestamp_anterior": "2026-10-16T14:01:07.520100",
+        "tempo_desde_anterior_segundos": 33768
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -971,6 +997,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:27:20.584676",
+      "timestamp_anterior": "2026-10-16T23:23:56.114762",
+      "timestamp_atual": "2026-10-16T23:27:20.584676",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 26029182,
+        "id": "17841401355460406",
+        "username": "tatawerneck",
+        "nome": "Tata Werneck",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/12677624_525015697673067_466669943_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40OTkuQzMifQ%3D%3D&_nc_ohc=um7VV8CNUwIQ7kNvwH3rKmR&_nc_oc=AdqO7ZEHW_Fba3mP5j7DqslNI79Y0SzjHlHUzs60_Gypd-5N1sJ13_4uwArA6yojSQyYFvBhEiyg0lQH7XjtV7MO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMtbG5kJbdjO1dYyosvqx13fY1KHC2_jkUtBTlHMwBryA&oe=6AD8A4E1"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 54356741,
+      "valor_atual": 54356709,
+      "hash_anterior": "6e6d110ea3ea31f3ce64e25e2548e53f5a19daf7c5dea0dfd97a0de456869ecd",
+      "hash_atual": "9b9309dd0abbbacbf1dbc5bdcd037c3a7052d5935d624e9212b19ec13afc72c0",
+      "variacao": -32,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.469914,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.469914,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 32 seguidores",
+      "descricao": "Os seguidores caíram de 54.356.741 para 54.356.709",
+      "variacao_texto": "-32 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:56.114762",
+      "timestamp_anterior": "2026-10-16T14:01:07.520100",
+      "timestamp_atual": "2026-10-16T23:23:56.114762",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 26029182,
+        "id": "17841401355460406",
+        "username": "tatawerneck",
+        "nome": "Tata Werneck",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/12677624_525015697673067_466669943_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40OTkuQzMifQ%3D%3D&_nc_ohc=um7VV8CNUwIQ7kNvwH3rKmR&_nc_oc=AdqO7ZEHW_Fba3mP5j7DqslNI79Y0SzjHlHUzs60_Gypd-5N1sJ13_4uwArA6yojSQyYFvBhEiyg0lQH7XjtV7MO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMtbG5kJbdjO1dYyosvqx13fY1KHC2_jkUtBTlHMwBryA&oe=6AD8A4E1"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 54360739,
+      "valor_atual": 54356741,
+      "hash_anterior": "acbaa9234b653e1c674500b12705d25aadbbc1911fd62573b5ca461c9e891a37",
+      "hash_atual": "6e6d110ea3ea31f3ce64e25e2548e53f5a19daf7c5dea0dfd97a0de456869ecd",
+      "variacao": -3998,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33768.594662,
+        "texto": "9 horas e 22 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33768.594662,
+        "texto": "9 horas e 22 minutos e 48 segundos"
+      },
+      "titulo": "Perdeu 3.998 seguidores",
+      "descricao": "Os seguidores caíram de 54.360.739 para 54.356.741",
+      "variacao_texto": "-3.998 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T14:01:07.520100",
@@ -3176,26 +3272,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:55.957911",
-    "captura_mais_recente": "2026-10-16T14:01:07.520100",
-    "tempo_total_segundos": 926411,
-    "tempo_total_dias": 10.72235,
-    "tempo_total_texto": "10 dias, 17 horas, 20 minutos e 11 segundos",
+    "captura_mais_recente": "2026-10-16T23:27:20.584676",
+    "tempo_total_segundos": 960384,
+    "tempo_total_dias": 11.115556,
+    "tempo_total_texto": "11 dias, 2 horas, 46 minutos e 24 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -55671,
+      "variacao": -57375,
       "direcao": "perdeu",
-      "quantidade": 55671,
-      "texto": "Perdeu 55671 seguidores",
+      "quantidade": 57375,
+      "texto": "Perdeu 57375 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:30:43.551711",
-      "captura_fim": "2026-10-16T14:01:07.520100",
-      "seguidores_inicio": 54416410,
-      "seguidores_fim": 54360739
+      "captura_inicio": "2026-10-09T22:21:31.097379",
+      "captura_fim": "2026-10-16T23:27:20.584676",
+      "seguidores_inicio": 54414084,
+      "seguidores_fim": 54356709
     },
     "30_dias": {
       "variacao": null,
@@ -3214,17 +3310,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -155684,
+      "variacao": -159714,
       "direcao": "perdeu",
-      "quantidade": 155684,
-      "texto": "Perdeu 155684 seguidores",
+      "quantidade": 159714,
+      "texto": "Perdeu 159714 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:55.957911",
-      "captura_mais_recente": "2026-10-16T14:01:07.520100",
-      "tempo_total_dias": 10.722356,
+      "captura_mais_recente": "2026-10-16T23:27:20.584676",
+      "tempo_total_dias": 11.115563,
       "seguidores_inicio": 54516423,
-      "seguidores_fim": 54360739
+      "seguidores_fim": 54356709
     }
   }
 }
