@@ -8,7 +8,7 @@
       "id": "17841401752802236",
       "username": "flaviobolsonaro",
       "nome": "Flávio Bolsonaro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/789264118_18628382635058427_3919854993448411402_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FSnJbnUp15cQ7kNvwGz5Stf&_nc_oc=AdoQz3wjvyHJqXNWQR5fhmqB_cBieXeyDIfcFrqnFOcMiHMR-WhyjwKHRZp0B0cynddCFiFd7q6EF0LvY0L8AS1g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=im3-Zv1ff2Jd4zMaTAZAjQ&_nc_ss=70689&oh=00_AQO1X8nFvs8vQp1_nzbCjvU_Hom1PKvLRBo18Gz0-YlNjQ&oe=6AD83FBD"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/789264118_18628382635058427_3919854993448411402_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FSnJbnUp15cQ7kNvwGz5Stf&_nc_oc=AdoQz3wjvyHJqXNWQR5fhmqB_cBieXeyDIfcFrqnFOcMiHMR-WhyjwKHRZp0B0cynddCFiFd7q6EF0LvY0L8AS1g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=i9ye2CNRFwDvL1j6a7UR_Q&_nc_ss=70689&oh=00_AQOAwKYIKTLKRciAWnV1gPPnLaXTMhJz9R6yXj4F64ocTg&oe=6AD8B03D"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 14211758,
+        "valor_atual": 14248495,
+        "variacao": 36737,
+        "direcao": "aumento",
+        "descricao": "+36737 seguidores",
+        "timestamp": "2026-10-16T23:23:08.406879",
+        "timestamp_anterior": "2026-10-16T14:00:58.518561",
+        "tempo_desde_anterior_segundos": 33729
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -2314,6 +2327,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:08.406879",
+      "timestamp_anterior": "2026-10-16T14:00:58.518561",
+      "timestamp_atual": "2026-10-16T23:23:08.406879",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "politico",
+        "pk": 1423162426,
+        "id": "17841401752802236",
+        "username": "flaviobolsonaro",
+        "nome": "Flávio Bolsonaro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/789264118_18628382635058427_3919854993448411402_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FSnJbnUp15cQ7kNvwGz5Stf&_nc_oc=AdoQz3wjvyHJqXNWQR5fhmqB_cBieXeyDIfcFrqnFOcMiHMR-WhyjwKHRZp0B0cynddCFiFd7q6EF0LvY0L8AS1g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=i9ye2CNRFwDvL1j6a7UR_Q&_nc_ss=70689&oh=00_AQOAwKYIKTLKRciAWnV1gPPnLaXTMhJz9R6yXj4F64ocTg&oe=6AD8B03D"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 14211758,
+      "valor_atual": 14248495,
+      "hash_anterior": "5d4e24da1122ac2186102b845f29362c3885090a3ed419017067d3ec18f8ad41",
+      "hash_atual": "18ae8c624f6b8aba64c221a6542642fbe7e3516651d7094abe74165e7e19831a",
+      "variacao": 36737,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33729.888318,
+        "texto": "9 horas e 22 minutos e 9 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33729.888318,
+        "texto": "9 horas e 22 minutos e 9 segundos"
+      },
+      "titulo": "Ganhou 36.737 seguidores",
+      "descricao": "Os seguidores passaram de 14.211.758 para 14.248.495",
+      "variacao_texto": "+36.737 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T14:00:58.518561",
@@ -8127,26 +8175,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T13:36:02.574547",
-    "captura_mais_recente": "2026-10-16T14:00:58.518561",
-    "tempo_total_segundos": 1124695,
-    "tempo_total_dias": 13.017303,
-    "tempo_total_texto": "13 dias, 24 minutos e 55 segundos",
+    "captura_mais_recente": "2026-10-16T23:23:08.406879",
+    "tempo_total_segundos": 1158425,
+    "tempo_total_dias": 13.407697,
+    "tempo_total_texto": "13 dias, 9 horas, 47 minutos e 5 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 561234,
+      "variacao": 557212,
       "direcao": "ganhou",
-      "quantidade": 561234,
-      "texto": "Ganhou 561234 seguidores",
+      "quantidade": 557212,
+      "texto": "Ganhou 557212 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:31:38.031435",
-      "captura_fim": "2026-10-16T14:00:58.518561",
-      "seguidores_inicio": 13650524,
-      "seguidores_fim": 14211758
+      "captura_inicio": "2026-10-09T22:23:14.469024",
+      "captura_fim": "2026-10-16T23:23:08.406879",
+      "seguidores_inicio": 13691283,
+      "seguidores_fim": 14248495
     },
     "30_dias": {
       "variacao": null,
@@ -8165,17 +8213,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 1809594,
+      "variacao": 1846331,
       "direcao": "ganhou",
-      "quantidade": 1809594,
-      "texto": "Ganhou 1809594 seguidores",
+      "quantidade": 1846331,
+      "texto": "Ganhou 1846331 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T13:36:02.574547",
-      "captura_mais_recente": "2026-10-16T14:00:58.518561",
-      "tempo_total_dias": 13.017314,
+      "captura_mais_recente": "2026-10-16T23:23:08.406879",
+      "tempo_total_dias": 13.407706,
       "seguidores_inicio": 12402164,
-      "seguidores_fim": 14211758
+      "seguidores_fim": 14248495
     }
   }
 }
