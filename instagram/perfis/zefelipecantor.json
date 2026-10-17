@@ -8,7 +8,7 @@
       "id": "17841478466130332",
       "username": "zefelipecantor",
       "nome": "Zefelipe",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwGstwat&_nc_oc=Adp_AIXBpXpSTilSrEF3YYElhdsDIsf3XdrwDjSURoSlWoR-Bf2PKs0_GId9ZW3G28nkN4F3G6M77_7JdioEwBQs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UY5sk9rubDPI-4Qe9JXMAQ&_nc_ss=70689&oh=00_AQPat9vM-w68oE87NS31kwGYtx-mb6-s0cvrQjVOh8pRwg&oe=6AD8240C"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FbRQOKxw2YgQ7kNvwHwl3gU&_nc_oc=Adr6IKSxB6ph96a1hwxG1G5iBGy4Y-QFfRXkQ-3pYNLc1kyKl9cm496c3WyTayL5lqC7BgxaL-HXY_-yVXyVFwM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NKRzOLT3UKeeQBE0RTPi8w&_nc_ss=70689&oh=00_AQNQuJOqgTUazhNgtrXt4r3kxMv5wVjzgkxkxvkRSUYrtA&oe=6AD8948C"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 120,
+        "valor_atual": 124,
+        "variacao": 4,
+        "direcao": "aumento",
+        "descricao": "+4 seguidores",
+        "timestamp": "2026-10-16T23:24:10.086894",
+        "timestamp_anterior": "2026-10-16T13:54:29.319809",
+        "tempo_desde_anterior_segundos": 34180
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -360,6 +373,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:24:10.086894",
+      "timestamp_anterior": "2026-10-16T13:54:29.319809",
+      "timestamp_atual": "2026-10-16T23:24:10.086894",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 78402663537,
+        "id": "17841478466130332",
+        "username": "zefelipecantor",
+        "nome": "Zefelipe",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FbRQOKxw2YgQ7kNvwHwl3gU&_nc_oc=Adr6IKSxB6ph96a1hwxG1G5iBGy4Y-QFfRXkQ-3pYNLc1kyKl9cm496c3WyTayL5lqC7BgxaL-HXY_-yVXyVFwM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NKRzOLT3UKeeQBE0RTPi8w&_nc_ss=70689&oh=00_AQNQuJOqgTUazhNgtrXt4r3kxMv5wVjzgkxkxvkRSUYrtA&oe=6AD8948C"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 120,
+      "valor_atual": 124,
+      "hash_anterior": "8977c6a9f5286da41098db98f01cbb3d5cc222e214062208ca1160fa222ad8b6",
+      "hash_atual": "21baf8a72d4fb6f5ad725628b3a10e23af1856b0dba300f2d603e46217cba674",
+      "variacao": 4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 34180.767085,
+        "texto": "9 horas e 29 minutos e 40 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 34180.767085,
+        "texto": "9 horas e 29 minutos e 40 segundos"
+      },
+      "titulo": "Ganhou 4 seguidores",
+      "descricao": "Os seguidores passaram de 120 para 124",
+      "variacao_texto": "+4 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:54:29.319809",
@@ -923,26 +971,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:14.708032",
-    "captura_mais_recente": "2026-10-16T13:54:29.319809",
-    "tempo_total_segundos": 925994,
-    "tempo_total_dias": 10.717523,
-    "tempo_total_texto": "10 dias, 17 horas, 13 minutos e 14 segundos",
+    "captura_mais_recente": "2026-10-16T23:24:10.086894",
+    "tempo_total_segundos": 960175,
+    "tempo_total_dias": 11.113137,
+    "tempo_total_texto": "11 dias, 2 horas, 42 minutos e 55 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 24,
+      "variacao": 29,
       "direcao": "ganhou",
-      "quantidade": 24,
-      "texto": "Ganhou 24 seguidores",
+      "quantidade": 29,
+      "texto": "Ganhou 29 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:27:43.297013",
-      "captura_fim": "2026-10-16T13:54:29.319809",
-      "seguidores_inicio": 96,
-      "seguidores_fim": 120
+      "captura_inicio": "2026-10-09T22:21:47.242631",
+      "captura_fim": "2026-10-16T23:24:10.086894",
+      "seguidores_inicio": 95,
+      "seguidores_fim": 124
     },
     "30_dias": {
       "variacao": null,
@@ -961,17 +1009,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 32,
+      "variacao": 36,
       "direcao": "ganhou",
-      "quantidade": 32,
-      "texto": "Ganhou 32 seguidores",
+      "quantidade": 36,
+      "texto": "Ganhou 36 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:14.708032",
-      "captura_mais_recente": "2026-10-16T13:54:29.319809",
-      "tempo_total_dias": 10.71753,
+      "captura_mais_recente": "2026-10-16T23:24:10.086894",
+      "tempo_total_dias": 11.113141,
       "seguidores_inicio": 88,
-      "seguidores_fim": 120
+      "seguidores_fim": 124
     }
   }
 }
