@@ -8,7 +8,7 @@
       "id": "17841401692602711",
       "username": "cristiano",
       "nome": "Cristiano Ronaldo",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOog4-Tssv9pKag7tFUNidgC72M70M1O6QmrhhFzlB6GA&oe=6AD8395E"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNCX0ICOLrB5ov_zY9nGK3tyQXLDrrta05OVLcR1mWFGg&oe=6AD8A9DE"
     },
     "biografia": [
       {
@@ -310,6 +310,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 4143,
+        "valor_atual": 4144,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-16T23:23:14.371042",
+        "timestamp_anterior": "2026-10-15T00:22:53.947902",
+        "tempo_desde_anterior_segundos": 169220
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 4142,
         "valor_atual": 4143,
         "variacao": 1,
@@ -412,6 +425,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:14.371042",
+      "timestamp_anterior": "2026-10-16T13:53:33.224864",
+      "timestamp_atual": "2026-10-16T23:23:14.371042",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 173560420,
+        "id": "17841401692602711",
+        "username": "cristiano",
+        "nome": "Cristiano Ronaldo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNCX0ICOLrB5ov_zY9nGK3tyQXLDrrta05OVLcR1mWFGg&oe=6AD8A9DE"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 4143,
+      "valor_atual": 4144,
+      "hash_anterior": "2d2e05c172689aa14ab79ebccfa79f17e5a8fa6cdd44fda486ada7271e777962",
+      "hash_atual": "1ad244fe7348a656a7e49c0d491e9e48edfab1c692f2a9f82b97d1f456c18779",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 34181.146178,
+        "texto": "9 horas e 29 minutos e 41 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 34181.146178,
+        "texto": "9 horas e 29 minutos e 41 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 4.143 para 4.144",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:53:33.224864",
@@ -1079,10 +1127,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T13:20:19.931037",
-    "captura_mais_recente": "2026-10-16T13:53:33.224864",
-    "tempo_total_segundos": 1038793,
-    "tempo_total_dias": 12.023067,
-    "tempo_total_texto": "12 dias, 33 minutos e 13 segundos",
+    "captura_mais_recente": "2026-10-16T23:23:14.371042",
+    "tempo_total_segundos": 1072974,
+    "tempo_total_dias": 12.418681,
+    "tempo_total_texto": "12 dias, 10 horas, 2 minutos e 54 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
