@@ -8,7 +8,7 @@
       "id": "17841401339129512",
       "username": "jonatasfaro",
       "nome": "Jônatas Faro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809645858_18625449121044638_3881997221468879915_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=C4lGwECEHj8Q7kNvwFYo3l_&_nc_oc=AdoAHherZW216-PD7YY1_uMVnnJ1xhYBKOvHCOedFpI7PNC1KM4RpkXaRTiGxjz7H5V5pnvnVj1mXvkPjoN5yoaz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c1Buh8hqqsSG9d07c38B_w&_nc_ss=70689&oh=00_AQNhytgeu1ib26T1x98uMGhOY4aMzMjcTH2dF4J9xgcSdg&oe=6AD811F5"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809645858_18625449121044638_3881997221468879915_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=C4lGwECEHj8Q7kNvwFYo3l_&_nc_oc=AdoAHherZW216-PD7YY1_uMVnnJ1xhYBKOvHCOedFpI7PNC1KM4RpkXaRTiGxjz7H5V5pnvnVj1mXvkPjoN5yoaz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=18lo6FkjjeOLcj6KpbrkbQ&_nc_ss=70689&oh=00_AQPAmmStwAHHODBvfE4bS9iMYSP79JLR5pa5EzPqKW4B1A&oe=6AD8BAB5"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 295889,
+        "valor_atual": 295977,
+        "variacao": 88,
+        "direcao": "aumento",
+        "descricao": "+88 seguidores",
+        "timestamp": "2026-10-16T23:26:42.792226",
+        "timestamp_anterior": "2026-10-16T13:57:05.899763",
+        "tempo_desde_anterior_segundos": 34176
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -427,6 +440,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 358,
+        "valor_atual": 359,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-16T23:26:42.792226",
+        "timestamp_anterior": "2026-10-16T13:57:05.899763",
+        "tempo_desde_anterior_segundos": 34176
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 355,
         "valor_atual": 358,
         "variacao": 3,
@@ -581,6 +607,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:26:42.792226",
+      "timestamp_anterior": "2026-10-16T13:57:05.899763",
+      "timestamp_atual": "2026-10-16T23:26:42.792226",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1248812637,
+        "id": "17841401339129512",
+        "username": "jonatasfaro",
+        "nome": "Jônatas Faro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809645858_18625449121044638_3881997221468879915_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=C4lGwECEHj8Q7kNvwFYo3l_&_nc_oc=AdoAHherZW216-PD7YY1_uMVnnJ1xhYBKOvHCOedFpI7PNC1KM4RpkXaRTiGxjz7H5V5pnvnVj1mXvkPjoN5yoaz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=18lo6FkjjeOLcj6KpbrkbQ&_nc_ss=70689&oh=00_AQPAmmStwAHHODBvfE4bS9iMYSP79JLR5pa5EzPqKW4B1A&oe=6AD8BAB5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 295889,
+      "valor_atual": 295977,
+      "hash_anterior": "b3aa8ebac042d94df2649e374de440d9620a644d9338e9d31ca7ab9c1fc41cdd",
+      "hash_atual": "57527d72fc3063b60dcdc08496ebb237e81d1f9c2e039da4331845c0046996b5",
+      "variacao": 88,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 34176.892463,
+        "texto": "9 horas e 29 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 34176.892463,
+        "texto": "9 horas e 29 minutos e 36 segundos"
+      },
+      "titulo": "Ganhou 88 seguidores",
+      "descricao": "Os seguidores passaram de 295.889 para 295.977",
+      "variacao_texto": "+88 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:26:42.792226",
+      "timestamp_anterior": "2026-10-16T13:57:05.899763",
+      "timestamp_atual": "2026-10-16T23:26:42.792226",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1248812637,
+        "id": "17841401339129512",
+        "username": "jonatasfaro",
+        "nome": "Jônatas Faro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809645858_18625449121044638_3881997221468879915_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=C4lGwECEHj8Q7kNvwFYo3l_&_nc_oc=AdoAHherZW216-PD7YY1_uMVnnJ1xhYBKOvHCOedFpI7PNC1KM4RpkXaRTiGxjz7H5V5pnvnVj1mXvkPjoN5yoaz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=18lo6FkjjeOLcj6KpbrkbQ&_nc_ss=70689&oh=00_AQPAmmStwAHHODBvfE4bS9iMYSP79JLR5pa5EzPqKW4B1A&oe=6AD8BAB5"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 358,
+      "valor_atual": 359,
+      "hash_anterior": "b3aa8ebac042d94df2649e374de440d9620a644d9338e9d31ca7ab9c1fc41cdd",
+      "hash_atual": "57527d72fc3063b60dcdc08496ebb237e81d1f9c2e039da4331845c0046996b5",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 34176.892463,
+        "texto": "9 horas e 29 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 358 para 359",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:57:05.899763",
@@ -1740,26 +1836,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:15:35.013054",
-    "captura_mais_recente": "2026-10-16T13:57:05.899763",
-    "tempo_total_segundos": 931290,
-    "tempo_total_dias": 10.778819,
-    "tempo_total_texto": "10 dias, 18 horas, 41 minutos e 30 segundos",
+    "captura_mais_recente": "2026-10-16T23:26:42.792226",
+    "tempo_total_segundos": 965467,
+    "tempo_total_dias": 11.174387,
+    "tempo_total_texto": "11 dias, 4 horas, 11 minutos e 7 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 1610,
+      "variacao": 1615,
       "direcao": "ganhou",
-      "quantidade": 1610,
-      "texto": "Ganhou 1610 seguidores",
+      "quantidade": 1615,
+      "texto": "Ganhou 1615 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:31:07.946283",
-      "captura_fim": "2026-10-16T13:57:05.899763",
-      "seguidores_inicio": 294279,
-      "seguidores_fim": 295889
+      "captura_inicio": "2026-10-09T22:25:10.135093",
+      "captura_fim": "2026-10-16T23:26:42.792226",
+      "seguidores_inicio": 294362,
+      "seguidores_fim": 295977
     },
     "30_dias": {
       "variacao": null,
@@ -1778,17 +1874,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 2431,
+      "variacao": 2519,
       "direcao": "ganhou",
-      "quantidade": 2431,
-      "texto": "Ganhou 2431 seguidores",
+      "quantidade": 2519,
+      "texto": "Ganhou 2519 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:15:35.013054",
-      "captura_mais_recente": "2026-10-16T13:57:05.899763",
-      "tempo_total_dias": 10.77883,
+      "captura_mais_recente": "2026-10-16T23:26:42.792226",
+      "tempo_total_dias": 11.174396,
       "seguidores_inicio": 293458,
-      "seguidores_fim": 295889
+      "seguidores_fim": 295977
     }
   }
 }
