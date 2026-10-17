@@ -8,7 +8,7 @@
       "id": "17841406730768552",
       "username": "mayk.leao",
       "nome": "Mayk Leão",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/675410379_18361598971224359_8509201792373557831_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OcUwZ4jbSuYQ7kNvwHH6eRs&_nc_oc=Adpr6p9wAMMydEtqx7ChleTFoQzAovJCxBSENntSxqpRcy0_JVzKD62YOopXAgoTs_uJk18K9fJ0StFQN53pIpWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=p1fk-cAXAWYfaroZWm69IA&_nc_ss=70689&oh=00_AQOmO631VpLif7NBaIS5RREpyjdXgtiFJ2qXG5edpqXjLg&oe=6AD821E6"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/675410379_18361598971224359_8509201792373557831_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OcUwZ4jbSuYQ7kNvwHH6eRs&_nc_oc=Adpr6p9wAMMydEtqx7ChleTFoQzAovJCxBSENntSxqpRcy0_JVzKD62YOopXAgoTs_uJk18K9fJ0StFQN53pIpWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DHznuHsO898OGyT3p4BnFg&_nc_ss=70689&oh=00_AQN29FF2lf6AIocX2PXrF34eBeKZqP9K5Q3cmJIwPguqWQ&oe=6AD8CAA6"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 1892334,
+        "valor_atual": 1892160,
+        "variacao": -174,
+        "direcao": "reducao",
+        "descricao": "-174 seguidores",
+        "timestamp": "2026-10-16T23:27:24.549783",
+        "timestamp_anterior": "2026-10-16T13:57:48.707832",
+        "tempo_desde_anterior_segundos": 34175
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -568,6 +581,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:27:24.549783",
+      "timestamp_anterior": "2026-10-16T13:57:48.707832",
+      "timestamp_atual": "2026-10-16T23:27:24.549783",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6948416358,
+        "id": "17841406730768552",
+        "username": "mayk.leao",
+        "nome": "Mayk Leão",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/675410379_18361598971224359_8509201792373557831_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OcUwZ4jbSuYQ7kNvwHH6eRs&_nc_oc=Adpr6p9wAMMydEtqx7ChleTFoQzAovJCxBSENntSxqpRcy0_JVzKD62YOopXAgoTs_uJk18K9fJ0StFQN53pIpWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DHznuHsO898OGyT3p4BnFg&_nc_ss=70689&oh=00_AQN29FF2lf6AIocX2PXrF34eBeKZqP9K5Q3cmJIwPguqWQ&oe=6AD8CAA6"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 1892334,
+      "valor_atual": 1892160,
+      "hash_anterior": "62fbffd28bdd5d49ac38649edb7d3063694ae1fee64fca023c512b8e9988b4e1",
+      "hash_atual": "8888faa7c99dcdb57ff3fbbfcd3d6003e92fe33c104041efff5a2d4c94c21c40",
+      "variacao": -174,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 34175.841951,
+        "texto": "9 horas e 29 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 34175.841951,
+        "texto": "9 horas e 29 minutos e 35 segundos"
+      },
+      "titulo": "Perdeu 174 seguidores",
+      "descricao": "Os seguidores caíram de 1.892.334 para 1.892.160",
+      "variacao_texto": "-174 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:57:48.707832",
@@ -1692,26 +1740,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:16:32.142193",
-    "captura_mais_recente": "2026-10-16T13:57:48.707832",
-    "tempo_total_segundos": 931276,
-    "tempo_total_dias": 10.778657,
-    "tempo_total_texto": "10 dias, 18 horas, 41 minutos e 16 segundos",
+    "captura_mais_recente": "2026-10-16T23:27:24.549783",
+    "tempo_total_segundos": 965452,
+    "tempo_total_dias": 11.174213,
+    "tempo_total_texto": "11 dias, 4 horas, 10 minutos e 52 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -16154,
+      "variacao": -14932,
       "direcao": "perdeu",
-      "quantidade": 16154,
-      "texto": "Perdeu 16154 seguidores",
+      "quantidade": 14932,
+      "texto": "Perdeu 14932 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-08T18:31:33.723297",
-      "captura_fim": "2026-10-16T13:57:48.707832",
-      "seguidores_inicio": 1908488,
-      "seguidores_fim": 1892334
+      "captura_inicio": "2026-10-09T22:26:05.366606",
+      "captura_fim": "2026-10-16T23:27:24.549783",
+      "seguidores_inicio": 1907092,
+      "seguidores_fim": 1892160
     },
     "30_dias": {
       "variacao": null,
@@ -1730,17 +1778,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -21497,
+      "variacao": -21671,
       "direcao": "perdeu",
-      "quantidade": 21497,
-      "texto": "Perdeu 21497 seguidores",
+      "quantidade": 21671,
+      "texto": "Perdeu 21671 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:16:32.142193",
-      "captura_mais_recente": "2026-10-16T13:57:48.707832",
-      "tempo_total_dias": 10.778664,
+      "captura_mais_recente": "2026-10-16T23:27:24.549783",
+      "tempo_total_dias": 11.174218,
       "seguidores_inicio": 1913831,
-      "seguidores_fim": 1892334
+      "seguidores_fim": 1892160
     }
   }
 }
