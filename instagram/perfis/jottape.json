@@ -8,7 +8,7 @@
       "id": "17841400411004977",
       "username": "jottape",
       "nome": "Jottapê",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=On7FF1dXuv2LdP-NnCY9ow&_nc_ss=70689&oh=00_AQOu5o5cw7pyxV6isD6rCCW_Rvw0_WKJMa7LL7cMxcVhug&oe=6AD8B0B8"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 8301179,
+        "valor_atual": 8302993,
+        "variacao": 1814,
+        "direcao": "aumento",
+        "descricao": "+1814 seguidores",
+        "timestamp": "2026-10-16T23:26:56.646890",
+        "timestamp_anterior": "2026-10-16T13:57:20.865111",
+        "tempo_desde_anterior_segundos": 34175
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -689,6 +702,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:26:56.646890",
+      "timestamp_anterior": "2026-10-16T13:57:20.865111",
+      "timestamp_atual": "2026-10-16T23:26:56.646890",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 318541700,
+        "id": "17841400411004977",
+        "username": "jottape",
+        "nome": "Jottapê",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=On7FF1dXuv2LdP-NnCY9ow&_nc_ss=70689&oh=00_AQOu5o5cw7pyxV6isD6rCCW_Rvw0_WKJMa7LL7cMxcVhug&oe=6AD8B0B8"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 8301179,
+      "valor_atual": 8302993,
+      "hash_anterior": "57007b94e9d1e9c8cdd0745bb91bcf27141fa7c1b93025fab9f2e64d7128f253",
+      "hash_atual": "b328d8b773c29410763c1d289652230c8b9238c023fbed98b6c1df8cbb3d95f3",
+      "variacao": 1814,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 34175.781779,
+        "texto": "9 horas e 29 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 34175.781779,
+        "texto": "9 horas e 29 minutos e 35 segundos"
+      },
+      "titulo": "Ganhou 1.814 seguidores",
+      "descricao": "Os seguidores passaram de 8.301.179 para 8.302.993",
+      "variacao_texto": "+1.814 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:57:20.865111",
@@ -2128,26 +2176,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:15:53.915814",
-    "captura_mais_recente": "2026-10-16T13:57:20.865111",
-    "tempo_total_segundos": 931286,
-    "tempo_total_dias": 10.778773,
-    "tempo_total_texto": "10 dias, 18 horas, 41 minutos e 26 segundos",
+    "captura_mais_recente": "2026-10-16T23:26:56.646890",
+    "tempo_total_segundos": 965462,
+    "tempo_total_dias": 11.174329,
+    "tempo_total_texto": "11 dias, 4 horas, 11 minutos e 2 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -10993,
+      "variacao": -8508,
       "direcao": "perdeu",
-      "quantidade": 10993,
-      "texto": "Perdeu 10993 seguidores",
+      "quantidade": 8508,
+      "texto": "Perdeu 8508 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:31:26.306854",
-      "captura_fim": "2026-10-16T13:57:20.865111",
-      "seguidores_inicio": 8312172,
-      "seguidores_fim": 8301179
+      "captura_inicio": "2026-10-09T22:25:28.346892",
+      "captura_fim": "2026-10-16T23:26:56.646890",
+      "seguidores_inicio": 8311501,
+      "seguidores_fim": 8302993
     },
     "30_dias": {
       "variacao": null,
@@ -2166,17 +2214,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -19057,
+      "variacao": -17243,
       "direcao": "perdeu",
-      "quantidade": 19057,
-      "texto": "Perdeu 19057 seguidores",
+      "quantidade": 17243,
+      "texto": "Perdeu 17243 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:15:53.915814",
-      "captura_mais_recente": "2026-10-16T13:57:20.865111",
-      "tempo_total_dias": 10.778784,
+      "captura_mais_recente": "2026-10-16T23:26:56.646890",
+      "tempo_total_dias": 11.174337,
       "seguidores_inicio": 8320236,
-      "seguidores_fim": 8301179
+      "seguidores_fim": 8302993
     }
   }
 }
