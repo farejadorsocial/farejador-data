@@ -8,7 +8,7 @@
       "id": "17841400343534508",
       "username": "palmeiras",
       "nome": "SE Palmeiras",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=B7SUOdQcV9MQ7kNvwGlADZU&_nc_oc=AdryPadqVYRX73cwHMAqrU5Oq_GwPg7g4dWEaWqJCayaWSMbaachzKybJxt1G9fOx1iIcM5hmXIISXgEPDJQ9QrU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qsi9zYjCWgS-fTnkjQ70AQ&_nc_ss=70689&oh=00_AQPhCKiPn9HZkYnz83pE-HQX9oj1nZ1_BX3Uuus9ZZ88uA&oe=6AD82038"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=B7SUOdQcV9MQ7kNvwGlADZU&_nc_oc=AdryPadqVYRX73cwHMAqrU5Oq_GwPg7g4dWEaWqJCayaWSMbaachzKybJxt1G9fOx1iIcM5hmXIISXgEPDJQ9QrU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DLHWCvbX44eSL4ltZ-xAaw&_nc_ss=70689&oh=00_AQMgL2LKWVjMwnkPFMOC2egWJ2x43aaFxdNa6q88uvn2CQ&oe=6AD8C8F8"
     },
     "biografia": [
       {
@@ -85,6 +85,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 7709388,
+        "valor_atual": 7709384,
+        "variacao": -4,
+        "direcao": "reducao",
+        "descricao": "-4 seguidores",
+        "timestamp": "2026-10-16T23:27:21.985512",
+        "timestamp_anterior": "2026-10-16T23:23:57.180189",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 7708729,
+        "valor_atual": 7709388,
+        "variacao": 659,
+        "direcao": "aumento",
+        "descricao": "+659 seguidores",
+        "timestamp": "2026-10-16T23:23:57.180189",
+        "timestamp_anterior": "2026-10-16T14:01:04.120773",
+        "tempo_desde_anterior_segundos": 33773
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -533,6 +559,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:27:21.985512",
+      "timestamp_anterior": "2026-10-16T23:23:57.180189",
+      "timestamp_atual": "2026-10-16T23:27:21.985512",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 288523451,
+        "id": "17841400343534508",
+        "username": "palmeiras",
+        "nome": "SE Palmeiras",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=B7SUOdQcV9MQ7kNvwGlADZU&_nc_oc=AdryPadqVYRX73cwHMAqrU5Oq_GwPg7g4dWEaWqJCayaWSMbaachzKybJxt1G9fOx1iIcM5hmXIISXgEPDJQ9QrU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DLHWCvbX44eSL4ltZ-xAaw&_nc_ss=70689&oh=00_AQMgL2LKWVjMwnkPFMOC2egWJ2x43aaFxdNa6q88uvn2CQ&oe=6AD8C8F8"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 7709388,
+      "valor_atual": 7709384,
+      "hash_anterior": "85f720a6c0a964e8367015e1555b0051b5cab2d84017044e7b98e98c08a943a2",
+      "hash_atual": "9dd9a4be3cfc0b8b61a5ab279d20370a5bed5f3971747841f43085c95dd1c56b",
+      "variacao": -4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.805323,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.805323,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 4 seguidores",
+      "descricao": "Os seguidores caíram de 7.709.388 para 7.709.384",
+      "variacao_texto": "-4 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:23:57.180189",
+      "timestamp_anterior": "2026-10-16T14:01:04.120773",
+      "timestamp_atual": "2026-10-16T23:23:57.180189",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 288523451,
+        "id": "17841400343534508",
+        "username": "palmeiras",
+        "nome": "SE Palmeiras",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=B7SUOdQcV9MQ7kNvwGlADZU&_nc_oc=AdryPadqVYRX73cwHMAqrU5Oq_GwPg7g4dWEaWqJCayaWSMbaachzKybJxt1G9fOx1iIcM5hmXIISXgEPDJQ9QrU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AvZ10ZnK3lX8AOtdNWsM5w&_nc_ss=70689&oh=00_AQNu1h1kZaA3n5mXds2jfboH0-jus8Zt9rwZCfnPzy-Aqw&oe=6AD8C8F8"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 7708729,
+      "valor_atual": 7709388,
+      "hash_anterior": "572e30b3d2a2601cf9f08bbcb62bf8da03a56aad5bfef8987076c6671bad5201",
+      "hash_atual": "85f720a6c0a964e8367015e1555b0051b5cab2d84017044e7b98e98c08a943a2",
+      "variacao": 659,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33773.059416,
+        "texto": "9 horas e 22 minutos e 53 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33773.059416,
+        "texto": "9 horas e 22 minutos e 53 segundos"
+      },
+      "titulo": "Ganhou 659 seguidores",
+      "descricao": "Os seguidores passaram de 7.708.729 para 7.709.388",
+      "variacao_texto": "+659 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T14:01:04.120773",
@@ -1552,26 +1648,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:53.359186",
-    "captura_mais_recente": "2026-10-16T14:01:04.120773",
-    "tempo_total_segundos": 836350,
-    "tempo_total_dias": 9.679977,
-    "tempo_total_texto": "9 dias, 16 horas, 19 minutos e 10 segundos",
+    "captura_mais_recente": "2026-10-16T23:27:21.985512",
+    "tempo_total_segundos": 870328,
+    "tempo_total_dias": 10.073241,
+    "tempo_total_texto": "10 dias, 1 hora, 45 minutos e 28 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 24892,
+      "variacao": 24240,
       "direcao": "ganhou",
-      "quantidade": 24892,
-      "texto": "Ganhou 24892 seguidores",
+      "quantidade": 24240,
+      "texto": "Ganhou 24240 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:30:42.273114",
-      "captura_fim": "2026-10-16T14:01:04.120773",
-      "seguidores_inicio": 7683837,
-      "seguidores_fim": 7708729
+      "captura_inicio": "2026-10-09T22:21:25.423896",
+      "captura_fim": "2026-10-16T23:27:21.985512",
+      "seguidores_inicio": 7685144,
+      "seguidores_fim": 7709384
     },
     "30_dias": {
       "variacao": null,
@@ -1590,17 +1686,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 25514,
+      "variacao": 26169,
       "direcao": "ganhou",
-      "quantidade": 25514,
-      "texto": "Ganhou 25514 seguidores",
+      "quantidade": 26169,
+      "texto": "Ganhou 26169 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:53.359186",
-      "captura_mais_recente": "2026-10-16T14:01:04.120773",
-      "tempo_total_dias": 9.679986,
+      "captura_mais_recente": "2026-10-16T23:27:21.985512",
+      "tempo_total_dias": 10.073248,
       "seguidores_inicio": 7683215,
-      "seguidores_fim": 7708729
+      "seguidores_fim": 7709384
     }
   }
 }
