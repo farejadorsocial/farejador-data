@@ -8,7 +8,7 @@
       "id": "17841401845019285",
       "username": "karimbenzema",
       "nome": "Karim Benzema",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uM9QwIZ5B8YQ7kNvwEC2n8S&_nc_oc=AdoECyEg-EgjRYDK9XYS5E_2ORLIdLmUuJTVKNjSBVdKruWGRfKelzu3b9AOc7ccRN_M3dUxr-ofbTJ9ebaaOFks&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMfKOinFdaavSvaDhaLFgkwWPq1YZyCDjg8u-X3BSvmGQ&oe=6AD82C65"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uM9QwIZ5B8YQ7kNvwEC2n8S&_nc_oc=AdoECyEg-EgjRYDK9XYS5E_2ORLIdLmUuJTVKNjSBVdKruWGRfKelzu3b9AOc7ccRN_M3dUxr-ofbTJ9ebaaOFks&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNRvYJnGYN5w1v7R1raOJbw3nnc5mbBj6alrFXwyyK9eA&oe=6AD89CE5"
     },
     "biografia": [
       {
@@ -94,6 +94,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 74408042,
+        "valor_atual": 74408024,
+        "variacao": -18,
+        "direcao": "reducao",
+        "descricao": "-18 seguidores",
+        "timestamp": "2026-10-16T23:28:03.427164",
+        "timestamp_anterior": "2026-10-16T23:24:39.133667",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 74410000,
+        "valor_atual": 74408042,
+        "variacao": -1958,
+        "direcao": "reducao",
+        "descricao": "-1958 seguidores",
+        "timestamp": "2026-10-16T23:24:39.133667",
+        "timestamp_anterior": "2026-10-16T13:58:20.513914",
+        "tempo_desde_anterior_segundos": 33978
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -763,6 +789,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:28:03.427164",
+      "timestamp_anterior": "2026-10-16T23:24:39.133667",
+      "timestamp_atual": "2026-10-16T23:28:03.427164",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 1234301500,
+        "id": "17841401845019285",
+        "username": "karimbenzema",
+        "nome": "Karim Benzema",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uM9QwIZ5B8YQ7kNvwEC2n8S&_nc_oc=AdoECyEg-EgjRYDK9XYS5E_2ORLIdLmUuJTVKNjSBVdKruWGRfKelzu3b9AOc7ccRN_M3dUxr-ofbTJ9ebaaOFks&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNRvYJnGYN5w1v7R1raOJbw3nnc5mbBj6alrFXwyyK9eA&oe=6AD89CE5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 74408042,
+      "valor_atual": 74408024,
+      "hash_anterior": "447f2a3b6e11a359fa278378a316de23736a7371f2b607e33c167d15afe8aa7b",
+      "hash_atual": "70eea232544e272dd51b6e867ebc3f8933698778669210c1e26930d3fc981e7b",
+      "variacao": -18,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.293497,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.293497,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 18 seguidores",
+      "descricao": "Os seguidores caíram de 74.408.042 para 74.408.024",
+      "variacao_texto": "-18 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-16T23:24:39.133667",
+      "timestamp_anterior": "2026-10-16T13:58:20.513914",
+      "timestamp_atual": "2026-10-16T23:24:39.133667",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 1234301500,
+        "id": "17841401845019285",
+        "username": "karimbenzema",
+        "nome": "Karim Benzema",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uM9QwIZ5B8YQ7kNvwEC2n8S&_nc_oc=AdoECyEg-EgjRYDK9XYS5E_2ORLIdLmUuJTVKNjSBVdKruWGRfKelzu3b9AOc7ccRN_M3dUxr-ofbTJ9ebaaOFks&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNRvYJnGYN5w1v7R1raOJbw3nnc5mbBj6alrFXwyyK9eA&oe=6AD89CE5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 74410000,
+      "valor_atual": 74408042,
+      "hash_anterior": "e3b622e70a7b3e3af403dc1d608f420fcc598383dcd13552a9abc0f5d4ce0af6",
+      "hash_atual": "447f2a3b6e11a359fa278378a316de23736a7371f2b607e33c167d15afe8aa7b",
+      "variacao": -1958,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 33978.619753,
+        "texto": "9 horas e 26 minutos e 18 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 33978.619753,
+        "texto": "9 horas e 26 minutos e 18 segundos"
+      },
+      "titulo": "Perdeu 1.958 seguidores",
+      "descricao": "Os seguidores caíram de 74.410.000 para 74.408.042",
+      "variacao_texto": "-1.958 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-16T13:58:20.513914",
@@ -2411,26 +2507,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:51.062618",
-    "captura_mais_recente": "2026-10-16T13:58:20.513914",
-    "tempo_total_segundos": 926189,
-    "tempo_total_dias": 10.71978,
-    "tempo_total_texto": "10 dias, 17 horas, 16 minutos e 29 segundos",
+    "captura_mais_recente": "2026-10-16T23:28:03.427164",
+    "tempo_total_segundos": 960372,
+    "tempo_total_dias": 11.115417,
+    "tempo_total_texto": "11 dias, 2 horas, 46 minutos e 12 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -12115,
+      "variacao": -16639,
       "direcao": "perdeu",
-      "quantidade": 12115,
-      "texto": "Perdeu 12115 seguidores",
+      "quantidade": 16639,
+      "texto": "Perdeu 16639 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:31:50.238369",
-      "captura_fim": "2026-10-16T13:58:20.513914",
-      "seguidores_inicio": 74422115,
-      "seguidores_fim": 74410000
+      "captura_inicio": "2026-10-09T22:22:21.733482",
+      "captura_fim": "2026-10-16T23:28:03.427164",
+      "seguidores_inicio": 74424663,
+      "seguidores_fim": 74408024
     },
     "30_dias": {
       "variacao": null,
@@ -2449,17 +2545,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -6434,
+      "variacao": -8410,
       "direcao": "perdeu",
-      "quantidade": 6434,
-      "texto": "Perdeu 6434 seguidores",
+      "quantidade": 8410,
+      "texto": "Perdeu 8410 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:51.062618",
-      "captura_mais_recente": "2026-10-16T13:58:20.513914",
-      "tempo_total_dias": 10.719785,
+      "captura_mais_recente": "2026-10-16T23:28:03.427164",
+      "tempo_total_dias": 11.115421,
       "seguidores_inicio": 74416434,
-      "seguidores_fim": 74410000
+      "seguidores_fim": 74408024
     }
   }
 }
