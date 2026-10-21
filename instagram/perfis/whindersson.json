@@ -8,7 +8,7 @@
       "id": "17841404957292171",
       "username": "whindersson",
       "nome": "whindersson",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/17333874_1302289836483924_6241696256960233472_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDQuQzMifQ%3D%3D&_nc_ohc=wTBEmvIdy-8Q7kNvwG9dX3q&_nc_oc=AdoLAUz49R6zRtfy2Fa5tz8Ut4ktGeb8MZyUBBgK7CLFJ1DSY1YEp_anxA-pCicnsCHSCHtf5Q011F0DdeCKHtkJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMkEX2mLgbPa21qSl-Kr6aXU6rLMAgBSDp8EViGBM-SrQ&oe=6AD6BDCD"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/17333874_1302289836483924_6241696256960233472_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDQuQzMifQ%3D%3D&_nc_ohc=RIofp-ov5mkQ7kNvwG4cUsj&_nc_oc=AdpGJ3tXn_DOri2SL6dOBXw5RHj_MykYnx1a8XfXbSg--hDkdeTmR4v8l2IypIdN8utleDRoa6EqEDukr-1mO9hf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNX82OWkg580jpVS3kepzqFo0BiBmwieTv4HdMoLgxzwA&oe=6ADEDF0D"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 456,
+        "valor_atual": 457,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-21T17:35:52.362516",
+        "timestamp_anterior": "2026-10-15T12:01:36.057758",
+        "tempo_desde_anterior_segundos": 538456
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -204,6 +217,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-21T17:35:52.362516",
+      "timestamp_anterior": "2026-10-15T12:01:36.057758",
+      "timestamp_atual": "2026-10-21T17:35:52.362516",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 4817373243,
+        "id": "17841404957292171",
+        "username": "whindersson",
+        "nome": "whindersson",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/17333874_1302289836483924_6241696256960233472_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDQuQzMifQ%3D%3D&_nc_ohc=RIofp-ov5mkQ7kNvwG4cUsj&_nc_oc=AdpGJ3tXn_DOri2SL6dOBXw5RHj_MykYnx1a8XfXbSg--hDkdeTmR4v8l2IypIdN8utleDRoa6EqEDukr-1mO9hf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNX82OWkg580jpVS3kepzqFo0BiBmwieTv4HdMoLgxzwA&oe=6ADEDF0D"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 456,
+      "valor_atual": 457,
+      "hash_anterior": "c8c397d11001a98d65f30cdcbe351c10407fa1185385536361f38761761ddb0d",
+      "hash_atual": "cb7ac17704e51c4f47f02757518aaf6875cd90a71ba03eeb03914c70eed09e9e",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 538456.304758,
+        "texto": "6 dias e 5 horas e 34 minutos e 16 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 538456.304758,
+        "texto": "6 dias e 5 horas e 34 minutos e 16 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 456 para 457",
+      "variacao_texto": "+1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-15T12:01:36.057758",
@@ -347,10 +395,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:12.274431",
-    "captura_mais_recente": "2026-10-15T12:01:36.057758",
-    "tempo_total_segundos": 742823,
-    "tempo_total_dias": 8.597488,
-    "tempo_total_texto": "8 dias, 14 horas, 20 minutos e 23 segundos",
+    "captura_mais_recente": "2026-10-21T17:35:52.362516",
+    "tempo_total_segundos": 1281280,
+    "tempo_total_dias": 14.82963,
+    "tempo_total_texto": "14 dias, 19 horas, 54 minutos e 40 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
@@ -363,10 +411,10 @@
       "texto": "Não ganhou nem perdeu seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-07T13:01:28.599775",
-      "captura_fim": "2026-10-15T12:01:36.057758",
-      "seguidores_inicio": 456,
-      "seguidores_fim": 456
+      "captura_inicio": "2026-10-09T22:20:47.516813",
+      "captura_fim": "2026-10-21T17:35:52.362516",
+      "seguidores_inicio": 457,
+      "seguidores_fim": 457
     },
     "30_dias": {
       "variacao": null,
@@ -385,17 +433,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 1,
+      "variacao": 2,
       "direcao": "ganhou",
-      "quantidade": 1,
-      "texto": "Ganhou 1 seguidor",
+      "quantidade": 2,
+      "texto": "Ganhou 2 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:12.274431",
-      "captura_mais_recente": "2026-10-15T12:01:36.057758",
-      "tempo_total_dias": 8.597497,
+      "captura_mais_recente": "2026-10-21T17:35:52.362516",
+      "tempo_total_dias": 14.829631,
       "seguidores_inicio": 455,
-      "seguidores_fim": 456
+      "seguidores_fim": 457
     }
   }
 }
