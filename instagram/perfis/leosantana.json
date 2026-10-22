@@ -8,7 +8,7 @@
       "id": "17841401641960121",
       "username": "leosantana",
       "nome": "O GIGANTE",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/830342602_18628492648054733_8522446883370890591_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=skCy77JwzK0Q7kNvwEWcKz_&_nc_oc=AdrwSvOE-8E-WO15iQR0oqK1pDsq0SARNgGrMdQyAU7Maz-52MV_uOg9mybAoi14RYzyi3L1PnLv8GkZC3C7gRQW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Yypx744mqAoKgcS3UpXYw&_nc_ss=70689&oh=00_AQM9DGQDtqWi7tJmboBWoPJJgwa80MmMAocV104mwPg8SA&oe=6AE05D0C"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/830342602_18628492648054733_8522446883370890591_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=skCy77JwzK0Q7kNvwEWcKz_&_nc_oc=AdrwSvOE-8E-WO15iQR0oqK1pDsq0SARNgGrMdQyAU7Maz-52MV_uOg9mybAoi14RYzyi3L1PnLv8GkZC3C7gRQW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yJNqAudTxXOMfyKGWlqd7Q&_nc_ss=70689&oh=00_AQPzwyPte9VN3eJnzMFfSiBmdmIbv_v26AYtpj1-0QkZxw&oe=6AE05D0C"
     },
     "biografia": [
       {
@@ -131,6 +131,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 22123937,
+        "valor_atual": 22123933,
+        "variacao": -4,
+        "direcao": "reducao",
+        "descricao": "-4 seguidores",
+        "timestamp": "2026-10-22T19:38:20.026435",
+        "timestamp_anterior": "2026-10-22T19:23:08.749603",
+        "tempo_desde_anterior_segundos": 911
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1034,6 +1047,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:20.026435",
+      "timestamp_anterior": "2026-10-22T19:23:08.749603",
+      "timestamp_atual": "2026-10-22T19:38:20.026435",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 7798732,
+        "id": "17841401641960121",
+        "username": "leosantana",
+        "nome": "O GIGANTE",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/830342602_18628492648054733_8522446883370890591_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=skCy77JwzK0Q7kNvwEWcKz_&_nc_oc=AdrwSvOE-8E-WO15iQR0oqK1pDsq0SARNgGrMdQyAU7Maz-52MV_uOg9mybAoi14RYzyi3L1PnLv8GkZC3C7gRQW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yJNqAudTxXOMfyKGWlqd7Q&_nc_ss=70689&oh=00_AQPzwyPte9VN3eJnzMFfSiBmdmIbv_v26AYtpj1-0QkZxw&oe=6AE05D0C"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 22123937,
+      "valor_atual": 22123933,
+      "hash_anterior": "8b24cebfae68fd7f3873f61598b8d305ec40f180c151e42b1536c0da3a809fa1",
+      "hash_atual": "4f235158ae82bfca0b9f77a87c2089d860b7d376de22d5af6b94d1321f4959b0",
+      "variacao": -4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 911.276832,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 911.276832,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 4 seguidores",
+      "descricao": "Os seguidores caíram de 22.123.937 para 22.123.933",
+      "variacao_texto": "-4 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:08.749603",
@@ -3363,26 +3411,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:51.234487",
-    "captura_mais_recente": "2026-10-22T19:23:08.749603",
-    "tempo_total_segundos": 1464077,
-    "tempo_total_dias": 16.945336,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 17 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:20.026435",
+    "tempo_total_segundos": 1464988,
+    "tempo_total_dias": 16.95588,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 28 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -14747,
+      "variacao": -14751,
       "direcao": "perdeu",
-      "quantidade": 14747,
-      "texto": "Perdeu 14747 seguidores",
+      "quantidade": 14751,
+      "texto": "Perdeu 14751 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:33.024377",
-      "captura_fim": "2026-10-22T19:23:08.749603",
+      "captura_fim": "2026-10-22T19:38:20.026435",
       "seguidores_inicio": 22138684,
-      "seguidores_fim": 22123937
+      "seguidores_fim": 22123933
     },
     "30_dias": {
       "variacao": null,
@@ -3401,17 +3449,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -34266,
+      "variacao": -34270,
       "direcao": "perdeu",
-      "quantidade": 34266,
-      "texto": "Perdeu 34266 seguidores",
+      "quantidade": 34270,
+      "texto": "Perdeu 34270 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:51.234487",
-      "captura_mais_recente": "2026-10-22T19:23:08.749603",
-      "tempo_total_dias": 16.945342,
+      "captura_mais_recente": "2026-10-22T19:38:20.026435",
+      "tempo_total_dias": 16.955889,
       "seguidores_inicio": 22158203,
-      "seguidores_fim": 22123937
+      "seguidores_fim": 22123933
     }
   }
 }
