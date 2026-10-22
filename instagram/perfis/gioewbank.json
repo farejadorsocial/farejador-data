@@ -8,7 +8,7 @@
       "id": "17841400247950209",
       "username": "gioewbank",
       "nome": "Giovanna Ewbank",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/553247214_18537917254008266_5153392008468820796_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uS_LiSZRRp4Q7kNvwFAl7q9&_nc_oc=AdrKn66eIZoIXzxbf4nA2Ozjt_EdJv95oxe8hzlBFwkRjrmK3IiW9LHqBdNpTwuZhN8QA7eCrEs_JLs9fbhbhoLE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3cKBjzKyRWqcF50HeF5Mng&_nc_ss=70689&oh=00_AQO4g-fzpQDGICo_SYrb54nihijLZR26Y-XC_K6o4SWvYg&oe=6AE06E78"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/553247214_18537917254008266_5153392008468820796_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uS_LiSZRRp4Q7kNvwFAl7q9&_nc_oc=AdrKn66eIZoIXzxbf4nA2Ozjt_EdJv95oxe8hzlBFwkRjrmK3IiW9LHqBdNpTwuZhN8QA7eCrEs_JLs9fbhbhoLE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4twCBAhYzYssPUfYrfYrhQ&_nc_ss=70689&oh=00_AQO6DnvV9vc-QvcSSIC2G-4EfmYByrWk4lhS8LsQnqaDFQ&oe=6AE06E78"
     },
     "biografia": [
       {
@@ -88,6 +88,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 27916620,
+        "valor_atual": 27916586,
+        "variacao": -34,
+        "direcao": "reducao",
+        "descricao": "-34 seguidores",
+        "timestamp": "2026-10-22T19:38:48.956842",
+        "timestamp_anterior": "2026-10-22T19:23:35.567856",
+        "tempo_desde_anterior_segundos": 913
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -952,6 +965,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:48.956842",
+      "timestamp_anterior": "2026-10-22T19:23:35.567856",
+      "timestamp_atual": "2026-10-22T19:38:48.956842",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 13384265,
+        "id": "17841400247950209",
+        "username": "gioewbank",
+        "nome": "Giovanna Ewbank",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/553247214_18537917254008266_5153392008468820796_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uS_LiSZRRp4Q7kNvwFAl7q9&_nc_oc=AdrKn66eIZoIXzxbf4nA2Ozjt_EdJv95oxe8hzlBFwkRjrmK3IiW9LHqBdNpTwuZhN8QA7eCrEs_JLs9fbhbhoLE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4twCBAhYzYssPUfYrfYrhQ&_nc_ss=70689&oh=00_AQO6DnvV9vc-QvcSSIC2G-4EfmYByrWk4lhS8LsQnqaDFQ&oe=6AE06E78"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 27916620,
+      "valor_atual": 27916586,
+      "hash_anterior": "98be1742486cdb8ffe128653a73c5f8ff0d719e4db48332a9da9426b442fddc7",
+      "hash_atual": "0b3d1a2a32807a66eed0a332c546c9f69f45de12e2489756d645e20d762ef437",
+      "variacao": -34,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 913.388986,
+        "texto": "15 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 913.388986,
+        "texto": "15 minutos e 13 segundos"
+      },
+      "titulo": "Perdeu 34 seguidores",
+      "descricao": "Os seguidores caíram de 27.916.620 para 27.916.586",
+      "variacao_texto": "-34 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:35.567856",
@@ -3091,26 +3139,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:10.346907",
-    "captura_mais_recente": "2026-10-22T19:23:35.567856",
-    "tempo_total_segundos": 1464085,
-    "tempo_total_dias": 16.945428,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 25 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:48.956842",
+    "tempo_total_segundos": 1464998,
+    "tempo_total_dias": 16.955995,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 38 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -87850,
+      "variacao": -87884,
       "direcao": "perdeu",
-      "quantidade": 87850,
-      "texto": "Perdeu 87850 seguidores",
+      "quantidade": 87884,
+      "texto": "Perdeu 87884 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:03:02.269204",
-      "captura_fim": "2026-10-22T19:23:35.567856",
+      "captura_fim": "2026-10-22T19:38:48.956842",
       "seguidores_inicio": 28004470,
-      "seguidores_fim": 27916620
+      "seguidores_fim": 27916586
     },
     "30_dias": {
       "variacao": null,
@@ -3129,17 +3177,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -163022,
+      "variacao": -163056,
       "direcao": "perdeu",
-      "quantidade": 163022,
-      "texto": "Perdeu 163022 seguidores",
+      "quantidade": 163056,
+      "texto": "Perdeu 163056 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:10.346907",
-      "captura_mais_recente": "2026-10-22T19:23:35.567856",
-      "tempo_total_dias": 16.945431,
+      "captura_mais_recente": "2026-10-22T19:38:48.956842",
+      "tempo_total_dias": 16.956002,
       "seguidores_inicio": 28079642,
-      "seguidores_fim": 27916620
+      "seguidores_fim": 27916586
     }
   }
 }
