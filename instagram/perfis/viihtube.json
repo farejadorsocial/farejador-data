@@ -8,7 +8,7 @@
       "id": "17841400275492848",
       "username": "viihtube",
       "nome": "Viih Tube",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/778915761_18628992865009184_5205770166480574107_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=QwXyNgRN1SwQ7kNvwHvD_uj&_nc_oc=Adq61JUKeV0Pbwa6DvwdDKrdfwy5EmXF_emCrko9i6_Y6tx3ztpw9jKTn2WyS1rBv1G6hc07S21ZXTh63qmzazK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=z0tkNHXm5ask-w0Z24L9aw&_nc_ss=70689&oh=00_AQNTeSsOZkYzBL-8Y83pbUudFTqFcDiMYobHQKghtJosCg&oe=6AE04F17"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/778915761_18628992865009184_5205770166480574107_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=QwXyNgRN1SwQ7kNvwHvD_uj&_nc_oc=Adq61JUKeV0Pbwa6DvwdDKrdfwy5EmXF_emCrko9i6_Y6tx3ztpw9jKTn2WyS1rBv1G6hc07S21ZXTh63qmzazK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QeqGDyWahz_oEiUdqrz_aA&_nc_ss=70689&oh=00_AQNuPOR5BPxy0QS7stNc5TEp1io5D6Q7zz4PPnn5l8e4KA&oe=6AE04F17"
     },
     "biografia": [
       {
@@ -145,6 +145,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 31754290,
+        "valor_atual": 31754270,
+        "variacao": -20,
+        "direcao": "reducao",
+        "descricao": "-20 seguidores",
+        "timestamp": "2026-10-22T19:38:47.860676",
+        "timestamp_anterior": "2026-10-22T19:23:35.383556",
+        "tempo_desde_anterior_segundos": 912
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1009,6 +1022,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:47.860676",
+      "timestamp_anterior": "2026-10-22T19:23:35.383556",
+      "timestamp_atual": "2026-10-22T19:38:47.860676",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 182281183,
+        "id": "17841400275492848",
+        "username": "viihtube",
+        "nome": "Viih Tube",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/778915761_18628992865009184_5205770166480574107_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=QwXyNgRN1SwQ7kNvwHvD_uj&_nc_oc=Adq61JUKeV0Pbwa6DvwdDKrdfwy5EmXF_emCrko9i6_Y6tx3ztpw9jKTn2WyS1rBv1G6hc07S21ZXTh63qmzazK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QeqGDyWahz_oEiUdqrz_aA&_nc_ss=70689&oh=00_AQNuPOR5BPxy0QS7stNc5TEp1io5D6Q7zz4PPnn5l8e4KA&oe=6AE04F17"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 31754290,
+      "valor_atual": 31754270,
+      "hash_anterior": "8dd673ac4f402a2a1d0f339d3db13180a9fe8c7b26ff2b912a04134a542919fe",
+      "hash_atual": "8c04ba769fa847d050366fddc94a58185cf2b26276dae5bfe5ae3f1e2f58d38c",
+      "variacao": -20,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.47712,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.47712,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Perdeu 20 seguidores",
+      "descricao": "Os seguidores caíram de 31.754.290 para 31.754.270",
+      "variacao_texto": "-20 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:35.383556",
@@ -3292,26 +3340,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:09.994477",
-    "captura_mais_recente": "2026-10-22T19:23:35.383556",
-    "tempo_total_segundos": 1374025,
-    "tempo_total_dias": 15.903067,
-    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 25 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:47.860676",
+    "tempo_total_segundos": 1374937,
+    "tempo_total_dias": 15.913623,
+    "tempo_total_texto": "15 dias, 21 horas, 55 minutos e 37 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -45128,
+      "variacao": -45148,
       "direcao": "perdeu",
-      "quantidade": 45128,
-      "texto": "Perdeu 45128 seguidores",
+      "quantidade": 45148,
+      "texto": "Perdeu 45148 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T13:49:46.995521",
-      "captura_fim": "2026-10-22T19:23:35.383556",
+      "captura_fim": "2026-10-22T19:38:47.860676",
       "seguidores_inicio": 31799418,
-      "seguidores_fim": 31754290
+      "seguidores_fim": 31754270
     },
     "30_dias": {
       "variacao": null,
@@ -3330,17 +3378,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -125641,
+      "variacao": -125661,
       "direcao": "perdeu",
-      "quantidade": 125641,
-      "texto": "Perdeu 125641 seguidores",
+      "quantidade": 125661,
+      "texto": "Perdeu 125661 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:09.994477",
-      "captura_mais_recente": "2026-10-22T19:23:35.383556",
-      "tempo_total_dias": 15.903072,
+      "captura_mais_recente": "2026-10-22T19:38:47.860676",
+      "tempo_total_dias": 15.913633,
       "seguidores_inicio": 31879931,
-      "seguidores_fim": 31754290
+      "seguidores_fim": 31754270
     }
   }
 }
