@@ -8,7 +8,7 @@
       "id": "17841401413270241",
       "username": "arielacarasso",
       "nome": "Ariela Carasso",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/849171451_18638343739047110_3142303941438483407_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JtY857SfcdIQ7kNvwFDExTn&_nc_oc=Adp-EBEU_fMCYr3kvuml7Rz1fS6L4nl1Dsxrt4NWfoZapAhc1_CTF1ZsxyFgbh9vtsfwaxkx0BHBT-5_-TzvWt2j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yYOkMd3pcRgpN_JJnA2D3g&_nc_ss=70689&oh=00_AQNAEw8Yn-NemQVVCE0xjAF7HXImHPgoBFdT6lGwXR97Mw&oe=6AE056F1"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/849171451_18638343739047110_3142303941438483407_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JtY857SfcdIQ7kNvwFDExTn&_nc_oc=Adp-EBEU_fMCYr3kvuml7Rz1fS6L4nl1Dsxrt4NWfoZapAhc1_CTF1ZsxyFgbh9vtsfwaxkx0BHBT-5_-TzvWt2j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QUecHZB4c93lwVaSwKjU3A&_nc_ss=70689&oh=00_AQNF9f-g4SWLB5o_ov9tr3LXt3ZzIbpOl0jcsvOR1fpBDQ&oe=6AE056F1"
     },
     "biografia": [
       {
@@ -153,6 +153,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 141631,
+        "valor_atual": 141641,
+        "variacao": 10,
+        "direcao": "aumento",
+        "descricao": "+10 seguidores",
+        "timestamp": "2026-10-22T19:37:51.493406",
+        "timestamp_anterior": "2026-10-22T19:22:38.920087",
+        "tempo_desde_anterior_segundos": 912
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1173,6 +1186,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:51.493406",
+      "timestamp_anterior": "2026-10-22T19:22:38.920087",
+      "timestamp_atual": "2026-10-22T19:37:51.493406",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 15471109,
+        "id": "17841401413270241",
+        "username": "arielacarasso",
+        "nome": "Ariela Carasso",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/849171451_18638343739047110_3142303941438483407_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JtY857SfcdIQ7kNvwFDExTn&_nc_oc=Adp-EBEU_fMCYr3kvuml7Rz1fS6L4nl1Dsxrt4NWfoZapAhc1_CTF1ZsxyFgbh9vtsfwaxkx0BHBT-5_-TzvWt2j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QUecHZB4c93lwVaSwKjU3A&_nc_ss=70689&oh=00_AQNF9f-g4SWLB5o_ov9tr3LXt3ZzIbpOl0jcsvOR1fpBDQ&oe=6AE056F1"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 141631,
+      "valor_atual": 141641,
+      "hash_anterior": "4560f9178315c41634fafbb338b6c80d86daac794dd53ca7f5c6270b872cadfc",
+      "hash_atual": "2b566d7566aa1ac5d58e41ea34f433cf22e233d672bcf44ed266632e2ea8472b",
+      "variacao": 10,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.573319,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.573319,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 10 seguidores",
+      "descricao": "Os seguidores passaram de 141.631 para 141.641",
+      "variacao_texto": "+10 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:22:38.920087",
@@ -3884,26 +3932,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:56:28.050818",
-    "captura_mais_recente": "2026-10-22T19:22:38.920087",
-    "tempo_total_segundos": 1560370,
-    "tempo_total_dias": 18.059838,
-    "tempo_total_texto": "18 dias, 1 hora, 26 minutos e 10 segundos",
+    "captura_mais_recente": "2026-10-22T19:37:51.493406",
+    "tempo_total_segundos": 1561283,
+    "tempo_total_dias": 18.070405,
+    "tempo_total_texto": "18 dias, 1 hora, 41 minutos e 23 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 8792,
+      "variacao": 8802,
       "direcao": "ganhou",
-      "quantidade": 8792,
-      "texto": "Ganhou 8792 seguidores",
+      "quantidade": 8802,
+      "texto": "Ganhou 8802 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:05.711270",
-      "captura_fim": "2026-10-22T19:22:38.920087",
+      "captura_fim": "2026-10-22T19:37:51.493406",
       "seguidores_inicio": 132839,
-      "seguidores_fim": 141631
+      "seguidores_fim": 141641
     },
     "30_dias": {
       "variacao": null,
@@ -3922,17 +3970,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 27729,
+      "variacao": 27739,
       "direcao": "ganhou",
-      "quantidade": 27729,
-      "texto": "Ganhou 27729 seguidores",
+      "quantidade": 27739,
+      "texto": "Ganhou 27739 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:56:28.050818",
-      "captura_mais_recente": "2026-10-22T19:22:38.920087",
-      "tempo_total_dias": 18.059848,
+      "captura_mais_recente": "2026-10-22T19:37:51.493406",
+      "tempo_total_dias": 18.07041,
       "seguidores_inicio": 113902,
-      "seguidores_fim": 141631
+      "seguidores_fim": 141641
     }
   }
 }
