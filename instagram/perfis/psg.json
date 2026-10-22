@@ -8,7 +8,7 @@
       "id": "17841400724863625",
       "username": "psg",
       "nome": "Paris Saint-Germain",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825352148_18632458465024163_3038538543572719689_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAyLkMzIn0%3D&_nc_ohc=StLeM9cBsMsQ7kNvwENEE5g&_nc_oc=AdqHuz84vBNyxs2fmx9VaQsHkubHF-q2m7g0eGEVCb16LhVLZGvcsYwdBTrZGeXKVWvAks_pcFVlJULSp9_XH7Mc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzZhTbfQu3EBT3iqFmKyMw&_nc_ss=70689&oh=00_AQPsxniGP0xfbmc1hFs2QcqkVX-TaeFsjC81fY9Bzjewiw&oe=6AE052D6"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825352148_18632458465024163_3038538543572719689_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAyLkMzIn0%3D&_nc_ohc=StLeM9cBsMsQ7kNvwENEE5g&_nc_oc=AdqHuz84vBNyxs2fmx9VaQsHkubHF-q2m7g0eGEVCb16LhVLZGvcsYwdBTrZGeXKVWvAks_pcFVlJULSp9_XH7Mc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5pPSuYWo7bBe0JM-yERdow&_nc_ss=70689&oh=00_AQMe6YeZtrj76zUs8kLBJxJQ1FduKSGDIoLqeC7J7wBO-g&oe=6AE052D6"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 67580300,
+        "valor_atual": 67580394,
+        "variacao": 94,
+        "direcao": "aumento",
+        "descricao": "+94 seguidores",
+        "timestamp": "2026-10-22T19:37:38.806435",
+        "timestamp_anterior": "2026-10-22T19:25:50.770973",
+        "tempo_desde_anterior_segundos": 708
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -620,6 +633,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:38.806435",
+      "timestamp_anterior": "2026-10-22T19:25:50.770973",
+      "timestamp_atual": "2026-10-22T19:37:38.806435",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 232024162,
+        "id": "17841400724863625",
+        "username": "psg",
+        "nome": "Paris Saint-Germain",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825352148_18632458465024163_3038538543572719689_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAyLkMzIn0%3D&_nc_ohc=StLeM9cBsMsQ7kNvwENEE5g&_nc_oc=AdqHuz84vBNyxs2fmx9VaQsHkubHF-q2m7g0eGEVCb16LhVLZGvcsYwdBTrZGeXKVWvAks_pcFVlJULSp9_XH7Mc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5pPSuYWo7bBe0JM-yERdow&_nc_ss=70689&oh=00_AQMe6YeZtrj76zUs8kLBJxJQ1FduKSGDIoLqeC7J7wBO-g&oe=6AE052D6"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 67580300,
+      "valor_atual": 67580394,
+      "hash_anterior": "10f3f06fe5aa2640d32eacb1832fb51129a95cee3f194c32b1e537bbac154f4c",
+      "hash_atual": "0cab078e456880256d9563cdae16686e3616d59a10adc09c6fb64035a8c2745e",
+      "variacao": 94,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 708.035462,
+        "texto": "11 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 708.035462,
+        "texto": "11 minutos e 48 segundos"
+      },
+      "titulo": "Ganhou 94 seguidores",
+      "descricao": "Os seguidores passaram de 67.580.300 para 67.580.394",
+      "variacao_texto": "+94 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:25:50.770973",
@@ -1849,26 +1897,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:36.965822",
-    "captura_mais_recente": "2026-10-22T19:25:50.770973",
-    "tempo_total_segundos": 1374253,
-    "tempo_total_dias": 15.905706,
-    "tempo_total_texto": "15 dias, 21 horas, 44 minutos e 13 segundos",
+    "captura_mais_recente": "2026-10-22T19:37:38.806435",
+    "tempo_total_segundos": 1374961,
+    "tempo_total_dias": 15.9139,
+    "tempo_total_texto": "15 dias, 21 horas, 56 minutos e 1 segundo",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 251448,
+      "variacao": 251542,
       "direcao": "ganhou",
-      "quantidade": 251448,
-      "texto": "Ganhou 251448 seguidores",
+      "quantidade": 251542,
+      "texto": "Ganhou 251542 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:01:49.983357",
-      "captura_fim": "2026-10-22T19:25:50.770973",
+      "captura_fim": "2026-10-22T19:37:38.806435",
       "seguidores_inicio": 67328852,
-      "seguidores_fim": 67580300
+      "seguidores_fim": 67580394
     },
     "30_dias": {
       "variacao": null,
@@ -1887,17 +1935,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 236149,
+      "variacao": 236243,
       "direcao": "ganhou",
-      "quantidade": 236149,
-      "texto": "Ganhou 236149 seguidores",
+      "quantidade": 236243,
+      "texto": "Ganhou 236243 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:36.965822",
-      "captura_mais_recente": "2026-10-22T19:25:50.770973",
-      "tempo_total_dias": 15.905715,
+      "captura_mais_recente": "2026-10-22T19:37:38.806435",
+      "tempo_total_dias": 15.91391,
       "seguidores_inicio": 67344151,
-      "seguidores_fim": 67580300
+      "seguidores_fim": 67580394
     }
   }
 }
