@@ -98,6 +98,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 74368385,
+        "valor_atual": 74368332,
+        "variacao": -53,
+        "direcao": "reducao",
+        "descricao": "-53 seguidores",
+        "timestamp": "2026-10-22T19:38:33.666771",
+        "timestamp_anterior": "2026-10-22T19:23:22.557778",
+        "tempo_desde_anterior_segundos": 911
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 74378903,
         "valor_atual": 74368385,
         "variacao": -10518,
@@ -867,6 +880,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:33.666771",
+      "timestamp_anterior": "2026-10-22T19:23:22.557778",
+      "timestamp_atual": "2026-10-22T19:38:33.666771",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 1234301500,
+        "id": "17841401845019285",
+        "username": "karimbenzema",
+        "nome": "Karim Benzema",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PFcvnaFJTmgQ7kNvwF_bKaJ&_nc_oc=AdqCQcWHBdWQu1UXQR2zzdY4FENSwGPxg3SOttphAYpTWcLPsRj2dP5iNOb2V-ahose84zA5AJ9wr5lujs8EHQ9F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOi8ugx6ck6403cgJpcLHG828bYp5d6y0t3HJolrsLDvA&oe=6AE04DA5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 74368385,
+      "valor_atual": 74368332,
+      "hash_anterior": "4d49a19df6921277b7ab1e7c048c2ab42f17cd938a981db24170bef0fa844330",
+      "hash_atual": "eee3deafa8e9c40c06a599829de2408074966e6f7be28da09255c22f16289a93",
+      "variacao": -53,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 911.108993,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 911.108993,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 53 seguidores",
+      "descricao": "Os seguidores caíram de 74.368.385 para 74.368.332",
+      "variacao_texto": "-53 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:22.557778",
@@ -2795,26 +2843,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:51.062618",
-    "captura_mais_recente": "2026-10-22T19:23:22.557778",
-    "tempo_total_segundos": 1464091,
-    "tempo_total_dias": 16.945498,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 31 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:33.666771",
+    "tempo_total_segundos": 1465002,
+    "tempo_total_dias": 16.956042,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 42 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -47635,
+      "variacao": -47688,
       "direcao": "perdeu",
-      "quantidade": 47635,
-      "texto": "Perdeu 47635 seguidores",
+      "quantidade": 47688,
+      "texto": "Perdeu 47688 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:47.571948",
-      "captura_fim": "2026-10-22T19:23:22.557778",
+      "captura_fim": "2026-10-22T19:38:33.666771",
       "seguidores_inicio": 74416020,
-      "seguidores_fim": 74368385
+      "seguidores_fim": 74368332
     },
     "30_dias": {
       "variacao": null,
@@ -2833,17 +2881,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -48049,
+      "variacao": -48102,
       "direcao": "perdeu",
-      "quantidade": 48049,
-      "texto": "Perdeu 48049 seguidores",
+      "quantidade": 48102,
+      "texto": "Perdeu 48102 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:51.062618",
-      "captura_mais_recente": "2026-10-22T19:23:22.557778",
-      "tempo_total_dias": 16.945503,
+      "captura_mais_recente": "2026-10-22T19:38:33.666771",
+      "tempo_total_dias": 16.956049,
       "seguidores_inicio": 74416434,
-      "seguidores_fim": 74368385
+      "seguidores_fim": 74368332
     }
   }
 }
