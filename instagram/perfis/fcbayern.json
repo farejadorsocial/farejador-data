@@ -92,6 +92,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 45761265,
+        "valor_atual": 45761352,
+        "variacao": 87,
+        "direcao": "aumento",
+        "descricao": "+87 seguidores",
+        "timestamp": "2026-10-22T19:39:02.400210",
+        "timestamp_anterior": "2026-10-22T19:23:49.433752",
+        "tempo_desde_anterior_segundos": 912
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 45755659,
         "valor_atual": 45761265,
         "variacao": 5606,
@@ -458,6 +471,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:39:02.400210",
+      "timestamp_anterior": "2026-10-22T19:23:49.433752",
+      "timestamp_atual": "2026-10-22T19:39:02.400210",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 378496191,
+        "id": "17841400005735914",
+        "username": "fcbayern",
+        "nome": "FC Bayern",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/463281725_8713193798739895_6134653029583022650_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OqmWyqmPVhQQ7kNvwFbCX42&_nc_oc=AdrB4SlBwI1hQAfKeU2VBfzrrjhzk53Vd_brMD_xM_44Cq-hYbnpw2czHGx3RtEk5PESTDog1NCK6Z38SA9JWi4F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPwApS-SG_SpIbKASMeGTesq8O4IPzA6JksmOdRLOHtRg&oe=6AE0574F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 45761265,
+      "valor_atual": 45761352,
+      "hash_anterior": "99c3c11d950c647ea79f5e5b1eeda500ff1828011bc062189725b262a2c30de2",
+      "hash_atual": "a10d4a910c13bd95bcbd074e7a51e3ca5f2e63c0e85f38084a4ce1e4ba02178a",
+      "variacao": 87,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.966458,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.966458,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 87 seguidores",
+      "descricao": "Os seguidores passaram de 45.761.265 para 45.761.352",
+      "variacao_texto": "+87 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:49.433752",
@@ -1267,26 +1315,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:33.942177",
-    "captura_mais_recente": "2026-10-22T19:23:49.433752",
-    "tempo_total_segundos": 1374015,
-    "tempo_total_dias": 15.902951,
-    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 15 segundos",
+    "captura_mais_recente": "2026-10-22T19:39:02.400210",
+    "tempo_total_segundos": 1374928,
+    "tempo_total_dias": 15.913519,
+    "tempo_total_texto": "15 dias, 21 horas, 55 minutos e 28 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 53860,
+      "variacao": 53947,
       "direcao": "ganhou",
-      "quantidade": 53860,
-      "texto": "Ganhou 53860 seguidores",
+      "quantidade": 53947,
+      "texto": "Ganhou 53947 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:03:13.221915",
-      "captura_fim": "2026-10-22T19:23:49.433752",
+      "captura_fim": "2026-10-22T19:39:02.400210",
       "seguidores_inicio": 45707405,
-      "seguidores_fim": 45761265
+      "seguidores_fim": 45761352
     },
     "30_dias": {
       "variacao": null,
@@ -1305,17 +1353,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 99701,
+      "variacao": 99788,
       "direcao": "ganhou",
-      "quantidade": 99701,
-      "texto": "Ganhou 99701 seguidores",
+      "quantidade": 99788,
+      "texto": "Ganhou 99788 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:33.942177",
-      "captura_mais_recente": "2026-10-22T19:23:49.433752",
-      "tempo_total_dias": 15.902957,
+      "captura_mais_recente": "2026-10-22T19:39:02.400210",
+      "tempo_total_dias": 15.913524,
       "seguidores_inicio": 45661564,
-      "seguidores_fim": 45761265
+      "seguidores_fim": 45761352
     }
   }
 }
