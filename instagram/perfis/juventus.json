@@ -152,6 +152,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 59004685,
+        "valor_atual": 59004651,
+        "variacao": -34,
+        "direcao": "reducao",
+        "descricao": "-34 seguidores",
+        "timestamp": "2026-10-22T19:38:06.666476",
+        "timestamp_anterior": "2026-10-22T19:22:53.575006",
+        "tempo_desde_anterior_segundos": 913
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 59011455,
         "valor_atual": 59004685,
         "variacao": -6770,
@@ -700,6 +713,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:06.666476",
+      "timestamp_anterior": "2026-10-22T19:22:53.575006",
+      "timestamp_atual": "2026-10-22T19:38:06.666476",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 194317179,
+        "id": "17841400395373036",
+        "username": "juventus",
+        "nome": "Juventus",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/260851568_584296169507043_7173857610757337215_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YN1XLaIWObsQ7kNvwFtMbxu&_nc_oc=AdqN_E7R5vBLcepnDH-BcAy5CwMaxq4D64OZU4l-5D9jIfafKx1BNlk-q1zVNvo4dSj_-bKVxkYSOVzwRvImyjAa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMKmBlEZcJDYuA51hhM6uQbngNJvFUJfJjhf2IqrfYHqg&oe=6AE054EF"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 59004685,
+      "valor_atual": 59004651,
+      "hash_anterior": "1f8f87ed721132fae10f74aedb639cba959f5407c6dd02109148993a83c8cb4d",
+      "hash_atual": "f321dc651a2bdf00d60c851b63456801d088f469063670c9fb6e1d725f4c5e3b",
+      "variacao": -34,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 913.09147,
+        "texto": "15 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 913.09147,
+        "texto": "15 minutos e 13 segundos"
+      },
+      "titulo": "Perdeu 34 seguidores",
+      "descricao": "Os seguidores caíram de 59.004.685 para 59.004.651",
+      "variacao_texto": "-34 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:22:53.575006",
@@ -2101,26 +2149,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:15.501958",
-    "captura_mais_recente": "2026-10-22T19:22:53.575006",
-    "tempo_total_segundos": 1374038,
-    "tempo_total_dias": 15.903218,
-    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 38 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:06.666476",
+    "tempo_total_segundos": 1374951,
+    "tempo_total_dias": 15.913785,
+    "tempo_total_texto": "15 dias, 21 horas, 55 minutos e 51 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -3209,
+      "variacao": -3243,
       "direcao": "perdeu",
-      "quantidade": 3209,
-      "texto": "Perdeu 3209 seguidores",
+      "quantidade": 3243,
+      "texto": "Perdeu 3243 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:17.601994",
-      "captura_fim": "2026-10-22T19:22:53.575006",
+      "captura_fim": "2026-10-22T19:38:06.666476",
       "seguidores_inicio": 59007894,
-      "seguidores_fim": 59004685
+      "seguidores_fim": 59004651
     },
     "30_dias": {
       "variacao": null,
@@ -2139,17 +2187,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -7488,
+      "variacao": -7522,
       "direcao": "perdeu",
-      "quantidade": 7488,
-      "texto": "Perdeu 7488 seguidores",
+      "quantidade": 7522,
+      "texto": "Perdeu 7522 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:15.501958",
-      "captura_mais_recente": "2026-10-22T19:22:53.575006",
-      "tempo_total_dias": 15.903218,
+      "captura_mais_recente": "2026-10-22T19:38:06.666476",
+      "tempo_total_dias": 15.913787,
       "seguidores_inicio": 59012173,
-      "seguidores_fim": 59004685
+      "seguidores_fim": 59004651
     }
   }
 }
