@@ -8,7 +8,7 @@
       "id": "17841402052702860",
       "username": "fealvesoficial",
       "nome": "Felipe Alves",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=po6moUD0jtU9lrdDACF88g&_nc_ss=70689&oh=00_AQPV0fQbeLNqHB3Tug6FeiELiEi8PKREivqElQ1HH_CJVw&oe=6AE044A0"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jnp8bRgCDlKVjcZkU5o92Q&_nc_ss=70689&oh=00_AQO1YuOLSNZtrmpt0YGc9PlJuFcgi3gZOSjlB2XINe41fg&oe=6AE07CE0"
     },
     "biografia": [
       {
@@ -333,6 +333,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 4621,
+        "valor_atual": 4622,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-10-22T19:37:52.118107",
+        "timestamp_anterior": "2026-10-21T17:36:20.749704",
+        "tempo_desde_anterior_segundos": 93691
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 4607,
         "valor_atual": 4621,
         "variacao": 14,
@@ -598,6 +611,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:52.118107",
+      "timestamp_anterior": "2026-10-22T19:22:39.594669",
+      "timestamp_atual": "2026-10-22T19:37:52.118107",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 2022884423,
+        "id": "17841402052702860",
+        "username": "fealvesoficial",
+        "nome": "Felipe Alves",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jnp8bRgCDlKVjcZkU5o92Q&_nc_ss=70689&oh=00_AQO1YuOLSNZtrmpt0YGc9PlJuFcgi3gZOSjlB2XINe41fg&oe=6AE07CE0"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 4621,
+      "valor_atual": 4622,
+      "hash_anterior": "ddb981124fba7b5b3358403aa067c9e16b5aa8313b531cd7e167b4c4e9b60683",
+      "hash_atual": "15834826db325b3fbb79d58dade8cade1856d77de601262d33d0c76b8212917f",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.523438,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.523438,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 4.621 e passou a seguir 4.622",
+      "variacao_texto": "+1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:22:39.594669",
@@ -1791,10 +1839,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:50.982322",
-    "captura_mais_recente": "2026-10-22T19:22:39.594669",
-    "tempo_total_segundos": 1374048,
-    "tempo_total_dias": 15.903333,
-    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 48 segundos",
+    "captura_mais_recente": "2026-10-22T19:37:52.118107",
+    "tempo_total_segundos": 1374961,
+    "tempo_total_dias": 15.9139,
+    "tempo_total_texto": "15 dias, 21 horas, 56 minutos e 1 segundo",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
