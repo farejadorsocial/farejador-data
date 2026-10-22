@@ -8,7 +8,7 @@
       "id": "17841448819140452",
       "username": "manchesterunited",
       "nome": "형준 Jun",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwG8qrHY&_nc_oc=AdpnQ8xSTRBcZrG-H6F7XMX_kkn2hYEFNFE6fb_a6dU_NLFaxmkPKISmyCHC0rpitPy8Ldl2SupRjyTIUwZXw68x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQtNxx02sCMt4-qj5Trpew&_nc_ss=70689&oh=00_AQPc34nZ4IyT4il7lqUaSDs_taH8BK49yf6kIzKBVzLNNA&oe=6ADEFF06"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwFySpvU&_nc_oc=Adp8dspVOLKxQnO0lvlFk4Ma152OSk5AkiKRMVl8Nf-d5GmTees2gO3muHkC259LRgyI7U3BwBdU0uogOhEsU-Eu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LAqYTwPVjaupBv63b15xHw&_nc_ss=70689&oh=00_AQOUZ1qDrufoxUb8i1HJQVl_bivpOdWAYw3lWQCScJuIqQ&oe=6AE05086"
     },
     "biografia": [
       {
@@ -316,6 +316,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 353,
+        "valor_atual": 356,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "Seguiu +3",
+        "timestamp": "2026-10-22T19:22:39.687610",
+        "timestamp_anterior": "2026-10-21T17:36:18.676080",
+        "tempo_desde_anterior_segundos": 92781
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 351,
         "valor_atual": 353,
         "variacao": 2,
@@ -516,6 +529,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:22:39.687610",
+      "timestamp_anterior": "2026-10-21T17:36:18.676080",
+      "timestamp_atual": "2026-10-22T19:22:39.687610",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 48883619304,
+        "id": "17841448819140452",
+        "username": "manchesterunited",
+        "nome": "형준 Jun",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwFySpvU&_nc_oc=Adp8dspVOLKxQnO0lvlFk4Ma152OSk5AkiKRMVl8Nf-d5GmTees2gO3muHkC259LRgyI7U3BwBdU0uogOhEsU-Eu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LAqYTwPVjaupBv63b15xHw&_nc_ss=70689&oh=00_AQOUZ1qDrufoxUb8i1HJQVl_bivpOdWAYw3lWQCScJuIqQ&oe=6AE05086"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 353,
+      "valor_atual": 356,
+      "hash_anterior": "15369fe056abbf0ef57676bd35665e9832e55baca2df5da835fc3527e8dc58e1",
+      "hash_atual": "dc9cba19dc42502896aeb6669a2dda1a33cd6985b917a36a1dc48ae44b464e1d",
+      "variacao": 3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92781.01153,
+        "texto": "1 dia e 1 hora e 46 minutos e 21 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 92781.01153,
+        "texto": "1 dia e 1 hora e 46 minutos e 21 segundos"
+      },
+      "titulo": "Começou a seguir 3 pessoas",
+      "descricao": "Estava seguindo 353 e passou a seguir 356",
+      "variacao_texto": "+3 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:36:18.676080",
@@ -1498,10 +1546,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:56.859607",
-    "captura_mais_recente": "2026-10-21T17:36:18.676080",
-    "tempo_total_segundos": 1281261,
-    "tempo_total_dias": 14.82941,
-    "tempo_total_texto": "14 dias, 19 horas, 54 minutos e 21 segundos",
+    "captura_mais_recente": "2026-10-22T19:22:39.687610",
+    "tempo_total_segundos": 1374042,
+    "tempo_total_dias": 15.903264,
+    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 42 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
