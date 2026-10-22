@@ -8,7 +8,7 @@
       "id": "17841401014630328",
       "username": "brunogagliasso",
       "nome": "Bruno Gagliasso",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=maaaQHcDhwsQ7kNvwFPdr02&_nc_oc=AdrtTrukD5yKemUz5gv2_CquCdPMj-BIH9gLdastNWanURnrftiYqgzDcZ4e_Bjeq1iU6GL_mLQ5GXMqv-wNyrtC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SbQeQW0Lc_VYqxkck8FxTQ&_nc_ss=70689&oh=00_AQNiqQ3oarRJIVPzk8yGQA2hrMe4gIaEnh_bFOqAOjb4jQ&oe=6AE05702"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=maaaQHcDhwsQ7kNvwFPdr02&_nc_oc=AdrtTrukD5yKemUz5gv2_CquCdPMj-BIH9gLdastNWanURnrftiYqgzDcZ4e_Bjeq1iU6GL_mLQ5GXMqv-wNyrtC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CTZBmcL-B3Ux4QZRQkrmGA&_nc_ss=70689&oh=00_AQNKDqIjaqC7gg86PZFxdcvfEpjaIc6G7OCMHUQdNoJDZA&oe=6AE05702"
     },
     "biografia": [
       {
@@ -94,6 +94,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 21181243,
+        "valor_atual": 21181238,
+        "variacao": -5,
+        "direcao": "reducao",
+        "descricao": "-5 seguidores",
+        "timestamp": "2026-10-22T19:39:52.924278",
+        "timestamp_anterior": "2026-10-22T19:37:24.041612",
+        "tempo_desde_anterior_segundos": 148
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 21181267,
+        "valor_atual": 21181243,
+        "variacao": -24,
+        "direcao": "reducao",
+        "descricao": "-24 seguidores",
+        "timestamp": "2026-10-22T19:37:24.041612",
+        "timestamp_anterior": "2026-10-22T19:24:41.501938",
+        "tempo_desde_anterior_segundos": 762
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1491,6 +1517,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:39:52.924278",
+      "timestamp_anterior": "2026-10-22T19:37:24.041612",
+      "timestamp_atual": "2026-10-22T19:39:52.924278",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 21025821,
+        "id": "17841401014630328",
+        "username": "brunogagliasso",
+        "nome": "Bruno Gagliasso",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=maaaQHcDhwsQ7kNvwFPdr02&_nc_oc=AdrtTrukD5yKemUz5gv2_CquCdPMj-BIH9gLdastNWanURnrftiYqgzDcZ4e_Bjeq1iU6GL_mLQ5GXMqv-wNyrtC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CTZBmcL-B3Ux4QZRQkrmGA&_nc_ss=70689&oh=00_AQNKDqIjaqC7gg86PZFxdcvfEpjaIc6G7OCMHUQdNoJDZA&oe=6AE05702"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 21181243,
+      "valor_atual": 21181238,
+      "hash_anterior": "d42c2a2eecef4e6da6927489c8b64a6e0f6480bf1a2250b0adc8b61615a12cce",
+      "hash_atual": "369ec48d9b940eb308b72334fdbf195fda8a61eaa72d865ac47a4afb0edef0bb",
+      "variacao": -5,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 148.882666,
+        "texto": "2 minutos e 28 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 148.882666,
+        "texto": "2 minutos e 28 segundos"
+      },
+      "titulo": "Perdeu 5 seguidores",
+      "descricao": "Os seguidores caíram de 21.181.243 para 21.181.238",
+      "variacao_texto": "-5 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:24.041612",
+      "timestamp_anterior": "2026-10-22T19:24:41.501938",
+      "timestamp_atual": "2026-10-22T19:37:24.041612",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 21025821,
+        "id": "17841401014630328",
+        "username": "brunogagliasso",
+        "nome": "Bruno Gagliasso",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/683003970_18585587674033822_1974034442411406715_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=maaaQHcDhwsQ7kNvwFPdr02&_nc_oc=AdrtTrukD5yKemUz5gv2_CquCdPMj-BIH9gLdastNWanURnrftiYqgzDcZ4e_Bjeq1iU6GL_mLQ5GXMqv-wNyrtC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-LU499depmt2AUekY_UuAQ&_nc_ss=70689&oh=00_AQOGwXKLZSJWhqjWXcrGqaz2uTHUaFwpi0CGlq9WrN8F4Q&oe=6AE05702"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 21181267,
+      "valor_atual": 21181243,
+      "hash_anterior": "ba335dc9d506769c3dc94eb897923c02e7ba92fe29e0fbeedeb44df0249a7225",
+      "hash_atual": "d42c2a2eecef4e6da6927489c8b64a6e0f6480bf1a2250b0adc8b61615a12cce",
+      "variacao": -24,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 762.539674,
+        "texto": "12 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 762.539674,
+        "texto": "12 minutos e 42 segundos"
+      },
+      "titulo": "Perdeu 24 seguidores",
+      "descricao": "Os seguidores caíram de 21.181.267 para 21.181.243",
+      "variacao_texto": "-24 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:24:41.501938",
@@ -5099,26 +5195,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:18.984648",
-    "captura_mais_recente": "2026-10-22T19:24:41.501938",
-    "tempo_total_segundos": 1464262,
-    "tempo_total_dias": 16.947477,
-    "tempo_total_texto": "16 dias, 22 horas, 44 minutos e 22 segundos",
+    "captura_mais_recente": "2026-10-22T19:39:52.924278",
+    "tempo_total_segundos": 1465173,
+    "tempo_total_dias": 16.958021,
+    "tempo_total_texto": "16 dias, 22 horas, 59 minutos e 33 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -44321,
+      "variacao": -44350,
       "direcao": "perdeu",
-      "quantidade": 44321,
-      "texto": "Perdeu 44321 seguidores",
+      "quantidade": 44350,
+      "texto": "Perdeu 44350 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:03:31.583218",
-      "captura_fim": "2026-10-22T19:24:41.501938",
+      "captura_fim": "2026-10-22T19:39:52.924278",
       "seguidores_inicio": 21225588,
-      "seguidores_fim": 21181267
+      "seguidores_fim": 21181238
     },
     "30_dias": {
       "variacao": null,
@@ -5137,17 +5233,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -66786,
+      "variacao": -66815,
       "direcao": "perdeu",
-      "quantidade": 66786,
-      "texto": "Perdeu 66786 seguidores",
+      "quantidade": 66815,
+      "texto": "Perdeu 66815 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:18.984648",
-      "captura_mais_recente": "2026-10-22T19:24:41.501938",
-      "tempo_total_dias": 16.947483,
+      "captura_mais_recente": "2026-10-22T19:39:52.924278",
+      "tempo_total_dias": 16.958032,
       "seguidores_inicio": 21248053,
-      "seguidores_fim": 21181267
+      "seguidores_fim": 21181238
     }
   }
 }
