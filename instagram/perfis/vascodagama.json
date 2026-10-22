@@ -8,7 +8,7 @@
       "id": "17841400915332939",
       "username": "vascodagama",
       "nome": "Vasco",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808209878_18640796386030512_8590539632791426958_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sYgZLpvqTlgQ7kNvwGfh85Z&_nc_oc=AdoXPEfDTMaLFrAVEDjDA-6EW1a5EHAbF4vXaQYatVOX8QIy0yvNJQReQ2kLvRo1aKJ4Z4iQSDwgMVdBaNP1F-1n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wVQJ2ItszlVTnyOi9dmeiA&_nc_ss=70689&oh=00_AQPAfGbmstQDsSuHITsM97stu_RV0FoP33OwY3doLLlSxQ&oe=6ADEF792"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808209878_18640796386030512_8590539632791426958_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sYgZLpvqTlgQ7kNvwGGNpbr&_nc_oc=AdpzuCv-SMev-WZDslzzywuO8oE_GyppHrPRDm7oSAGthj5z7S3fZK2D9Rws7J5tgKA_haoqyoRo4IveRlyy5DA0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T5kSgUNdh7g472aYatnotQ&_nc_ss=70689&oh=00_AQNkjTg7vSxNJnTcpkG6GuLavtXku2jpI8jaKBs5t6a0bw&oe=6AE04912"
     },
     "biografia": [
       {
@@ -91,6 +91,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3957945,
+        "valor_atual": 3957617,
+        "variacao": -328,
+        "direcao": "reducao",
+        "descricao": "-328 seguidores",
+        "timestamp": "2026-10-22T19:23:22.136040",
+        "timestamp_anterior": "2026-10-21T17:47:14.871813",
+        "tempo_desde_anterior_segundos": 92167
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -617,6 +630,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:23:22.136040",
+      "timestamp_anterior": "2026-10-21T17:47:14.871813",
+      "timestamp_atual": "2026-10-22T19:23:22.136040",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 188126511,
+        "id": "17841400915332939",
+        "username": "vascodagama",
+        "nome": "Vasco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808209878_18640796386030512_8590539632791426958_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sYgZLpvqTlgQ7kNvwGGNpbr&_nc_oc=AdpzuCv-SMev-WZDslzzywuO8oE_GyppHrPRDm7oSAGthj5z7S3fZK2D9Rws7J5tgKA_haoqyoRo4IveRlyy5DA0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T5kSgUNdh7g472aYatnotQ&_nc_ss=70689&oh=00_AQNkjTg7vSxNJnTcpkG6GuLavtXku2jpI8jaKBs5t6a0bw&oe=6AE04912"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3957945,
+      "valor_atual": 3957617,
+      "hash_anterior": "a97ee6dede0a96f2cea4ea0a7649a87710fda9c2c3b0659068582681601a509a",
+      "hash_atual": "be271a48d019c988150d8271cc4b76c4c4b5b0dcdf5c1d938b2fa37cc2644183",
+      "variacao": -328,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92167.264227,
+        "texto": "1 dia e 1 hora e 36 minutos e 7 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 92167.264227,
+        "texto": "1 dia e 1 hora e 36 minutos e 7 segundos"
+      },
+      "titulo": "Perdeu 328 seguidores",
+      "descricao": "Os seguidores caíram de 3.957.945 para 3.957.617",
+      "variacao_texto": "-328 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:47:14.871813",
@@ -1846,26 +1894,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:50.996239",
-    "captura_mais_recente": "2026-10-21T17:47:14.871813",
-    "tempo_total_segundos": 1281863,
-    "tempo_total_dias": 14.836377,
-    "tempo_total_texto": "14 dias, 20 horas, 4 minutos e 23 segundos",
+    "captura_mais_recente": "2026-10-22T19:23:22.136040",
+    "tempo_total_segundos": 1374031,
+    "tempo_total_dias": 15.903137,
+    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 31 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 5617,
+      "variacao": 3320,
       "direcao": "ganhou",
-      "quantidade": 5617,
-      "texto": "Ganhou 5617 seguidores",
+      "quantidade": 3320,
+      "texto": "Ganhou 3320 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-14T12:08:13.453204",
-      "captura_fim": "2026-10-21T17:47:14.871813",
-      "seguidores_inicio": 3952328,
-      "seguidores_fim": 3957945
+      "captura_inicio": "2026-10-15T12:02:47.119775",
+      "captura_fim": "2026-10-22T19:23:22.136040",
+      "seguidores_inicio": 3954297,
+      "seguidores_fim": 3957617
     },
     "30_dias": {
       "variacao": null,
@@ -1884,17 +1932,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 23150,
+      "variacao": 22822,
       "direcao": "ganhou",
-      "quantidade": 23150,
-      "texto": "Ganhou 23150 seguidores",
+      "quantidade": 22822,
+      "texto": "Ganhou 22822 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:50.996239",
-      "captura_mais_recente": "2026-10-21T17:47:14.871813",
-      "tempo_total_dias": 14.836387,
+      "captura_mais_recente": "2026-10-22T19:23:22.136040",
+      "tempo_total_dias": 15.903138,
       "seguidores_inicio": 3934795,
-      "seguidores_fim": 3957945
+      "seguidores_fim": 3957617
     }
   }
 }
