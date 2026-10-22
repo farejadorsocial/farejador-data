@@ -8,7 +8,7 @@
       "id": "17841401480024792",
       "username": "rafaelvitti",
       "nome": "Dr. Rafael Vitti Monteiro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lfBBCh2P_vMQ7kNvwHstmlz&_nc_oc=AdrF819TdgzasFPi7kUsHfuyv6g-s4XxpNAKjNb2-gVebtTfiwbkEg3WXYmHiYcIJQp_mgxZMWHJrHIAVG1oRA2g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WX_cgeASU6uNj3pXvTe3sQ&_nc_ss=70689&oh=00_AQMs7T3iezqT9zY8gQNlr5Zph4Ildybb23G1lyxdyHGmJA&oe=6ADEF91D"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwEQGZNC&_nc_oc=Adrwh7ZipzpwxRJH0x_fcjGHJv3OKOrCweiDgUjqUN0tTkc8QmEni-SIsxGKNeDvesgJZ17Tb0DZgKF25iV7X5Wl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BWmuS4VK0qpYdUD0WaX6ag&_nc_ss=70689&oh=00_AQOKBAuWLFStscCQWOJz8ZdkYul4ssqEwfYIydVjg5DTXQ&oe=6AE04A9D"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 2539,
+        "valor_atual": 2540,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-22T19:21:58.579955",
+        "timestamp_anterior": "2026-10-21T17:35:37.094040",
+        "tempo_desde_anterior_segundos": 92781
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -442,6 +455,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:21:58.579955",
+      "timestamp_anterior": "2026-10-21T17:35:37.094040",
+      "timestamp_atual": "2026-10-22T19:21:58.579955",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 306737334,
+        "id": "17841401480024792",
+        "username": "rafaelvitti",
+        "nome": "Dr. Rafael Vitti Monteiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwEQGZNC&_nc_oc=Adrwh7ZipzpwxRJH0x_fcjGHJv3OKOrCweiDgUjqUN0tTkc8QmEni-SIsxGKNeDvesgJZ17Tb0DZgKF25iV7X5Wl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BWmuS4VK0qpYdUD0WaX6ag&_nc_ss=70689&oh=00_AQOKBAuWLFStscCQWOJz8ZdkYul4ssqEwfYIydVjg5DTXQ&oe=6AE04A9D"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 2539,
+      "valor_atual": 2540,
+      "hash_anterior": "81dd1af52049aee7d4905215da1a683f7fb6471a3cd52a6b74d5499fb1f973ee",
+      "hash_atual": "ef7dbc3b228b88a658d5e5028b49dbd52974ad53c6a4829d2752872862c0779d",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92781.485915,
+        "texto": "1 dia e 1 hora e 46 minutos e 21 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 92781.485915,
+        "texto": "1 dia e 1 hora e 46 minutos e 21 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 2.539 para 2.540",
+      "variacao_texto": "+1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:35:37.094040",
@@ -1215,26 +1263,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:00.080176",
-    "captura_mais_recente": "2026-10-21T17:35:37.094040",
-    "tempo_total_segundos": 1371337,
-    "tempo_total_dias": 15.871956,
-    "tempo_total_texto": "15 dias, 20 horas, 55 minutos e 37 segundos",
+    "captura_mais_recente": "2026-10-22T19:21:58.579955",
+    "tempo_total_segundos": 1464118,
+    "tempo_total_dias": 16.94581,
+    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 58 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -3,
+      "variacao": -2,
       "direcao": "perdeu",
-      "quantidade": 3,
-      "texto": "Perdeu 3 seguidores",
+      "quantidade": 2,
+      "texto": "Perdeu 2 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-14T12:11:40.247301",
-      "captura_fim": "2026-10-21T17:35:37.094040",
+      "captura_fim": "2026-10-22T19:21:58.579955",
       "seguidores_inicio": 2542,
-      "seguidores_fim": 2539
+      "seguidores_fim": 2540
     },
     "30_dias": {
       "variacao": null,
@@ -1253,17 +1301,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -3,
+      "variacao": -2,
       "direcao": "perdeu",
-      "quantidade": 3,
-      "texto": "Perdeu 3 seguidores",
+      "quantidade": 2,
+      "texto": "Perdeu 2 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:00.080176",
-      "captura_mais_recente": "2026-10-21T17:35:37.094040",
-      "tempo_total_dias": 15.871956,
+      "captura_mais_recente": "2026-10-22T19:21:58.579955",
+      "tempo_total_dias": 16.945816,
       "seguidores_inicio": 2542,
-      "seguidores_fim": 2539
+      "seguidores_fim": 2540
     }
   }
 }
