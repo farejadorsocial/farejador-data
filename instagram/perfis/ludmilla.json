@@ -8,7 +8,7 @@
       "id": "17841400534963597",
       "username": "ludmilla",
       "nome": "LUDMILLA",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/814560828_18638360713017833_7266802274498535091_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=e3fe7t4ukJ0Q7kNvwFWtVl7&_nc_oc=AdoV2SdHgj6JlNQcFKca1iM_T8SbLBx7FFBAHikZ5BLnGgEl1b5Oyasabdp03_x3jayYQ6gvfEbxEB50StTCQgCy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eLsdDlhD8hwXCdbYAOWnMQ&_nc_ss=70689&oh=00_AQMpB0RU8ivbj_pUYQv-YM6KX0NSfxevY0HpgAM50stWGg&oe=6AE05B36"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/814560828_18638360713017833_7266802274498535091_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=e3fe7t4ukJ0Q7kNvwFWtVl7&_nc_oc=AdoV2SdHgj6JlNQcFKca1iM_T8SbLBx7FFBAHikZ5BLnGgEl1b5Oyasabdp03_x3jayYQ6gvfEbxEB50StTCQgCy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9ZviXNv5imKzJ41ptf4mbQ&_nc_ss=70689&oh=00_AQNB-I1Rr3WSKVzAAwsvEowwzzmesDGnluOskhZS--IOhQ&oe=6AE05B36"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 30016123,
+        "valor_atual": 30016124,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-22T19:37:53.305359",
+        "timestamp_anterior": "2026-10-22T19:25:52.708772",
+        "tempo_desde_anterior_segundos": 720
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -988,6 +1001,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:53.305359",
+      "timestamp_anterior": "2026-10-22T19:25:52.708772",
+      "timestamp_atual": "2026-10-22T19:37:53.305359",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 230225832,
+        "id": "17841400534963597",
+        "username": "ludmilla",
+        "nome": "LUDMILLA",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/814560828_18638360713017833_7266802274498535091_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=e3fe7t4ukJ0Q7kNvwFWtVl7&_nc_oc=AdoV2SdHgj6JlNQcFKca1iM_T8SbLBx7FFBAHikZ5BLnGgEl1b5Oyasabdp03_x3jayYQ6gvfEbxEB50StTCQgCy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9ZviXNv5imKzJ41ptf4mbQ&_nc_ss=70689&oh=00_AQNB-I1Rr3WSKVzAAwsvEowwzzmesDGnluOskhZS--IOhQ&oe=6AE05B36"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 30016123,
+      "valor_atual": 30016124,
+      "hash_anterior": "ba751720e6ea1d074e5f31e5b929344012916b5936a63c3fc5032b8231d9e356",
+      "hash_atual": "f9111bcd3cb093f443fc5be9d576da5ffbc72da28da8724ad90968e317a87322",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 720.596587,
+        "texto": "12 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 720.596587,
+        "texto": "12 minutos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 30.016.123 para 30.016.124",
+      "variacao_texto": "+1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:25:52.708772",
@@ -3231,26 +3279,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:57.776733",
-    "captura_mais_recente": "2026-10-22T19:25:52.708772",
-    "tempo_total_segundos": 1464294,
-    "tempo_total_dias": 16.947847,
-    "tempo_total_texto": "16 dias, 22 horas, 44 minutos e 54 segundos",
+    "captura_mais_recente": "2026-10-22T19:37:53.305359",
+    "tempo_total_segundos": 1465015,
+    "tempo_total_dias": 16.956192,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 55 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -28085,
+      "variacao": -28084,
       "direcao": "perdeu",
-      "quantidade": 28085,
-      "texto": "Perdeu 28085 seguidores",
+      "quantidade": 28084,
+      "texto": "Perdeu 28084 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:06.490113",
-      "captura_fim": "2026-10-22T19:25:52.708772",
+      "captura_fim": "2026-10-22T19:37:53.305359",
       "seguidores_inicio": 30044208,
-      "seguidores_fim": 30016123
+      "seguidores_fim": 30016124
     },
     "30_dias": {
       "variacao": null,
@@ -3269,17 +3317,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -53788,
+      "variacao": -53787,
       "direcao": "perdeu",
-      "quantidade": 53788,
-      "texto": "Perdeu 53788 seguidores",
+      "quantidade": 53787,
+      "texto": "Perdeu 53787 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:57.776733",
-      "captura_mais_recente": "2026-10-22T19:25:52.708772",
-      "tempo_total_dias": 16.947858,
+      "captura_mais_recente": "2026-10-22T19:37:53.305359",
+      "tempo_total_dias": 16.956198,
       "seguidores_inicio": 30069911,
-      "seguidores_fim": 30016123
+      "seguidores_fim": 30016124
     }
   }
 }
