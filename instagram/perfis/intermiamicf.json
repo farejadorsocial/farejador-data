@@ -8,7 +8,7 @@
       "id": "17841406812517207",
       "username": "intermiamicf",
       "nome": "Inter Miami CF",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/773531431_18375626761227084_3638940202948015890_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mIWz8jhJdWUQ7kNvwHOyeRO&_nc_oc=Ado_5_UzCvxqogh7UdUcM6_dJy41kcsfM2gm5ZbOUckfY219joAwn9CkNCh21QLnCjcLrT4ivTyKCFGLxmT53L5G&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-pwLWJ6Mo66kdeqWGeY8vQ&_nc_ss=70689&oh=00_AQO3ljTMGBHrulm8IQ0ulnm8Qw2Fj6Dahhqg0wUPE3jyTA&oe=6ADF0208"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/773531431_18375626761227084_3638940202948015890_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mIWz8jhJdWUQ7kNvwFX7e3V&_nc_oc=AdpFGtPmhvfiU4pd5GReJ7jnw8Z6WlHV-vwFohiIZ3rWSUF5ckGgjELsN54fknb-TV-wviY10QWf5irrhZsHqfv1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=sf6REbrkNne_pdIIWlXPXA&_nc_ss=70689&oh=00_AQM8hNy3UaTO-OU5ItYLT4e5Y00vve6JDSRugjA_RoSmYw&oe=6AE05388"
     },
     "biografia": [
       {
@@ -178,6 +178,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 19432501,
+        "valor_atual": 19436610,
+        "variacao": 4109,
+        "direcao": "aumento",
+        "descricao": "+4109 seguidores",
+        "timestamp": "2026-10-22T19:24:03.597105",
+        "timestamp_anterior": "2026-10-21T17:44:28.805254",
+        "tempo_desde_anterior_segundos": 92374
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -472,6 +485,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 8492,
+        "valor_atual": 8495,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "+3 posts",
+        "timestamp": "2026-10-22T19:24:03.597105",
+        "timestamp_anterior": "2026-10-21T17:37:41.772131",
+        "tempo_desde_anterior_segundos": 92781
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 8459,
         "valor_atual": 8492,
         "variacao": 33,
@@ -613,6 +639,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:24:03.597105",
+      "timestamp_anterior": "2026-10-21T17:44:28.805254",
+      "timestamp_atual": "2026-10-22T19:24:03.597105",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 6937659083,
+        "id": "17841406812517207",
+        "username": "intermiamicf",
+        "nome": "Inter Miami CF",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/773531431_18375626761227084_3638940202948015890_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mIWz8jhJdWUQ7kNvwFX7e3V&_nc_oc=AdpFGtPmhvfiU4pd5GReJ7jnw8Z6WlHV-vwFohiIZ3rWSUF5ckGgjELsN54fknb-TV-wviY10QWf5irrhZsHqfv1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=sf6REbrkNne_pdIIWlXPXA&_nc_ss=70689&oh=00_AQM8hNy3UaTO-OU5ItYLT4e5Y00vve6JDSRugjA_RoSmYw&oe=6AE05388"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 19432501,
+      "valor_atual": 19436610,
+      "hash_anterior": "52e48b429b02d6dd6964e54f5ee90c1a184051191d7cbab9cc442e422928da7b",
+      "hash_atual": "a22c429fd44d363f23eeb63047b2fa143b0afb1f6dbfa7e4e6fea908989d3c4e",
+      "variacao": 4109,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92374.791851,
+        "texto": "1 dia e 1 hora e 39 minutos e 34 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 92374.791851,
+        "texto": "1 dia e 1 hora e 39 minutos e 34 segundos"
+      },
+      "titulo": "Ganhou 4.109 seguidores",
+      "descricao": "Os seguidores passaram de 19.432.501 para 19.436.610",
+      "variacao_texto": "+4.109 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:24:03.597105",
+      "timestamp_anterior": "2026-10-21T17:44:28.805254",
+      "timestamp_atual": "2026-10-22T19:24:03.597105",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 6937659083,
+        "id": "17841406812517207",
+        "username": "intermiamicf",
+        "nome": "Inter Miami CF",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/773531431_18375626761227084_3638940202948015890_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mIWz8jhJdWUQ7kNvwFX7e3V&_nc_oc=AdpFGtPmhvfiU4pd5GReJ7jnw8Z6WlHV-vwFohiIZ3rWSUF5ckGgjELsN54fknb-TV-wviY10QWf5irrhZsHqfv1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=sf6REbrkNne_pdIIWlXPXA&_nc_ss=70689&oh=00_AQM8hNy3UaTO-OU5ItYLT4e5Y00vve6JDSRugjA_RoSmYw&oe=6AE05388"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 8492,
+      "valor_atual": 8495,
+      "hash_anterior": "52e48b429b02d6dd6964e54f5ee90c1a184051191d7cbab9cc442e422928da7b",
+      "hash_atual": "a22c429fd44d363f23eeb63047b2fa143b0afb1f6dbfa7e4e6fea908989d3c4e",
+      "variacao": 3,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 92374.791851,
+        "texto": "1 dia e 1 hora e 39 minutos e 34 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 3 posts",
+      "descricao": "O total mudou de 8.492 para 8.495",
+      "variacao_texto": "+3 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:44:28.805254",
@@ -1723,26 +1819,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:52.023404",
-    "captura_mais_recente": "2026-10-21T17:44:28.805254",
-    "tempo_total_segundos": 1281636,
-    "tempo_total_dias": 14.83375,
-    "tempo_total_texto": "14 dias, 20 horas e 36 segundos",
+    "captura_mais_recente": "2026-10-22T19:24:03.597105",
+    "tempo_total_segundos": 1374011,
+    "tempo_total_dias": 15.902905,
+    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 11 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 176907,
+      "variacao": 113883,
       "direcao": "ganhou",
-      "quantidade": 176907,
-      "texto": "Ganhou 176907 seguidores",
+      "quantidade": 113883,
+      "texto": "Ganhou 113883 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-09T09:29:10.599552",
-      "captura_fim": "2026-10-21T17:44:28.805254",
-      "seguidores_inicio": 19255594,
-      "seguidores_fim": 19432501
+      "captura_inicio": "2026-10-15T12:03:27.129957",
+      "captura_fim": "2026-10-22T19:24:03.597105",
+      "seguidores_inicio": 19322727,
+      "seguidores_fim": 19436610
     },
     "30_dias": {
       "variacao": null,
@@ -1761,17 +1857,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 195312,
+      "variacao": 199421,
       "direcao": "ganhou",
-      "quantidade": 195312,
-      "texto": "Ganhou 195312 seguidores",
+      "quantidade": 199421,
+      "texto": "Ganhou 199421 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:52.023404",
-      "captura_mais_recente": "2026-10-21T17:44:28.805254",
-      "tempo_total_dias": 14.833759,
+      "captura_mais_recente": "2026-10-22T19:24:03.597105",
+      "tempo_total_dias": 15.902912,
       "seguidores_inicio": 19237189,
-      "seguidores_fim": 19432501
+      "seguidores_fim": 19436610
     }
   }
 }
