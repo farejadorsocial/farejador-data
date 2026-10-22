@@ -8,7 +8,7 @@
       "id": "17841400897307818",
       "username": "alfredoamaralf",
       "nome": "Alfredo Amaral | A Fazenda 18 🐎",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848892531_18640595218029911_1585050538421314428_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=P6rGFu0Ur48Q7kNvwEpZoqH&_nc_oc=Adq7gHSy85vxYVD_mw0IyqLoTiE1A8yKH9enq1YKrv9FTuENsUdiQ4B01gJvi7o33hqyGB6u4bySzHdtebVoul-9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KmOGPOfStsdwzTMPTvuo4w&_nc_ss=70689&oh=00_AQPxvmzjCrcNTKdBNp-seaOrKhRpxt7aceb_9baMg0sMeQ&oe=6AE056B6"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848892531_18640595218029911_1585050538421314428_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=P6rGFu0Ur48Q7kNvwEpZoqH&_nc_oc=Adq7gHSy85vxYVD_mw0IyqLoTiE1A8yKH9enq1YKrv9FTuENsUdiQ4B01gJvi7o33hqyGB6u4bySzHdtebVoul-9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MYSrPPzoC9Eq9W5OQaMMWw&_nc_ss=70689&oh=00_AQPtqWxyNBh92QXw0tGZJZKxt61AhotXYWZWGHey7COPfg&oe=6AE056B6"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 150835,
+        "valor_atual": 150860,
+        "variacao": 25,
+        "direcao": "aumento",
+        "descricao": "+25 seguidores",
+        "timestamp": "2026-10-22T19:37:37.585929",
+        "timestamp_anterior": "2026-10-22T19:22:24.929754",
+        "tempo_desde_anterior_segundos": 912
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1066,6 +1079,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:37.585929",
+      "timestamp_anterior": "2026-10-22T19:22:24.929754",
+      "timestamp_atual": "2026-10-22T19:37:37.585929",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 500381910,
+        "id": "17841400897307818",
+        "username": "alfredoamaralf",
+        "nome": "Alfredo Amaral | A Fazenda 18 🐎",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848892531_18640595218029911_1585050538421314428_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=P6rGFu0Ur48Q7kNvwEpZoqH&_nc_oc=Adq7gHSy85vxYVD_mw0IyqLoTiE1A8yKH9enq1YKrv9FTuENsUdiQ4B01gJvi7o33hqyGB6u4bySzHdtebVoul-9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MYSrPPzoC9Eq9W5OQaMMWw&_nc_ss=70689&oh=00_AQPtqWxyNBh92QXw0tGZJZKxt61AhotXYWZWGHey7COPfg&oe=6AE056B6"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 150835,
+      "valor_atual": 150860,
+      "hash_anterior": "a34ed6885f43a10ddca1014ef0afe0cc047d438300ec77f1b1218491215af068",
+      "hash_atual": "c134f30feab0518221612567b54370e440cffbc01005d32181acba49e36c85cf",
+      "variacao": 25,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.656175,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.656175,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 25 seguidores",
+      "descricao": "Os seguidores passaram de 150.835 para 150.860",
+      "variacao_texto": "+25 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:22:24.929754",
@@ -3519,26 +3567,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:56:09.801327",
-    "captura_mais_recente": "2026-10-22T19:22:24.929754",
-    "tempo_total_segundos": 1560375,
-    "tempo_total_dias": 18.059896,
-    "tempo_total_texto": "18 dias, 1 hora, 26 minutos e 15 segundos",
+    "captura_mais_recente": "2026-10-22T19:37:37.585929",
+    "tempo_total_segundos": 1561287,
+    "tempo_total_dias": 18.070451,
+    "tempo_total_texto": "18 dias, 1 hora, 41 minutos e 27 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 18531,
+      "variacao": 18556,
       "direcao": "ganhou",
-      "quantidade": 18531,
-      "texto": "Ganhou 18531 seguidores",
+      "quantidade": 18556,
+      "texto": "Ganhou 18556 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:01:51.686797",
-      "captura_fim": "2026-10-22T19:22:24.929754",
+      "captura_fim": "2026-10-22T19:37:37.585929",
       "seguidores_inicio": 132304,
-      "seguidores_fim": 150835
+      "seguidores_fim": 150860
     },
     "30_dias": {
       "variacao": null,
@@ -3557,17 +3605,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 29168,
+      "variacao": 29193,
       "direcao": "ganhou",
-      "quantidade": 29168,
-      "texto": "Ganhou 29168 seguidores",
+      "quantidade": 29193,
+      "texto": "Ganhou 29193 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:56:09.801327",
-      "captura_mais_recente": "2026-10-22T19:22:24.929754",
-      "tempo_total_dias": 18.059897,
+      "captura_mais_recente": "2026-10-22T19:37:37.585929",
+      "tempo_total_dias": 18.07046,
       "seguidores_inicio": 121667,
-      "seguidores_fim": 150835
+      "seguidores_fim": 150860
     }
   }
 }
