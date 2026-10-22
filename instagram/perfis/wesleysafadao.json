@@ -8,7 +8,7 @@
       "id": "17841400762870368",
       "username": "wesleysafadao",
       "nome": "Wesley Safadão",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UqZZJLH31PTmtoLgBahA6g&_nc_ss=70689&oh=00_AQMOLQi2echKxDCX8SBGWPVq6UBCH9Z02AqbZb4hLjjgSg&oe=6AE07672"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JVon4zdGztZvjROhQeLDyw&_nc_ss=70689&oh=00_AQMl5K0NbUIDaivs8_b4x1tjW_IEFB9Zzi2pT8nk_ZXIfQ&oe=6AE07672"
     },
     "biografia": [
       {
@@ -98,6 +98,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 39759413,
+        "valor_atual": 39759418,
+        "variacao": 5,
+        "direcao": "aumento",
+        "descricao": "+5 seguidores",
+        "timestamp": "2026-10-22T19:40:48.429841",
+        "timestamp_anterior": "2026-10-22T19:37:38.101537",
+        "tempo_desde_anterior_segundos": 190
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 39759402,
+        "valor_atual": 39759413,
+        "variacao": 11,
+        "direcao": "aumento",
+        "descricao": "+11 seguidores",
+        "timestamp": "2026-10-22T19:37:38.101537",
+        "timestamp_anterior": "2026-10-22T19:22:27.042446",
+        "tempo_desde_anterior_segundos": 911
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -910,6 +936,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:40:48.429841",
+      "timestamp_anterior": "2026-10-22T19:37:38.101537",
+      "timestamp_atual": "2026-10-22T19:40:48.429841",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 23577429,
+        "id": "17841400762870368",
+        "username": "wesleysafadao",
+        "nome": "Wesley Safadão",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JVon4zdGztZvjROhQeLDyw&_nc_ss=70689&oh=00_AQMl5K0NbUIDaivs8_b4x1tjW_IEFB9Zzi2pT8nk_ZXIfQ&oe=6AE07672"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 39759413,
+      "valor_atual": 39759418,
+      "hash_anterior": "909b5260e9592174ab310f2720e056101414353d1ac303c10d8d33cf9379066b",
+      "hash_atual": "95ca6040a43bd17331ed7f4fb2d43fe023163b8607e38b3c6282083b6b8c1a6e",
+      "variacao": 5,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 190.328304,
+        "texto": "3 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 190.328304,
+        "texto": "3 minutos e 10 segundos"
+      },
+      "titulo": "Ganhou 5 seguidores",
+      "descricao": "Os seguidores passaram de 39.759.413 para 39.759.418",
+      "variacao_texto": "+5 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:38.101537",
+      "timestamp_anterior": "2026-10-22T19:22:27.042446",
+      "timestamp_atual": "2026-10-22T19:37:38.101537",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 23577429,
+        "id": "17841400762870368",
+        "username": "wesleysafadao",
+        "nome": "Wesley Safadão",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9MIEl0AEb2IG2YZeTy8drA&_nc_ss=70689&oh=00_AQM_L0WMXkyS7fsEzS_xE63FiVQXHhvFauhbY2yqxCFLjQ&oe=6AE07672"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 39759402,
+      "valor_atual": 39759413,
+      "hash_anterior": "6be7be9b67ddfeaa92a3cd7395f5ca2fca9401cc43545ff5235b004c9d52003e",
+      "hash_atual": "909b5260e9592174ab310f2720e056101414353d1ac303c10d8d33cf9379066b",
+      "variacao": 11,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 911.059091,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 911.059091,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "titulo": "Ganhou 11 seguidores",
+      "descricao": "Os seguidores passaram de 39.759.402 para 39.759.413",
+      "variacao_texto": "+11 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:22:27.042446",
@@ -2943,26 +3039,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:37.519826",
-    "captura_mais_recente": "2026-10-22T19:22:27.042446",
-    "tempo_total_segundos": 1464109,
-    "tempo_total_dias": 16.945706,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 49 segundos",
+    "captura_mais_recente": "2026-10-22T19:40:48.429841",
+    "tempo_total_segundos": 1465210,
+    "tempo_total_dias": 16.958449,
+    "tempo_total_texto": "16 dias, 23 horas e 10 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -23391,
+      "variacao": -23375,
       "direcao": "perdeu",
-      "quantidade": 23391,
-      "texto": "Perdeu 23391 seguidores",
+      "quantidade": 23375,
+      "texto": "Perdeu 23375 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:01:51.277053",
-      "captura_fim": "2026-10-22T19:22:27.042446",
+      "captura_fim": "2026-10-22T19:40:48.429841",
       "seguidores_inicio": 39782793,
-      "seguidores_fim": 39759402
+      "seguidores_fim": 39759418
     },
     "30_dias": {
       "variacao": null,
@@ -2981,17 +3077,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -55453,
+      "variacao": -55437,
       "direcao": "perdeu",
-      "quantidade": 55453,
-      "texto": "Perdeu 55453 seguidores",
+      "quantidade": 55437,
+      "texto": "Perdeu 55437 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:37.519826",
-      "captura_mais_recente": "2026-10-22T19:22:27.042446",
-      "tempo_total_dias": 16.945712,
+      "captura_mais_recente": "2026-10-22T19:40:48.429841",
+      "tempo_total_dias": 16.95846,
       "seguidores_inicio": 39814855,
-      "seguidores_fim": 39759402
+      "seguidores_fim": 39759418
     }
   }
 }
