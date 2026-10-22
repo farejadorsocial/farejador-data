@@ -8,7 +8,7 @@
       "id": "17841400466680137",
       "username": "mairacharken",
       "nome": "Maíra Hizzú Charken",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/799676904_18621136354015557_2232718062277517101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXwGGmWGFEgQ7kNvwEHmhCG&_nc_oc=AdrW-CBBNFdUUoIDG26ezkoFf8_G99YB9Ynd_SuqwT0m7eFcNkJD_w1mdgsSEhcIlNG1D0isJMKNa47i0LbhZAEP&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T66F0uCeTkGrZIRAc1MXnQ&_nc_ss=70689&oh=00_AQOhMOB6nUPhtaaWBNWw3POh018T_U7wTzh_u4JAeMjESg&oe=6AE054C8"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/799676904_18621136354015557_2232718062277517101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXwGGmWGFEgQ7kNvwEHmhCG&_nc_oc=AdrW-CBBNFdUUoIDG26ezkoFf8_G99YB9Ynd_SuqwT0m7eFcNkJD_w1mdgsSEhcIlNG1D0isJMKNa47i0LbhZAEP&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YxWcHLni-Rdq2hJhMFc1IQ&_nc_ss=70689&oh=00_AQPfILXLtpwLUV8JGl3kWUjGkdDLVM-gt2nFx5yytglglw&oe=6AE054C8"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 371613,
+        "valor_atual": 371622,
+        "variacao": 9,
+        "direcao": "aumento",
+        "descricao": "+9 seguidores",
+        "timestamp": "2026-10-22T19:39:15.256047",
+        "timestamp_anterior": "2026-10-22T19:24:03.503579",
+        "tempo_desde_anterior_segundos": 911
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -806,6 +819,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:39:15.256047",
+      "timestamp_anterior": "2026-10-22T19:24:03.503579",
+      "timestamp_atual": "2026-10-22T19:39:15.256047",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 8783556,
+        "id": "17841400466680137",
+        "username": "mairacharken",
+        "nome": "Maíra Hizzú Charken",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/799676904_18621136354015557_2232718062277517101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXwGGmWGFEgQ7kNvwEHmhCG&_nc_oc=AdrW-CBBNFdUUoIDG26ezkoFf8_G99YB9Ynd_SuqwT0m7eFcNkJD_w1mdgsSEhcIlNG1D0isJMKNa47i0LbhZAEP&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YxWcHLni-Rdq2hJhMFc1IQ&_nc_ss=70689&oh=00_AQPfILXLtpwLUV8JGl3kWUjGkdDLVM-gt2nFx5yytglglw&oe=6AE054C8"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 371613,
+      "valor_atual": 371622,
+      "hash_anterior": "f2fc75330494a29b71273f4eb3d254c871488a0a913f301300d68c4ac1941abc",
+      "hash_atual": "570e4eae13e2c1e693e4610011a23bea6d9256c91b799e353acb1f658505cc0e",
+      "variacao": 9,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 911.752468,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 911.752468,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "titulo": "Ganhou 9 seguidores",
+      "descricao": "Os seguidores passaram de 371.613 para 371.622",
+      "variacao_texto": "+9 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:24:03.503579",
@@ -2560,26 +2608,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:13:41.532368",
-    "captura_mais_recente": "2026-10-22T19:24:03.503579",
-    "tempo_total_segundos": 1469421,
-    "tempo_total_dias": 17.007188,
-    "tempo_total_texto": "17 dias, 10 minutos e 21 segundos",
+    "captura_mais_recente": "2026-10-22T19:39:15.256047",
+    "tempo_total_segundos": 1470333,
+    "tempo_total_dias": 17.017743,
+    "tempo_total_texto": "17 dias, 25 minutos e 33 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 1992,
+      "variacao": 2001,
       "direcao": "ganhou",
-      "quantidade": 1992,
-      "texto": "Ganhou 1992 seguidores",
+      "quantidade": 2001,
+      "texto": "Ganhou 2001 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:03:29.229926",
-      "captura_fim": "2026-10-22T19:24:03.503579",
+      "captura_fim": "2026-10-22T19:39:15.256047",
       "seguidores_inicio": 369621,
-      "seguidores_fim": 371613
+      "seguidores_fim": 371622
     },
     "30_dias": {
       "variacao": null,
@@ -2598,17 +2646,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 3662,
+      "variacao": 3671,
       "direcao": "ganhou",
-      "quantidade": 3662,
-      "texto": "Ganhou 3662 seguidores",
+      "quantidade": 3671,
+      "texto": "Ganhou 3671 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:13:41.532368",
-      "captura_mais_recente": "2026-10-22T19:24:03.503579",
-      "tempo_total_dias": 17.007199,
+      "captura_mais_recente": "2026-10-22T19:39:15.256047",
+      "tempo_total_dias": 17.017751,
       "seguidores_inicio": 367951,
-      "seguidores_fim": 371613
+      "seguidores_fim": 371622
     }
   }
 }
