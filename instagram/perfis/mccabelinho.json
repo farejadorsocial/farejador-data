@@ -8,7 +8,7 @@
       "id": "17841400961178070",
       "username": "mccabelinho",
       "nome": "",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UkSBVOiTj95-ZB7ehcJshg&_nc_ss=70689&oh=00_AQMDVEde5pS-ntVUgZTFelfOODA_bmT8lp-njD6YzOe6ZQ&oe=6AE055C7"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 12279196,
+        "valor_atual": 12281948,
+        "variacao": 2752,
+        "direcao": "aumento",
+        "descricao": "+2752 seguidores",
+        "timestamp": "2026-10-22T19:38:47.636561",
+        "timestamp_anterior": "2026-10-22T19:23:36.509215",
+        "tempo_desde_anterior_segundos": 911
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -932,6 +945,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:47.636561",
+      "timestamp_anterior": "2026-10-22T19:23:36.509215",
+      "timestamp_atual": "2026-10-22T19:38:47.636561",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 516512039,
+        "id": "17841400961178070",
+        "username": "mccabelinho",
+        "nome": "",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UkSBVOiTj95-ZB7ehcJshg&_nc_ss=70689&oh=00_AQMDVEde5pS-ntVUgZTFelfOODA_bmT8lp-njD6YzOe6ZQ&oe=6AE055C7"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 12279196,
+      "valor_atual": 12281948,
+      "hash_anterior": "fb1f05c749237e187e65e9354a28bf3a7f1d6183592462ad9af86d78308733d4",
+      "hash_atual": "1a12b21769794743f9eda0878d2e44f8916e9b9e2f8d56815b47f712377b750c",
+      "variacao": 2752,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 911.127346,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 911.127346,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "titulo": "Ganhou 2.752 seguidores",
+      "descricao": "Os seguidores passaram de 12.279.196 para 12.281.948",
+      "variacao_texto": "+2.752 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:36.509215",
@@ -3035,26 +3083,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:27.840564",
-    "captura_mais_recente": "2026-10-22T19:23:36.509215",
-    "tempo_total_segundos": 1464068,
-    "tempo_total_dias": 16.945231,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 8 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:47.636561",
+    "tempo_total_segundos": 1464979,
+    "tempo_total_dias": 16.955775,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 19 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 44671,
+      "variacao": 47423,
       "direcao": "ganhou",
-      "quantidade": 44671,
-      "texto": "Ganhou 44671 seguidores",
+      "quantidade": 47423,
+      "texto": "Ganhou 47423 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:03:01.035370",
-      "captura_fim": "2026-10-22T19:23:36.509215",
+      "captura_fim": "2026-10-22T19:38:47.636561",
       "seguidores_inicio": 12234525,
-      "seguidores_fim": 12279196
+      "seguidores_fim": 12281948
     },
     "30_dias": {
       "variacao": null,
@@ -3073,17 +3121,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 15269,
+      "variacao": 18021,
       "direcao": "ganhou",
-      "quantidade": 15269,
-      "texto": "Ganhou 15269 seguidores",
+      "quantidade": 18021,
+      "texto": "Ganhou 18021 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:27.840564",
-      "captura_mais_recente": "2026-10-22T19:23:36.509215",
-      "tempo_total_dias": 16.945239,
+      "captura_mais_recente": "2026-10-22T19:38:47.636561",
+      "tempo_total_dias": 16.955785,
       "seguidores_inicio": 12263927,
-      "seguidores_fim": 12279196
+      "seguidores_fim": 12281948
     }
   }
 }
