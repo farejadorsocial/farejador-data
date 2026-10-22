@@ -8,7 +8,7 @@
       "id": "17841400006846763",
       "username": "bissolilucas",
       "nome": "Lucas Bissoli",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/704592012_18594721291000229_2554278709904196246_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=f7ccc5&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DCpE-SO2CBwQ7kNvwH1uO5H&_nc_oc=AdpSK6zAKlOSrYw2nQgtxuEb4lrh9gTt4xYGDW2XuCrr1ErnAJnPO6DPWAN0LJDljRHpG_qUDd4k88steuZ59GV2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bf8ZLNPbr4BTkXtST6nXaw&_nc_ss=70689&oh=00_AQNpAJvSyjP_3eJPt9dqS1405blRgNfgX7nlnNv5agA7ag&oe=6ADEE68F"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/704592012_18594721291000229_2554278709904196246_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=f7ccc5&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DCpE-SO2CBwQ7kNvwGzkFrg&_nc_oc=Ado8ldw52bp6CIlPSwwpSoNvoaqwVNuphvHvw8xO5Nq0rDWHY9E8uUn_qfQs9e32xuXn-_7KUsG65hvHGO6bhyy3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zKgP0bBBppTXM3c6pwR5tw&_nc_ss=70689&oh=00_AQOz-fMIbdCUAo0AfdDYwIT0eGW5BXFwf62UmvFhwDiPrQ&oe=6AE0704F"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 1363343,
+        "valor_atual": 1363126,
+        "variacao": -217,
+        "direcao": "reducao",
+        "descricao": "-217 seguidores",
+        "timestamp": "2026-10-22T19:25:55.594983",
+        "timestamp_anterior": "2026-10-21T17:45:59.071480",
+        "tempo_desde_anterior_segundos": 92396
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -411,6 +424,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 1083,
+        "valor_atual": 1082,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-10-22T19:25:55.594983",
+        "timestamp_anterior": "2026-10-21T17:39:33.477009",
+        "tempo_desde_anterior_segundos": 92782
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 1084,
         "valor_atual": 1083,
         "variacao": -1,
@@ -546,6 +572,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:25:55.594983",
+      "timestamp_anterior": "2026-10-21T17:45:59.071480",
+      "timestamp_atual": "2026-10-22T19:25:55.594983",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 432832228,
+        "id": "17841400006846763",
+        "username": "bissolilucas",
+        "nome": "Lucas Bissoli",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/704592012_18594721291000229_2554278709904196246_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=f7ccc5&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DCpE-SO2CBwQ7kNvwGzkFrg&_nc_oc=Ado8ldw52bp6CIlPSwwpSoNvoaqwVNuphvHvw8xO5Nq0rDWHY9E8uUn_qfQs9e32xuXn-_7KUsG65hvHGO6bhyy3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zKgP0bBBppTXM3c6pwR5tw&_nc_ss=70689&oh=00_AQOz-fMIbdCUAo0AfdDYwIT0eGW5BXFwf62UmvFhwDiPrQ&oe=6AE0704F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 1363343,
+      "valor_atual": 1363126,
+      "hash_anterior": "dad037a7519177292e2435366c9f0e9a340e0e060e9a9a0bcbe6121b64d21f83",
+      "hash_atual": "cfcc345604f590ecea74bf6e3b0207379d075fe534499312dadeccad61970a80",
+      "variacao": -217,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92396.523503,
+        "texto": "1 dia e 1 hora e 39 minutos e 56 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 92396.523503,
+        "texto": "1 dia e 1 hora e 39 minutos e 56 segundos"
+      },
+      "titulo": "Perdeu 217 seguidores",
+      "descricao": "Os seguidores caíram de 1.363.343 para 1.363.126",
+      "variacao_texto": "-217 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:25:55.594983",
+      "timestamp_anterior": "2026-10-21T17:45:59.071480",
+      "timestamp_atual": "2026-10-22T19:25:55.594983",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 432832228,
+        "id": "17841400006846763",
+        "username": "bissolilucas",
+        "nome": "Lucas Bissoli",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/704592012_18594721291000229_2554278709904196246_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=f7ccc5&_nc_aid=0&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DCpE-SO2CBwQ7kNvwGzkFrg&_nc_oc=Ado8ldw52bp6CIlPSwwpSoNvoaqwVNuphvHvw8xO5Nq0rDWHY9E8uUn_qfQs9e32xuXn-_7KUsG65hvHGO6bhyy3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zKgP0bBBppTXM3c6pwR5tw&_nc_ss=70689&oh=00_AQOz-fMIbdCUAo0AfdDYwIT0eGW5BXFwf62UmvFhwDiPrQ&oe=6AE0704F"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1083,
+      "valor_atual": 1082,
+      "hash_anterior": "dad037a7519177292e2435366c9f0e9a340e0e060e9a9a0bcbe6121b64d21f83",
+      "hash_atual": "cfcc345604f590ecea74bf6e3b0207379d075fe534499312dadeccad61970a80",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92396.523503,
+        "texto": "1 dia e 1 hora e 39 minutos e 56 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 1.083 e passou a seguir 1.082",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:45:59.071480",
@@ -1600,26 +1696,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:16:12.434906",
-    "captura_mais_recente": "2026-10-21T17:45:59.071480",
-    "tempo_total_segundos": 1376986,
-    "tempo_total_dias": 15.937338,
-    "tempo_total_texto": "15 dias, 22 horas, 29 minutos e 46 segundos",
+    "captura_mais_recente": "2026-10-22T19:25:55.594983",
+    "tempo_total_segundos": 1469383,
+    "tempo_total_dias": 17.006748,
+    "tempo_total_texto": "17 dias, 9 minutos e 43 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -1255,
+      "variacao": -1339,
       "direcao": "perdeu",
-      "quantidade": 1255,
-      "texto": "Perdeu 1255 seguidores",
+      "quantidade": 1339,
+      "texto": "Perdeu 1339 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-14T12:08:53.363170",
-      "captura_fim": "2026-10-21T17:45:59.071480",
-      "seguidores_inicio": 1364598,
-      "seguidores_fim": 1363343
+      "captura_inicio": "2026-10-15T00:26:52.551929",
+      "captura_fim": "2026-10-22T19:25:55.594983",
+      "seguidores_inicio": 1364465,
+      "seguidores_fim": 1363126
     },
     "30_dias": {
       "variacao": null,
@@ -1638,17 +1734,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -2688,
+      "variacao": -2905,
       "direcao": "perdeu",
-      "quantidade": 2688,
-      "texto": "Perdeu 2688 seguidores",
+      "quantidade": 2905,
+      "texto": "Perdeu 2905 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:16:12.434906",
-      "captura_mais_recente": "2026-10-21T17:45:59.071480",
-      "tempo_total_dias": 15.937345,
+      "captura_mais_recente": "2026-10-22T19:25:55.594983",
+      "tempo_total_dias": 17.00675,
       "seguidores_inicio": 1366031,
-      "seguidores_fim": 1363343
+      "seguidores_fim": 1363126
     }
   }
 }
