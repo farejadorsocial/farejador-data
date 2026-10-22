@@ -98,6 +98,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 394,
+        "valor_atual": 395,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-22T19:38:33.827613",
+        "timestamp_anterior": "2026-10-22T19:23:22.673703",
+        "tempo_desde_anterior_segundos": 911
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 397,
         "valor_atual": 394,
         "variacao": -3,
@@ -243,6 +256,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:33.827613",
+      "timestamp_anterior": "2026-10-22T19:23:22.673703",
+      "timestamp_atual": "2026-10-22T19:38:33.827613",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 2091499397,
+        "id": "17841402021931437",
+        "username": "mcdaniel",
+        "nome": "Vic Mc Daniel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/308683561_5182131061916193_4017210985942732156_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODAuQzMifQ%3D%3D&_nc_ohc=msDim9CgPwQQ7kNvwEtFx5B&_nc_oc=AdrUCONP6WKjlrnafaY-0RFtbF4e7VRIcYKPJZyMFsgKzokZ9X7yICPjnOwpHtepknD-t7wVirjZQifLl_lZRLnL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPL3UpzD_Im1jnWI8pt45dbnBJR-W2M5GdJPwMvQYcQsw&oe=6AE079DB"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 394,
+      "valor_atual": 395,
+      "hash_anterior": "9f60449160c22fc982808e0a2569bacf692ee4e559bf7ae9c7f8cff9ad0f9a7d",
+      "hash_atual": "8b5efee229c6c8d3e4b7a888d4132e458c98d334f9958f4a2b9251622b1c7c75",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 911.15391,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 911.15391,
+        "texto": "15 minutos e 11 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 394 para 395",
+      "variacao_texto": "+1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:22.673703",
@@ -491,26 +539,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:09.807460",
-    "captura_mais_recente": "2026-10-22T19:23:22.673703",
-    "tempo_total_segundos": 1464072,
-    "tempo_total_dias": 16.945278,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 12 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:33.827613",
+    "tempo_total_segundos": 1464984,
+    "tempo_total_dias": 16.955833,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 24 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 26,
+      "variacao": 27,
       "direcao": "ganhou",
-      "quantidade": 26,
-      "texto": "Ganhou 26 seguidores",
+      "quantidade": 27,
+      "texto": "Ganhou 27 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:46.934609",
-      "captura_fim": "2026-10-22T19:23:22.673703",
+      "captura_fim": "2026-10-22T19:38:33.827613",
       "seguidores_inicio": 368,
-      "seguidores_fim": 394
+      "seguidores_fim": 395
     },
     "30_dias": {
       "variacao": null,
@@ -529,17 +577,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 39,
+      "variacao": 40,
       "direcao": "ganhou",
-      "quantidade": 39,
-      "texto": "Ganhou 39 seguidores",
+      "quantidade": 40,
+      "texto": "Ganhou 40 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:09.807460",
-      "captura_mais_recente": "2026-10-22T19:23:22.673703",
-      "tempo_total_dias": 16.945288,
+      "captura_mais_recente": "2026-10-22T19:38:33.827613",
+      "tempo_total_dias": 16.955834,
       "seguidores_inicio": 355,
-      "seguidores_fim": 394
+      "seguidores_fim": 395
     }
   }
 }
