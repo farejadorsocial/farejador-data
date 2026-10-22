@@ -89,6 +89,32 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 38196638,
+        "valor_atual": 38196623,
+        "variacao": -15,
+        "direcao": "reducao",
+        "descricao": "-15 seguidores",
+        "timestamp": "2026-10-22T19:40:36.766695",
+        "timestamp_anterior": "2026-10-22T19:37:10.045217",
+        "tempo_desde_anterior_segundos": 206
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 38196682,
+        "valor_atual": 38196638,
+        "variacao": -44,
+        "direcao": "reducao",
+        "descricao": "-44 seguidores",
+        "timestamp": "2026-10-22T19:37:10.045217",
+        "timestamp_anterior": "2026-10-22T19:25:22.476507",
+        "tempo_desde_anterior_segundos": 707
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 38196699,
         "valor_atual": 38196682,
         "variacao": -17,
@@ -1547,6 +1573,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:40:36.766695",
+      "timestamp_anterior": "2026-10-22T19:37:10.045217",
+      "timestamp_atual": "2026-10-22T19:40:36.766695",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 9281904,
+        "id": "17841400057120145",
+        "username": "paollaoliveirareal",
+        "nome": "Paolla Oliveira",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/326340478_728437775569601_7536036692047613795_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lQwEqZSJ8e0Q7kNvwF73nW7&_nc_oc=Adp45iiTWkQsDPJYZNoqRjHvWkFHiSiLlLjgIsEnGSLn3lMRgA644rKYy66XefTC0A-7PgPQrSpwM4Is9DHhWGth&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMXa-CwdpQYw7qHGqIOOVpWMnZlvbRRWFwreVOAce75aw&oe=6AE06118"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 38196638,
+      "valor_atual": 38196623,
+      "hash_anterior": "5e12fbdaef8d4bcc5fae4b47c20435c2c54ac508b3ee4f6d2543b9dcaa5f881b",
+      "hash_atual": "225c1aa6b13ae9d2b373f33e4a5f09529d4a656d0bf886286b1a21481529eb0b",
+      "variacao": -15,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 206.721478,
+        "texto": "3 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 206.721478,
+        "texto": "3 minutos e 26 segundos"
+      },
+      "titulo": "Perdeu 15 seguidores",
+      "descricao": "Os seguidores caíram de 38.196.638 para 38.196.623",
+      "variacao_texto": "-15 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:10.045217",
+      "timestamp_anterior": "2026-10-22T19:25:22.476507",
+      "timestamp_atual": "2026-10-22T19:37:10.045217",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 9281904,
+        "id": "17841400057120145",
+        "username": "paollaoliveirareal",
+        "nome": "Paolla Oliveira",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/326340478_728437775569601_7536036692047613795_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lQwEqZSJ8e0Q7kNvwF73nW7&_nc_oc=Adp45iiTWkQsDPJYZNoqRjHvWkFHiSiLlLjgIsEnGSLn3lMRgA644rKYy66XefTC0A-7PgPQrSpwM4Is9DHhWGth&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMXa-CwdpQYw7qHGqIOOVpWMnZlvbRRWFwreVOAce75aw&oe=6AE06118"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 38196682,
+      "valor_atual": 38196638,
+      "hash_anterior": "9d16792cd128702b0c516e82fc51326b25a04290b2a0f09d4ef69a89448c5ed6",
+      "hash_atual": "5e12fbdaef8d4bcc5fae4b47c20435c2c54ac508b3ee4f6d2543b9dcaa5f881b",
+      "variacao": -44,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 707.56871,
+        "texto": "11 minutos e 47 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 707.56871,
+        "texto": "11 minutos e 47 segundos"
+      },
+      "titulo": "Perdeu 44 seguidores",
+      "descricao": "Os seguidores caíram de 38.196.682 para 38.196.638",
+      "variacao_texto": "-44 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:25:22.476507",
@@ -5296,26 +5392,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:34:09.387101",
-    "captura_mais_recente": "2026-10-22T19:25:22.476507",
-    "tempo_total_segundos": 1572673,
-    "tempo_total_dias": 18.202234,
-    "tempo_total_texto": "18 dias, 4 horas, 51 minutos e 13 segundos",
+    "captura_mais_recente": "2026-10-22T19:40:36.766695",
+    "tempo_total_segundos": 1573587,
+    "tempo_total_dias": 18.212812,
+    "tempo_total_texto": "18 dias, 5 horas, 6 minutos e 27 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -44436,
+      "variacao": -44495,
       "direcao": "perdeu",
-      "quantidade": 44436,
-      "texto": "Perdeu 44436 seguidores",
+      "quantidade": 44495,
+      "texto": "Perdeu 44495 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:04:14.183703",
-      "captura_fim": "2026-10-22T19:25:22.476507",
+      "captura_fim": "2026-10-22T19:40:36.766695",
       "seguidores_inicio": 38241118,
-      "seguidores_fim": 38196682
+      "seguidores_fim": 38196623
     },
     "30_dias": {
       "variacao": null,
@@ -5334,17 +5430,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -204162,
+      "variacao": -204221,
       "direcao": "perdeu",
-      "quantidade": 204162,
-      "texto": "Perdeu 204162 seguidores",
+      "quantidade": 204221,
+      "texto": "Perdeu 204221 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:34:09.387101",
-      "captura_mais_recente": "2026-10-22T19:25:22.476507",
-      "tempo_total_dias": 18.202235,
+      "captura_mais_recente": "2026-10-22T19:40:36.766695",
+      "tempo_total_dias": 18.212817,
       "seguidores_inicio": 38400844,
-      "seguidores_fim": 38196682
+      "seguidores_fim": 38196623
     }
   }
 }
