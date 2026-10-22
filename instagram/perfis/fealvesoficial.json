@@ -8,7 +8,7 @@
       "id": "17841402052702860",
       "username": "fealvesoficial",
       "nome": "Felipe Alves",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PjorNyfg02gQ7kNvwFa31J-&_nc_oc=Adq_glsZ74m0cb2ILbhIjGXN2vLmYGH7EVhKrItJ_C7PXVclx00LDYq39OgWb0K7KuvMfCwWCWimfIwO6nhK3Wsi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIJEntClfaoojHU8QC5SWQ&_nc_ss=70689&oh=00_AQOdcvWcFtCl_hP2jRk1oCW4Peoltf_na7HUp2gl6HzWKg&oe=6ADEF320"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=po6moUD0jtU9lrdDACF88g&_nc_ss=70689&oh=00_AQPV0fQbeLNqHB3Tug6FeiELiEi8PKREivqElQ1HH_CJVw&oe=6AE044A0"
     },
     "biografia": [
       {
@@ -98,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 9030,
+        "valor_atual": 9031,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-22T19:22:39.594669",
+        "timestamp_anterior": "2026-10-21T17:36:20.749704",
+        "tempo_desde_anterior_segundos": 92778
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -585,6 +598,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:22:39.594669",
+      "timestamp_anterior": "2026-10-21T17:36:20.749704",
+      "timestamp_atual": "2026-10-22T19:22:39.594669",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 2022884423,
+        "id": "17841402052702860",
+        "username": "fealvesoficial",
+        "nome": "Felipe Alves",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=po6moUD0jtU9lrdDACF88g&_nc_ss=70689&oh=00_AQPV0fQbeLNqHB3Tug6FeiELiEi8PKREivqElQ1HH_CJVw&oe=6AE044A0"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 9030,
+      "valor_atual": 9031,
+      "hash_anterior": "86873d17d300ef602c2bffc759ccd413e04eadada393f0d3b2010671a99d83d4",
+      "hash_atual": "ddb981124fba7b5b3358403aa067c9e16b5aa8313b531cd7e167b4c4e9b60683",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 92778.844965,
+        "texto": "1 dia e 1 hora e 46 minutos e 18 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 92778.844965,
+        "texto": "1 dia e 1 hora e 46 minutos e 18 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 9.030 para 9.031",
+      "variacao_texto": "+1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:36:20.749704",
@@ -1743,26 +1791,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:50.982322",
-    "captura_mais_recente": "2026-10-21T17:36:20.749704",
-    "tempo_total_segundos": 1281269,
-    "tempo_total_dias": 14.829502,
-    "tempo_total_texto": "14 dias, 19 horas, 54 minutos e 29 segundos",
+    "captura_mais_recente": "2026-10-22T19:22:39.594669",
+    "tempo_total_segundos": 1374048,
+    "tempo_total_dias": 15.903333,
+    "tempo_total_texto": "15 dias, 21 horas, 40 minutos e 48 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 10,
+      "variacao": 9,
       "direcao": "ganhou",
-      "quantidade": 10,
-      "texto": "Ganhou 10 seguidores",
+      "quantidade": 9,
+      "texto": "Ganhou 9 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-14T12:07:36.979215",
-      "captura_fim": "2026-10-21T17:36:20.749704",
-      "seguidores_inicio": 9020,
-      "seguidores_fim": 9030
+      "captura_inicio": "2026-10-15T13:48:51.825719",
+      "captura_fim": "2026-10-22T19:22:39.594669",
+      "seguidores_inicio": 9022,
+      "seguidores_fim": 9031
     },
     "30_dias": {
       "variacao": null,
@@ -1781,17 +1829,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 30,
+      "variacao": 31,
       "direcao": "ganhou",
-      "quantidade": 30,
-      "texto": "Ganhou 30 seguidores",
+      "quantidade": 31,
+      "texto": "Ganhou 31 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:50.982322",
-      "captura_mais_recente": "2026-10-21T17:36:20.749704",
-      "tempo_total_dias": 14.829511,
+      "captura_mais_recente": "2026-10-22T19:22:39.594669",
+      "tempo_total_dias": 15.90334,
       "seguidores_inicio": 9000,
-      "seguidores_fim": 9030
+      "seguidores_fim": 9031
     }
   }
 }
