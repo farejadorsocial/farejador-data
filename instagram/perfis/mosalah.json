@@ -98,6 +98,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 67892155,
+        "valor_atual": 67892183,
+        "variacao": 28,
+        "direcao": "aumento",
+        "descricao": "+28 seguidores",
+        "timestamp": "2026-10-22T19:39:01.354037",
+        "timestamp_anterior": "2026-10-22T19:23:51.192739",
+        "tempo_desde_anterior_segundos": 910
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 67894435,
         "valor_atual": 67892155,
         "variacao": -2280,
@@ -776,6 +789,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:39:01.354037",
+      "timestamp_anterior": "2026-10-22T19:23:51.192739",
+      "timestamp_atual": "2026-10-22T19:39:01.354037",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 524226044,
+        "id": "17841400061328191",
+        "username": "mosalah",
+        "nome": "Mohamed Salah",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=NZXoHkdhF6MQ7kNvwH0Krd1&_nc_oc=AdoaPbX--9m0_hloPyYRql-3RsBuK6I8WE5Nd00l_IEP5YkTUnmL57aIUP2vAdrdOOwo9UlGkUY0j5W4Z_OmvCjl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOkx36s-BCN6H66_UCQnL7hB9ClNWswKJKDH9eQLbeYGA&oe=6AE04EDB"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 67892155,
+      "valor_atual": 67892183,
+      "hash_anterior": "4b846d077791751643bf4db4bf7fca4af02135a528596117d8012ce983f69026",
+      "hash_atual": "3cc71618e1cc096d9a63c0416fae12ff952baeb2ac2c18f84dc30c9ab07f32ff",
+      "variacao": 28,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 910.161298,
+        "texto": "15 minutos e 10 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 910.161298,
+        "texto": "15 minutos e 10 segundos"
+      },
+      "titulo": "Ganhou 28 seguidores",
+      "descricao": "Os seguidores passaram de 67.892.155 para 67.892.183",
+      "variacao_texto": "+28 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:51.192739",
@@ -2459,26 +2507,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:28.411614",
-    "captura_mais_recente": "2026-10-22T19:23:51.192739",
-    "tempo_total_segundos": 1464082,
-    "tempo_total_dias": 16.945394,
-    "tempo_total_texto": "16 dias, 22 horas, 41 minutos e 22 segundos",
+    "captura_mais_recente": "2026-10-22T19:39:01.354037",
+    "tempo_total_segundos": 1464992,
+    "tempo_total_dias": 16.955926,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 32 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 205,
+      "variacao": 233,
       "direcao": "ganhou",
-      "quantidade": 205,
-      "texto": "Ganhou 205 seguidores",
+      "quantidade": 233,
+      "texto": "Ganhou 233 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:03:15.228992",
-      "captura_fim": "2026-10-22T19:23:51.192739",
+      "captura_fim": "2026-10-22T19:39:01.354037",
       "seguidores_inicio": 67891950,
-      "seguidores_fim": 67892155
+      "seguidores_fim": 67892183
     },
     "30_dias": {
       "variacao": null,
@@ -2497,17 +2545,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -29377,
+      "variacao": -29349,
       "direcao": "perdeu",
-      "quantidade": 29377,
-      "texto": "Perdeu 29377 seguidores",
+      "quantidade": 29349,
+      "texto": "Perdeu 29349 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:28.411614",
-      "captura_mais_recente": "2026-10-22T19:23:51.192739",
-      "tempo_total_dias": 16.945403,
+      "captura_mais_recente": "2026-10-22T19:39:01.354037",
+      "tempo_total_dias": 16.955937,
       "seguidores_inicio": 67921532,
-      "seguidores_fim": 67892155
+      "seguidores_fim": 67892183
     }
   }
 }
