@@ -8,7 +8,7 @@
       "id": "17841401617442961",
       "username": "darlinferrattry",
       "nome": "Darlin Ferrattry",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/835098840_18627167719053915_8702543603305743819_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LeQ3DVGBuuQQ7kNvwH4y5yD&_nc_oc=Adr44t8Pot_KnEZbR0d1hI4jHo8EzOoU9Sk34KFFpfnjNKZLOiniXTkCx0WIvpJ5oUrzRtkNTVggo4EHg2-NpmKw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SlYvHttUwUCpxNVDfN5BCQ&_nc_ss=70689&oh=00_AQPfxAaNQZqsAzZZm-bM9x6ZufHRNaOo0HVusmtFid334w&oe=6AE04BBD"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/835098840_18627167719053915_8702543603305743819_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LeQ3DVGBuuQQ7kNvwH4y5yD&_nc_oc=Adr44t8Pot_KnEZbR0d1hI4jHo8EzOoU9Sk34KFFpfnjNKZLOiniXTkCx0WIvpJ5oUrzRtkNTVggo4EHg2-NpmKw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-BFNCTs5vZrAbCSDh6Vj-A&_nc_ss=70689&oh=00_AQMDfJRQSKQj6pxyt20VlcUPvUZM8FHuXBe4ObL5hmnmrA&oe=6AE04BBD"
     },
     "biografia": [
       {
@@ -85,6 +85,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 749725,
+        "valor_atual": 749734,
+        "variacao": 9,
+        "direcao": "aumento",
+        "descricao": "+9 seguidores",
+        "timestamp": "2026-10-22T19:38:33.494609",
+        "timestamp_anterior": "2026-10-22T19:23:20.560794",
+        "tempo_desde_anterior_segundos": 912
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -923,6 +936,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:33.494609",
+      "timestamp_anterior": "2026-10-22T19:23:20.560794",
+      "timestamp_atual": "2026-10-22T19:38:33.494609",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1469557914,
+        "id": "17841401617442961",
+        "username": "darlinferrattry",
+        "nome": "Darlin Ferrattry",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/835098840_18627167719053915_8702543603305743819_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LeQ3DVGBuuQQ7kNvwH4y5yD&_nc_oc=Adr44t8Pot_KnEZbR0d1hI4jHo8EzOoU9Sk34KFFpfnjNKZLOiniXTkCx0WIvpJ5oUrzRtkNTVggo4EHg2-NpmKw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-BFNCTs5vZrAbCSDh6Vj-A&_nc_ss=70689&oh=00_AQMDfJRQSKQj6pxyt20VlcUPvUZM8FHuXBe4ObL5hmnmrA&oe=6AE04BBD"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 749725,
+      "valor_atual": 749734,
+      "hash_anterior": "32d7b73a5add035c5111ad87d0b55df73752dcd83d7e90ce8280497b6e52bc72",
+      "hash_atual": "819e3ffb2f93caa4f2cc7e25dc37909907dad2b037f617ca97774d22fb9e3798",
+      "variacao": 9,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.933815,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.933815,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 9 seguidores",
+      "descricao": "Os seguidores passaram de 749.725 para 749.734",
+      "variacao_texto": "+9 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:23:20.560794",
@@ -2992,26 +3040,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:23.449845",
-    "captura_mais_recente": "2026-10-22T19:23:20.560794",
-    "tempo_total_segundos": 1560357,
-    "tempo_total_dias": 18.059687,
-    "tempo_total_texto": "18 dias, 1 hora, 25 minutos e 57 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:33.494609",
+    "tempo_total_segundos": 1561270,
+    "tempo_total_dias": 18.070255,
+    "tempo_total_texto": "18 dias, 1 hora, 41 minutos e 10 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 5029,
+      "variacao": 5038,
       "direcao": "ganhou",
-      "quantidade": 5029,
-      "texto": "Ganhou 5029 seguidores",
+      "quantidade": 5038,
+      "texto": "Ganhou 5038 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:47.317545",
-      "captura_fim": "2026-10-22T19:23:20.560794",
+      "captura_fim": "2026-10-22T19:38:33.494609",
       "seguidores_inicio": 744696,
-      "seguidores_fim": 749725
+      "seguidores_fim": 749734
     },
     "30_dias": {
       "variacao": null,
@@ -3030,17 +3078,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 6950,
+      "variacao": 6959,
       "direcao": "ganhou",
-      "quantidade": 6950,
-      "texto": "Ganhou 6950 seguidores",
+      "quantidade": 6959,
+      "texto": "Ganhou 6959 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:23.449845",
-      "captura_mais_recente": "2026-10-22T19:23:20.560794",
-      "tempo_total_dias": 18.059689,
+      "captura_mais_recente": "2026-10-22T19:38:33.494609",
+      "tempo_total_dias": 18.070255,
       "seguidores_inicio": 742775,
-      "seguidores_fim": 749725
+      "seguidores_fim": 749734
     }
   }
 }
