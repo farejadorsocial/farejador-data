@@ -8,7 +8,7 @@
       "id": "17841401187583088",
       "username": "catherinebascoy",
       "nome": "Catherine",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/856337748_18643294624039587_4588137077176935733_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=tDfd95a3jmkQ7kNvwGROaEl&_nc_oc=Adq5Z7Gwgli6f1w9n4a147P0Zt9YuxfRVEY4972K_vG54p2mW3D1a9iZ23k5tWYRH54ruyhk319qutUC3Q1INq3s&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S0gIjV_NMZy1etL7sZG_mA&_nc_ss=70689&oh=00_AQOdPHGUWf_le312xAJT8T-jco3WXJYlwVH7Xi2PisxQYQ&oe=6AE067C6"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/856337748_18643294624039587_4588137077176935733_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=tDfd95a3jmkQ7kNvwGROaEl&_nc_oc=Adq5Z7Gwgli6f1w9n4a147P0Zt9YuxfRVEY4972K_vG54p2mW3D1a9iZ23k5tWYRH54ruyhk319qutUC3Q1INq3s&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nE_xAxvw6xmPJ0gCcTdPIw&_nc_ss=70689&oh=00_AQMTZQ7wPCYs4dqv8d_ah91Ihoo3u_Fe9UnmwDNA8JefAQ&oe=6AE067C6"
     },
     "biografia": [
       {
@@ -119,6 +119,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 1846292,
+        "valor_atual": 1846291,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 seguidores",
+        "timestamp": "2026-10-22T19:38:05.538970",
+        "timestamp_anterior": "2026-10-22T19:22:52.775501",
+        "tempo_desde_anterior_segundos": 912
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -803,6 +816,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 3213,
+        "valor_atual": 3214,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-22T19:38:05.538970",
+        "timestamp_anterior": "2026-10-22T19:22:52.775501",
+        "tempo_desde_anterior_segundos": 912
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 3194,
         "valor_atual": 3213,
         "variacao": 19,
@@ -1074,6 +1100,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:05.538970",
+      "timestamp_anterior": "2026-10-22T19:22:52.775501",
+      "timestamp_atual": "2026-10-22T19:38:05.538970",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 197671586,
+        "id": "17841401187583088",
+        "username": "catherinebascoy",
+        "nome": "Catherine",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/856337748_18643294624039587_4588137077176935733_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=tDfd95a3jmkQ7kNvwGROaEl&_nc_oc=Adq5Z7Gwgli6f1w9n4a147P0Zt9YuxfRVEY4972K_vG54p2mW3D1a9iZ23k5tWYRH54ruyhk319qutUC3Q1INq3s&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nE_xAxvw6xmPJ0gCcTdPIw&_nc_ss=70689&oh=00_AQMTZQ7wPCYs4dqv8d_ah91Ihoo3u_Fe9UnmwDNA8JefAQ&oe=6AE067C6"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 1846292,
+      "valor_atual": 1846291,
+      "hash_anterior": "dba1430e0d55cc3634c4c0547cef65cae4888c00fd99d34da394ddb1498bb3b1",
+      "hash_atual": "5cf3e3c79d1febdbbccc7a19df809684b45b97b72a9bb54efcd27fe1605a2526",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 912.763469,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 912.763469,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "titulo": "Perdeu 1 seguidor",
+      "descricao": "Os seguidores caíram de 1.846.292 para 1.846.291",
+      "variacao_texto": "-1 seguidor"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:38:05.538970",
+      "timestamp_anterior": "2026-10-22T19:22:52.775501",
+      "timestamp_atual": "2026-10-22T19:38:05.538970",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 197671586,
+        "id": "17841401187583088",
+        "username": "catherinebascoy",
+        "nome": "Catherine",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/856337748_18643294624039587_4588137077176935733_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=tDfd95a3jmkQ7kNvwGROaEl&_nc_oc=Adq5Z7Gwgli6f1w9n4a147P0Zt9YuxfRVEY4972K_vG54p2mW3D1a9iZ23k5tWYRH54ruyhk319qutUC3Q1INq3s&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nE_xAxvw6xmPJ0gCcTdPIw&_nc_ss=70689&oh=00_AQMTZQ7wPCYs4dqv8d_ah91Ihoo3u_Fe9UnmwDNA8JefAQ&oe=6AE067C6"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 3213,
+      "valor_atual": 3214,
+      "hash_anterior": "dba1430e0d55cc3634c4c0547cef65cae4888c00fd99d34da394ddb1498bb3b1",
+      "hash_atual": "5cf3e3c79d1febdbbccc7a19df809684b45b97b72a9bb54efcd27fe1605a2526",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 912.763469,
+        "texto": "15 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 3.213 para 3.214",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:22:52.775501",
@@ -3534,26 +3630,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:56:46.836907",
-    "captura_mais_recente": "2026-10-22T19:22:52.775501",
-    "tempo_total_segundos": 1560365,
-    "tempo_total_dias": 18.05978,
-    "tempo_total_texto": "18 dias, 1 hora, 26 minutos e 5 segundos",
+    "captura_mais_recente": "2026-10-22T19:38:05.538970",
+    "tempo_total_segundos": 1561278,
+    "tempo_total_dias": 18.070347,
+    "tempo_total_texto": "18 dias, 1 hora, 41 minutos e 18 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 755,
+      "variacao": 754,
       "direcao": "ganhou",
-      "quantidade": 755,
-      "texto": "Ganhou 755 seguidores",
+      "quantidade": 754,
+      "texto": "Ganhou 754 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:19.661414",
-      "captura_fim": "2026-10-22T19:22:52.775501",
+      "captura_fim": "2026-10-22T19:38:05.538970",
       "seguidores_inicio": 1845537,
-      "seguidores_fim": 1846292
+      "seguidores_fim": 1846291
     },
     "30_dias": {
       "variacao": null,
@@ -3572,17 +3668,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 591,
+      "variacao": 590,
       "direcao": "ganhou",
-      "quantidade": 591,
-      "texto": "Ganhou 591 seguidores",
+      "quantidade": 590,
+      "texto": "Ganhou 590 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:56:46.836907",
-      "captura_mais_recente": "2026-10-22T19:22:52.775501",
-      "tempo_total_dias": 18.059791,
+      "captura_mais_recente": "2026-10-22T19:38:05.538970",
+      "tempo_total_dias": 18.070355,
       "seguidores_inicio": 1845701,
-      "seguidores_fim": 1846292
+      "seguidores_fim": 1846291
     }
   }
 }
