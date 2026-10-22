@@ -137,6 +137,19 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 54246612,
+        "valor_atual": 54246574,
+        "variacao": -38,
+        "direcao": "reducao",
+        "descricao": "-38 seguidores",
+        "timestamp": "2026-10-22T19:37:53.028020",
+        "timestamp_anterior": "2026-10-22T19:26:04.593408",
+        "tempo_desde_anterior_segundos": 708
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 54246628,
         "valor_atual": 54246612,
         "variacao": -16,
@@ -1127,6 +1140,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-22T19:37:53.028020",
+      "timestamp_anterior": "2026-10-22T19:26:04.593408",
+      "timestamp_atual": "2026-10-22T19:37:53.028020",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 26029182,
+        "id": "17841401355460406",
+        "username": "tatawerneck",
+        "nome": "Tata Werneck",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/12677624_525015697673067_466669943_a.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40OTkuQzMifQ%3D%3D&_nc_ohc=Qldg3zOxCSgQ7kNvwFbfisJ&_nc_oc=Adq7HadnJIA9UXEG-xaXE3dbkm1OZDaCTyIOr90Agk6W122XAoXPKjeDiL9FSueFjrnjNK35JxE1ZcOHTwt7f9fR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPy_P4uo9yiH8sJDweukKO4m2mkaZvZrbHeSHEFB_XWnA&oe=6AE055A1"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 54246612,
+      "valor_atual": 54246574,
+      "hash_anterior": "31d02caab57969c3890bbea49e85a4219258e73ecf789b5c6ff11c3bfc3893b0",
+      "hash_atual": "d97f65ac2fdc8dd82dc12dc748959e834b1cc9fdf499d4a0dc0df75792d9a7e9",
+      "variacao": -38,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 708.434612,
+        "texto": "11 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 708.434612,
+        "texto": "11 minutos e 48 segundos"
+      },
+      "titulo": "Perdeu 38 seguidores",
+      "descricao": "Os seguidores caíram de 54.246.612 para 54.246.574",
+      "variacao_texto": "-38 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:26:04.593408",
@@ -3752,26 +3800,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:55.957911",
-    "captura_mais_recente": "2026-10-22T19:26:04.593408",
-    "tempo_total_segundos": 1464308,
-    "tempo_total_dias": 16.948009,
-    "tempo_total_texto": "16 dias, 22 horas, 45 minutos e 8 segundos",
+    "captura_mais_recente": "2026-10-22T19:37:53.028020",
+    "tempo_total_segundos": 1465017,
+    "tempo_total_dias": 16.956215,
+    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 57 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -121932,
+      "variacao": -121970,
       "direcao": "perdeu",
-      "quantidade": 121932,
-      "texto": "Perdeu 121932 seguidores",
+      "quantidade": 121970,
+      "texto": "Perdeu 121970 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:06.535875",
-      "captura_fim": "2026-10-22T19:26:04.593408",
+      "captura_fim": "2026-10-22T19:37:53.028020",
       "seguidores_inicio": 54368544,
-      "seguidores_fim": 54246612
+      "seguidores_fim": 54246574
     },
     "30_dias": {
       "variacao": null,
@@ -3790,17 +3838,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -269811,
+      "variacao": -269849,
       "direcao": "perdeu",
-      "quantidade": 269811,
-      "texto": "Perdeu 269811 seguidores",
+      "quantidade": 269849,
+      "texto": "Perdeu 269849 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:55.957911",
-      "captura_mais_recente": "2026-10-22T19:26:04.593408",
-      "tempo_total_dias": 16.948017,
+      "captura_mais_recente": "2026-10-22T19:37:53.028020",
+      "tempo_total_dias": 16.956216,
       "seguidores_inicio": 54516423,
-      "seguidores_fim": 54246612
+      "seguidores_fim": 54246574
     }
   }
 }
