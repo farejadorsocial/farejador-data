@@ -8,7 +8,7 @@
       "id": "17841401249275299",
       "username": "ronaldinho",
       "nome": "Ronaldo de Assis Moreira",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ifTQV5XGpoMQ7kNvwGO8a9I&_nc_oc=AdruDzdvErsUP2kzFw5sjQZqFCsZvimAXjhGnEZGLnB4bhYXnONkfwN1I-M677quX0xfTFtS6eCFQYEAnCwoCeFo&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPPyBYKqDqLOHJ_Ort5XPxZLxmYpODeIyZxJfFRCxjWvw&oe=6AE056B5"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ifTQV5XGpoMQ7kNvwE4PPdy&_nc_oc=AdrH8H0SrtBEFUWIh89e38hdqBDA1pukFFNGxEv4hrZq-TqtRMnk_J5vcI5xOn37q8nQE7pctwdPZ3isRXXRedWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMKLqJf67wCu0kpAU7eF_yVwvWfJbPczUkkyfIlDBHC-Q&oe=6AE137B5"
     },
     "biografia": [
       {
@@ -110,6 +110,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 81188395,
+        "valor_atual": 81188399,
+        "variacao": 4,
+        "direcao": "aumento",
+        "descricao": "+4 seguidores",
+        "timestamp": "2026-10-23T10:36:55.092696",
+        "timestamp_anterior": "2026-10-23T10:33:28.780018",
+        "tempo_desde_anterior_segundos": 206
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 81190004,
+        "valor_atual": 81188395,
+        "variacao": -1609,
+        "direcao": "reducao",
+        "descricao": "-1609 seguidores",
+        "timestamp": "2026-10-23T10:33:28.780018",
+        "timestamp_anterior": "2026-10-22T19:37:51.967550",
+        "tempo_desde_anterior_segundos": 53736
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -961,6 +987,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:36:55.092696",
+      "timestamp_anterior": "2026-10-23T10:33:28.780018",
+      "timestamp_atual": "2026-10-23T10:36:55.092696",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 979177642,
+        "id": "17841401249275299",
+        "username": "ronaldinho",
+        "nome": "Ronaldo de Assis Moreira",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ifTQV5XGpoMQ7kNvwE4PPdy&_nc_oc=AdrH8H0SrtBEFUWIh89e38hdqBDA1pukFFNGxEv4hrZq-TqtRMnk_J5vcI5xOn37q8nQE7pctwdPZ3isRXXRedWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMKLqJf67wCu0kpAU7eF_yVwvWfJbPczUkkyfIlDBHC-Q&oe=6AE137B5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 81188395,
+      "valor_atual": 81188399,
+      "hash_anterior": "c083ca365942f40e75a4083c0a9975342b3a97a7d0d84e8581291ab56012dab1",
+      "hash_atual": "7e1b869908b822a96966b5f6116dd58fc04862f75063bbd9ab96467f03f9e02a",
+      "variacao": 4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 206.312678,
+        "texto": "3 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 206.312678,
+        "texto": "3 minutos e 26 segundos"
+      },
+      "titulo": "Ganhou 4 seguidores",
+      "descricao": "Os seguidores passaram de 81.188.395 para 81.188.399",
+      "variacao_texto": "+4 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:33:28.780018",
+      "timestamp_anterior": "2026-10-22T19:37:51.967550",
+      "timestamp_atual": "2026-10-23T10:33:28.780018",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 979177642,
+        "id": "17841401249275299",
+        "username": "ronaldinho",
+        "nome": "Ronaldo de Assis Moreira",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ifTQV5XGpoMQ7kNvwE4PPdy&_nc_oc=AdrH8H0SrtBEFUWIh89e38hdqBDA1pukFFNGxEv4hrZq-TqtRMnk_J5vcI5xOn37q8nQE7pctwdPZ3isRXXRedWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMKLqJf67wCu0kpAU7eF_yVwvWfJbPczUkkyfIlDBHC-Q&oe=6AE137B5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 81190004,
+      "valor_atual": 81188395,
+      "hash_anterior": "419eec15fb63ade2d789921e18357d55cd52e3a5cb682a711d287da813fbf1d4",
+      "hash_atual": "c083ca365942f40e75a4083c0a9975342b3a97a7d0d84e8581291ab56012dab1",
+      "variacao": -1609,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 53736.812468,
+        "texto": "14 horas e 55 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 53736.812468,
+        "texto": "14 horas e 55 minutos e 36 segundos"
+      },
+      "titulo": "Perdeu 1.609 seguidores",
+      "descricao": "Os seguidores caíram de 81.190.004 para 81.188.395",
+      "variacao_texto": "-1.609 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:37:51.967550",
@@ -3099,26 +3195,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:55.163517",
-    "captura_mais_recente": "2026-10-22T19:37:51.967550",
-    "tempo_total_segundos": 1465016,
-    "tempo_total_dias": 16.956204,
-    "tempo_total_texto": "16 dias, 22 horas, 56 minutos e 56 segundos",
+    "captura_mais_recente": "2026-10-23T10:36:55.092696",
+    "tempo_total_segundos": 1518959,
+    "tempo_total_dias": 17.580544,
+    "tempo_total_texto": "17 dias, 13 horas, 55 minutos e 59 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -14833,
+      "variacao": -16438,
       "direcao": "perdeu",
-      "quantidade": 14833,
-      "texto": "Perdeu 14833 seguidores",
+      "quantidade": 16438,
+      "texto": "Perdeu 16438 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:05.651426",
-      "captura_fim": "2026-10-22T19:37:51.967550",
+      "captura_fim": "2026-10-23T10:36:55.092696",
       "seguidores_inicio": 81204837,
-      "seguidores_fim": 81190004
+      "seguidores_fim": 81188399
     },
     "30_dias": {
       "variacao": null,
@@ -3137,17 +3233,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 97822,
+      "variacao": 96217,
       "direcao": "ganhou",
-      "quantidade": 97822,
-      "texto": "Ganhou 97822 seguidores",
+      "quantidade": 96217,
+      "texto": "Ganhou 96217 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:55.163517",
-      "captura_mais_recente": "2026-10-22T19:37:51.967550",
-      "tempo_total_dias": 16.956213,
+      "captura_mais_recente": "2026-10-23T10:36:55.092696",
+      "tempo_total_dias": 17.580555,
       "seguidores_inicio": 81092182,
-      "seguidores_fim": 81190004
+      "seguidores_fim": 81188399
     }
   }
 }
