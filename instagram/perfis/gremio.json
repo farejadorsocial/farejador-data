@@ -8,7 +8,7 @@
       "id": "17841401690382984",
       "username": "gremio",
       "nome": "Grêmio FBPA",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/469182103_947831897213541_6013062168422465562_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=roDcemweIlsQ7kNvwHjAjqu&_nc_oc=AdrOmwZkkM9Nkv41QPmDMX-edKoWFAs1asQWpsJuL05kVoqGBFsiVVJP2eAsH4S1vX6XYM5R0wmoTm45uXyrZnwV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMNr3Pk95JBm3QMEeqgndwemBsC90o4-g6I2DlMG-nJTw&oe=6AE066B5"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/469182103_947831897213541_6013062168422465562_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=roDcemweIlsQ7kNvwHzeQQF&_nc_oc=Adp7-1h1iH-6J5Rxa0HAH-9n-zokvSAqPKpUH41tpz0J3YxN0XcxjsFxoMUcO-np4RpMM1Nd1o3lDXmazbJQIYd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP2cj-s5hVQlT-wsH2CFVxeEF23Ooap23B6p7JSWjfAqQ&oe=6AE147B5"
     },
     "biografia": [
       {
@@ -85,6 +85,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3740970,
+        "valor_atual": 3740969,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 seguidores",
+        "timestamp": "2026-10-23T10:37:23.188451",
+        "timestamp_anterior": "2026-10-23T10:33:58.826857",
+        "tempo_desde_anterior_segundos": 204
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3741035,
+        "valor_atual": 3740970,
+        "variacao": -65,
+        "direcao": "reducao",
+        "descricao": "-65 seguidores",
+        "timestamp": "2026-10-23T10:33:58.826857",
+        "timestamp_anterior": "2026-10-22T19:38:20.451420",
+        "tempo_desde_anterior_segundos": 53738
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -598,6 +624,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:37:23.188451",
+      "timestamp_anterior": "2026-10-23T10:33:58.826857",
+      "timestamp_atual": "2026-10-23T10:37:23.188451",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 191032346,
+        "id": "17841401690382984",
+        "username": "gremio",
+        "nome": "Grêmio FBPA",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/469182103_947831897213541_6013062168422465562_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=roDcemweIlsQ7kNvwHzeQQF&_nc_oc=Adp7-1h1iH-6J5Rxa0HAH-9n-zokvSAqPKpUH41tpz0J3YxN0XcxjsFxoMUcO-np4RpMM1Nd1o3lDXmazbJQIYd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP2cj-s5hVQlT-wsH2CFVxeEF23Ooap23B6p7JSWjfAqQ&oe=6AE147B5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3740970,
+      "valor_atual": 3740969,
+      "hash_anterior": "03075b792a7984be3d95eb3a9d7c2122ff968c0b021f70717a9179e9a0240fb2",
+      "hash_atual": "db61d041ec8caf5f4ceb1439903c761bd2e480af60759d60d487dfa6535b308f",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 204.361594,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 204.361594,
+        "texto": "3 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 1 seguidor",
+      "descricao": "Os seguidores caíram de 3.740.970 para 3.740.969",
+      "variacao_texto": "-1 seguidor"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:33:58.826857",
+      "timestamp_anterior": "2026-10-22T19:38:20.451420",
+      "timestamp_atual": "2026-10-23T10:33:58.826857",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 191032346,
+        "id": "17841401690382984",
+        "username": "gremio",
+        "nome": "Grêmio FBPA",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/469182103_947831897213541_6013062168422465562_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=roDcemweIlsQ7kNvwHzeQQF&_nc_oc=Adp7-1h1iH-6J5Rxa0HAH-9n-zokvSAqPKpUH41tpz0J3YxN0XcxjsFxoMUcO-np4RpMM1Nd1o3lDXmazbJQIYd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQP2cj-s5hVQlT-wsH2CFVxeEF23Ooap23B6p7JSWjfAqQ&oe=6AE147B5"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3741035,
+      "valor_atual": 3740970,
+      "hash_anterior": "d09b7f6ce0b9d2b292d49cd003ed39d86be18972dd3197ebb5a98c2cb695fee9",
+      "hash_atual": "03075b792a7984be3d95eb3a9d7c2122ff968c0b021f70717a9179e9a0240fb2",
+      "variacao": -65,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 53738.375437,
+        "texto": "14 horas e 55 minutos e 38 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 53738.375437,
+        "texto": "14 horas e 55 minutos e 38 segundos"
+      },
+      "titulo": "Perdeu 65 seguidores",
+      "descricao": "Os seguidores caíram de 3.741.035 para 3.740.970",
+      "variacao_texto": "-65 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:38:20.451420",
@@ -1792,26 +1888,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:30.808174",
-    "captura_mais_recente": "2026-10-22T19:38:20.451420",
-    "tempo_total_segundos": 1374949,
-    "tempo_total_dias": 15.913762,
-    "tempo_total_texto": "15 dias, 21 horas, 55 minutos e 49 segundos",
+    "captura_mais_recente": "2026-10-23T10:37:23.188451",
+    "tempo_total_segundos": 1428892,
+    "tempo_total_dias": 16.538102,
+    "tempo_total_texto": "16 dias, 12 horas, 54 minutos e 52 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -2154,
+      "variacao": -2220,
       "direcao": "perdeu",
-      "quantidade": 2154,
-      "texto": "Perdeu 2154 seguidores",
+      "quantidade": 2220,
+      "texto": "Perdeu 2220 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:33.271122",
-      "captura_fim": "2026-10-22T19:38:20.451420",
+      "captura_fim": "2026-10-23T10:37:23.188451",
       "seguidores_inicio": 3743189,
-      "seguidores_fim": 3741035
+      "seguidores_fim": 3740969
     },
     "30_dias": {
       "variacao": null,
@@ -1830,17 +1926,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -2145,
+      "variacao": -2211,
       "direcao": "perdeu",
-      "quantidade": 2145,
-      "texto": "Perdeu 2145 seguidores",
+      "quantidade": 2211,
+      "texto": "Perdeu 2211 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:30.808174",
-      "captura_mais_recente": "2026-10-22T19:38:20.451420",
-      "tempo_total_dias": 15.913769,
+      "captura_mais_recente": "2026-10-23T10:37:23.188451",
+      "tempo_total_dias": 16.538106,
       "seguidores_inicio": 3743180,
-      "seguidores_fim": 3741035
+      "seguidores_fim": 3740969
     }
   }
 }
