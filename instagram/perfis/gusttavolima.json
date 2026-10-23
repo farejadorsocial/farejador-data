@@ -8,7 +8,7 @@
       "id": "17841401913820344",
       "username": "gusttavolima",
       "nome": "Gusttavo Lima",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825324612_18650643415063795_3507917616796751029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDYuQzMifQ%3D%3D&_nc_ohc=kL257iNc8icQ7kNvwE1wn93&_nc_oc=Adrk783ed4D9P0_Gepzdc3vmKxozpWrexywsu5NGlGphQ9jBzVjusDQPNnpXxRsCVJUKtmT1Vdd-vX9uqf33r9jg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qBxetCEKZXyyAbitYuUjDg&_nc_ss=70689&oh=00_AQObwIhK_c-Lhsy9DzsfhU-9_Zu4Buamu0cjX_2eTAX8vQ&oe=6AE07C6F"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825324612_18650643415063795_3507917616796751029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDYuQzMifQ%3D%3D&_nc_ohc=kL257iNc8icQ7kNvwEtpkIg&_nc_oc=AdqfRdaCeu0k1rDpfEBcsbz9T-c9HX1KZgp5rTIAbAy1iRuZp_gc8g94eGaNtWNy194_swLwq1fA3TwNlnnIMjFm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bhzBtTbpybYhrLb7MMIHWw&_nc_ss=70689&oh=00_AQMRNPy6IgFExuwwhUgekN3pWLnVP9kL7JBHFJAAekzdyw&oe=6AE1252F"
     },
     "biografia": [
       {
@@ -117,6 +117,45 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 45282159,
+        "valor_atual": 45282713,
+        "variacao": 554,
+        "direcao": "aumento",
+        "descricao": "+554 seguidores",
+        "timestamp": "2026-10-23T11:04:00.405196",
+        "timestamp_anterior": "2026-10-23T10:36:11.603199",
+        "tempo_desde_anterior_segundos": 1668
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 45282183,
+        "valor_atual": 45282159,
+        "variacao": -24,
+        "direcao": "reducao",
+        "descricao": "-24 seguidores",
+        "timestamp": "2026-10-23T10:36:11.603199",
+        "timestamp_anterior": "2026-10-23T10:33:00.248949",
+        "tempo_desde_anterior_segundos": 191
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 45286062,
+        "valor_atual": 45282183,
+        "variacao": -3879,
+        "direcao": "reducao",
+        "descricao": "-3879 seguidores",
+        "timestamp": "2026-10-23T10:33:00.248949",
+        "timestamp_anterior": "2026-10-22T19:40:34.462130",
+        "tempo_desde_anterior_segundos": 53545
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1787,6 +1826,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T11:04:00.405196",
+      "timestamp_anterior": "2026-10-23T10:36:11.603199",
+      "timestamp_atual": "2026-10-23T11:04:00.405196",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 22079794,
+        "id": "17841401913820344",
+        "username": "gusttavolima",
+        "nome": "Gusttavo Lima",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825324612_18650643415063795_3507917616796751029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDYuQzMifQ%3D%3D&_nc_ohc=kL257iNc8icQ7kNvwEtpkIg&_nc_oc=AdqfRdaCeu0k1rDpfEBcsbz9T-c9HX1KZgp5rTIAbAy1iRuZp_gc8g94eGaNtWNy194_swLwq1fA3TwNlnnIMjFm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bhzBtTbpybYhrLb7MMIHWw&_nc_ss=70689&oh=00_AQMRNPy6IgFExuwwhUgekN3pWLnVP9kL7JBHFJAAekzdyw&oe=6AE1252F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 45282159,
+      "valor_atual": 45282713,
+      "hash_anterior": "facbc56dc94d456623c05fb66eeedcf817cecdd175c2aa36dd57aae49e46d409",
+      "hash_atual": "c2471350aa35773d79143731d951f0909081008b87687a7c3392af7f876955a5",
+      "variacao": 554,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1668.801997,
+        "texto": "27 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1668.801997,
+        "texto": "27 minutos e 48 segundos"
+      },
+      "titulo": "Ganhou 554 seguidores",
+      "descricao": "Os seguidores passaram de 45.282.159 para 45.282.713",
+      "variacao_texto": "+554 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:36:11.603199",
+      "timestamp_anterior": "2026-10-23T10:33:00.248949",
+      "timestamp_atual": "2026-10-23T10:36:11.603199",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 22079794,
+        "id": "17841401913820344",
+        "username": "gusttavolima",
+        "nome": "Gusttavo Lima",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825324612_18650643415063795_3507917616796751029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDYuQzMifQ%3D%3D&_nc_ohc=kL257iNc8icQ7kNvwEtpkIg&_nc_oc=AdqfRdaCeu0k1rDpfEBcsbz9T-c9HX1KZgp5rTIAbAy1iRuZp_gc8g94eGaNtWNy194_swLwq1fA3TwNlnnIMjFm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qUkzMurKpuxIzGVT4vQ3Sg&_nc_ss=70689&oh=00_AQNTk-SHcvR2WmQ2wrngIyvTI5fZ-YHWwxm6vlhtiPlA_w&oe=6AE1252F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 45282183,
+      "valor_atual": 45282159,
+      "hash_anterior": "8a0939de3c0c280037828a44a232de9e1823378d7b25c7e995f7727787282e60",
+      "hash_atual": "facbc56dc94d456623c05fb66eeedcf817cecdd175c2aa36dd57aae49e46d409",
+      "variacao": -24,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 191.35425,
+        "texto": "3 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 191.35425,
+        "texto": "3 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 24 seguidores",
+      "descricao": "Os seguidores caíram de 45.282.183 para 45.282.159",
+      "variacao_texto": "-24 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:33:00.248949",
+      "timestamp_anterior": "2026-10-22T19:40:34.462130",
+      "timestamp_atual": "2026-10-23T10:33:00.248949",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 22079794,
+        "id": "17841401913820344",
+        "username": "gusttavolima",
+        "nome": "Gusttavo Lima",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825324612_18650643415063795_3507917616796751029_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDYuQzMifQ%3D%3D&_nc_ohc=kL257iNc8icQ7kNvwEtpkIg&_nc_oc=AdqfRdaCeu0k1rDpfEBcsbz9T-c9HX1KZgp5rTIAbAy1iRuZp_gc8g94eGaNtWNy194_swLwq1fA3TwNlnnIMjFm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QAPGhuU_5YyiuBG2fLDsBA&_nc_ss=70689&oh=00_AQOOl_7xZIgWC9MtfQCEWOlQUmv69XgO7A6F9FJO2-fp0A&oe=6AE1252F"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 45286062,
+      "valor_atual": 45282183,
+      "hash_anterior": "873d318f71dd9b793721aa2a5c23d7810fa2fd228734e86aaa24723f5a143773",
+      "hash_atual": "8a0939de3c0c280037828a44a232de9e1823378d7b25c7e995f7727787282e60",
+      "variacao": -3879,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 53545.786819,
+        "texto": "14 horas e 52 minutos e 25 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 53545.786819,
+        "texto": "14 horas e 52 minutos e 25 segundos"
+      },
+      "titulo": "Perdeu 3.879 seguidores",
+      "descricao": "Os seguidores caíram de 45.286.062 para 45.282.183",
+      "variacao_texto": "-3.879 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:40:34.462130",
@@ -6164,26 +6308,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:57:02.874895",
-    "captura_mais_recente": "2026-10-22T19:40:34.462130",
-    "tempo_total_segundos": 1651411,
-    "tempo_total_dias": 19.113553,
-    "tempo_total_texto": "19 dias, 2 horas, 43 minutos e 31 segundos",
+    "captura_mais_recente": "2026-10-23T11:04:00.405196",
+    "tempo_total_segundos": 1706817,
+    "tempo_total_dias": 19.754826,
+    "tempo_total_texto": "19 dias, 18 horas, 6 minutos e 57 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -89782,
+      "variacao": -93131,
       "direcao": "perdeu",
-      "quantidade": 89782,
-      "texto": "Perdeu 89782 seguidores",
+      "quantidade": 93131,
+      "texto": "Perdeu 93131 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:04:13.057329",
-      "captura_fim": "2026-10-22T19:40:34.462130",
+      "captura_fim": "2026-10-23T11:04:00.405196",
       "seguidores_inicio": 45375844,
-      "seguidores_fim": 45286062
+      "seguidores_fim": 45282713
     },
     "30_dias": {
       "variacao": null,
@@ -6202,17 +6346,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -111939,
+      "variacao": -115288,
       "direcao": "perdeu",
-      "quantidade": 111939,
-      "texto": "Perdeu 111939 seguidores",
+      "quantidade": 115288,
+      "texto": "Perdeu 115288 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:57:02.874895",
-      "captura_mais_recente": "2026-10-22T19:40:34.462130",
-      "tempo_total_dias": 19.11356,
+      "captura_mais_recente": "2026-10-23T11:04:00.405196",
+      "tempo_total_dias": 19.754833,
       "seguidores_inicio": 45398001,
-      "seguidores_fim": 45286062
+      "seguidores_fim": 45282713
     }
   }
 }
