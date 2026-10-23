@@ -8,7 +8,7 @@
       "id": "17841404794127509",
       "username": "thaideoficial",
       "nome": "O Meu Nome é Thaíde.",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DPO6QEZkdrjwwYp9MG41dw&_nc_ss=70689&oh=00_AQO4HU9Gs_Wd4KvpmiEqLHwCYqtHx985gRz3LrN9sZbepw&oe=6ADEFFC9"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249"
     },
     "biografia": [
       {
@@ -175,6 +175,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 235712,
+        "valor_atual": 235678,
+        "variacao": -34,
+        "direcao": "reducao",
+        "descricao": "-34 seguidores",
+        "timestamp": "2026-10-23T10:37:43.736610",
+        "timestamp_anterior": "2026-10-21T17:46:54.869280",
+        "tempo_desde_anterior_segundos": 147048
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -560,6 +573,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1292,
+        "valor_atual": 1296,
+        "variacao": 4,
+        "direcao": "aumento",
+        "descricao": "+4 posts",
+        "timestamp": "2026-10-23T10:37:43.736610",
+        "timestamp_anterior": "2026-10-21T17:40:29.058717",
+        "tempo_desde_anterior_segundos": 147434
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1285,
         "valor_atual": 1292,
         "variacao": 7,
@@ -714,6 +740,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:37:43.736610",
+      "timestamp_anterior": "2026-10-21T17:46:54.869280",
+      "timestamp_atual": "2026-10-23T10:37:43.736610",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 4620079804,
+        "id": "17841404794127509",
+        "username": "thaideoficial",
+        "nome": "O Meu Nome é Thaíde.",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 235712,
+      "valor_atual": 235678,
+      "hash_anterior": "ef755aa2a73b5f4acd1333b777ea78dad2c9fd46fa303f2d280bc9a189ca0f83",
+      "hash_atual": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
+      "variacao": -34,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 147048.86733,
+        "texto": "1 dia e 16 horas e 50 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 147048.86733,
+        "texto": "1 dia e 16 horas e 50 minutos e 48 segundos"
+      },
+      "titulo": "Perdeu 34 seguidores",
+      "descricao": "Os seguidores caíram de 235.712 para 235.678",
+      "variacao_texto": "-34 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:37:43.736610",
+      "timestamp_anterior": "2026-10-21T17:46:54.869280",
+      "timestamp_atual": "2026-10-23T10:37:43.736610",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 4620079804,
+        "id": "17841404794127509",
+        "username": "thaideoficial",
+        "nome": "O Meu Nome é Thaíde.",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1292,
+      "valor_atual": 1296,
+      "hash_anterior": "ef755aa2a73b5f4acd1333b777ea78dad2c9fd46fa303f2d280bc9a189ca0f83",
+      "hash_atual": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
+      "variacao": 4,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 147048.86733,
+        "texto": "1 dia e 16 horas e 50 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 4 posts",
+      "descricao": "O total mudou de 1.292 para 1.296",
+      "variacao_texto": "+4 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:46:54.869280",
@@ -2194,26 +2290,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:17:28.191064",
-    "captura_mais_recente": "2026-10-21T17:46:54.869280",
-    "tempo_total_segundos": 1376966,
-    "tempo_total_dias": 15.937106,
-    "tempo_total_texto": "15 dias, 22 horas, 29 minutos e 26 segundos",
+    "captura_mais_recente": "2026-10-23T10:37:43.736610",
+    "tempo_total_segundos": 1524015,
+    "tempo_total_dias": 17.639063,
+    "tempo_total_texto": "17 dias, 15 horas, 20 minutos e 15 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -117,
+      "variacao": -151,
       "direcao": "perdeu",
-      "quantidade": 117,
-      "texto": "Perdeu 117 seguidores",
+      "quantidade": 151,
+      "texto": "Perdeu 151 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-14T12:10:15.216463",
-      "captura_fim": "2026-10-21T17:46:54.869280",
+      "captura_fim": "2026-10-23T10:37:43.736610",
       "seguidores_inicio": 235829,
-      "seguidores_fim": 235712
+      "seguidores_fim": 235678
     },
     "30_dias": {
       "variacao": null,
@@ -2232,17 +2328,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 464,
+      "variacao": 430,
       "direcao": "ganhou",
-      "quantidade": 464,
-      "texto": "Ganhou 464 seguidores",
+      "quantidade": 430,
+      "texto": "Ganhou 430 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:17:28.191064",
-      "captura_mais_recente": "2026-10-21T17:46:54.869280",
-      "tempo_total_dias": 15.937114,
+      "captura_mais_recente": "2026-10-23T10:37:43.736610",
+      "tempo_total_dias": 17.639069,
       "seguidores_inicio": 235248,
-      "seguidores_fim": 235712
+      "seguidores_fim": 235678
     }
   }
 }
