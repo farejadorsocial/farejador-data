@@ -8,7 +8,7 @@
       "id": "17841400395373036",
       "username": "juventus",
       "nome": "Juventus",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/260851568_584296169507043_7173857610757337215_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YN1XLaIWObsQ7kNvwFtMbxu&_nc_oc=AdqN_E7R5vBLcepnDH-BcAy5CwMaxq4D64OZU4l-5D9jIfafKx1BNlk-q1zVNvo4dSj_-bKVxkYSOVzwRvImyjAa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMKmBlEZcJDYuA51hhM6uQbngNJvFUJfJjhf2IqrfYHqg&oe=6AE054EF"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/260851568_584296169507043_7173857610757337215_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YN1XLaIWObsQ7kNvwGDXUfG&_nc_oc=Ado7sXmapRUMYi9o6qh9N4-s9PhHooM3LY9_LpopiPENUs14b-9ONwXJ_FWAWtsb9ObS1DzNuoWY-_IjjiUeV6tA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMHgf0i5dxx2mLbQyMXG0nUOgZ30HwzLJ0HqWI7u8tQ0g&oe=6AE135EF"
     },
     "biografia": [
       {
@@ -148,6 +148,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 59002936,
+        "valor_atual": 59002931,
+        "variacao": -5,
+        "direcao": "reducao",
+        "descricao": "-5 seguidores",
+        "timestamp": "2026-10-23T10:37:09.592763",
+        "timestamp_anterior": "2026-10-23T10:33:44.451567",
+        "tempo_desde_anterior_segundos": 205
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 59004651,
+        "valor_atual": 59002936,
+        "variacao": -1715,
+        "direcao": "reducao",
+        "descricao": "-1715 seguidores",
+        "timestamp": "2026-10-23T10:33:44.451567",
+        "timestamp_anterior": "2026-10-22T19:38:06.666476",
+        "tempo_desde_anterior_segundos": 53737
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -713,6 +739,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:37:09.592763",
+      "timestamp_anterior": "2026-10-23T10:33:44.451567",
+      "timestamp_atual": "2026-10-23T10:37:09.592763",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 194317179,
+        "id": "17841400395373036",
+        "username": "juventus",
+        "nome": "Juventus",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/260851568_584296169507043_7173857610757337215_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YN1XLaIWObsQ7kNvwGDXUfG&_nc_oc=Ado7sXmapRUMYi9o6qh9N4-s9PhHooM3LY9_LpopiPENUs14b-9ONwXJ_FWAWtsb9ObS1DzNuoWY-_IjjiUeV6tA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMHgf0i5dxx2mLbQyMXG0nUOgZ30HwzLJ0HqWI7u8tQ0g&oe=6AE135EF"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 59002936,
+      "valor_atual": 59002931,
+      "hash_anterior": "2b0bb73f493dc97acfa4a9b0866534d0323014b4efee7e9401cf32c616cf8cf2",
+      "hash_atual": "c8e1b4e50ee891a47add30ea50e96958612c3da12f08ab6f357a90de2e4a9490",
+      "variacao": -5,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 205.141196,
+        "texto": "3 minutos e 25 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 205.141196,
+        "texto": "3 minutos e 25 segundos"
+      },
+      "titulo": "Perdeu 5 seguidores",
+      "descricao": "Os seguidores caíram de 59.002.936 para 59.002.931",
+      "variacao_texto": "-5 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-23T10:33:44.451567",
+      "timestamp_anterior": "2026-10-22T19:38:06.666476",
+      "timestamp_atual": "2026-10-23T10:33:44.451567",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 194317179,
+        "id": "17841400395373036",
+        "username": "juventus",
+        "nome": "Juventus",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/260851568_584296169507043_7173857610757337215_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YN1XLaIWObsQ7kNvwGDXUfG&_nc_oc=Ado7sXmapRUMYi9o6qh9N4-s9PhHooM3LY9_LpopiPENUs14b-9ONwXJ_FWAWtsb9ObS1DzNuoWY-_IjjiUeV6tA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMHgf0i5dxx2mLbQyMXG0nUOgZ30HwzLJ0HqWI7u8tQ0g&oe=6AE135EF"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 59004651,
+      "valor_atual": 59002936,
+      "hash_anterior": "f321dc651a2bdf00d60c851b63456801d088f469063670c9fb6e1d725f4c5e3b",
+      "hash_atual": "2b0bb73f493dc97acfa4a9b0866534d0323014b4efee7e9401cf32c616cf8cf2",
+      "variacao": -1715,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 53737.785091,
+        "texto": "14 horas e 55 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 53737.785091,
+        "texto": "14 horas e 55 minutos e 37 segundos"
+      },
+      "titulo": "Perdeu 1.715 seguidores",
+      "descricao": "Os seguidores caíram de 59.004.651 para 59.002.936",
+      "variacao_texto": "-1.715 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-22T19:38:06.666476",
@@ -2149,26 +2245,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:15.501958",
-    "captura_mais_recente": "2026-10-22T19:38:06.666476",
-    "tempo_total_segundos": 1374951,
-    "tempo_total_dias": 15.913785,
-    "tempo_total_texto": "15 dias, 21 horas, 55 minutos e 51 segundos",
+    "captura_mais_recente": "2026-10-23T10:37:09.592763",
+    "tempo_total_segundos": 1428894,
+    "tempo_total_dias": 16.538125,
+    "tempo_total_texto": "16 dias, 12 horas, 54 minutos e 54 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -3243,
+      "variacao": -4963,
       "direcao": "perdeu",
-      "quantidade": 3243,
-      "texto": "Perdeu 3243 seguidores",
+      "quantidade": 4963,
+      "texto": "Perdeu 4963 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-15T12:02:17.601994",
-      "captura_fim": "2026-10-22T19:38:06.666476",
+      "captura_fim": "2026-10-23T10:37:09.592763",
       "seguidores_inicio": 59007894,
-      "seguidores_fim": 59004651
+      "seguidores_fim": 59002931
     },
     "30_dias": {
       "variacao": null,
@@ -2187,17 +2283,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -7522,
+      "variacao": -9242,
       "direcao": "perdeu",
-      "quantidade": 7522,
-      "texto": "Perdeu 7522 seguidores",
+      "quantidade": 9242,
+      "texto": "Perdeu 9242 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:15.501958",
-      "captura_mais_recente": "2026-10-22T19:38:06.666476",
-      "tempo_total_dias": 15.913787,
+      "captura_mais_recente": "2026-10-23T10:37:09.592763",
+      "tempo_total_dias": 16.538126,
       "seguidores_inicio": 59012173,
-      "seguidores_fim": 59004651
+      "seguidores_fim": 59002931
     }
   }
 }
