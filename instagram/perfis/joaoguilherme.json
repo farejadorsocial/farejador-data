@@ -8,7 +8,7 @@
       "id": "17841400443464585",
       "username": "joaoguilherme",
       "nome": "J҉",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/818132876_18637014775014783_8261501387524335672_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s8WXV7QNGkAQ7kNvwFbvgDL&_nc_oc=Adri9KhtaHa34xK7vTeIVeXiW4uzztLim-BIW4qmcWsy-TCGpJ6fbRiTRSLy6N7tkeX7RZtO_mzpIw8NH7O4CKUE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fBNH-w1J3NyjFFaOq2qCHA&_nc_ss=70689&oh=00_AQNNiXJQgKuGsBfy6u9wDQZrGER_VxRpF3fGu1Zwye7Shg&oe=6AE12D63"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/818132876_18637014775014783_8261501387524335672_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zEw4jA2qwpoQ7kNvwGmjC2F&_nc_oc=Adqj7vXr_m4JK6W_jELzcidCa7FnD7JgHBPulo9HVTYzB6L34pw6xXq32EHI7z9Fskrg9ExG14NA6mBLwSJAHLq9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jNzP28kwGWqbM96g_Ws8qw&_nc_ss=70689&oh=00_AQP4MoLwwr14Ze_NEkfh3fphLnEBeMiJ54jqL5i2ne2yLg&oe=6AE27EE3"
     },
     "biografia": [
       {
@@ -98,6 +98,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 16414423,
+        "valor_atual": 16414425,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "+2 seguidores",
+        "timestamp": "2026-10-24T11:02:42.214695",
+        "timestamp_anterior": "2026-10-24T11:00:12.667813",
+        "tempo_desde_anterior_segundos": 149
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 16413927,
+        "valor_atual": 16414423,
+        "variacao": 496,
+        "direcao": "aumento",
+        "descricao": "+496 seguidores",
+        "timestamp": "2026-10-24T11:00:12.667813",
+        "timestamp_anterior": "2026-10-23T10:36:00.420297",
+        "tempo_desde_anterior_segundos": 87852
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1261,6 +1287,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:02:42.214695",
+      "timestamp_anterior": "2026-10-24T11:00:12.667813",
+      "timestamp_atual": "2026-10-24T11:02:42.214695",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 293454782,
+        "id": "17841400443464585",
+        "username": "joaoguilherme",
+        "nome": "J҉",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/818132876_18637014775014783_8261501387524335672_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zEw4jA2qwpoQ7kNvwGmjC2F&_nc_oc=Adqj7vXr_m4JK6W_jELzcidCa7FnD7JgHBPulo9HVTYzB6L34pw6xXq32EHI7z9Fskrg9ExG14NA6mBLwSJAHLq9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jNzP28kwGWqbM96g_Ws8qw&_nc_ss=70689&oh=00_AQP4MoLwwr14Ze_NEkfh3fphLnEBeMiJ54jqL5i2ne2yLg&oe=6AE27EE3"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 16414423,
+      "valor_atual": 16414425,
+      "hash_anterior": "2340667538d465bffb7892021ab84166e52afe6c535268eb46d5de6293fdf827",
+      "hash_atual": "3dff109d90f437e62f6ff8d18d57d6bb96dc2a225481c6462a17c43939befb5e",
+      "variacao": 2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 149.546882,
+        "texto": "2 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 149.546882,
+        "texto": "2 minutos e 29 segundos"
+      },
+      "titulo": "Ganhou 2 seguidores",
+      "descricao": "Os seguidores passaram de 16.414.423 para 16.414.425",
+      "variacao_texto": "+2 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:00:12.667813",
+      "timestamp_anterior": "2026-10-23T10:36:00.420297",
+      "timestamp_atual": "2026-10-24T11:00:12.667813",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 293454782,
+        "id": "17841400443464585",
+        "username": "joaoguilherme",
+        "nome": "J҉",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/818132876_18637014775014783_8261501387524335672_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zEw4jA2qwpoQ7kNvwGmjC2F&_nc_oc=Adqj7vXr_m4JK6W_jELzcidCa7FnD7JgHBPulo9HVTYzB6L34pw6xXq32EHI7z9Fskrg9ExG14NA6mBLwSJAHLq9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n47qsN8RDEL50TC1LoGm4w&_nc_ss=70689&oh=00_AQP7-FiAHD16sxPikcJH22TghjyentZvft3L7PlyESl22Q&oe=6AE27EE3"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 16413927,
+      "valor_atual": 16414423,
+      "hash_anterior": "320d93e92848449c3d9cb5cb7a16313ba9ba6e30799cf3e275c75c8866d1857a",
+      "hash_atual": "2340667538d465bffb7892021ab84166e52afe6c535268eb46d5de6293fdf827",
+      "variacao": 496,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 87852.247516,
+        "texto": "1 dia e 24 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 87852.247516,
+        "texto": "1 dia e 24 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 496 seguidores",
+      "descricao": "Os seguidores passaram de 16.413.927 para 16.414.423",
+      "variacao_texto": "+496 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-23T10:36:00.420297",
@@ -4239,26 +4335,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:57.487501",
-    "captura_mais_recente": "2026-10-23T10:36:00.420297",
-    "tempo_total_segundos": 1518902,
-    "tempo_total_dias": 17.579884,
-    "tempo_total_texto": "17 dias, 13 horas, 55 minutos e 2 segundos",
+    "captura_mais_recente": "2026-10-24T11:02:42.214695",
+    "tempo_total_segundos": 1606904,
+    "tempo_total_dias": 18.598426,
+    "tempo_total_texto": "18 dias, 14 horas, 21 minutos e 44 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -3427,
+      "variacao": -7611,
       "direcao": "perdeu",
-      "quantidade": 3427,
-      "texto": "Perdeu 3427 seguidores",
+      "quantidade": 7611,
+      "texto": "Perdeu 7611 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-15T12:03:59.557947",
-      "captura_fim": "2026-10-23T10:36:00.420297",
-      "seguidores_inicio": 16417354,
-      "seguidores_fim": 16413927
+      "captura_inicio": "2026-10-16T23:26:25.116285",
+      "captura_fim": "2026-10-24T11:02:42.214695",
+      "seguidores_inicio": 16422036,
+      "seguidores_fim": 16414425
     },
     "30_dias": {
       "variacao": null,
@@ -4277,17 +4373,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 2430,
+      "variacao": 2928,
       "direcao": "ganhou",
-      "quantidade": 2430,
-      "texto": "Ganhou 2430 seguidores",
+      "quantidade": 2928,
+      "texto": "Ganhou 2928 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:57.487501",
-      "captura_mais_recente": "2026-10-23T10:36:00.420297",
-      "tempo_total_dias": 17.579895,
+      "captura_mais_recente": "2026-10-24T11:02:42.214695",
+      "tempo_total_dias": 18.598434,
       "seguidores_inicio": 16411497,
-      "seguidores_fim": 16413927
+      "seguidores_fim": 16414425
     }
   }
 }
