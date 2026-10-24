@@ -8,7 +8,7 @@
       "id": "17841402137125426",
       "username": "internacional",
       "nome": "",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/11245638_1673034756250073_1923522120_a.jpg?_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nA9f1fhX-OwQ7kNvwGHXkW3&_nc_oc=AdqDZv799i1jeq-5iPSR52fxQRypgFH4f44ZlAS3S1065UvQjCbTi005P2KheO7dFFF2BPQ3A95SPaAndUTMj69y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQO8LQOPMZmk_ayzRkgHvmIayU7pHS_OeUXR8OHHTyn0Sg&oe=6ADEDCF0"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/11245638_1673034756250073_1923522120_a.jpg?_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=tMHxRXHY9eEQ7kNvwFpJ1DY&_nc_oc=AdpHzEcr7tkb78F-nH5_K9FK1fgZ9lKfIOJPljTSMx3IBltY4iRlvrRY8e3iVKFVlvnp6exsMCr15YU18GRqLp2o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPCMDhw2KWb-JJps7OhOL4m-KBBkevw_vKbtSCfugvn7w&oe=6AE29930"
     },
     "biografia": [
       {
@@ -81,6 +81,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 570,
+        "valor_atual": 572,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "+2 seguidores",
+        "timestamp": "2026-10-24T11:01:36.780498",
+        "timestamp_anterior": "2026-10-21T17:37:43.551076",
+        "tempo_desde_anterior_segundos": 235433
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -269,6 +282,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:01:36.780498",
+      "timestamp_anterior": "2026-10-21T17:37:43.551076",
+      "timestamp_atual": "2026-10-24T11:01:36.780498",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 2043415237,
+        "id": "17841402137125426",
+        "username": "internacional",
+        "nome": "",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/11245638_1673034756250073_1923522120_a.jpg?_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=tMHxRXHY9eEQ7kNvwFpJ1DY&_nc_oc=AdpHzEcr7tkb78F-nH5_K9FK1fgZ9lKfIOJPljTSMx3IBltY4iRlvrRY8e3iVKFVlvnp6exsMCr15YU18GRqLp2o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPCMDhw2KWb-JJps7OhOL4m-KBBkevw_vKbtSCfugvn7w&oe=6AE29930"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 570,
+      "valor_atual": 572,
+      "hash_anterior": "1e3f0248c58389d6895b88fecc10f1d23bc75213727ae46016eeebf35ff2bb5d",
+      "hash_atual": "4ef5409be5eb26ae3ffe422ff5649decb3ae171513b450ca1d01d7f3803f6d19",
+      "variacao": 2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 235433.229422,
+        "texto": "2 dias e 17 horas e 23 minutos e 53 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 235433.229422,
+        "texto": "2 dias e 17 horas e 23 minutos e 53 segundos"
+      },
+      "titulo": "Ganhou 2 seguidores",
+      "descricao": "Os seguidores passaram de 570 para 572",
+      "variacao_texto": "+2 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-21T17:37:43.551076",
@@ -588,26 +636,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:47.174399",
-    "captura_mais_recente": "2026-10-21T17:37:43.551076",
-    "tempo_total_segundos": 1281236,
-    "tempo_total_dias": 14.82912,
-    "tempo_total_texto": "14 dias, 19 horas, 53 minutos e 56 segundos",
+    "captura_mais_recente": "2026-10-24T11:01:36.780498",
+    "tempo_total_segundos": 1516669,
+    "tempo_total_dias": 17.554039,
+    "tempo_total_texto": "17 dias, 13 horas, 17 minutos e 49 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -5,
+      "variacao": -1,
       "direcao": "perdeu",
-      "quantidade": 5,
-      "texto": "Perdeu 5 seguidores",
+      "quantidade": 1,
+      "texto": "Perdeu 1 seguidor",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-13T15:59:09.378727",
-      "captura_fim": "2026-10-21T17:37:43.551076",
-      "seguidores_inicio": 575,
-      "seguidores_fim": 570
+      "captura_inicio": "2026-10-16T13:55:39.470543",
+      "captura_fim": "2026-10-24T11:01:36.780498",
+      "seguidores_inicio": 573,
+      "seguidores_fim": 572
     },
     "30_dias": {
       "variacao": null,
@@ -626,17 +674,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -6,
+      "variacao": -4,
       "direcao": "perdeu",
-      "quantidade": 6,
-      "texto": "Perdeu 6 seguidores",
+      "quantidade": 4,
+      "texto": "Perdeu 4 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:47.174399",
-      "captura_mais_recente": "2026-10-21T17:37:43.551076",
-      "tempo_total_dias": 14.829125,
+      "captura_mais_recente": "2026-10-24T11:01:36.780498",
+      "tempo_total_dias": 17.554046,
       "seguidores_inicio": 576,
-      "seguidores_fim": 570
+      "seguidores_fim": 572
     }
   }
 }
