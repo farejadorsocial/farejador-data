@@ -10,8 +10,8 @@
       "username": "farejador.social",
       "nome": "farejador social",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=ff16ad15&x-expires=1792350000&x-signature=0G6vVwhoi5eWOLpVkjtn%2Fs8ZsaA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=36422259&x-expires=1792350000&x-signature=5bXu3lfjf9o8sQ9gavjO8nK20Uc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f1caf8cc&x-expires=1793023200&x-signature=Uy8tsdO6gvGg4mA6mITVMIWXNw0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fbb27c56&x-expires=1793023200&x-signature=ImfiKnsCNhfEhTQTLGU8pethpUM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "thumb": ""
       },
       "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
@@ -205,6 +205,19 @@
         "plataforma": "tiktok",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 446,
+        "valor_atual": 434,
+        "variacao": -12,
+        "direcao": "reducao",
+        "descricao": "-12 seguidores",
+        "timestamp": "2026-10-24T11:33:50.316755",
+        "timestamp_anterior": "2026-10-16T16:25:14.359321",
+        "tempo_desde_anterior_segundos": 673715
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 447,
         "valor_atual": 446,
         "variacao": -1,
@@ -263,6 +276,19 @@
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 260,
+        "valor_atual": 261,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-10-24T11:33:50.316755",
+        "timestamp_anterior": "2026-10-16T01:04:39.545514",
+        "tempo_desde_anterior_segundos": 728950
+      },
       {
         "plataforma": "tiktok",
         "campo": "seguindo",
@@ -360,6 +386,94 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-10-24T11:33:50.316755",
+      "timestamp_anterior": "2026-10-16T16:25:14.359321",
+      "timestamp_atual": "2026-10-24T11:33:50.316755",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteúdo",
+        "pk": null,
+        "id": "7691505041542349831",
+        "sec_uid": "MS4wLjABAAAAknEMelDDdxsSsdthW0WXDUCR2fgq0yBOajBzmMYBY3dNTnnlfh4Oz0FPYfa66Y-m",
+        "username": "farejador.social",
+        "nome": "farejador social",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f1caf8cc&x-expires=1793023200&x-signature=Uy8tsdO6gvGg4mA6mITVMIWXNw0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fbb27c56&x-expires=1793023200&x-signature=ImfiKnsCNhfEhTQTLGU8pethpUM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
+        "total_likes": 183,
+        "total_amigos": 0,
+        "total_posts": 8
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 446,
+      "valor_atual": 434,
+      "hash_anterior": "df57ef6161f96efeb1aa7bb6c4b68cc401538173906869a1d66ac813526a873a",
+      "hash_atual": "89d294102bb83f0af9ced6e734807b9baf7bd9a791db5732fcbb3b0a78c08dba",
+      "variacao": -12,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 673715.957434,
+        "texto": "7 dias e 19 horas e 8 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 673715.957434,
+        "texto": "7 dias e 19 horas e 8 minutos e 35 segundos"
+      },
+      "titulo": "Perdeu 12 seguidores",
+      "descricao": "Os seguidores caíram de 446 para 434",
+      "variacao_texto": "-12 seguidores"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-10-24T11:33:50.316755",
+      "timestamp_anterior": "2026-10-16T16:25:14.359321",
+      "timestamp_atual": "2026-10-24T11:33:50.316755",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteúdo",
+        "pk": null,
+        "id": "7691505041542349831",
+        "sec_uid": "MS4wLjABAAAAknEMelDDdxsSsdthW0WXDUCR2fgq0yBOajBzmMYBY3dNTnnlfh4Oz0FPYfa66Y-m",
+        "username": "farejador.social",
+        "nome": "farejador social",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f1caf8cc&x-expires=1793023200&x-signature=Uy8tsdO6gvGg4mA6mITVMIWXNw0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/74e253faeef64153cd33844180258249~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fbb27c56&x-expires=1793023200&x-signature=ImfiKnsCNhfEhTQTLGU8pethpUM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
+        "total_likes": 183,
+        "total_amigos": 0,
+        "total_posts": 8
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 260,
+      "valor_atual": 261,
+      "hash_anterior": "df57ef6161f96efeb1aa7bb6c4b68cc401538173906869a1d66ac813526a873a",
+      "hash_atual": "89d294102bb83f0af9ced6e734807b9baf7bd9a791db5732fcbb3b0a78c08dba",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 673715.957434,
+        "texto": "7 dias e 19 horas e 8 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 260 e passou a seguir 261",
+      "variacao_texto": "+1 seguindo"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-10-16T16:25:14.359321",
@@ -767,22 +881,26 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T01:04:39.545514",
-    "captura_mais_recente": "2026-10-16T16:25:14.359321",
-    "tempo_total_segundos": 55234,
-    "tempo_total_dias": 0.639282,
-    "tempo_total_texto": "15 horas, 20 minutos e 34 segundos",
+    "captura_mais_recente": "2026-10-24T11:33:50.316755",
+    "tempo_total_segundos": 728950,
+    "tempo_total_dias": 8.436921,
+    "tempo_total_texto": "8 dias, 10 horas, 29 minutos e 10 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -12,
+      "direcao": "perdeu",
+      "quantidade": 12,
+      "texto": "Perdeu 12 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T16:25:14.359321",
+      "captura_fim": "2026-10-24T11:33:50.316755",
+      "seguidores_inicio": 446,
+      "seguidores_fim": 434
     },
     "30_dias": {
       "variacao": null,
@@ -801,17 +919,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -3,
+      "variacao": -15,
       "direcao": "perdeu",
-      "quantidade": 3,
-      "texto": "Perdeu 3 seguidores",
+      "quantidade": 15,
+      "texto": "Perdeu 15 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-16T01:04:39.545514",
-      "captura_mais_recente": "2026-10-16T16:25:14.359321",
-      "tempo_total_dias": 0.639292,
+      "captura_mais_recente": "2026-10-24T11:33:50.316755",
+      "tempo_total_dias": 8.43693,
       "seguidores_inicio": 449,
-      "seguidores_fim": 446
+      "seguidores_fim": 434
     }
   }
 }
