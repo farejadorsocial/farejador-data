@@ -10,12 +10,12 @@
       "username": "yhago.cinaudis",
       "nome": "yhago Cinaudis",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d9809393&x-expires=1792335600&x-signature=pEPH0wt7Bq44f5WemSLXJmEAyDQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=67e32ab9&x-expires=1792335600&x-signature=PcUvAblCahWSTDbyPRwhgEHcLSA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8102568e&x-expires=1793023200&x-signature=ffMd2JkiFtXnwvAz%2F38kygUFSVI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=77aa18d4&x-expires=1793023200&x-signature=F9s4%2Fzb3RLPBgsxSdDSBsWx4brQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
         "thumb": ""
       },
       "conta_criada_em": "2025-04-03T16:59:03.000-03:00",
-      "total_likes": 497,
+      "total_likes": 498,
       "total_amigos": 0,
       "total_posts": 41
     },
@@ -190,12 +190,38 @@
         "plataforma": "tiktok",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 135,
+        "valor_atual": 136,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-10-24T11:34:16.867068",
+        "timestamp_anterior": "2026-10-16T01:07:48.794684",
+        "tempo_desde_anterior_segundos": 728788
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor": 135,
         "timestamp": "2026-10-16T01:07:48.794684",
         "tipo": "inicial"
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 420,
+        "valor_atual": 421,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-10-24T11:34:16.867068",
+        "timestamp_anterior": "2026-10-16T01:07:48.794684",
+        "tempo_desde_anterior_segundos": 728788
+      },
       {
         "plataforma": "tiktok",
         "campo": "seguindo",
@@ -239,6 +265,19 @@
       }
     ],
     "total_likes": [
+      {
+        "plataforma": "tiktok",
+        "campo": "total_likes",
+        "nome": "Curtidas totais",
+        "valor_anterior": 497,
+        "valor_atual": 498,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 curtidas",
+        "timestamp": "2026-10-24T11:34:16.867068",
+        "timestamp_anterior": "2026-10-16T12:07:36.346802",
+        "tempo_desde_anterior_segundos": 689200
+      },
       {
         "plataforma": "tiktok",
         "campo": "total_likes",
@@ -293,6 +332,138 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-10-24T11:34:16.867068",
+      "timestamp_anterior": "2026-10-16T12:07:36.346802",
+      "timestamp_atual": "2026-10-24T11:34:16.867068",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteúdo",
+        "pk": null,
+        "id": "7436000252899804215",
+        "sec_uid": "MS4wLjABAAAALK3ud7ps8fRfH42GW4G9pznc7aSZmltUk3pl4xgQOOMRTIKZ6VPRNDoSnX68HxDa",
+        "username": "yhago.cinaudis",
+        "nome": "yhago Cinaudis",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8102568e&x-expires=1793023200&x-signature=ffMd2JkiFtXnwvAz%2F38kygUFSVI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=77aa18d4&x-expires=1793023200&x-signature=F9s4%2Fzb3RLPBgsxSdDSBsWx4brQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2025-04-03T16:59:03.000-03:00",
+        "total_likes": 498,
+        "total_amigos": 0,
+        "total_posts": 41
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 135,
+      "valor_atual": 136,
+      "hash_anterior": "53d563de9fe414f5544864141d5dcaabe7f1174fa8e282637f8db8d6e5011a87",
+      "hash_atual": "1111affcf1f7155ba0cc663c1a2c790c06a17c60f40a8ced3f717c0a2bdad378",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 689200.520266,
+        "texto": "7 dias e 23 horas e 26 minutos e 40 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 689200.520266,
+        "texto": "7 dias e 23 horas e 26 minutos e 40 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 135 para 136",
+      "variacao_texto": "+1 seguidor"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-10-24T11:34:16.867068",
+      "timestamp_anterior": "2026-10-16T12:07:36.346802",
+      "timestamp_atual": "2026-10-24T11:34:16.867068",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteúdo",
+        "pk": null,
+        "id": "7436000252899804215",
+        "sec_uid": "MS4wLjABAAAALK3ud7ps8fRfH42GW4G9pznc7aSZmltUk3pl4xgQOOMRTIKZ6VPRNDoSnX68HxDa",
+        "username": "yhago.cinaudis",
+        "nome": "yhago Cinaudis",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8102568e&x-expires=1793023200&x-signature=ffMd2JkiFtXnwvAz%2F38kygUFSVI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=77aa18d4&x-expires=1793023200&x-signature=F9s4%2Fzb3RLPBgsxSdDSBsWx4brQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2025-04-03T16:59:03.000-03:00",
+        "total_likes": 498,
+        "total_amigos": 0,
+        "total_posts": 41
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 420,
+      "valor_atual": 421,
+      "hash_anterior": "53d563de9fe414f5544864141d5dcaabe7f1174fa8e282637f8db8d6e5011a87",
+      "hash_atual": "1111affcf1f7155ba0cc663c1a2c790c06a17c60f40a8ced3f717c0a2bdad378",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 689200.520266,
+        "texto": "7 dias e 23 horas e 26 minutos e 40 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 420 e passou a seguir 421",
+      "variacao_texto": "+1 seguindo"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-10-24T11:34:16.867068",
+      "timestamp_anterior": "2026-10-16T12:07:36.346802",
+      "timestamp_atual": "2026-10-24T11:34:16.867068",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteúdo",
+        "pk": null,
+        "id": "7436000252899804215",
+        "sec_uid": "MS4wLjABAAAALK3ud7ps8fRfH42GW4G9pznc7aSZmltUk3pl4xgQOOMRTIKZ6VPRNDoSnX68HxDa",
+        "username": "yhago.cinaudis",
+        "nome": "yhago Cinaudis",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8102568e&x-expires=1793023200&x-signature=ffMd2JkiFtXnwvAz%2F38kygUFSVI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/05a0cd2d760dc3f266a2418647575657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=77aa18d4&x-expires=1793023200&x-signature=F9s4%2Fzb3RLPBgsxSdDSBsWx4brQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2025-04-03T16:59:03.000-03:00",
+        "total_likes": 498,
+        "total_amigos": 0,
+        "total_posts": 41
+      },
+      "tipo": "total_likes",
+      "campo": "total_likes",
+      "nome_campo": "Curtidas totais",
+      "valor_anterior": 497,
+      "valor_atual": 498,
+      "hash_anterior": "53d563de9fe414f5544864141d5dcaabe7f1174fa8e282637f8db8d6e5011a87",
+      "hash_atual": "1111affcf1f7155ba0cc663c1a2c790c06a17c60f40a8ced3f717c0a2bdad378",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 689200.520266,
+        "texto": "7 dias e 23 horas e 26 minutos e 40 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Recebeu 1 curtida",
+      "descricao": "O total mudou de 497 para 498",
+      "variacao_texto": "+1 curtida"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-10-16T12:07:36.346802",
@@ -479,22 +650,26 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T01:07:48.794684",
-    "captura_mais_recente": "2026-10-16T12:07:36.346802",
-    "tempo_total_segundos": 39587,
-    "tempo_total_dias": 0.458183,
-    "tempo_total_texto": "10 horas, 59 minutos e 47 segundos",
+    "captura_mais_recente": "2026-10-24T11:34:16.867068",
+    "tempo_total_segundos": 728788,
+    "tempo_total_dias": 8.435046,
+    "tempo_total_texto": "8 dias, 10 horas, 26 minutos e 28 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 1,
+      "direcao": "ganhou",
+      "quantidade": 1,
+      "texto": "Ganhou 1 seguidor",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T01:07:48.794684",
+      "captura_fim": "2026-10-24T11:34:16.867068",
+      "seguidores_inicio": 135,
+      "seguidores_fim": 136
     },
     "30_dias": {
       "variacao": null,
@@ -513,17 +688,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 0,
-      "direcao": "estavel",
-      "quantidade": 0,
-      "texto": "Não ganhou nem perdeu seguidores",
+      "variacao": 1,
+      "direcao": "ganhou",
+      "quantidade": 1,
+      "texto": "Ganhou 1 seguidor",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-16T01:07:48.794684",
-      "captura_mais_recente": "2026-10-16T01:07:48.794684",
-      "tempo_total_dias": 0,
+      "captura_mais_recente": "2026-10-24T11:34:16.867068",
+      "tempo_total_dias": 8.435047,
       "seguidores_inicio": 135,
-      "seguidores_fim": 135
+      "seguidores_fim": 136
     }
   }
 }
