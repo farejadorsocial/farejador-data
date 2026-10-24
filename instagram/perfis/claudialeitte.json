@@ -8,7 +8,7 @@
       "id": "17841400714090402",
       "username": "claudialeitte",
       "nome": "Claudia Leitte",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/639462028_18567534262023804_3827282919753226170_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RpNjC_uiZJMQ7kNvwHBXmkX&_nc_oc=AdqSW4G65ivUT2p7MAHqcsxKGjBc76-zY5TGVtak20dB8BI_8Xt5NJYUstmTlhqjKEJ46eBXBBTEbOrM51ihxdrn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T1MZU5HAn7eIn_tIkSADPw&_nc_ss=70689&oh=00_AQNIWgHzWUHFE7pPpbSytwi1vKxYA1nQuS4mDd1TsInOXQ&oe=6AE14AE0"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/639462028_18567534262023804_3827282919753226170_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RpNjC_uiZJMQ7kNvwFCxzjc&_nc_oc=Ado1lDjWWBTtZIICjZp35KKfHKOHbD9Bg41boFVYvxsbfQTIQ_176h88a7jrxVv7iFdsldwlI_tzYgComwlTzeVn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UcNVvVdXjw9d9lcsIiMSRQ&_nc_ss=70689&oh=00_AQPY50ReQMEdomC4nKiVrp77UgV6KmMRN54GdMxbIFMhrA&oe=6AE29C60"
     },
     "biografia": [
       {
@@ -101,6 +101,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 24330527,
+        "valor_atual": 24330525,
+        "variacao": -2,
+        "direcao": "reducao",
+        "descricao": "-2 seguidores",
+        "timestamp": "2026-10-24T11:04:23.335419",
+        "timestamp_anterior": "2026-10-24T11:01:09.782157",
+        "tempo_desde_anterior_segundos": 193
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 24331714,
+        "valor_atual": 24330527,
+        "variacao": -1187,
+        "direcao": "reducao",
+        "descricao": "-1187 seguidores",
+        "timestamp": "2026-10-24T11:01:09.782157",
+        "timestamp_anterior": "2026-10-23T10:37:39.993508",
+        "tempo_desde_anterior_segundos": 87809
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -887,6 +913,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:04:23.335419",
+      "timestamp_anterior": "2026-10-24T11:01:09.782157",
+      "timestamp_atual": "2026-10-24T11:04:23.335419",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 25751803,
+        "id": "17841400714090402",
+        "username": "claudialeitte",
+        "nome": "Claudia Leitte",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/639462028_18567534262023804_3827282919753226170_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RpNjC_uiZJMQ7kNvwFCxzjc&_nc_oc=Ado1lDjWWBTtZIICjZp35KKfHKOHbD9Bg41boFVYvxsbfQTIQ_176h88a7jrxVv7iFdsldwlI_tzYgComwlTzeVn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UcNVvVdXjw9d9lcsIiMSRQ&_nc_ss=70689&oh=00_AQPY50ReQMEdomC4nKiVrp77UgV6KmMRN54GdMxbIFMhrA&oe=6AE29C60"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 24330527,
+      "valor_atual": 24330525,
+      "hash_anterior": "c6e8a5750fb65ff9cf45b789ee7ed502ff933122c8fd035fa09993a6b484d96e",
+      "hash_atual": "64cb68ef9c68c4b75db5c87996d6de1d77029cce1e45cf790aced7dddc837ac2",
+      "variacao": -2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 193.553262,
+        "texto": "3 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 193.553262,
+        "texto": "3 minutos e 13 segundos"
+      },
+      "titulo": "Perdeu 2 seguidores",
+      "descricao": "Os seguidores caíram de 24.330.527 para 24.330.525",
+      "variacao_texto": "-2 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:01:09.782157",
+      "timestamp_anterior": "2026-10-23T10:37:39.993508",
+      "timestamp_atual": "2026-10-24T11:01:09.782157",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 25751803,
+        "id": "17841400714090402",
+        "username": "claudialeitte",
+        "nome": "Claudia Leitte",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/639462028_18567534262023804_3827282919753226170_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RpNjC_uiZJMQ7kNvwFCxzjc&_nc_oc=Ado1lDjWWBTtZIICjZp35KKfHKOHbD9Bg41boFVYvxsbfQTIQ_176h88a7jrxVv7iFdsldwlI_tzYgComwlTzeVn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cKi60TDcwW89omqwO578GQ&_nc_ss=70689&oh=00_AQN5ks8B-u0RBMLfy9XNCngOnS6iDYQrIRRcHHndI_qe6Q&oe=6AE29C60"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 24331714,
+      "valor_atual": 24330527,
+      "hash_anterior": "e07a5a7bf4b4542db9959b607337c458572bfeda24e42b7888497704d5f4a26b",
+      "hash_atual": "c6e8a5750fb65ff9cf45b789ee7ed502ff933122c8fd035fa09993a6b484d96e",
+      "variacao": -1187,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 87809.788649,
+        "texto": "1 dia e 23 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 87809.788649,
+        "texto": "1 dia e 23 minutos e 29 segundos"
+      },
+      "titulo": "Perdeu 1.187 seguidores",
+      "descricao": "Os seguidores caíram de 24.331.714 para 24.330.527",
+      "variacao_texto": "-1.187 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-23T10:37:39.993508",
@@ -2850,26 +2946,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:11.086436",
-    "captura_mais_recente": "2026-10-23T10:37:39.993508",
-    "tempo_total_segundos": 1518928,
-    "tempo_total_dias": 17.580185,
-    "tempo_total_texto": "17 dias, 13 horas, 55 minutos e 28 segundos",
+    "captura_mais_recente": "2026-10-24T11:04:23.335419",
+    "tempo_total_segundos": 1606932,
+    "tempo_total_dias": 18.59875,
+    "tempo_total_texto": "18 dias, 14 horas, 22 minutos e 12 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -9851,
+      "variacao": -9558,
       "direcao": "perdeu",
-      "quantidade": 9851,
-      "texto": "Perdeu 9851 seguidores",
+      "quantidade": 9558,
+      "texto": "Perdeu 9558 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-15T12:03:02.191084",
-      "captura_fim": "2026-10-23T10:37:39.993508",
-      "seguidores_inicio": 24341565,
-      "seguidores_fim": 24331714
+      "captura_inicio": "2026-10-16T23:28:04.057154",
+      "captura_fim": "2026-10-24T11:04:23.335419",
+      "seguidores_inicio": 24340083,
+      "seguidores_fim": 24330525
     },
     "30_dias": {
       "variacao": null,
@@ -2888,17 +2984,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -24605,
+      "variacao": -25794,
       "direcao": "perdeu",
-      "quantidade": 24605,
-      "texto": "Perdeu 24605 seguidores",
+      "quantidade": 25794,
+      "texto": "Perdeu 25794 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:11.086436",
-      "captura_mais_recente": "2026-10-23T10:37:39.993508",
-      "tempo_total_dias": 17.580196,
+      "captura_mais_recente": "2026-10-24T11:04:23.335419",
+      "tempo_total_dias": 18.598753,
       "seguidores_inicio": 24356319,
-      "seguidores_fim": 24331714
+      "seguidores_fim": 24330525
     }
   }
 }
