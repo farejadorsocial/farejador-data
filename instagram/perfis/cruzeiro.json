@@ -8,7 +8,7 @@
       "id": "17841401587365152",
       "username": "cruzeiro",
       "nome": "Cruzeiro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/482661478_623573206967799_6233874161210804099_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42ODIuQzMifQ%3D%3D&_nc_ohc=NR1wBr4rUl0Q7kNvwH-2g60&_nc_oc=AdrH0UqT_blsLcyTp7g7Sm0KTVW-YgMqtnieoLOVeVfq0xbhcC-oInyThhftBOVjBUr8EykHqeCcBiStsGGuISai&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQO3QwUZjgD2UkNt11xsJJpIogd630HWdr4x4GZgLzT6yg&oe=6AE14F93"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/482661478_623573206967799_6233874161210804099_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42ODIuQzMifQ%3D%3D&_nc_ohc=NR1wBr4rUl0Q7kNvwGRb7UK&_nc_oc=Ado5j1s9mAbCPm54GyjRxV0cYpzWS7ToQo_L8nn8cbMiE3mS-OKONtI0I7tl0dxy1-fNMPfYsV4viMZT4SCsEXYE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNXcrG5TPYTmqD1Y1uP0IsZVSJkQLCDpdJ2OD_gCwBe6A&oe=6AE2A113"
     },
     "biografia": [
       {
@@ -85,6 +85,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3642174,
+        "valor_atual": 3642176,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "+2 seguidores",
+        "timestamp": "2026-10-24T11:04:48.829909",
+        "timestamp_anterior": "2026-10-24T11:01:22.735613",
+        "tempo_desde_anterior_segundos": 206
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3641640,
+        "valor_atual": 3642174,
+        "variacao": 534,
+        "direcao": "aumento",
+        "descricao": "+534 seguidores",
+        "timestamp": "2026-10-24T11:01:22.735613",
+        "timestamp_anterior": "2026-10-23T10:38:05.679136",
+        "tempo_desde_anterior_segundos": 87797
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -650,6 +676,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:04:48.829909",
+      "timestamp_anterior": "2026-10-24T11:01:22.735613",
+      "timestamp_atual": "2026-10-24T11:04:48.829909",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 329780912,
+        "id": "17841401587365152",
+        "username": "cruzeiro",
+        "nome": "Cruzeiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/482661478_623573206967799_6233874161210804099_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42ODIuQzMifQ%3D%3D&_nc_ohc=NR1wBr4rUl0Q7kNvwGRb7UK&_nc_oc=Ado5j1s9mAbCPm54GyjRxV0cYpzWS7ToQo_L8nn8cbMiE3mS-OKONtI0I7tl0dxy1-fNMPfYsV4viMZT4SCsEXYE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNXcrG5TPYTmqD1Y1uP0IsZVSJkQLCDpdJ2OD_gCwBe6A&oe=6AE2A113"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3642174,
+      "valor_atual": 3642176,
+      "hash_anterior": "880c4c796268f01266b367cbcf4e8e1b242c6e414861b3f910da9c6d691b4b77",
+      "hash_atual": "52c1817b75104bd5a44934830f743d407a7b091ea3e4d7e788a8e34727b74f60",
+      "variacao": 2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 206.094296,
+        "texto": "3 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 206.094296,
+        "texto": "3 minutos e 26 segundos"
+      },
+      "titulo": "Ganhou 2 seguidores",
+      "descricao": "Os seguidores passaram de 3.642.174 para 3.642.176",
+      "variacao_texto": "+2 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:01:22.735613",
+      "timestamp_anterior": "2026-10-23T10:38:05.679136",
+      "timestamp_atual": "2026-10-24T11:01:22.735613",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 329780912,
+        "id": "17841401587365152",
+        "username": "cruzeiro",
+        "nome": "Cruzeiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/482661478_623573206967799_6233874161210804099_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42ODIuQzMifQ%3D%3D&_nc_ohc=NR1wBr4rUl0Q7kNvwGRb7UK&_nc_oc=Ado5j1s9mAbCPm54GyjRxV0cYpzWS7ToQo_L8nn8cbMiE3mS-OKONtI0I7tl0dxy1-fNMPfYsV4viMZT4SCsEXYE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNXcrG5TPYTmqD1Y1uP0IsZVSJkQLCDpdJ2OD_gCwBe6A&oe=6AE2A113"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3641640,
+      "valor_atual": 3642174,
+      "hash_anterior": "a981a8e1893f4288de0faedfac9bf90b15294ac86f66ff6a23d3914512f5c09f",
+      "hash_atual": "880c4c796268f01266b367cbcf4e8e1b242c6e414861b3f910da9c6d691b4b77",
+      "variacao": 534,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 87797.056477,
+        "texto": "1 dia e 23 minutos e 17 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 87797.056477,
+        "texto": "1 dia e 23 minutos e 17 segundos"
+      },
+      "titulo": "Ganhou 534 seguidores",
+      "descricao": "Os seguidores passaram de 3.641.640 para 3.642.174",
+      "variacao_texto": "+534 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-23T10:38:05.679136",
@@ -1984,26 +2080,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:28.712109",
-    "captura_mais_recente": "2026-10-23T10:38:05.679136",
-    "tempo_total_segundos": 1428876,
-    "tempo_total_dias": 16.537917,
-    "tempo_total_texto": "16 dias, 12 horas, 54 minutos e 36 segundos",
+    "captura_mais_recente": "2026-10-24T11:04:48.829909",
+    "tempo_total_segundos": 1516880,
+    "tempo_total_dias": 17.556481,
+    "tempo_total_texto": "17 dias, 13 horas, 21 minutos e 20 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 523,
+      "variacao": 1235,
       "direcao": "ganhou",
-      "quantidade": 523,
-      "texto": "Ganhou 523 seguidores",
+      "quantidade": 1235,
+      "texto": "Ganhou 1235 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-15T12:03:15.061988",
-      "captura_fim": "2026-10-23T10:38:05.679136",
-      "seguidores_inicio": 3641117,
-      "seguidores_fim": 3641640
+      "captura_inicio": "2026-10-16T23:28:31.271821",
+      "captura_fim": "2026-10-24T11:04:48.829909",
+      "seguidores_inicio": 3640941,
+      "seguidores_fim": 3642176
     },
     "30_dias": {
       "variacao": null,
@@ -2022,17 +2118,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 1344,
+      "variacao": 1880,
       "direcao": "ganhou",
-      "quantidade": 1344,
-      "texto": "Ganhou 1344 seguidores",
+      "quantidade": 1880,
+      "texto": "Ganhou 1880 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:28.712109",
-      "captura_mais_recente": "2026-10-23T10:38:05.679136",
-      "tempo_total_dias": 16.537928,
+      "captura_mais_recente": "2026-10-24T11:04:48.829909",
+      "tempo_total_dias": 17.556483,
       "seguidores_inicio": 3640296,
-      "seguidores_fim": 3641640
+      "seguidores_fim": 3642176
     }
   }
 }
