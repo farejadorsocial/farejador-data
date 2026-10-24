@@ -8,7 +8,7 @@
       "id": "17841400972000105",
       "username": "renatabdb",
       "nome": "Renata Del Bianco",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwE2O5Di&_nc_oc=AdqCIxZ8u1PBYD40MLQYvf3oei3Dsh4hPRbJq4aHLs-MlmxrSPBakoOiu1NPhRyYDS-qK2IA-i5-pWp0xNIeQHdx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=58qhOXAisM90xWN43ksraw&_nc_ss=70689&oh=00_AQMWOWTt1WcoG-QWXFFlWHrHtcwLXB0i5IvTvqwEpVOazQ&oe=6AE14813"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993"
     },
     "biografia": [
       {
@@ -106,6 +106,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 148757,
+        "valor_atual": 148837,
+        "variacao": 80,
+        "direcao": "aumento",
+        "descricao": "+80 seguidores",
+        "timestamp": "2026-10-24T11:02:04.915697",
+        "timestamp_anterior": "2026-10-23T10:35:22.186689",
+        "tempo_desde_anterior_segundos": 88002
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -647,6 +660,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 2239,
+        "valor_atual": 2240,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 posts",
+        "timestamp": "2026-10-24T11:02:04.915697",
+        "timestamp_anterior": "2026-10-22T19:24:31.512597",
+        "tempo_desde_anterior_segundos": 142653
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 2236,
         "valor_atual": 2239,
         "variacao": 3,
@@ -905,6 +931,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:02:04.915697",
+      "timestamp_anterior": "2026-10-23T10:35:22.186689",
+      "timestamp_atual": "2026-10-24T11:02:04.915697",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6752400,
+        "id": "17841400972000105",
+        "username": "renatabdb",
+        "nome": "Renata Del Bianco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 148757,
+      "valor_atual": 148837,
+      "hash_anterior": "92e1473027841ddf2ef1955b851ecf0842a85022690cd648dd897dbe9ba045b1",
+      "hash_atual": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
+      "variacao": 80,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 88002.729008,
+        "texto": "1 dia e 26 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 88002.729008,
+        "texto": "1 dia e 26 minutos e 42 segundos"
+      },
+      "titulo": "Ganhou 80 seguidores",
+      "descricao": "Os seguidores passaram de 148.757 para 148.837",
+      "variacao_texto": "+80 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-24T11:02:04.915697",
+      "timestamp_anterior": "2026-10-23T10:35:22.186689",
+      "timestamp_atual": "2026-10-24T11:02:04.915697",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6752400,
+        "id": "17841400972000105",
+        "username": "renatabdb",
+        "nome": "Renata Del Bianco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 2239,
+      "valor_atual": 2240,
+      "hash_anterior": "92e1473027841ddf2ef1955b851ecf0842a85022690cd648dd897dbe9ba045b1",
+      "hash_atual": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 88002.729008,
+        "texto": "1 dia e 26 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 post",
+      "descricao": "O total mudou de 2.239 para 2.240",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-23T10:35:22.186689",
@@ -2911,26 +3007,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:14:19.137329",
-    "captura_mais_recente": "2026-10-23T10:35:22.186689",
-    "tempo_total_segundos": 1524063,
-    "tempo_total_dias": 17.639618,
-    "tempo_total_texto": "17 dias, 15 horas, 21 minutos e 3 segundos",
+    "captura_mais_recente": "2026-10-24T11:02:04.915697",
+    "tempo_total_segundos": 1612065,
+    "tempo_total_dias": 18.65816,
+    "tempo_total_texto": "18 dias, 15 horas, 47 minutos e 45 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 1123,
+      "variacao": 607,
       "direcao": "ganhou",
-      "quantidade": 1123,
-      "texto": "Ganhou 1123 seguidores",
+      "quantidade": 607,
+      "texto": "Ganhou 607 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-15T12:03:57.104225",
-      "captura_fim": "2026-10-23T10:35:22.186689",
-      "seguidores_inicio": 147634,
-      "seguidores_fim": 148757
+      "captura_inicio": "2026-10-16T23:25:46.677561",
+      "captura_fim": "2026-10-24T11:02:04.915697",
+      "seguidores_inicio": 148230,
+      "seguidores_fim": 148837
     },
     "30_dias": {
       "variacao": null,
@@ -2949,17 +3045,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 2904,
+      "variacao": 2984,
       "direcao": "ganhou",
-      "quantidade": 2904,
-      "texto": "Ganhou 2904 seguidores",
+      "quantidade": 2984,
+      "texto": "Ganhou 2984 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:14:19.137329",
-      "captura_mais_recente": "2026-10-23T10:35:22.186689",
-      "tempo_total_dias": 17.639619,
+      "captura_mais_recente": "2026-10-24T11:02:04.915697",
+      "tempo_total_dias": 18.658169,
       "seguidores_inicio": 145853,
-      "seguidores_fim": 148757
+      "seguidores_fim": 148837
     }
   }
 }
