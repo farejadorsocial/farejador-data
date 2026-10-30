@@ -8,7 +8,7 @@
       "id": "17841400710194068",
       "username": "fcbarcelona",
       "nome": "FC Barcelona",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4KN8wklB2YMQ7kNvwGP_M0b&_nc_oc=Ado9CIWuoWHlXSzSi03TXib0YbjFPs8IoSP6AMaNzE-4X2Gj4kuIncJ6Uae6RUVKXS4THStaFsgWTcvBPFafbshx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DAGTXHDgrlg4CivnSVKZFA&_nc_ss=70689&oh=00_AQOYLyrBAoF7uymqFC-QRqmMsO_OZo8TMDjykrhOYkMhEw&oe=6AE2916F"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lXkXskH0Zo0Q7kNvwGdeAwX&_nc_oc=Adqi17cJXY_P6WzaYReK8m8WFG2CGirNjdh9ZAbvzFivH3DARGLLkUURKEMYzRgA33XekeAoHNM-17qjayv3noQb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZLmfmqGYTL6E75rlgVRdFQ&_nc_ss=70289&oh=00_AQRwSAUAtenO40A79Jb6OZyr4-Sbgm3WMgZYnwSxPk_95g&oe=6AEAEAEF"
     },
     "biografia": [
       {
@@ -31,6 +31,33 @@
       }
     ],
     "links": [
+      {
+        "plataforma": "instagram",
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [
+          {
+            "url": "http://barca.link/SaCV50ZXB7m"
+          },
+          {
+            "url": "http://barca.link/mxg450ZPsJ5"
+          }
+        ],
+        "valor_atual": [
+          {
+            "url": "http://barca.link/TkeH5101i0Y"
+          },
+          {
+            "url": "http://barca.link/mxg450ZPsJ5"
+          }
+        ],
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-10-30T20:09:47.720216",
+        "timestamp_anterior": "2026-10-15T12:01:36.153192",
+        "tempo_desde_anterior_segundos": 1325291
+      },
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -115,6 +142,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 149535054,
+        "valor_atual": 149535097,
+        "variacao": 43,
+        "direcao": "aumento",
+        "descricao": "+43 seguidores",
+        "timestamp": "2026-10-30T20:13:19.359763",
+        "timestamp_anterior": "2026-10-30T20:09:47.720216",
+        "tempo_desde_anterior_segundos": 211
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 149357941,
+        "valor_atual": 149535054,
+        "variacao": 177113,
+        "direcao": "aumento",
+        "descricao": "+177113 seguidores",
+        "timestamp": "2026-10-30T20:09:47.720216",
+        "timestamp_anterior": "2026-10-24T11:06:34.077396",
+        "tempo_desde_anterior_segundos": 550993
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -701,12 +754,38 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 116,
+        "valor_atual": 117,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-10-30T20:09:47.720216",
+        "timestamp_anterior": "2026-10-06T21:41:13.428614",
+        "tempo_desde_anterior_segundos": 2068114
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 116,
         "timestamp": "2026-10-06T21:41:13.428614",
         "tipo": "inicial"
       }
     ],
     "total_destaques": [
+      {
+        "plataforma": "instagram",
+        "campo": "total_destaques",
+        "nome": "Total de Destaques",
+        "valor_anterior": 4,
+        "valor_atual": 3,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 destaques",
+        "timestamp": "2026-10-30T20:09:47.720216",
+        "timestamp_anterior": "2026-10-15T12:01:36.153192",
+        "tempo_desde_anterior_segundos": 1325291
+      },
       {
         "plataforma": "instagram",
         "campo": "total_destaques",
@@ -771,6 +850,194 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:13:19.359763",
+      "timestamp_anterior": "2026-10-30T20:09:47.720216",
+      "timestamp_atual": "2026-10-30T20:13:19.359763",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 260375673,
+        "id": "17841400710194068",
+        "username": "fcbarcelona",
+        "nome": "FC Barcelona",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lXkXskH0Zo0Q7kNvwGdeAwX&_nc_oc=Adqi17cJXY_P6WzaYReK8m8WFG2CGirNjdh9ZAbvzFivH3DARGLLkUURKEMYzRgA33XekeAoHNM-17qjayv3noQb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZLmfmqGYTL6E75rlgVRdFQ&_nc_ss=70289&oh=00_AQRwSAUAtenO40A79Jb6OZyr4-Sbgm3WMgZYnwSxPk_95g&oe=6AEAEAEF"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 149535054,
+      "valor_atual": 149535097,
+      "hash_anterior": "e3deb2703b11a0ba1fdf2a071c204eb2f19a22d3becd69c5bded7f5925ab9e93",
+      "hash_atual": "98179bdbfd8bdf8bdab9512ae798a26f9b3a20fa75ba3395caa1aff72481ae5e",
+      "variacao": 43,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 211.639547,
+        "texto": "3 minutos e 31 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 211.639547,
+        "texto": "3 minutos e 31 segundos"
+      },
+      "titulo": "Ganhou 43 seguidores",
+      "descricao": "Os seguidores passaram de 149.535.054 para 149.535.097",
+      "variacao_texto": "+43 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:09:47.720216",
+      "timestamp_anterior": "2026-10-24T11:06:34.077396",
+      "timestamp_atual": "2026-10-30T20:09:47.720216",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 260375673,
+        "id": "17841400710194068",
+        "username": "fcbarcelona",
+        "nome": "FC Barcelona",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lXkXskH0Zo0Q7kNvwGdeAwX&_nc_oc=Adqi17cJXY_P6WzaYReK8m8WFG2CGirNjdh9ZAbvzFivH3DARGLLkUURKEMYzRgA33XekeAoHNM-17qjayv3noQb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9-sanavcoFsIba-Xr4x48g&_nc_ss=70689&oh=00_AQRnXoSWxMgxS-5SN6BcC_181R6Ko_cUouuRyVotPSWDcA&oe=6AEAEAEF"
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [
+        {
+          "url": "http://barca.link/SaCV50ZXB7m"
+        },
+        {
+          "url": "http://barca.link/mxg450ZPsJ5"
+        }
+      ],
+      "valor_atual": [
+        {
+          "url": "http://barca.link/TkeH5101i0Y"
+        },
+        {
+          "url": "http://barca.link/mxg450ZPsJ5"
+        }
+      ],
+      "hash_anterior": "18b50dfb73d19fc9a09edd3c27c5be94bf3011596d2822918e26844534217cc3",
+      "hash_atual": "e3deb2703b11a0ba1fdf2a071c204eb2f19a22d3becd69c5bded7f5925ab9e93",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 550993.64282,
+        "texto": "6 dias e 9 horas e 3 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 550993.64282,
+        "texto": "6 dias e 9 horas e 3 minutos e 13 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:09:47.720216",
+      "timestamp_anterior": "2026-10-24T11:06:34.077396",
+      "timestamp_atual": "2026-10-30T20:09:47.720216",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 260375673,
+        "id": "17841400710194068",
+        "username": "fcbarcelona",
+        "nome": "FC Barcelona",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lXkXskH0Zo0Q7kNvwGdeAwX&_nc_oc=Adqi17cJXY_P6WzaYReK8m8WFG2CGirNjdh9ZAbvzFivH3DARGLLkUURKEMYzRgA33XekeAoHNM-17qjayv3noQb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9-sanavcoFsIba-Xr4x48g&_nc_ss=70689&oh=00_AQRnXoSWxMgxS-5SN6BcC_181R6Ko_cUouuRyVotPSWDcA&oe=6AEAEAEF"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 149357941,
+      "valor_atual": 149535054,
+      "hash_anterior": "18b50dfb73d19fc9a09edd3c27c5be94bf3011596d2822918e26844534217cc3",
+      "hash_atual": "e3deb2703b11a0ba1fdf2a071c204eb2f19a22d3becd69c5bded7f5925ab9e93",
+      "variacao": 177113,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 550993.64282,
+        "texto": "6 dias e 9 horas e 3 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Ganhou 177.113 seguidores",
+      "descricao": "Os seguidores passaram de 149.357.941 para 149.535.054",
+      "variacao_texto": "+177.113 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:09:47.720216",
+      "timestamp_anterior": "2026-10-24T11:06:34.077396",
+      "timestamp_atual": "2026-10-30T20:09:47.720216",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 260375673,
+        "id": "17841400710194068",
+        "username": "fcbarcelona",
+        "nome": "FC Barcelona",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lXkXskH0Zo0Q7kNvwGdeAwX&_nc_oc=Adqi17cJXY_P6WzaYReK8m8WFG2CGirNjdh9ZAbvzFivH3DARGLLkUURKEMYzRgA33XekeAoHNM-17qjayv3noQb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9-sanavcoFsIba-Xr4x48g&_nc_ss=70689&oh=00_AQRnXoSWxMgxS-5SN6BcC_181R6Ko_cUouuRyVotPSWDcA&oe=6AEAEAEF"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 116,
+      "valor_atual": 117,
+      "hash_anterior": "18b50dfb73d19fc9a09edd3c27c5be94bf3011596d2822918e26844534217cc3",
+      "hash_atual": "e3deb2703b11a0ba1fdf2a071c204eb2f19a22d3becd69c5bded7f5925ab9e93",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 550993.64282,
+        "texto": "6 dias e 9 horas e 3 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 116 e passou a seguir 117",
+      "variacao_texto": "+1 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:09:47.720216",
+      "timestamp_anterior": "2026-10-24T11:06:34.077396",
+      "timestamp_atual": "2026-10-30T20:09:47.720216",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 260375673,
+        "id": "17841400710194068",
+        "username": "fcbarcelona",
+        "nome": "FC Barcelona",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806299644_18670720345023674_4804842763586847310_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lXkXskH0Zo0Q7kNvwGdeAwX&_nc_oc=Adqi17cJXY_P6WzaYReK8m8WFG2CGirNjdh9ZAbvzFivH3DARGLLkUURKEMYzRgA33XekeAoHNM-17qjayv3noQb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9-sanavcoFsIba-Xr4x48g&_nc_ss=70689&oh=00_AQRnXoSWxMgxS-5SN6BcC_181R6Ko_cUouuRyVotPSWDcA&oe=6AEAEAEF"
+      },
+      "tipo": "total_destaques",
+      "campo": "total_destaques",
+      "nome_campo": "Total de Destaques",
+      "valor_anterior": 4,
+      "valor_atual": 3,
+      "hash_anterior": "18b50dfb73d19fc9a09edd3c27c5be94bf3011596d2822918e26844534217cc3",
+      "hash_atual": "e3deb2703b11a0ba1fdf2a071c204eb2f19a22d3becd69c5bded7f5925ab9e93",
+      "variacao": -1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 550993.64282,
+        "texto": "6 dias e 9 horas e 3 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Removeu 1 destaque",
+      "descricao": "O total mudou de 4 para 3",
+      "variacao_texto": "-1 destaque"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-24T11:06:34.077396",
@@ -2398,26 +2665,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:13.428614",
-    "captura_mais_recente": "2026-10-24T11:06:34.077396",
-    "tempo_total_segundos": 1517120,
-    "tempo_total_dias": 17.559259,
-    "tempo_total_texto": "17 dias, 13 horas, 25 minutos e 20 segundos",
+    "captura_mais_recente": "2026-10-30T20:13:19.359763",
+    "tempo_total_segundos": 2068325,
+    "tempo_total_dias": 23.938947,
+    "tempo_total_texto": "23 dias, 22 horas, 32 minutos e 5 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 205973,
+      "variacao": 200674,
       "direcao": "ganhou",
-      "quantidade": 205973,
-      "texto": "Ganhou 205973 seguidores",
+      "quantidade": 200674,
+      "texto": "Ganhou 200674 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:26:52.883061",
-      "captura_fim": "2026-10-24T11:06:34.077396",
-      "seguidores_inicio": 149151968,
-      "seguidores_fim": 149357941
+      "captura_inicio": "2026-10-23T11:03:59.549133",
+      "captura_fim": "2026-10-30T20:13:19.359763",
+      "seguidores_inicio": 149334423,
+      "seguidores_fim": 149535097
     },
     "30_dias": {
       "variacao": null,
@@ -2436,17 +2703,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 427404,
+      "variacao": 604560,
       "direcao": "ganhou",
-      "quantidade": 427404,
-      "texto": "Ganhou 427404 seguidores",
+      "quantidade": 604560,
+      "texto": "Ganhou 604560 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:13.428614",
-      "captura_mais_recente": "2026-10-24T11:06:34.077396",
-      "tempo_total_dias": 17.559267,
+      "captura_mais_recente": "2026-10-30T20:13:19.359763",
+      "tempo_total_dias": 23.938958,
       "seguidores_inicio": 148930537,
-      "seguidores_fim": 149357941
+      "seguidores_fim": 149535097
     }
   }
 }
