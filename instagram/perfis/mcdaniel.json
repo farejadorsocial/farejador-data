@@ -8,7 +8,7 @@
       "id": "17841402021931437",
       "username": "mcdaniel",
       "nome": "Vic Mc Daniel",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/308683561_5182131061916193_4017210985942732156_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODAuQzMifQ%3D%3D&_nc_ohc=msDim9CgPwQQ7kNvwEVw-uC&_nc_oc=AdqsDm3uwq2nHAby599v9CbUlIJ__bWXYuhbIPa7GZsDgCbQeLYGXFnf4C3mNvSOBqS3yC_igkkoJEyzYsWO7V2H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPTbBVd92IBNopbzW5OFvMsURyEI-evE05al-h6Mth_sQ&oe=6AE2741B"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/308683561_5182131061916193_4017210985942732156_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODAuQzMifQ%3D%3D&_nc_ohc=yIw5PjYAX5oQ7kNvwHWIZSC&_nc_oc=AdpYxtupMbDnuSZGjflP5983ql-kh6OwRlZxIqhS6Sc1bQSglOY1Wgqut7vef6UHjUHG0MfeFq-sAs5Hr6egAFyv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQTdwxf0PYXSawubh1ddo1Tj7Gb4EGH-yVlaN9D-nVvcZA&oe=6AEB05DB"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 403,
+        "valor_atual": 418,
+        "variacao": 15,
+        "direcao": "aumento",
+        "descricao": "+15 seguidores",
+        "timestamp": "2026-10-30T20:10:59.734173",
+        "timestamp_anterior": "2026-10-24T11:00:56.250986",
+        "tempo_desde_anterior_segundos": 551403
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -282,6 +295,41 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:10:59.734173",
+      "timestamp_anterior": "2026-10-24T11:00:56.250986",
+      "timestamp_atual": "2026-10-30T20:10:59.734173",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 2091499397,
+        "id": "17841402021931437",
+        "username": "mcdaniel",
+        "nome": "Vic Mc Daniel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/308683561_5182131061916193_4017210985942732156_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODAuQzMifQ%3D%3D&_nc_ohc=yIw5PjYAX5oQ7kNvwHWIZSC&_nc_oc=AdpYxtupMbDnuSZGjflP5983ql-kh6OwRlZxIqhS6Sc1bQSglOY1Wgqut7vef6UHjUHG0MfeFq-sAs5Hr6egAFyv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQTdwxf0PYXSawubh1ddo1Tj7Gb4EGH-yVlaN9D-nVvcZA&oe=6AEB05DB"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 403,
+      "valor_atual": 418,
+      "hash_anterior": "31b97e7c5a4c4f396e6e38bdf06da5291f3929d6875e5e1aa242f8f62f4cc0ae",
+      "hash_atual": "a915ca50831c7952ef68cbfaddb7b806b2a62ab61970d16b2e31152e4d2c656a",
+      "variacao": 15,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 551403.483187,
+        "texto": "6 dias e 9 horas e 10 minutos e 3 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 551403.483187,
+        "texto": "6 dias e 9 horas e 10 minutos e 3 segundos"
+      },
+      "titulo": "Ganhou 15 seguidores",
+      "descricao": "Os seguidores passaram de 403 para 418",
+      "variacao_texto": "+15 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-24T11:00:56.250986",
@@ -635,26 +683,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:09.807460",
-    "captura_mais_recente": "2026-10-24T11:00:56.250986",
-    "tempo_total_segundos": 1606726,
-    "tempo_total_dias": 18.596366,
-    "tempo_total_texto": "18 dias, 14 horas, 18 minutos e 46 segundos",
+    "captura_mais_recente": "2026-10-30T20:10:59.734173",
+    "tempo_total_segundos": 2158129,
+    "tempo_total_dias": 24.978345,
+    "tempo_total_texto": "24 dias, 23 horas, 28 minutos e 49 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 33,
+      "variacao": 9,
       "direcao": "ganhou",
-      "quantidade": 33,
-      "texto": "Ganhou 33 seguidores",
+      "quantidade": 9,
+      "texto": "Ganhou 9 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T13:54:57.299689",
-      "captura_fim": "2026-10-24T11:00:56.250986",
-      "seguidores_inicio": 370,
-      "seguidores_fim": 403
+      "captura_inicio": "2026-10-23T10:34:10.783513",
+      "captura_fim": "2026-10-30T20:10:59.734173",
+      "seguidores_inicio": 409,
+      "seguidores_fim": 418
     },
     "30_dias": {
       "variacao": null,
@@ -673,17 +721,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 48,
+      "variacao": 63,
       "direcao": "ganhou",
-      "quantidade": 48,
-      "texto": "Ganhou 48 seguidores",
+      "quantidade": 63,
+      "texto": "Ganhou 63 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:09.807460",
-      "captura_mais_recente": "2026-10-24T11:00:56.250986",
-      "tempo_total_dias": 18.596371,
+      "captura_mais_recente": "2026-10-30T20:10:59.734173",
+      "tempo_total_dias": 24.978356,
       "seguidores_inicio": 355,
-      "seguidores_fim": 403
+      "seguidores_fim": 418
     }
   }
 }
