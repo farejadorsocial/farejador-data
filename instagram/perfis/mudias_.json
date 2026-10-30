@@ -8,7 +8,7 @@
       "id": "17841400347104467",
       "username": "mudias_",
       "nome": "Murilo Dias",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811266968_18638178649011571_2339879841896626470_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=L7d4Iy9iIpAQ7kNvwGa-mnp&_nc_oc=AdoKap7n1JhXiK09KL4FaZ5e6feVTh2F9X62qxmroARR9TKbB7Y2jbWyo4QDA8W2eyt47fxHeaNlDF3X87SnzPwu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Bw5La4ymPCZLPZj8l6miVg&_nc_ss=70689&oh=00_AQO01JfabO1WumwkfE-K_Rc-S2-uS32bvpSaeeVTXR2rgg&oe=6AE28EFC"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811266968_18638178649011571_2339879841896626470_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GJjzWjBzdaIhUzdCACZ5WKlR7HggbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=B0zojmrCbAcQ7kNvwEbv1EO&_nc_oc=AdqMyUIPu-A6tOUan-ULcP7BZWvlq-PxSuQBNBycozcm8FvJge4OtdGgajG7doJReXVVrGvqBuY1xbmevM5MqAbs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ge6zyymmMD6eEdz0LVDYOg&_nc_ss=70689&oh=00_AQQhaGToJo1hyfVAuJhEyw5yXZYxgAMWNf4h_aAs08yYlQ&oe=6AEAE87C"
     },
     "biografia": [
       {
@@ -94,6 +94,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 330854,
+        "valor_atual": 330458,
+        "variacao": -396,
+        "direcao": "reducao",
+        "descricao": "-396 seguidores",
+        "timestamp": "2026-10-30T20:14:08.988137",
+        "timestamp_anterior": "2026-10-24T11:03:57.349036",
+        "tempo_desde_anterior_segundos": 551411
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -518,6 +531,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1946,
+        "valor_atual": 1952,
+        "variacao": 6,
+        "direcao": "aumento",
+        "descricao": "+6 posts",
+        "timestamp": "2026-10-30T20:14:08.988137",
+        "timestamp_anterior": "2026-10-23T10:37:15.407902",
+        "tempo_desde_anterior_segundos": 639413
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1941,
         "valor_atual": 1946,
         "variacao": 5,
@@ -698,6 +724,76 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:14:08.988137",
+      "timestamp_anterior": "2026-10-24T11:03:57.349036",
+      "timestamp_atual": "2026-10-30T20:14:08.988137",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 285899570,
+        "id": "17841400347104467",
+        "username": "mudias_",
+        "nome": "Murilo Dias",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811266968_18638178649011571_2339879841896626470_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GJjzWjBzdaIhUzdCACZ5WKlR7HggbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=B0zojmrCbAcQ7kNvwEbv1EO&_nc_oc=AdqMyUIPu-A6tOUan-ULcP7BZWvlq-PxSuQBNBycozcm8FvJge4OtdGgajG7doJReXVVrGvqBuY1xbmevM5MqAbs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ge6zyymmMD6eEdz0LVDYOg&_nc_ss=70689&oh=00_AQQhaGToJo1hyfVAuJhEyw5yXZYxgAMWNf4h_aAs08yYlQ&oe=6AEAE87C"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 330854,
+      "valor_atual": 330458,
+      "hash_anterior": "3e48f64cfc7d9b7f0e4992f768a17efa879056fe5df569d6191ac53473288456",
+      "hash_atual": "98e816b6f213b92913699f997fa8ff7b91aecd8ca6c055661652dd2e900e64de",
+      "variacao": -396,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 551411.639101,
+        "texto": "6 dias e 9 horas e 10 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 551411.639101,
+        "texto": "6 dias e 9 horas e 10 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 396 seguidores",
+      "descricao": "Os seguidores caíram de 330.854 para 330.458",
+      "variacao_texto": "-396 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:14:08.988137",
+      "timestamp_anterior": "2026-10-24T11:03:57.349036",
+      "timestamp_atual": "2026-10-30T20:14:08.988137",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 285899570,
+        "id": "17841400347104467",
+        "username": "mudias_",
+        "nome": "Murilo Dias",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811266968_18638178649011571_2339879841896626470_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GJjzWjBzdaIhUzdCACZ5WKlR7HggbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=B0zojmrCbAcQ7kNvwEbv1EO&_nc_oc=AdqMyUIPu-A6tOUan-ULcP7BZWvlq-PxSuQBNBycozcm8FvJge4OtdGgajG7doJReXVVrGvqBuY1xbmevM5MqAbs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ge6zyymmMD6eEdz0LVDYOg&_nc_ss=70689&oh=00_AQQhaGToJo1hyfVAuJhEyw5yXZYxgAMWNf4h_aAs08yYlQ&oe=6AEAE87C"
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1946,
+      "valor_atual": 1952,
+      "hash_anterior": "3e48f64cfc7d9b7f0e4992f768a17efa879056fe5df569d6191ac53473288456",
+      "hash_atual": "98e816b6f213b92913699f997fa8ff7b91aecd8ca6c055661652dd2e900e64de",
+      "variacao": 6,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 551411.639101,
+        "texto": "6 dias e 9 horas e 10 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 6 posts",
+      "descricao": "O total mudou de 1.946 para 1.952",
+      "variacao_texto": "+6 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-24T11:03:57.349036",
@@ -2137,26 +2233,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:16:51.144718",
-    "captura_mais_recente": "2026-10-24T11:03:57.349036",
-    "tempo_total_segundos": 1612026,
-    "tempo_total_dias": 18.657708,
-    "tempo_total_texto": "18 dias, 15 horas, 47 minutos e 6 segundos",
+    "captura_mais_recente": "2026-10-30T20:14:08.988137",
+    "tempo_total_segundos": 2163437,
+    "tempo_total_dias": 25.03978,
+    "tempo_total_texto": "25 dias, 57 minutos e 17 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": 696,
-      "direcao": "ganhou",
-      "quantidade": 696,
-      "texto": "Ganhou 696 seguidores",
+      "variacao": -121,
+      "direcao": "perdeu",
+      "quantidade": 121,
+      "texto": "Perdeu 121 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:27:38.497312",
-      "captura_fim": "2026-10-24T11:03:57.349036",
-      "seguidores_inicio": 330158,
-      "seguidores_fim": 330854
+      "captura_inicio": "2026-10-23T10:37:15.407902",
+      "captura_fim": "2026-10-30T20:14:08.988137",
+      "seguidores_inicio": 330579,
+      "seguidores_fim": 330458
     },
     "30_dias": {
       "variacao": null,
@@ -2175,17 +2271,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 784,
+      "variacao": 388,
       "direcao": "ganhou",
-      "quantidade": 784,
-      "texto": "Ganhou 784 seguidores",
+      "quantidade": 388,
+      "texto": "Ganhou 388 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:16:51.144718",
-      "captura_mais_recente": "2026-10-24T11:03:57.349036",
-      "tempo_total_dias": 18.657711,
+      "captura_mais_recente": "2026-10-30T20:14:08.988137",
+      "tempo_total_dias": 25.03979,
       "seguidores_inicio": 330070,
-      "seguidores_fim": 330854
+      "seguidores_fim": 330458
     }
   }
 }
