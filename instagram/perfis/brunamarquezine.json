@@ -8,7 +8,7 @@
       "id": "17841400224340084",
       "username": "brunamarquezine",
       "nome": "Bruna Marquezine",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/833388041_18688568383007479_7348400146969700889_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Bza-p_xuLHYQ7kNvwE11ODg&_nc_oc=Adp74Fka52t_rGCZSLpQRpNdJxdUMSamDmMefCyoCiwvd2RXVk60FXHq6uGrb-dxYL1v-NF2SPrsQdCuZmTj-uRv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yc-S6R6AkZLwhc1IUvxNsg&_nc_ss=70689&oh=00_AQMJ9Ry3zIZJwFYOxEApv0bqwGeVUEoJFQ-d6G_p4wBgFw&oe=6AE29654"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/833388041_18688568383007479_7348400146969700889_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7foqXdvZDdcQ7kNvwE3ZB-5&_nc_oc=AdqcxjR9lQw0Bl5SZkwPAhmWIg76wj88NYTL79oSGkjn8V9qnle0qnKWhKO4zzWcuH_EFbwwnCzHn1BE6Q5_mAmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C18LLDpd8cSYf2KFqY70yg&_nc_ss=70689&oh=00_AQRgymbWFI0tdvoxdy75Rfke6JT3GCvMdI_I0NDzGovQZw&oe=6AEAEFD4"
     },
     "biografia": [
       {
@@ -81,6 +81,32 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 42858680,
+        "valor_atual": 42858675,
+        "variacao": -5,
+        "direcao": "reducao",
+        "descricao": "-5 seguidores",
+        "timestamp": "2026-10-30T20:13:16.385406",
+        "timestamp_anterior": "2026-10-30T20:09:47.146456",
+        "tempo_desde_anterior_segundos": 209
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 42952309,
+        "valor_atual": 42858680,
+        "variacao": -93629,
+        "direcao": "reducao",
+        "descricao": "-93629 seguidores",
+        "timestamp": "2026-10-30T20:09:47.146456",
+        "timestamp_anterior": "2026-10-24T11:06:39.819043",
+        "tempo_desde_anterior_segundos": 550987
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1109,6 +1135,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 1258,
+        "valor_atual": 1260,
+        "variacao": 2,
+        "direcao": "aumento",
+        "descricao": "Seguiu +2",
+        "timestamp": "2026-10-30T20:09:47.146456",
+        "timestamp_anterior": "2026-10-23T10:33:01.931976",
+        "tempo_desde_anterior_segundos": 639405
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 1257,
         "valor_atual": 1258,
         "variacao": 1,
@@ -1283,6 +1322,111 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:13:16.385406",
+      "timestamp_anterior": "2026-10-30T20:09:47.146456",
+      "timestamp_atual": "2026-10-30T20:13:16.385406",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 5383478,
+        "id": "17841400224340084",
+        "username": "brunamarquezine",
+        "nome": "Bruna Marquezine",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/833388041_18688568383007479_7348400146969700889_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7foqXdvZDdcQ7kNvwE3ZB-5&_nc_oc=AdqcxjR9lQw0Bl5SZkwPAhmWIg76wj88NYTL79oSGkjn8V9qnle0qnKWhKO4zzWcuH_EFbwwnCzHn1BE6Q5_mAmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C18LLDpd8cSYf2KFqY70yg&_nc_ss=70689&oh=00_AQRgymbWFI0tdvoxdy75Rfke6JT3GCvMdI_I0NDzGovQZw&oe=6AEAEFD4"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 42858680,
+      "valor_atual": 42858675,
+      "hash_anterior": "9a15a7ea56457a15e3fc48bbf3b593816aac9b03a3885abbbb166b679ad0429c",
+      "hash_atual": "ca0e571fbd708734266254c25abeb6b45a2977b661fb3f0172e814fb493515ba",
+      "variacao": -5,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 209.23895,
+        "texto": "3 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 209.23895,
+        "texto": "3 minutos e 29 segundos"
+      },
+      "titulo": "Perdeu 5 seguidores",
+      "descricao": "Os seguidores caíram de 42.858.680 para 42.858.675",
+      "variacao_texto": "-5 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:09:47.146456",
+      "timestamp_anterior": "2026-10-24T11:06:39.819043",
+      "timestamp_atual": "2026-10-30T20:09:47.146456",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 5383478,
+        "id": "17841400224340084",
+        "username": "brunamarquezine",
+        "nome": "Bruna Marquezine",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/833388041_18688568383007479_7348400146969700889_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7foqXdvZDdcQ7kNvwE3ZB-5&_nc_oc=AdqcxjR9lQw0Bl5SZkwPAhmWIg76wj88NYTL79oSGkjn8V9qnle0qnKWhKO4zzWcuH_EFbwwnCzHn1BE6Q5_mAmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0_aXXMD7aKnhQ9TUBPM9jA&_nc_ss=70689&oh=00_AQR-eSowa8FsRIYiYtsb6osznDtKxmjwS57YHtGx3kdP8A&oe=6AEAEFD4"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 42952309,
+      "valor_atual": 42858680,
+      "hash_anterior": "9cf16430b2978654b3e57ccad37f75e11f8c930a5f15fee7e03cfd58e8dc43c8",
+      "hash_atual": "9a15a7ea56457a15e3fc48bbf3b593816aac9b03a3885abbbb166b679ad0429c",
+      "variacao": -93629,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 550987.327413,
+        "texto": "6 dias e 9 horas e 3 minutos e 7 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 550987.327413,
+        "texto": "6 dias e 9 horas e 3 minutos e 7 segundos"
+      },
+      "titulo": "Perdeu 93.629 seguidores",
+      "descricao": "Os seguidores caíram de 42.952.309 para 42.858.680",
+      "variacao_texto": "-93.629 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-10-30T20:09:47.146456",
+      "timestamp_anterior": "2026-10-24T11:06:39.819043",
+      "timestamp_atual": "2026-10-30T20:09:47.146456",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 5383478,
+        "id": "17841400224340084",
+        "username": "brunamarquezine",
+        "nome": "Bruna Marquezine",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/833388041_18688568383007479_7348400146969700889_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7foqXdvZDdcQ7kNvwE3ZB-5&_nc_oc=AdqcxjR9lQw0Bl5SZkwPAhmWIg76wj88NYTL79oSGkjn8V9qnle0qnKWhKO4zzWcuH_EFbwwnCzHn1BE6Q5_mAmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0_aXXMD7aKnhQ9TUBPM9jA&_nc_ss=70689&oh=00_AQR-eSowa8FsRIYiYtsb6osznDtKxmjwS57YHtGx3kdP8A&oe=6AEAEFD4"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1258,
+      "valor_atual": 1260,
+      "hash_anterior": "9cf16430b2978654b3e57ccad37f75e11f8c930a5f15fee7e03cfd58e8dc43c8",
+      "hash_atual": "9a15a7ea56457a15e3fc48bbf3b593816aac9b03a3885abbbb166b679ad0429c",
+      "variacao": 2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 550987.327413,
+        "texto": "6 dias e 9 horas e 3 minutos e 7 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 2 pessoas",
+      "descricao": "Estava seguindo 1.258 e passou a seguir 1.260",
+      "variacao_texto": "+2 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-24T11:06:39.819043",
@@ -4332,26 +4476,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:23:32.552701",
-    "captura_mais_recente": "2026-10-24T11:06:39.819043",
-    "tempo_total_segundos": 1705387,
-    "tempo_total_dias": 19.738275,
-    "tempo_total_texto": "19 dias, 17 horas, 43 minutos e 7 segundos",
+    "captura_mais_recente": "2026-10-30T20:13:16.385406",
+    "tempo_total_segundos": 2256583,
+    "tempo_total_dias": 26.117859,
+    "tempo_total_texto": "26 dias, 2 horas, 49 minutos e 43 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "7_dias": {
-      "variacao": -54155,
+      "variacao": -115789,
       "direcao": "perdeu",
-      "quantidade": 54155,
-      "texto": "Perdeu 54155 seguidores",
+      "quantidade": 115789,
+      "texto": "Perdeu 115789 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:26:52.304029",
-      "captura_fim": "2026-10-24T11:06:39.819043",
-      "seguidores_inicio": 43006464,
-      "seguidores_fim": 42952309
+      "captura_inicio": "2026-10-23T11:04:00.147330",
+      "captura_fim": "2026-10-30T20:13:16.385406",
+      "seguidores_inicio": 42974464,
+      "seguidores_fim": 42858675
     },
     "30_dias": {
       "variacao": null,
@@ -4370,17 +4514,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -146192,
+      "variacao": -239826,
       "direcao": "perdeu",
-      "quantidade": 146192,
-      "texto": "Perdeu 146192 seguidores",
+      "quantidade": 239826,
+      "texto": "Perdeu 239826 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:23:32.552701",
-      "captura_mais_recente": "2026-10-24T11:06:39.819043",
-      "tempo_total_dias": 19.738279,
+      "captura_mais_recente": "2026-10-30T20:13:16.385406",
+      "tempo_total_dias": 26.117868,
       "seguidores_inicio": 43098501,
-      "seguidores_fim": 42952309
+      "seguidores_fim": 42858675
     }
   }
 }
