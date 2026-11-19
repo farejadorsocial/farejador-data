@@ -8,8 +8,8 @@
       "id": "17841401702830091",
       "username": "mancity",
       "nome": "Manchester City",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/876439244_18658600945056762_3636577568652421648_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMxmPTT6_1UR5klCABBqrgEIuHcybmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=A8y8_HkRmMEQ7kNvwFe3SIZ&_nc_oc=AdqUOcO52fnx4CMZUMvONYIrVA3QQ3TTp0RPzmq8UIAD-9wbYrnex9DfPaaCUoSALNUWK_JVsf4V5OrqN22tj4NW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-5h_TYOUJARUbQRUX2awXQ&_nc_ss=70689&oh=00_AQS1UcKOS6BSKbJDjiZcgWPpp079PFkPqNmoHHMJzAey0w&oe=6AEFC134",
-      "total_posts": 0
+      "foto_perfil": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/904057676_18663170086056762_5002916215621201713_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEzT4jU6s1znDU5CADGvJKHK7W1FbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Rc_SVAKBEG0Q7kNvwElh8-_&_nc_oc=AdrFqcEOUuAlO1gw2dZRh5NpOrc1n3gO6rdYyr8KmVKrCpoFDFuiALzWy7QJ85p5QYo&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=PBkqhkOkthnUgcDAdvuPRA&_nc_ss=7a689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_yB5JGCgl2xcXvgSEf_ud-2vsPAol-gGQTt4uXhus6Q&oe=6B053EFE",
+      "total_posts": 46000
     },
     "biografia": [
       {
@@ -22,6 +22,27 @@
       }
     ],
     "links": [
+      {
+        "plataforma": "instagram",
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [
+          {
+            "url": "https://bio.mancity.com"
+          }
+        ],
+        "valor_atual": [
+          {
+            "url": "https://bio.mancity.com/"
+          }
+        ],
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-11-19T18:01:45.379716",
+        "timestamp_anterior": "2026-10-06T21:42:35.254973",
+        "tempo_desde_anterior_segundos": 3788350
+      },
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -76,6 +97,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 57034418,
+        "valor_atual": 56970070,
+        "variacao": -64348,
+        "direcao": "reducao",
+        "descricao": "-64348 seguidores",
+        "timestamp": "2026-11-19T18:01:45.379716",
+        "timestamp_anterior": "2026-11-03T12:25:50.865281",
+        "tempo_desde_anterior_segundos": 1402554
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -688,6 +722,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 815,
+        "valor_atual": 814,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-11-19T18:01:45.379716",
+        "timestamp_anterior": "2026-10-30T20:10:46.940367",
+        "tempo_desde_anterior_segundos": 1720258
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 813,
         "valor_atual": 815,
         "variacao": 2,
@@ -760,6 +807,19 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 0,
+        "valor_atual": 46000,
+        "variacao": 46000,
+        "direcao": "aumento",
+        "descricao": "+46000 publicações",
+        "timestamp": "2026-11-19T18:01:45.379716",
+        "timestamp_anterior": "2026-10-06T21:42:35.254973",
+        "tempo_desde_anterior_segundos": 3788350
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor": 0,
         "timestamp": "2026-10-06T21:42:35.254973",
         "tipo": "inicial"
@@ -809,6 +869,157 @@
   "timeline": [
     {
       "plataforma": "instagram",
+      "timestamp": "2026-11-19T18:01:45.379716",
+      "timestamp_anterior": "2026-11-03T12:25:50.865281",
+      "timestamp_atual": "2026-11-19T18:01:45.379716",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/904057676_18663170086056762_5002916215621201713_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEzT4jU6s1znDU5CADGvJKHK7W1FbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Rc_SVAKBEG0Q7kNvwElh8-_&_nc_oc=AdrFqcEOUuAlO1gw2dZRh5NpOrc1n3gO6rdYyr8KmVKrCpoFDFuiALzWy7QJ85p5QYo&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=PBkqhkOkthnUgcDAdvuPRA&_nc_ss=7a689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_yB5JGCgl2xcXvgSEf_ud-2vsPAol-gGQTt4uXhus6Q&oe=6B053EFE",
+        "total_posts": 46000
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [
+        {
+          "url": "https://bio.mancity.com"
+        }
+      ],
+      "valor_atual": [
+        {
+          "url": "https://bio.mancity.com/"
+        }
+      ],
+      "hash_anterior": "fc87d6ee5dd9d4481bce49f4c49e3108553f5e6a04c5493752f755bc42be91da",
+      "hash_atual": "5d0d88232662697610b250b252fd592fc99a943abf9b93650a4560dff5962fab",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1402554.514435,
+        "texto": "16 dias e 5 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1402554.514435,
+        "texto": "16 dias e 5 horas e 35 minutos e 54 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T18:01:45.379716",
+      "timestamp_anterior": "2026-11-03T12:25:50.865281",
+      "timestamp_atual": "2026-11-19T18:01:45.379716",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/904057676_18663170086056762_5002916215621201713_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEzT4jU6s1znDU5CADGvJKHK7W1FbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Rc_SVAKBEG0Q7kNvwElh8-_&_nc_oc=AdrFqcEOUuAlO1gw2dZRh5NpOrc1n3gO6rdYyr8KmVKrCpoFDFuiALzWy7QJ85p5QYo&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=PBkqhkOkthnUgcDAdvuPRA&_nc_ss=7a689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_yB5JGCgl2xcXvgSEf_ud-2vsPAol-gGQTt4uXhus6Q&oe=6B053EFE",
+        "total_posts": 46000
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 57034418,
+      "valor_atual": 56970070,
+      "hash_anterior": "fc87d6ee5dd9d4481bce49f4c49e3108553f5e6a04c5493752f755bc42be91da",
+      "hash_atual": "5d0d88232662697610b250b252fd592fc99a943abf9b93650a4560dff5962fab",
+      "variacao": -64348,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1402554.514435,
+        "texto": "16 dias e 5 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 64.348 seguidores",
+      "descricao": "Os seguidores caíram de 57.034.418 para 56.970.070",
+      "variacao_texto": "-64.348 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T18:01:45.379716",
+      "timestamp_anterior": "2026-11-03T12:25:50.865281",
+      "timestamp_atual": "2026-11-19T18:01:45.379716",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/904057676_18663170086056762_5002916215621201713_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEzT4jU6s1znDU5CADGvJKHK7W1FbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Rc_SVAKBEG0Q7kNvwElh8-_&_nc_oc=AdrFqcEOUuAlO1gw2dZRh5NpOrc1n3gO6rdYyr8KmVKrCpoFDFuiALzWy7QJ85p5QYo&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=PBkqhkOkthnUgcDAdvuPRA&_nc_ss=7a689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_yB5JGCgl2xcXvgSEf_ud-2vsPAol-gGQTt4uXhus6Q&oe=6B053EFE",
+        "total_posts": 46000
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 815,
+      "valor_atual": 814,
+      "hash_anterior": "fc87d6ee5dd9d4481bce49f4c49e3108553f5e6a04c5493752f755bc42be91da",
+      "hash_atual": "5d0d88232662697610b250b252fd592fc99a943abf9b93650a4560dff5962fab",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1402554.514435,
+        "texto": "16 dias e 5 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 815 e passou a seguir 814",
+      "variacao_texto": "-1 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T18:01:45.379716",
+      "timestamp_anterior": "2026-11-03T12:25:50.865281",
+      "timestamp_atual": "2026-11-19T18:01:45.379716",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 5880761,
+        "id": "17841401702830091",
+        "username": "mancity",
+        "nome": "Manchester City",
+        "foto_perfil": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/904057676_18663170086056762_5002916215621201713_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEzT4jU6s1znDU5CADGvJKHK7W1FbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Rc_SVAKBEG0Q7kNvwElh8-_&_nc_oc=AdrFqcEOUuAlO1gw2dZRh5NpOrc1n3gO6rdYyr8KmVKrCpoFDFuiALzWy7QJ85p5QYo&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&_nc_gid=PBkqhkOkthnUgcDAdvuPRA&_nc_ss=7a689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_yB5JGCgl2xcXvgSEf_ud-2vsPAol-gGQTt4uXhus6Q&oe=6B053EFE",
+        "total_posts": 46000
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 0,
+      "valor_atual": 46000,
+      "hash_anterior": "fc87d6ee5dd9d4481bce49f4c49e3108553f5e6a04c5493752f755bc42be91da",
+      "hash_atual": "5d0d88232662697610b250b252fd592fc99a943abf9b93650a4560dff5962fab",
+      "variacao": 46000,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1402554.514435,
+        "texto": "16 dias e 5 horas e 35 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 46.000 publicações",
+      "descricao": "O total mudou de 0 para 46.000",
+      "variacao_texto": "+46.000 posts"
+    },
+    {
+      "plataforma": "instagram",
       "timestamp": "2026-11-03T12:25:50.865281",
       "timestamp_anterior": "2026-11-03T12:22:25.647770",
       "timestamp_atual": "2026-11-03T12:25:50.865281",
@@ -827,8 +1038,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57034398,
       "valor_atual": 57034418,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "c6077d9d8017c026136091ed6a19362365a3f46e664ff66ee0c73d3fdca42e06",
+      "hash_atual": "fc87d6ee5dd9d4481bce49f4c49e3108553f5e6a04c5493752f755bc42be91da",
       "variacao": 20,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -863,8 +1074,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57034396,
       "valor_atual": 57034398,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "0527246c99b13b1d33bdf8b654b5b0371687d3c58265f67e452341d0a234009c",
+      "hash_atual": "c6077d9d8017c026136091ed6a19362365a3f46e664ff66ee0c73d3fdca42e06",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -899,8 +1110,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57034389,
       "valor_atual": 57034396,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "05058162826e1010998993fe855d07d477a393ab2abcd9938661a2dcd6b64106",
+      "hash_atual": "0527246c99b13b1d33bdf8b654b5b0371687d3c58265f67e452341d0a234009c",
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -935,8 +1146,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57034367,
       "valor_atual": 57034389,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "ca83f3e3a54fca2c581a2347b3aa8cc6dbdec21f503631625147e4a34ad17e92",
+      "hash_atual": "05058162826e1010998993fe855d07d477a393ab2abcd9938661a2dcd6b64106",
       "variacao": 22,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -971,8 +1182,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57056425,
       "valor_atual": 57034367,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "49628b0fc3d10a093e278ad36608afb35a1fead201c7615c1db9b27e97080a8b",
+      "hash_atual": "ca83f3e3a54fca2c581a2347b3aa8cc6dbdec21f503631625147e4a34ad17e92",
       "variacao": -22058,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1007,8 +1218,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57056426,
       "valor_atual": 57056425,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "b306294e2ed80d974e6417f53565481879b06739c779b2ca09a30cf1b18bf3c8",
+      "hash_atual": "49628b0fc3d10a093e278ad36608afb35a1fead201c7615c1db9b27e97080a8b",
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1043,8 +1254,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57069429,
       "valor_atual": 57056426,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "b924e13500499516116a73324a7a7eda55e37559aad487e1293f880cdce9ea54",
+      "hash_atual": "b306294e2ed80d974e6417f53565481879b06739c779b2ca09a30cf1b18bf3c8",
       "variacao": -13003,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1079,8 +1290,8 @@
       "nome_campo": "Seguindo",
       "valor_anterior": 813,
       "valor_atual": 815,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "b924e13500499516116a73324a7a7eda55e37559aad487e1293f880cdce9ea54",
+      "hash_atual": "b306294e2ed80d974e6417f53565481879b06739c779b2ca09a30cf1b18bf3c8",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1115,8 +1326,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57069430,
       "valor_atual": 57069429,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "da2405a86981882d854b9d9558a82bc9281cd4a2c1ad69825a9d691aaad27f6b",
+      "hash_atual": "b924e13500499516116a73324a7a7eda55e37559aad487e1293f880cdce9ea54",
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1151,8 +1362,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57069408,
       "valor_atual": 57069430,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "66187ec2a8d7672227e87a608eafa044d3a4fe930ea9421f0586eddde82d604e",
+      "hash_atual": "da2405a86981882d854b9d9558a82bc9281cd4a2c1ad69825a9d691aaad27f6b",
       "variacao": 22,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1187,8 +1398,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57068308,
       "valor_atual": 57069408,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "7bd8568e18a63395a2df0b2696345aa04fddf24c51b1723543ee9c6e409196b8",
+      "hash_atual": "66187ec2a8d7672227e87a608eafa044d3a4fe930ea9421f0586eddde82d604e",
       "variacao": 1100,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1223,8 +1434,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57068315,
       "valor_atual": 57068308,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "409cbb9e775cebc8b4cd778e9aeaeef0e6937bc5ab89a1cef6009c4e30a6b7a2",
+      "hash_atual": "7bd8568e18a63395a2df0b2696345aa04fddf24c51b1723543ee9c6e409196b8",
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1259,8 +1470,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57069069,
       "valor_atual": 57068315,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "31aeee59ae639038243f5ccb00dc6e1ff43fe150d4c766f42ed2fe4ab10cc126",
+      "hash_atual": "409cbb9e775cebc8b4cd778e9aeaeef0e6937bc5ab89a1cef6009c4e30a6b7a2",
       "variacao": -754,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1295,8 +1506,8 @@
       "nome_campo": "Seguindo",
       "valor_anterior": 811,
       "valor_atual": 813,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "31aeee59ae639038243f5ccb00dc6e1ff43fe150d4c766f42ed2fe4ab10cc126",
+      "hash_atual": "409cbb9e775cebc8b4cd778e9aeaeef0e6937bc5ab89a1cef6009c4e30a6b7a2",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1331,8 +1542,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57069055,
       "valor_atual": 57069069,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "0f550d41d4505abc80e3abf4c9bd4cb210615a5601e5416ccf2a961185d44b36",
+      "hash_atual": "31aeee59ae639038243f5ccb00dc6e1ff43fe150d4c766f42ed2fe4ab10cc126",
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1367,8 +1578,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57071700,
       "valor_atual": 57069055,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "0dea5fd3de8e5d646d51555ccf77538ea46d63738f30900af05be136eca0b5ae",
+      "hash_atual": "0f550d41d4505abc80e3abf4c9bd4cb210615a5601e5416ccf2a961185d44b36",
       "variacao": -2645,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1403,8 +1614,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57071691,
       "valor_atual": 57071700,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "749b834364fcff7638c64a81566fa7b8dd9fc4f5b31b1798f965ef44927374fa",
+      "hash_atual": "0dea5fd3de8e5d646d51555ccf77538ea46d63738f30900af05be136eca0b5ae",
       "variacao": 9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1439,8 +1650,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57071689,
       "valor_atual": 57071691,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "698462c73a3ecac527c5dec79243d744bf85a9b38ee9f2acdaad9209a0b67538",
+      "hash_atual": "749b834364fcff7638c64a81566fa7b8dd9fc4f5b31b1798f965ef44927374fa",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1475,8 +1686,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57071673,
       "valor_atual": 57071689,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "76bee4dd2c0d9315b232ed3b91a6914881feed14a666303b38d003477728e3a6",
+      "hash_atual": "698462c73a3ecac527c5dec79243d744bf85a9b38ee9f2acdaad9209a0b67538",
       "variacao": 16,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1511,8 +1722,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57066804,
       "valor_atual": 57071673,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "dfaebbf2286f00012f76bbdeebd33d6f4c43e793e6e7b0315f182f1cbfdfd4dd",
+      "hash_atual": "76bee4dd2c0d9315b232ed3b91a6914881feed14a666303b38d003477728e3a6",
       "variacao": 4869,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1547,8 +1758,8 @@
       "nome_campo": "Seguindo",
       "valor_anterior": 809,
       "valor_atual": 811,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "dfaebbf2286f00012f76bbdeebd33d6f4c43e793e6e7b0315f182f1cbfdfd4dd",
+      "hash_atual": "76bee4dd2c0d9315b232ed3b91a6914881feed14a666303b38d003477728e3a6",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1583,8 +1794,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57066822,
       "valor_atual": 57066804,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "e71d1fda7ca3a326314124b2217ce0910b8d3d7369d2732a37db62be90acadfa",
+      "hash_atual": "dfaebbf2286f00012f76bbdeebd33d6f4c43e793e6e7b0315f182f1cbfdfd4dd",
       "variacao": -18,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1619,8 +1830,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57066584,
       "valor_atual": 57066822,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "330441dd41967e09014254f71a4b6101d980999e2156e7d30526168cbaaadee2",
+      "hash_atual": "e71d1fda7ca3a326314124b2217ce0910b8d3d7369d2732a37db62be90acadfa",
       "variacao": 238,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1655,8 +1866,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57066563,
       "valor_atual": 57066584,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "bd3dd54dc9b33b5710b24a12a25a9ec233185a203877cbfabf137e6db45a3079",
+      "hash_atual": "330441dd41967e09014254f71a4b6101d980999e2156e7d30526168cbaaadee2",
       "variacao": 21,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1691,8 +1902,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57057094,
       "valor_atual": 57066563,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "d298661d2e57030dc91b9eddd44679148a54b4453d5238e14cad19aaad9cc699",
+      "hash_atual": "bd3dd54dc9b33b5710b24a12a25a9ec233185a203877cbfabf137e6db45a3079",
       "variacao": 9469,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1727,8 +1938,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57055129,
       "valor_atual": 57057094,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "8cbefb88530fa77286c551533690e8ad5eca7f6b352aba81872c67a4f7c8baab",
+      "hash_atual": "d298661d2e57030dc91b9eddd44679148a54b4453d5238e14cad19aaad9cc699",
       "variacao": 1965,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1763,8 +1974,8 @@
       "nome_campo": "Seguindo",
       "valor_anterior": 807,
       "valor_atual": 809,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "8cbefb88530fa77286c551533690e8ad5eca7f6b352aba81872c67a4f7c8baab",
+      "hash_atual": "d298661d2e57030dc91b9eddd44679148a54b4453d5238e14cad19aaad9cc699",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1799,8 +2010,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57055136,
       "valor_atual": 57055129,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "bed901c7bef0d699ae403c99b351c4ba48935d650530b8bde94a82b5d5eaa7f2",
+      "hash_atual": "8cbefb88530fa77286c551533690e8ad5eca7f6b352aba81872c67a4f7c8baab",
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1835,8 +2046,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57055520,
       "valor_atual": 57055136,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "9e52c80c287d66ccded45ad0673d9125abce64ee586152a5127c50d30a045d19",
+      "hash_atual": "bed901c7bef0d699ae403c99b351c4ba48935d650530b8bde94a82b5d5eaa7f2",
       "variacao": -384,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1871,8 +2082,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57056379,
       "valor_atual": 57055520,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "4d19e8db3ad554bfe55a5c05a38c15af08b2110373cbcdcccf220556ea156451",
+      "hash_atual": "9e52c80c287d66ccded45ad0673d9125abce64ee586152a5127c50d30a045d19",
       "variacao": -859,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1907,8 +2118,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57030174,
       "valor_atual": 57056379,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "6973cc37f4c91c9f764eb054a20731d275fb5d94ded17b5c1222873297b24696",
+      "hash_atual": "4d19e8db3ad554bfe55a5c05a38c15af08b2110373cbcdcccf220556ea156451",
       "variacao": 26205,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1943,8 +2154,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57030473,
       "valor_atual": 57030174,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "25d3063c05e62154c2ec8250ff63c54b47d463406ef43f129a153be73945a32c",
+      "hash_atual": "6973cc37f4c91c9f764eb054a20731d275fb5d94ded17b5c1222873297b24696",
       "variacao": -299,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1979,8 +2190,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57030668,
       "valor_atual": 57030473,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "6f1c4001e00513f157ea3fc10107ad9bc53a6a31c82ceb2aee98b670b3114b00",
+      "hash_atual": "25d3063c05e62154c2ec8250ff63c54b47d463406ef43f129a153be73945a32c",
       "variacao": -195,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2015,8 +2226,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57029644,
       "valor_atual": 57030668,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "c58dde8f348a21cad111ab22228859651783976668d349c8e00f77f97df441b5",
+      "hash_atual": "6f1c4001e00513f157ea3fc10107ad9bc53a6a31c82ceb2aee98b670b3114b00",
       "variacao": 1024,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2051,8 +2262,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57029645,
       "valor_atual": 57029644,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "9b5c0374c1b44441ef68253815b8aafb8c612cb342911b966c79eb3909701e6a",
+      "hash_atual": "c58dde8f348a21cad111ab22228859651783976668d349c8e00f77f97df441b5",
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2087,8 +2298,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57031115,
       "valor_atual": 57029645,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "bbae402e054daf35efbbcb03cd6678ea17bc4256749541bde8c41bf7116b073c",
+      "hash_atual": "9b5c0374c1b44441ef68253815b8aafb8c612cb342911b966c79eb3909701e6a",
       "variacao": -1470,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2123,8 +2334,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57031120,
       "valor_atual": 57031115,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "160c21eb4afa5b98070e95e62a80fae4c7650b2ca3f8abe954a706cb2f5cc310",
+      "hash_atual": "bbae402e054daf35efbbcb03cd6678ea17bc4256749541bde8c41bf7116b073c",
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2159,8 +2370,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57035194,
       "valor_atual": 57031120,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "d9de8fdbb0c0909abc2daf0b4b160b35068c5474720046e3e4efae1a79aadc05",
+      "hash_atual": "160c21eb4afa5b98070e95e62a80fae4c7650b2ca3f8abe954a706cb2f5cc310",
       "variacao": -4074,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2195,8 +2406,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57035193,
       "valor_atual": 57035194,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "7546b23548f2f0093b095be8535e204f27c6b42f15fe03714b8130534371a620",
+      "hash_atual": "d9de8fdbb0c0909abc2daf0b4b160b35068c5474720046e3e4efae1a79aadc05",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2231,8 +2442,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57036365,
       "valor_atual": 57035193,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "3af3070ab2c38360cba4d40dc817b43648b565d1d014e3f9b25f414d69c4c91c",
+      "hash_atual": "7546b23548f2f0093b095be8535e204f27c6b42f15fe03714b8130534371a620",
       "variacao": -1172,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2267,8 +2478,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57036375,
       "valor_atual": 57036365,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "b63d7d7e9f72c3e4d954bc1f8f1ea9c35c51fc706623f4d22738c05bb17abc59",
+      "hash_atual": "3af3070ab2c38360cba4d40dc817b43648b565d1d014e3f9b25f414d69c4c91c",
       "variacao": -10,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2303,8 +2514,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57036378,
       "valor_atual": 57036375,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "4b89fbadb647ed589c13bf47739ac114e56678d2f6592e4aedc15675904a3e20",
+      "hash_atual": "b63d7d7e9f72c3e4d954bc1f8f1ea9c35c51fc706623f4d22738c05bb17abc59",
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2339,8 +2550,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57036366,
       "valor_atual": 57036378,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "25ac3d596251ba128f2cb9113351b904e1a34d2a284ad7259ba4e274fe497ee4",
+      "hash_atual": "4b89fbadb647ed589c13bf47739ac114e56678d2f6592e4aedc15675904a3e20",
       "variacao": 12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2375,8 +2586,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037950,
       "valor_atual": 57036366,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "ed951a71992cdeb8228a735738e244548dcb2c828b25b94156387b9e61492ad3",
+      "hash_atual": "25ac3d596251ba128f2cb9113351b904e1a34d2a284ad7259ba4e274fe497ee4",
       "variacao": -1584,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2411,8 +2622,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037929,
       "valor_atual": 57037950,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "1e3c4ab088a2195a1c504c5355106dcdf5f983544da9bc06136fd2454d972b75",
+      "hash_atual": "ed951a71992cdeb8228a735738e244548dcb2c828b25b94156387b9e61492ad3",
       "variacao": 21,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2447,8 +2658,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037919,
       "valor_atual": 57037929,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "e688f44e0cf870c6f2dfc7a1b6ab5364050f584f323aae791f744289272fff56",
+      "hash_atual": "1e3c4ab088a2195a1c504c5355106dcdf5f983544da9bc06136fd2454d972b75",
       "variacao": 10,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2483,8 +2694,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037906,
       "valor_atual": 57037919,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "12036fc2216b18c4892e3b5c41b59a32e41b255b382ed8491d2cd582a3e606d0",
+      "hash_atual": "e688f44e0cf870c6f2dfc7a1b6ab5364050f584f323aae791f744289272fff56",
       "variacao": 13,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2519,8 +2730,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037931,
       "valor_atual": 57037906,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "85c0fbd80d4bb46e194286027d8783599937ca690c5bf0e360114615b741718f",
+      "hash_atual": "12036fc2216b18c4892e3b5c41b59a32e41b255b382ed8491d2cd582a3e606d0",
       "variacao": -25,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2555,8 +2766,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037941,
       "valor_atual": 57037931,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "2125254a1c53f1849a8649b9569cd6332bbf8ebe5f6806e89e8b94973946a991",
+      "hash_atual": "85c0fbd80d4bb46e194286027d8783599937ca690c5bf0e360114615b741718f",
       "variacao": -10,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2591,8 +2802,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 57037929,
       "valor_atual": 57037941,
-      "hash_anterior": null,
-      "hash_atual": null,
+      "hash_anterior": "1e3c4ab088a2195a1c504c5355106dcdf5f983544da9bc06136fd2454d972b75",
+      "hash_atual": "2125254a1c53f1849a8649b9569cd6332bbf8ebe5f6806e89e8b94973946a991",
       "variacao": 12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2611,46 +2822,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:35.254973",
-    "captura_mais_recente": "2026-11-03T12:25:50.865281",
-    "tempo_total_segundos": 2385795,
-    "tempo_total_dias": 27.613368,
-    "tempo_total_texto": "27 dias, 14 horas, 43 minutos e 15 segundos",
+    "captura_mais_recente": "2026-11-19T18:01:45.379716",
+    "tempo_total_segundos": 3788350,
+    "tempo_total_dias": 43.846644,
+    "tempo_total_texto": "43 dias, 20 horas, 19 minutos e 10 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -22007,
+      "variacao": -64348,
       "direcao": "perdeu",
-      "quantidade": 22007,
-      "texto": "Perdeu 22007 seguidores",
+      "quantidade": 64348,
+      "texto": "Perdeu 64348 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-30T20:14:21.335097",
-      "captura_fim": "2026-11-03T12:25:50.865281",
-      "seguidores_inicio": 57056425,
-      "seguidores_fim": 57034418
+      "captura_inicio": "2026-11-03T12:25:50.865281",
+      "captura_fim": "2026-11-19T18:01:45.379716",
+      "seguidores_inicio": 57034418,
+      "seguidores_fim": 56970070
     },
     "7_dias": {
-      "variacao": -35011,
+      "variacao": -64348,
       "direcao": "perdeu",
-      "quantidade": 35011,
-      "texto": "Perdeu 35011 seguidores",
+      "quantidade": 64348,
+      "texto": "Perdeu 64348 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:07:30.411807",
-      "captura_fim": "2026-11-03T12:25:50.865281",
-      "seguidores_inicio": 57069429,
-      "seguidores_fim": 57034418
+      "captura_inicio": "2026-11-03T12:25:50.865281",
+      "captura_fim": "2026-11-19T18:01:45.379716",
+      "seguidores_inicio": 57034418,
+      "seguidores_fim": 56970070
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -96734,
+      "direcao": "perdeu",
+      "quantidade": 96734,
+      "texto": "Perdeu 96734 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:27:49.020283",
+      "captura_fim": "2026-11-19T18:01:45.379716",
+      "seguidores_inicio": 57066804,
+      "seguidores_fim": 56970070
     },
     "90_dias": {
       "variacao": null,
@@ -2661,17 +2876,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -3511,
+      "variacao": -67859,
       "direcao": "perdeu",
-      "quantidade": 3511,
-      "texto": "Perdeu 3511 seguidores",
+      "quantidade": 67859,
+      "texto": "Perdeu 67859 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:35.254973",
-      "captura_mais_recente": "2026-11-03T12:25:50.865281",
-      "tempo_total_dias": 27.613375,
+      "captura_mais_recente": "2026-11-19T18:01:45.379716",
+      "tempo_total_dias": 43.846645,
       "seguidores_inicio": 57037929,
-      "seguidores_fim": 57034418
+      "seguidores_fim": 56970070
     }
   }
 }
