@@ -4,37 +4,39 @@
     "usuario": {
       "plataforma": "tiktok",
       "categoria": "politico",
-      "pk": null,
       "id": "7092066171852719110",
       "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
       "username": "lulaoficial",
       "nome": "Presidente Lula",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/cca2324f60d28fc37a1a2d0261fd9870~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=59440630&x-expires=1793023200&x-signature=D%2Fz9a1tdUyEZc7%2BjMAnDYqdmeLY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/cca2324f60d28fc37a1a2d0261fd9870~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=86b10b91&x-expires=1793023200&x-signature=JnN4yReXr%2F2vBDDaNlcjoOzF%2BIE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f26551c6&x-expires=1795291200&x-signature=PxZXyDwLQRpOkY8f5YLokpxKu58%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=059e7f5b&x-expires=1795291200&x-signature=BAfq%2BXfw8lBgL5NQUKkHumEa%2B6s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
         "thumb": ""
       },
       "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
-      "total_likes": 86900000,
+      "total_likes": 91700000,
       "total_amigos": 0,
-      "total_posts": 1358
+      "total_posts": 1405
     },
     "biografia": [
       {
         "plataforma": "tiktok",
         "campo": "biografia",
         "nome": "Biografia",
-        "valor": "⭐️Só mais um Silva com a estrela que brilha\n1️⃣3️⃣ Confirma!\n🇧🇷 Perfil Pessoal do Presidente da República",
-        "timestamp": "2026-10-16T16:25:32.053834",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
+        "valor_anterior": "⭐️Só mais um Silva com a estrela que brilha\n1️⃣3️⃣ Confirma!\n🇧🇷 Perfil Pessoal do Presidente da República",
+        "valor_atual": "🇧🇷 Perfil Pessoal do Presidente da República",
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Biografia alterada",
+        "timestamp": "2026-11-19T17:14:21.098190",
+        "timestamp_anterior": "2026-10-16T16:25:32.053834",
+        "tempo_desde_anterior_segundos": 2940529
+      },
       {
         "plataforma": "tiktok",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "politico",
+        "campo": "biografia",
+        "nome": "Biografia",
+        "valor": "⭐️Só mais um Silva com a estrela que brilha\n1️⃣3️⃣ Confirma!\n🇧🇷 Perfil Pessoal do Presidente da República",
         "timestamp": "2026-10-16T16:25:32.053834",
         "tipo": "inicial"
       }
@@ -156,6 +158,19 @@
         "plataforma": "tiktok",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 6300000,
+        "valor_atual": 6800000,
+        "variacao": 500000,
+        "direcao": "aumento",
+        "descricao": "+500000 seguidores",
+        "timestamp": "2026-11-19T17:14:21.098190",
+        "timestamp_anterior": "2026-10-24T11:33:48.321105",
+        "tempo_desde_anterior_segundos": 2266832
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 6100000,
         "valor_atual": 6300000,
         "variacao": 200000,
@@ -175,6 +190,19 @@
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 160,
+        "valor_atual": 159,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-11-19T17:14:21.098190",
+        "timestamp_anterior": "2026-10-16T16:25:32.053834",
+        "tempo_desde_anterior_segundos": 2940529
+      },
       {
         "plataforma": "tiktok",
         "campo": "seguindo",
@@ -209,6 +237,19 @@
         "plataforma": "tiktok",
         "campo": "total_likes",
         "nome": "Curtidas totais",
+        "valor_anterior": 86900000,
+        "valor_atual": 91700000,
+        "variacao": 4800000,
+        "direcao": "aumento",
+        "descricao": "+4800000 curtidas",
+        "timestamp": "2026-11-19T17:14:21.098190",
+        "timestamp_anterior": "2026-10-24T11:33:48.321105",
+        "tempo_desde_anterior_segundos": 2266832
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "total_likes",
+        "nome": "Curtidas totais",
         "valor_anterior": 86700000,
         "valor_atual": 86900000,
         "variacao": 200000,
@@ -228,6 +269,19 @@
       }
     ],
     "total_posts": [
+      {
+        "plataforma": "tiktok",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
+        "valor_anterior": 1358,
+        "valor_atual": 1405,
+        "variacao": 47,
+        "direcao": "aumento",
+        "descricao": "+47 publicações",
+        "timestamp": "2026-11-19T17:14:21.098190",
+        "timestamp_anterior": "2026-10-24T11:33:48.321105",
+        "tempo_desde_anterior_segundos": 2266832
+      },
       {
         "plataforma": "tiktok",
         "campo": "total_posts",
@@ -269,9 +323,233 @@
         "timestamp": "2026-10-16T16:25:32.053834",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "tiktok",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "politico",
+        "timestamp": "2026-10-16T16:25:32.053834",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-19T17:14:21.098190",
+      "timestamp_anterior": "2026-10-24T11:33:48.321105",
+      "timestamp_atual": "2026-11-19T17:14:21.098190",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "7092066171852719110",
+        "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
+        "username": "lulaoficial",
+        "nome": "Presidente Lula",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f26551c6&x-expires=1795291200&x-signature=PxZXyDwLQRpOkY8f5YLokpxKu58%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=059e7f5b&x-expires=1795291200&x-signature=BAfq%2BXfw8lBgL5NQUKkHumEa%2B6s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
+        "total_likes": 91700000,
+        "total_amigos": 0,
+        "total_posts": 1405
+      },
+      "tipo": "biografia",
+      "campo": "biografia",
+      "nome_campo": "Biografia",
+      "valor_anterior": "⭐️Só mais um Silva com a estrela que brilha\n1️⃣3️⃣ Confirma!\n🇧🇷 Perfil Pessoal do Presidente da República",
+      "valor_atual": "🇧🇷 Perfil Pessoal do Presidente da República",
+      "hash_anterior": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
+      "hash_atual": "56b3b5cc7334d962cb32fe8795c1f9f855822d539b099f916bcd03dbd87d4167",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 2266832.777085,
+        "texto": "26 dias e 5 horas e 40 minutos e 32 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 2266832.777085,
+        "texto": "26 dias e 5 horas e 40 minutos e 32 segundos"
+      },
+      "titulo": "Alterou a biografia",
+      "descricao": "A biografia do perfil foi modificada"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-19T17:14:21.098190",
+      "timestamp_anterior": "2026-10-24T11:33:48.321105",
+      "timestamp_atual": "2026-11-19T17:14:21.098190",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "7092066171852719110",
+        "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
+        "username": "lulaoficial",
+        "nome": "Presidente Lula",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f26551c6&x-expires=1795291200&x-signature=PxZXyDwLQRpOkY8f5YLokpxKu58%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=059e7f5b&x-expires=1795291200&x-signature=BAfq%2BXfw8lBgL5NQUKkHumEa%2B6s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
+        "total_likes": 91700000,
+        "total_amigos": 0,
+        "total_posts": 1405
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 6300000,
+      "valor_atual": 6800000,
+      "hash_anterior": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
+      "hash_atual": "56b3b5cc7334d962cb32fe8795c1f9f855822d539b099f916bcd03dbd87d4167",
+      "variacao": 500000,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 2266832.777085,
+        "texto": "26 dias e 5 horas e 40 minutos e 32 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Ganhou 500.000 seguidores",
+      "descricao": "Os seguidores passaram de 6.300.000 para 6.800.000",
+      "variacao_texto": "+500.000 seguidores"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-19T17:14:21.098190",
+      "timestamp_anterior": "2026-10-24T11:33:48.321105",
+      "timestamp_atual": "2026-11-19T17:14:21.098190",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "7092066171852719110",
+        "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
+        "username": "lulaoficial",
+        "nome": "Presidente Lula",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f26551c6&x-expires=1795291200&x-signature=PxZXyDwLQRpOkY8f5YLokpxKu58%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=059e7f5b&x-expires=1795291200&x-signature=BAfq%2BXfw8lBgL5NQUKkHumEa%2B6s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
+        "total_likes": 91700000,
+        "total_amigos": 0,
+        "total_posts": 1405
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 160,
+      "valor_atual": 159,
+      "hash_anterior": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
+      "hash_atual": "56b3b5cc7334d962cb32fe8795c1f9f855822d539b099f916bcd03dbd87d4167",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 2266832.777085,
+        "texto": "26 dias e 5 horas e 40 minutos e 32 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 160 e passou a seguir 159",
+      "variacao_texto": "-1 seguindo"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-19T17:14:21.098190",
+      "timestamp_anterior": "2026-10-24T11:33:48.321105",
+      "timestamp_atual": "2026-11-19T17:14:21.098190",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "7092066171852719110",
+        "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
+        "username": "lulaoficial",
+        "nome": "Presidente Lula",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f26551c6&x-expires=1795291200&x-signature=PxZXyDwLQRpOkY8f5YLokpxKu58%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=059e7f5b&x-expires=1795291200&x-signature=BAfq%2BXfw8lBgL5NQUKkHumEa%2B6s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
+        "total_likes": 91700000,
+        "total_amigos": 0,
+        "total_posts": 1405
+      },
+      "tipo": "total_likes",
+      "campo": "total_likes",
+      "nome_campo": "Curtidas totais",
+      "valor_anterior": 86900000,
+      "valor_atual": 91700000,
+      "hash_anterior": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
+      "hash_atual": "56b3b5cc7334d962cb32fe8795c1f9f855822d539b099f916bcd03dbd87d4167",
+      "variacao": 4800000,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 2266832.777085,
+        "texto": "26 dias e 5 horas e 40 minutos e 32 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Recebeu 4.800.000 curtidas",
+      "descricao": "O total mudou de 86.900.000 para 91.700.000",
+      "variacao_texto": "+4.800.000 curtidas"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-19T17:14:21.098190",
+      "timestamp_anterior": "2026-10-24T11:33:48.321105",
+      "timestamp_atual": "2026-11-19T17:14:21.098190",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "7092066171852719110",
+        "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
+        "username": "lulaoficial",
+        "nome": "Presidente Lula",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=f26551c6&x-expires=1795291200&x-signature=PxZXyDwLQRpOkY8f5YLokpxKu58%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=059e7f5b&x-expires=1795291200&x-signature=BAfq%2BXfw8lBgL5NQUKkHumEa%2B6s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
+        "total_likes": 91700000,
+        "total_amigos": 0,
+        "total_posts": 1405
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1358,
+      "valor_atual": 1405,
+      "hash_anterior": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
+      "hash_atual": "56b3b5cc7334d962cb32fe8795c1f9f855822d539b099f916bcd03dbd87d4167",
+      "variacao": 47,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 2266832.777085,
+        "texto": "26 dias e 5 horas e 40 minutos e 32 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 47 publicações",
+      "descricao": "O total mudou de 1.358 para 1.405",
+      "variacao_texto": "+47 posts"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-10-24T11:33:48.321105",
@@ -280,7 +558,6 @@
       "usuario": {
         "plataforma": "tiktok",
         "categoria": "politico",
-        "pk": null,
         "id": "7092066171852719110",
         "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
         "username": "lulaoficial",
@@ -300,8 +577,8 @@
       "nome_campo": "Seguidores",
       "valor_anterior": 6100000,
       "valor_atual": 6300000,
-      "hash_anterior": "1ddd45237daa1da34b29d240ae794ec8a6199b487ee93cf21c5fc0282a912bd4",
-      "hash_atual": "85c52672f2986cce85cc6b07708b8557cabbca92439adcc35505c424726abd88",
+      "hash_anterior": "50cacd1c7a4c610380a8afaf00410e2b59581e136d39dd39c1345aa38951c005",
+      "hash_atual": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
       "variacao": 200000,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -324,7 +601,6 @@
       "usuario": {
         "plataforma": "tiktok",
         "categoria": "politico",
-        "pk": null,
         "id": "7092066171852719110",
         "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
         "username": "lulaoficial",
@@ -344,8 +620,8 @@
       "nome_campo": "Curtidas totais",
       "valor_anterior": 86700000,
       "valor_atual": 86900000,
-      "hash_anterior": "1ddd45237daa1da34b29d240ae794ec8a6199b487ee93cf21c5fc0282a912bd4",
-      "hash_atual": "85c52672f2986cce85cc6b07708b8557cabbca92439adcc35505c424726abd88",
+      "hash_anterior": "50cacd1c7a4c610380a8afaf00410e2b59581e136d39dd39c1345aa38951c005",
+      "hash_atual": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
       "variacao": 200000,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -368,7 +644,6 @@
       "usuario": {
         "plataforma": "tiktok",
         "categoria": "politico",
-        "pk": null,
         "id": "7092066171852719110",
         "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
         "username": "lulaoficial",
@@ -388,8 +663,8 @@
       "nome_campo": "Total de Posts",
       "valor_anterior": 1295,
       "valor_atual": 1358,
-      "hash_anterior": "1ddd45237daa1da34b29d240ae794ec8a6199b487ee93cf21c5fc0282a912bd4",
-      "hash_atual": "85c52672f2986cce85cc6b07708b8557cabbca92439adcc35505c424726abd88",
+      "hash_anterior": "50cacd1c7a4c610380a8afaf00410e2b59581e136d39dd39c1345aa38951c005",
+      "hash_atual": "ba63aa57e85c7d1043b6f17765a51bc9e78753a79feaf2b17b900f9ddaaa35cb",
       "variacao": 63,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -408,34 +683,50 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T16:25:32.053834",
-    "captura_mais_recente": "2026-10-24T11:33:48.321105",
-    "tempo_total_segundos": 673696,
-    "tempo_total_dias": 7.797407,
-    "tempo_total_texto": "7 dias, 19 horas, 8 minutos e 16 segundos",
+    "captura_mais_recente": "2026-11-19T17:14:21.098190",
+    "tempo_total_segundos": 2940529,
+    "tempo_total_dias": 34.0339,
+    "tempo_total_texto": "34 dias, 48 minutos e 49 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 200000,
+    "1_dias": {
+      "variacao": 500000,
       "direcao": "ganhou",
-      "quantidade": 200000,
-      "texto": "Ganhou 200000 seguidores",
+      "quantidade": 500000,
+      "texto": "Ganhou 500000 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-24T11:33:48.321105",
+      "captura_fim": "2026-11-19T17:14:21.098190",
+      "seguidores_inicio": 6300000,
+      "seguidores_fim": 6800000
+    },
+    "7_dias": {
+      "variacao": 500000,
+      "direcao": "ganhou",
+      "quantidade": 500000,
+      "texto": "Ganhou 500000 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-24T11:33:48.321105",
+      "captura_fim": "2026-11-19T17:14:21.098190",
+      "seguidores_inicio": 6300000,
+      "seguidores_fim": 6800000
+    },
+    "30_dias": {
+      "variacao": 700000,
+      "direcao": "ganhou",
+      "quantidade": 700000,
+      "texto": "Ganhou 700000 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-16T16:25:32.053834",
-      "captura_fim": "2026-10-24T11:33:48.321105",
+      "captura_fim": "2026-11-19T17:14:21.098190",
       "seguidores_inicio": 6100000,
-      "seguidores_fim": 6300000
-    },
-    "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "seguidores_fim": 6800000
     },
     "90_dias": {
       "variacao": null,
@@ -446,17 +737,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 200000,
+      "variacao": 700000,
       "direcao": "ganhou",
-      "quantidade": 200000,
-      "texto": "Ganhou 200000 seguidores",
+      "quantidade": 700000,
+      "texto": "Ganhou 700000 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-16T16:25:32.053834",
-      "captura_mais_recente": "2026-10-24T11:33:48.321105",
-      "tempo_total_dias": 7.797411,
+      "captura_mais_recente": "2026-11-19T17:14:21.098190",
+      "tempo_total_dias": 34.033901,
       "seguidores_inicio": 6100000,
-      "seguidores_fim": 6300000
+      "seguidores_fim": 6800000
     }
   }
 }
