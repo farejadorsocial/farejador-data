@@ -8,7 +8,8 @@
       "id": "17841401480024792",
       "username": "rafaelvitti",
       "nome": "Dr. Rafael Vitti Monteiro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eD_xHnKiwxQQ7kNvwFSR_FS&_nc_oc=AdpqnKMGZGZB6zG0mabWl9NGXLSvyqvAWgf_oZQ7dRYXzT63utd5L1lwfKm5frQweH5anDHyCBb6eM5-0LXeAeSZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RcfeN16ugKDQnHDDD3qWdA&_nc_ss=70689&oh=00_AQQExJqd1FUzwwPdkSVWuyqN4lqkaBt875xss63FsOe0EQ&oe=6AEFE45D"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mI764GDrl64Q7kNvwHODiho&_nc_oc=Ado_EO1I-8jhasIngRfiqIt62-4Dp9OEIDAmqXFXHTd5ePbpy_BJF1tzECnLi4KvwUsmr-axt4Fap8KfPaGzt9uE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oswwW-Y74e6N8q3Ls7A5wQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQD7CgsGH9stOQ27zq2wKym6yO90BGLxL7AWR92jwpXtA&oe=6B05349D",
+      "total_posts": 105
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "📍Rua Dr Pereira dos Santos 296, sala 202 - Centro/Itaboraí\n• Cirurgião Dentista / CRO 55295 \n• Implantodontia & Reabilitação Oral \nAgendamentos ⬇️",
-        "timestamp": "2026-10-05T20:40:00.080176",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "atores",
-        "valor_atual": "ator",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"atores\" para \"ator\"",
-        "timestamp": "2026-10-05T20:54:01.598884",
-        "timestamp_anterior": "2026-10-05T20:40:00.080176",
-        "tempo_desde_anterior_segundos": 841
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "atores",
         "timestamp": "2026-10-05T20:40:00.080176",
         "tipo": "inicial"
       }
@@ -98,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 2542,
+        "valor_atual": 2553,
+        "variacao": 11,
+        "direcao": "aumento",
+        "descricao": "+11 seguidores",
+        "timestamp": "2026-11-19T16:19:30.969275",
+        "timestamp_anterior": "2026-11-03T12:10:36.391227",
+        "tempo_desde_anterior_segundos": 1397334
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -316,6 +307,19 @@
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 1250,
+        "valor_atual": 1257,
+        "variacao": 7,
+        "direcao": "aumento",
+        "descricao": "Seguiu +7",
+        "timestamp": "2026-11-19T16:19:30.969275",
+        "timestamp_anterior": "2026-11-03T12:10:36.391227",
+        "tempo_desde_anterior_segundos": 1397334
+      },
       {
         "plataforma": "instagram",
         "campo": "seguindo",
@@ -543,9 +547,91 @@
         "timestamp": "2026-10-05T20:40:00.080176",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "ator",
+        "timestamp": "2026-10-05T20:40:00.080176",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:19:30.969275",
+      "timestamp_anterior": "2026-11-03T12:10:36.391227",
+      "timestamp_atual": "2026-11-19T16:19:30.969275",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 306737334,
+        "id": "17841401480024792",
+        "username": "rafaelvitti",
+        "nome": "Dr. Rafael Vitti Monteiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mI764GDrl64Q7kNvwHODiho&_nc_oc=Ado_EO1I-8jhasIngRfiqIt62-4Dp9OEIDAmqXFXHTd5ePbpy_BJF1tzECnLi4KvwUsmr-axt4Fap8KfPaGzt9uE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oswwW-Y74e6N8q3Ls7A5wQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQD7CgsGH9stOQ27zq2wKym6yO90BGLxL7AWR92jwpXtA&oe=6B05349D",
+        "total_posts": 105
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 2542,
+      "valor_atual": 2553,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 11,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397334.578048,
+        "texto": "16 dias e 4 horas e 8 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397334.578048,
+        "texto": "16 dias e 4 horas e 8 minutos e 54 segundos"
+      },
+      "titulo": "Ganhou 11 seguidores",
+      "descricao": "Os seguidores passaram de 2.542 para 2.553",
+      "variacao_texto": "+11 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:19:30.969275",
+      "timestamp_anterior": "2026-11-03T12:10:36.391227",
+      "timestamp_atual": "2026-11-19T16:19:30.969275",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 306737334,
+        "id": "17841401480024792",
+        "username": "rafaelvitti",
+        "nome": "Dr. Rafael Vitti Monteiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mI764GDrl64Q7kNvwHODiho&_nc_oc=Ado_EO1I-8jhasIngRfiqIt62-4Dp9OEIDAmqXFXHTd5ePbpy_BJF1tzECnLi4KvwUsmr-axt4Fap8KfPaGzt9uE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oswwW-Y74e6N8q3Ls7A5wQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQD7CgsGH9stOQ27zq2wKym6yO90BGLxL7AWR92jwpXtA&oe=6B05349D",
+        "total_posts": 105
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1250,
+      "valor_atual": 1257,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 7,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397334.578048,
+        "texto": "16 dias e 4 horas e 8 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 7 pessoas",
+      "descricao": "Estava seguindo 1.250 e passou a seguir 1.257",
+      "variacao_texto": "+7 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:10:36.391227",
@@ -558,15 +644,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eD_xHnKiwxQQ7kNvwFSR_FS&_nc_oc=AdpqnKMGZGZB6zG0mabWl9NGXLSvyqvAWgf_oZQ7dRYXzT63utd5L1lwfKm5frQweH5anDHyCBb6eM5-0LXeAeSZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RcfeN16ugKDQnHDDD3qWdA&_nc_ss=70689&oh=00_AQQExJqd1FUzwwPdkSVWuyqN4lqkaBt875xss63FsOe0EQ&oe=6AEFE45D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eD_xHnKiwxQQ7kNvwFSR_FS&_nc_oc=AdpqnKMGZGZB6zG0mabWl9NGXLSvyqvAWgf_oZQ7dRYXzT63utd5L1lwfKm5frQweH5anDHyCBb6eM5-0LXeAeSZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RcfeN16ugKDQnHDDD3qWdA&_nc_ss=70689&oh=00_AQQExJqd1FUzwwPdkSVWuyqN4lqkaBt875xss63FsOe0EQ&oe=6AEFE45D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2538,
       "valor_atual": 2542,
-      "hash_anterior": "4d1565254a1cdb0e0d585d8775b817a6386074208700b4ce04c6d47564766be1",
-      "hash_atual": "060394720a707fe90687e08f3fe9eaeeb0bd0715e5e13737a4caaed31007e215",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -593,15 +680,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eD_xHnKiwxQQ7kNvwFSR_FS&_nc_oc=AdpqnKMGZGZB6zG0mabWl9NGXLSvyqvAWgf_oZQ7dRYXzT63utd5L1lwfKm5frQweH5anDHyCBb6eM5-0LXeAeSZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RcfeN16ugKDQnHDDD3qWdA&_nc_ss=70689&oh=00_AQQExJqd1FUzwwPdkSVWuyqN4lqkaBt875xss63FsOe0EQ&oe=6AEFE45D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GBrk4Sl3p617mAVCAFK6c_46lqN9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eD_xHnKiwxQQ7kNvwFSR_FS&_nc_oc=AdpqnKMGZGZB6zG0mabWl9NGXLSvyqvAWgf_oZQ7dRYXzT63utd5L1lwfKm5frQweH5anDHyCBb6eM5-0LXeAeSZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RcfeN16ugKDQnHDDD3qWdA&_nc_ss=70689&oh=00_AQQExJqd1FUzwwPdkSVWuyqN4lqkaBt875xss63FsOe0EQ&oe=6AEFE45D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1248,
       "valor_atual": 1250,
-      "hash_anterior": "4d1565254a1cdb0e0d585d8775b817a6386074208700b4ce04c6d47564766be1",
-      "hash_atual": "060394720a707fe90687e08f3fe9eaeeb0bd0715e5e13737a4caaed31007e215",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -628,15 +716,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9UIPOqCdBXYQ7kNvwFy2g9g&_nc_oc=Adoq5EOd9103A84pTYLjN7Vs5q_QHfJI4JLbTKUGMQdYW7-7IwD9jc62j_eC16x68M6khdrVIIRlTDdfAcTQijc0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x3g_d64wsxnNDtCoO8Bwlw&_nc_ss=70689&oh=00_AQR_rEz6h9LTdADiHu-YFjCJTlRTXhbWncCac2cN-73bBQ&oe=6AEB0EDD"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9UIPOqCdBXYQ7kNvwFy2g9g&_nc_oc=Adoq5EOd9103A84pTYLjN7Vs5q_QHfJI4JLbTKUGMQdYW7-7IwD9jc62j_eC16x68M6khdrVIIRlTDdfAcTQijc0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x3g_d64wsxnNDtCoO8Bwlw&_nc_ss=70689&oh=00_AQR_rEz6h9LTdADiHu-YFjCJTlRTXhbWncCac2cN-73bBQ&oe=6AEB0EDD",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2544,
       "valor_atual": 2538,
-      "hash_anterior": "ae70ebe40c818f32e4c0f5d3db5feaea163b3179b61f139ca064f466e27244db",
-      "hash_atual": "4d1565254a1cdb0e0d585d8775b817a6386074208700b4ce04c6d47564766be1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -663,15 +752,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9UIPOqCdBXYQ7kNvwFy2g9g&_nc_oc=Adoq5EOd9103A84pTYLjN7Vs5q_QHfJI4JLbTKUGMQdYW7-7IwD9jc62j_eC16x68M6khdrVIIRlTDdfAcTQijc0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x3g_d64wsxnNDtCoO8Bwlw&_nc_ss=70689&oh=00_AQR_rEz6h9LTdADiHu-YFjCJTlRTXhbWncCac2cN-73bBQ&oe=6AEB0EDD"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9UIPOqCdBXYQ7kNvwFy2g9g&_nc_oc=Adoq5EOd9103A84pTYLjN7Vs5q_QHfJI4JLbTKUGMQdYW7-7IwD9jc62j_eC16x68M6khdrVIIRlTDdfAcTQijc0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x3g_d64wsxnNDtCoO8Bwlw&_nc_ss=70689&oh=00_AQR_rEz6h9LTdADiHu-YFjCJTlRTXhbWncCac2cN-73bBQ&oe=6AEB0EDD",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1252,
       "valor_atual": 1248,
-      "hash_anterior": "ae70ebe40c818f32e4c0f5d3db5feaea163b3179b61f139ca064f466e27244db",
-      "hash_atual": "4d1565254a1cdb0e0d585d8775b817a6386074208700b4ce04c6d47564766be1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -698,15 +788,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwGJ7rte&_nc_oc=AdrNG4FYHhsR8RRMK8LOM7kugP-eM3uWtvYN6bFv0YZKzqnz8VZ3Q0ZmtoLcfa9MgwUoFz8fjhz-GYV5niUhVbzh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6epYShjvjzP_R5pilvIRUQ&_nc_ss=70689&oh=00_AQPry6k95B1mcE2PSea8NtBHQyDQQnMad3JuU5eMmkavxg&oe=6AE27D1D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwGJ7rte&_nc_oc=AdrNG4FYHhsR8RRMK8LOM7kugP-eM3uWtvYN6bFv0YZKzqnz8VZ3Q0ZmtoLcfa9MgwUoFz8fjhz-GYV5niUhVbzh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6epYShjvjzP_R5pilvIRUQ&_nc_ss=70689&oh=00_AQPry6k95B1mcE2PSea8NtBHQyDQQnMad3JuU5eMmkavxg&oe=6AE27D1D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2545,
       "valor_atual": 2544,
-      "hash_anterior": "974ed7f72c71c72bb98a8ce46054b46b0f869fc99b4860896a0e1265135678fb",
-      "hash_atual": "ae70ebe40c818f32e4c0f5d3db5feaea163b3179b61f139ca064f466e27244db",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -733,15 +824,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwHeruRA&_nc_oc=Adpb7lwy1lx0LydbrnbEKStk3P5LYByH-cEq7S6b8fFuDgmQJjO6nLJanLMA8QruZ5Oms7T9n0b3NGJ7mLJmmaMK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WvzD_5R903KVvM30InbC9A&_nc_ss=70689&oh=00_AQOtHD9WVsC8Y-ZqqTrJnU2q3cXR1Yt6LJNlUKys8KU5gA&oe=6AE12B9D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwHeruRA&_nc_oc=Adpb7lwy1lx0LydbrnbEKStk3P5LYByH-cEq7S6b8fFuDgmQJjO6nLJanLMA8QruZ5Oms7T9n0b3NGJ7mLJmmaMK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WvzD_5R903KVvM30InbC9A&_nc_ss=70689&oh=00_AQOtHD9WVsC8Y-ZqqTrJnU2q3cXR1Yt6LJNlUKys8KU5gA&oe=6AE12B9D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2540,
       "valor_atual": 2545,
-      "hash_anterior": "ef7dbc3b228b88a658d5e5028b49dbd52974ad53c6a4829d2752872862c0779d",
-      "hash_atual": "974ed7f72c71c72bb98a8ce46054b46b0f869fc99b4860896a0e1265135678fb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -768,15 +860,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwHeruRA&_nc_oc=Adpb7lwy1lx0LydbrnbEKStk3P5LYByH-cEq7S6b8fFuDgmQJjO6nLJanLMA8QruZ5Oms7T9n0b3NGJ7mLJmmaMK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WvzD_5R903KVvM30InbC9A&_nc_ss=70689&oh=00_AQOtHD9WVsC8Y-ZqqTrJnU2q3cXR1Yt6LJNlUKys8KU5gA&oe=6AE12B9D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwHeruRA&_nc_oc=Adpb7lwy1lx0LydbrnbEKStk3P5LYByH-cEq7S6b8fFuDgmQJjO6nLJanLMA8QruZ5Oms7T9n0b3NGJ7mLJmmaMK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WvzD_5R903KVvM30InbC9A&_nc_ss=70689&oh=00_AQOtHD9WVsC8Y-ZqqTrJnU2q3cXR1Yt6LJNlUKys8KU5gA&oe=6AE12B9D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1249,
       "valor_atual": 1252,
-      "hash_anterior": "ef7dbc3b228b88a658d5e5028b49dbd52974ad53c6a4829d2752872862c0779d",
-      "hash_atual": "974ed7f72c71c72bb98a8ce46054b46b0f869fc99b4860896a0e1265135678fb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -803,15 +896,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwEQGZNC&_nc_oc=Adrwh7ZipzpwxRJH0x_fcjGHJv3OKOrCweiDgUjqUN0tTkc8QmEni-SIsxGKNeDvesgJZ17Tb0DZgKF25iV7X5Wl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BWmuS4VK0qpYdUD0WaX6ag&_nc_ss=70689&oh=00_AQOKBAuWLFStscCQWOJz8ZdkYul4ssqEwfYIydVjg5DTXQ&oe=6AE04A9D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LpzschQfFb0Q7kNvwEQGZNC&_nc_oc=Adrwh7ZipzpwxRJH0x_fcjGHJv3OKOrCweiDgUjqUN0tTkc8QmEni-SIsxGKNeDvesgJZ17Tb0DZgKF25iV7X5Wl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BWmuS4VK0qpYdUD0WaX6ag&_nc_ss=70689&oh=00_AQOKBAuWLFStscCQWOJz8ZdkYul4ssqEwfYIydVjg5DTXQ&oe=6AE04A9D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2539,
       "valor_atual": 2540,
-      "hash_anterior": "81dd1af52049aee7d4905215da1a683f7fb6471a3cd52a6b74d5499fb1f973ee",
-      "hash_atual": "ef7dbc3b228b88a658d5e5028b49dbd52974ad53c6a4829d2752872862c0779d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -838,15 +932,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lfBBCh2P_vMQ7kNvwHstmlz&_nc_oc=AdrF819TdgzasFPi7kUsHfuyv6g-s4XxpNAKjNb2-gVebtTfiwbkEg3WXYmHiYcIJQp_mgxZMWHJrHIAVG1oRA2g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WX_cgeASU6uNj3pXvTe3sQ&_nc_ss=70689&oh=00_AQMs7T3iezqT9zY8gQNlr5Zph4Ildybb23G1lyxdyHGmJA&oe=6ADEF91D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lfBBCh2P_vMQ7kNvwHstmlz&_nc_oc=AdrF819TdgzasFPi7kUsHfuyv6g-s4XxpNAKjNb2-gVebtTfiwbkEg3WXYmHiYcIJQp_mgxZMWHJrHIAVG1oRA2g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WX_cgeASU6uNj3pXvTe3sQ&_nc_ss=70689&oh=00_AQMs7T3iezqT9zY8gQNlr5Zph4Ildybb23G1lyxdyHGmJA&oe=6ADEF91D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2542,
       "valor_atual": 2539,
-      "hash_anterior": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
-      "hash_atual": "81dd1af52049aee7d4905215da1a683f7fb6471a3cd52a6b74d5499fb1f973ee",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -873,15 +968,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lfBBCh2P_vMQ7kNvwHstmlz&_nc_oc=AdrF819TdgzasFPi7kUsHfuyv6g-s4XxpNAKjNb2-gVebtTfiwbkEg3WXYmHiYcIJQp_mgxZMWHJrHIAVG1oRA2g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WX_cgeASU6uNj3pXvTe3sQ&_nc_ss=70689&oh=00_AQMs7T3iezqT9zY8gQNlr5Zph4Ildybb23G1lyxdyHGmJA&oe=6ADEF91D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lfBBCh2P_vMQ7kNvwHstmlz&_nc_oc=AdrF819TdgzasFPi7kUsHfuyv6g-s4XxpNAKjNb2-gVebtTfiwbkEg3WXYmHiYcIJQp_mgxZMWHJrHIAVG1oRA2g&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WX_cgeASU6uNj3pXvTe3sQ&_nc_ss=70689&oh=00_AQMs7T3iezqT9zY8gQNlr5Zph4Ildybb23G1lyxdyHGmJA&oe=6ADEF91D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1248,
       "valor_atual": 1249,
-      "hash_anterior": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
-      "hash_atual": "81dd1af52049aee7d4905215da1a683f7fb6471a3cd52a6b74d5499fb1f973ee",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -908,15 +1004,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=veaQ3BHQJvYQ7kNvwH_2_TS&_nc_oc=Adq3DDnl-zyHjbAs0YOEkHfnAtotanCIk44OqjwZvbtLzX7upCWH1uLdVwQX4DF9UtV0Tzy9Z2SqvRKh37LvlEy1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZsEJ4oRE-OwIxVqJLJ1D_g&_nc_ss=70689&oh=00_AQMzxv0R7sOzkflnI2Rx5vxxjQ9UwEWcHXBP8RlYE77Pxw&oe=6AD8295D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=veaQ3BHQJvYQ7kNvwH_2_TS&_nc_oc=Adq3DDnl-zyHjbAs0YOEkHfnAtotanCIk44OqjwZvbtLzX7upCWH1uLdVwQX4DF9UtV0Tzy9Z2SqvRKh37LvlEy1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZsEJ4oRE-OwIxVqJLJ1D_g&_nc_ss=70689&oh=00_AQMzxv0R7sOzkflnI2Rx5vxxjQ9UwEWcHXBP8RlYE77Pxw&oe=6AD8295D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1249,
       "valor_atual": 1248,
-      "hash_anterior": "d63bea1734ea91327cfeb9ca8b2abd9090f833cddbc5cd23221ff517e4992674",
-      "hash_atual": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -943,15 +1040,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHBVYTw&_nc_oc=Adrh48kDuAJOIu8Quv-Z8Tk2JqFZvY5rLkp-4nbbmbuowMo_HQGg8sCSqRr_Aql158ezHmjbuXO38Xx-dEVdnk_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LHXzRlU9ZB8c52svbq0UDQ&_nc_ss=70689&oh=00_AQPdUG9Qm3kFzq_oR9PKKsaGEyM-Ph6Cy6xsogSqA88Vug&oe=6AD6D7DD"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHBVYTw&_nc_oc=Adrh48kDuAJOIu8Quv-Z8Tk2JqFZvY5rLkp-4nbbmbuowMo_HQGg8sCSqRr_Aql158ezHmjbuXO38Xx-dEVdnk_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LHXzRlU9ZB8c52svbq0UDQ&_nc_ss=70689&oh=00_AQPdUG9Qm3kFzq_oR9PKKsaGEyM-Ph6Cy6xsogSqA88Vug&oe=6AD6D7DD",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1248,
       "valor_atual": 1249,
-      "hash_anterior": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
-      "hash_atual": "d63bea1734ea91327cfeb9ca8b2abd9090f833cddbc5cd23221ff517e4992674",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -978,15 +1076,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwE-Tma8&_nc_oc=AdrHPm49pgCvJ5zWr5dDtgLAq-26flDQsxnCD2UsG5nnAUE-2LmUp2w2DX0Sbmz9h106ko0Atd0EpAZGwCuw7IlJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VoYJnuTJld8spq32NHpAvA&_nc_ss=70689&oh=00_AQNRBsvczjg_fg9ThIyv05ps7V8KX0MDojOYWYV-OqCxSw&oe=6AD5865D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwE-Tma8&_nc_oc=AdrHPm49pgCvJ5zWr5dDtgLAq-26flDQsxnCD2UsG5nnAUE-2LmUp2w2DX0Sbmz9h106ko0Atd0EpAZGwCuw7IlJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VoYJnuTJld8spq32NHpAvA&_nc_ss=70689&oh=00_AQNRBsvczjg_fg9ThIyv05ps7V8KX0MDojOYWYV-OqCxSw&oe=6AD5865D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2543,
       "valor_atual": 2542,
-      "hash_anterior": "68ddfd9555866a5fbddbf34c5a81bfbb0ecac212b95235e595762cf7a53c6151",
-      "hash_atual": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1013,15 +1112,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwE-Tma8&_nc_oc=AdrHPm49pgCvJ5zWr5dDtgLAq-26flDQsxnCD2UsG5nnAUE-2LmUp2w2DX0Sbmz9h106ko0Atd0EpAZGwCuw7IlJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VoYJnuTJld8spq32NHpAvA&_nc_ss=70689&oh=00_AQNRBsvczjg_fg9ThIyv05ps7V8KX0MDojOYWYV-OqCxSw&oe=6AD5865D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwE-Tma8&_nc_oc=AdrHPm49pgCvJ5zWr5dDtgLAq-26flDQsxnCD2UsG5nnAUE-2LmUp2w2DX0Sbmz9h106ko0Atd0EpAZGwCuw7IlJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VoYJnuTJld8spq32NHpAvA&_nc_ss=70689&oh=00_AQNRBsvczjg_fg9ThIyv05ps7V8KX0MDojOYWYV-OqCxSw&oe=6AD5865D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1249,
       "valor_atual": 1248,
-      "hash_anterior": "68ddfd9555866a5fbddbf34c5a81bfbb0ecac212b95235e595762cf7a53c6151",
-      "hash_atual": "4d0f07c0f86568681cecd2424a695f241a570131b02d50f855295a5df387362e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1048,15 +1148,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHHgPC9&_nc_oc=AdryegGKK1W1-mNK26a3dq0FEATX_LELxv-qiznOYBCmFY009g-7-eNVgX7T-gCxlH0aRhxP7sqo6t0OmlH3Y1kx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jGzGg3VrL4s-rHB1SaoIuw&_nc_ss=70689&oh=00_AQOu-EQXGsokLdXKMllHj4KJ3kUZUDXqFUKuB3EmWPDsZQ&oe=6AD46D1D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHHgPC9&_nc_oc=AdryegGKK1W1-mNK26a3dq0FEATX_LELxv-qiznOYBCmFY009g-7-eNVgX7T-gCxlH0aRhxP7sqo6t0OmlH3Y1kx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jGzGg3VrL4s-rHB1SaoIuw&_nc_ss=70689&oh=00_AQOu-EQXGsokLdXKMllHj4KJ3kUZUDXqFUKuB3EmWPDsZQ&oe=6AD46D1D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2539,
       "valor_atual": 2543,
-      "hash_anterior": "320fafe2917b20fa7f109950d575afa02dda1d7ddd74058a6b366f690139e648",
-      "hash_atual": "68ddfd9555866a5fbddbf34c5a81bfbb0ecac212b95235e595762cf7a53c6151",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1083,15 +1184,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHHgPC9&_nc_oc=AdryegGKK1W1-mNK26a3dq0FEATX_LELxv-qiznOYBCmFY009g-7-eNVgX7T-gCxlH0aRhxP7sqo6t0OmlH3Y1kx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jGzGg3VrL4s-rHB1SaoIuw&_nc_ss=70689&oh=00_AQOu-EQXGsokLdXKMllHj4KJ3kUZUDXqFUKuB3EmWPDsZQ&oe=6AD46D1D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=6m_ud-JQ8X4Q7kNvwHHgPC9&_nc_oc=AdryegGKK1W1-mNK26a3dq0FEATX_LELxv-qiznOYBCmFY009g-7-eNVgX7T-gCxlH0aRhxP7sqo6t0OmlH3Y1kx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jGzGg3VrL4s-rHB1SaoIuw&_nc_ss=70689&oh=00_AQOu-EQXGsokLdXKMllHj4KJ3kUZUDXqFUKuB3EmWPDsZQ&oe=6AD46D1D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1245,
       "valor_atual": 1249,
-      "hash_anterior": "320fafe2917b20fa7f109950d575afa02dda1d7ddd74058a6b366f690139e648",
-      "hash_atual": "68ddfd9555866a5fbddbf34c5a81bfbb0ecac212b95235e595762cf7a53c6151",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1118,15 +1220,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvfionIy7C8Q7kNvwGWteRI&_nc_oc=AdpRkYBYPsK5w4skWCdAtz4DNYOL2yvlNB108Uk1npK-VnuS-dBebtS_l6moAiY9twVlXS3Bwqa6YeScE7n1GgUF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=D-Z8jITm-LcVu8boLHxpAA&_nc_ss=70689&oh=00_AQO2manm4YrRMOl0DSvYPCCpBaDhW27bv5ZrsKZ3IxSuEw&oe=6AD1599D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvfionIy7C8Q7kNvwGWteRI&_nc_oc=AdpRkYBYPsK5w4skWCdAtz4DNYOL2yvlNB108Uk1npK-VnuS-dBebtS_l6moAiY9twVlXS3Bwqa6YeScE7n1GgUF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=D-Z8jITm-LcVu8boLHxpAA&_nc_ss=70689&oh=00_AQO2manm4YrRMOl0DSvYPCCpBaDhW27bv5ZrsKZ3IxSuEw&oe=6AD1599D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1243,
       "valor_atual": 1245,
-      "hash_anterior": "83cb5213f91a74632b4a6b904a601867c616aaeba93ad9d56865c3224c7565d5",
-      "hash_atual": "320fafe2917b20fa7f109950d575afa02dda1d7ddd74058a6b366f690139e648",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1153,15 +1256,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwEP-uEz&_nc_oc=AdpmlqSpbSJ-rOYa3B-stGkTZl3b-NsKz3NbgCJAyuqQiG458fQqsTogyCIKbTWyqucPpxarfJvSYCR2OB6JagtJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FXRJHYnJZvuJZbMaCPuAGA&_nc_ss=70689&oh=00_AQPjmFPWj4idrkeZjN7iVzy9ypQ56td5V0XUT0pGYkQegQ&oe=6ACF5F5D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwEP-uEz&_nc_oc=AdpmlqSpbSJ-rOYa3B-stGkTZl3b-NsKz3NbgCJAyuqQiG458fQqsTogyCIKbTWyqucPpxarfJvSYCR2OB6JagtJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FXRJHYnJZvuJZbMaCPuAGA&_nc_ss=70689&oh=00_AQPjmFPWj4idrkeZjN7iVzy9ypQ56td5V0XUT0pGYkQegQ&oe=6ACF5F5D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1244,
       "valor_atual": 1243,
-      "hash_anterior": "c4b32cc5e0da0bed662e1d96adfd21564dc606c1cf3a8705de73f2fda69155a0",
-      "hash_atual": "83cb5213f91a74632b4a6b904a601867c616aaeba93ad9d56865c3224c7565d5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1188,15 +1292,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwFW4nmz&_nc_oc=AdpaskEsAEv14BRgKu7u1zCDNaSjhZ-ZaNKkgRtvqgY3TPKa_2nZ3NubXL4qkGdrpBsfYmtDG1jR5dkzEqaXGOjd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YrFl_NEVInyWtTJsO9_-iQ&_nc_ss=70689&oh=00_AQNE4U8w_q8pVKS_RVIBqw_UrIi_3ZeFZP4mTW60oh5oOQ&oe=6ACDD59D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwFW4nmz&_nc_oc=AdpaskEsAEv14BRgKu7u1zCDNaSjhZ-ZaNKkgRtvqgY3TPKa_2nZ3NubXL4qkGdrpBsfYmtDG1jR5dkzEqaXGOjd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YrFl_NEVInyWtTJsO9_-iQ&_nc_ss=70689&oh=00_AQNE4U8w_q8pVKS_RVIBqw_UrIi_3ZeFZP4mTW60oh5oOQ&oe=6ACDD59D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2540,
       "valor_atual": 2539,
-      "hash_anterior": "e7a582c553b6614ab7262cb56df8cdc399715016059fd1e18ec62c90e9cf794d",
-      "hash_atual": "c4b32cc5e0da0bed662e1d96adfd21564dc606c1cf3a8705de73f2fda69155a0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1223,15 +1328,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwHhf3bL&_nc_oc=AdqZnKOcjqnH-p8J9FtcjA3UNkvINkrHbA1U59Kx9cOu_7zv4XG7Chdk5ZnI20eB-XoCbolCQwzT7NbVINil__4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x5rSDHvVj8BF9ge809uK9A&_nc_ss=70689&oh=00_AQPUa4S4LS6xpj6lzy5LeYjeZ1CwTJZSo0AY5rPYufTBeA&oe=6ACD651D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwHhf3bL&_nc_oc=AdqZnKOcjqnH-p8J9FtcjA3UNkvINkrHbA1U59Kx9cOu_7zv4XG7Chdk5ZnI20eB-XoCbolCQwzT7NbVINil__4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x5rSDHvVj8BF9ge809uK9A&_nc_ss=70689&oh=00_AQPUa4S4LS6xpj6lzy5LeYjeZ1CwTJZSo0AY5rPYufTBeA&oe=6ACD651D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2542,
       "valor_atual": 2540,
-      "hash_anterior": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "hash_atual": "e7a582c553b6614ab7262cb56df8cdc399715016059fd1e18ec62c90e9cf794d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1258,15 +1364,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwHhf3bL&_nc_oc=AdqZnKOcjqnH-p8J9FtcjA3UNkvINkrHbA1U59Kx9cOu_7zv4XG7Chdk5ZnI20eB-XoCbolCQwzT7NbVINil__4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x5rSDHvVj8BF9ge809uK9A&_nc_ss=70689&oh=00_AQPUa4S4LS6xpj6lzy5LeYjeZ1CwTJZSo0AY5rPYufTBeA&oe=6ACD651D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwHhf3bL&_nc_oc=AdqZnKOcjqnH-p8J9FtcjA3UNkvINkrHbA1U59Kx9cOu_7zv4XG7Chdk5ZnI20eB-XoCbolCQwzT7NbVINil__4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x5rSDHvVj8BF9ge809uK9A&_nc_ss=70689&oh=00_AQPUa4S4LS6xpj6lzy5LeYjeZ1CwTJZSo0AY5rPYufTBeA&oe=6ACD651D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1243,
       "valor_atual": 1244,
-      "hash_anterior": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "hash_atual": "e7a582c553b6614ab7262cb56df8cdc399715016059fd1e18ec62c90e9cf794d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1293,15 +1400,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwEJsHM8&_nc_oc=AdpL5z07gX5HXQpTtCLc88tLKu4gGMxu2xqup7i5ffMUiPjV-6urTX3wqmzDxGNuG4qDK9fOoMgR0Ll1YaaGbxKE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MzSBGqXZ4FhNAC975HbsWA&_nc_ss=70689&oh=00_AQO8ct3pS6OxXkc1gKzF178N85gp6Q2dMRGWwYP6epUCSA&oe=6ACC841D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwEJsHM8&_nc_oc=AdpL5z07gX5HXQpTtCLc88tLKu4gGMxu2xqup7i5ffMUiPjV-6urTX3wqmzDxGNuG4qDK9fOoMgR0Ll1YaaGbxKE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MzSBGqXZ4FhNAC975HbsWA&_nc_ss=70689&oh=00_AQO8ct3pS6OxXkc1gKzF178N85gp6Q2dMRGWwYP6epUCSA&oe=6ACC841D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2541,
       "valor_atual": 2542,
-      "hash_anterior": "88c21b964efc8b29e2c451c1e9805a05f2bfb8f2e60f616cdd592d94a7ac01b7",
-      "hash_atual": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1328,15 +1436,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwHrTzFJ&_nc_oc=AdrdAROUErSqe-JkLxm-KkfhWpL1UWABuW89v-Uj9JuIKrN0lTkklNcnMpDxgYoh-ZXocgm6FnjzCCjekDY5vHC7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ia32m6zTb-4UhnNZPccHzg&_nc_ss=70689&oh=00_AQNBZcUEp396Xo7Y2vmkYtnzlmbs4LLs9TUjmerM2LdY4A&oe=6ACC4BDD"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=teq0QjdA66QQ7kNvwHrTzFJ&_nc_oc=AdrdAROUErSqe-JkLxm-KkfhWpL1UWABuW89v-Uj9JuIKrN0lTkklNcnMpDxgYoh-ZXocgm6FnjzCCjekDY5vHC7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ia32m6zTb-4UhnNZPccHzg&_nc_ss=70689&oh=00_AQNBZcUEp396Xo7Y2vmkYtnzlmbs4LLs9TUjmerM2LdY4A&oe=6ACC4BDD",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2542,
       "valor_atual": 2541,
-      "hash_anterior": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "hash_atual": "88c21b964efc8b29e2c451c1e9805a05f2bfb8f2e60f616cdd592d94a7ac01b7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1363,15 +1472,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EgYmceYL4EGs2nl6M8bDkQ&_nc_ss=70689&oh=00_AQPx3Lyr0sv0R8uJ5l09uiPyY_omrGrpPVC2ShGPe9tCdg&oe=6ACB6ADD"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EgYmceYL4EGs2nl6M8bDkQ&_nc_ss=70689&oh=00_AQPx3Lyr0sv0R8uJ5l09uiPyY_omrGrpPVC2ShGPe9tCdg&oe=6ACB6ADD",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1242,
       "valor_atual": 1243,
-      "hash_anterior": "f8a84191f6e8726b80089afa874d647f8583497ebaa2be777abcd93497bf4cc9",
-      "hash_atual": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1398,15 +1508,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NW1S5UbcNG39dYwfYDZGfA&_nc_ss=70689&oh=00_AQNJ5NNsezeoX3ZIoib9YnG3Gedi_xv0t3cPHY6k9LCXSw&oe=6ACB329D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NW1S5UbcNG39dYwfYDZGfA&_nc_ss=70689&oh=00_AQNJ5NNsezeoX3ZIoib9YnG3Gedi_xv0t3cPHY6k9LCXSw&oe=6ACB329D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2541,
       "valor_atual": 2542,
-      "hash_anterior": "d7c8f4d53a3e66b731f91a43538397a5b3753171b8f0827286eac65850998368",
-      "hash_atual": "f8a84191f6e8726b80089afa874d647f8583497ebaa2be777abcd93497bf4cc9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1433,15 +1544,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypThi0hP_89LMQGfY4WRKg&_nc_ss=70689&oh=00_AQPdtX22VnT_tVlmLtVbrH6ErlzIvY4liP5T8msRJRcmqA&oe=6ACB329D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypThi0hP_89LMQGfY4WRKg&_nc_ss=70689&oh=00_AQPdtX22VnT_tVlmLtVbrH6ErlzIvY4liP5T8msRJRcmqA&oe=6ACB329D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2542,
       "valor_atual": 2541,
-      "hash_anterior": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "hash_atual": "d7c8f4d53a3e66b731f91a43538397a5b3753171b8f0827286eac65850998368",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1468,15 +1580,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypThi0hP_89LMQGfY4WRKg&_nc_ss=70689&oh=00_AQPdtX22VnT_tVlmLtVbrH6ErlzIvY4liP5T8msRJRcmqA&oe=6ACB329D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwED-LG5&_nc_oc=Adqzrs0f9x-HPpwyl_g9zOzyNhgNBTaK5R2gG_shWXaTY4b0JUv-M3Lh-HEq2Wu2_QzSqeXfELN5RfvPteD68k2x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypThi0hP_89LMQGfY4WRKg&_nc_ss=70689&oh=00_AQPdtX22VnT_tVlmLtVbrH6ErlzIvY4liP5T8msRJRcmqA&oe=6ACB329D",
+        "total_posts": 105
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1243,
       "valor_atual": 1242,
-      "hash_anterior": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "hash_atual": "d7c8f4d53a3e66b731f91a43538397a5b3753171b8f0827286eac65850998368",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1503,15 +1616,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwHwMG_b&_nc_oc=Adra3TLcDBJkPgsdwDlUaGYxP6gV7tOIKGhTWw2iJX4uHkOCincIhQU3vFuvlU8W11yC_lNuKi0Mf5THqmz02UlX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8wNeQd1oqL-YbfZ9E2aJ0g&_nc_ss=70689&oh=00_AQNC-MoSuCliNvi3YlH5HTp_7qatm_syUL8zaVxZpBVBWA&oe=6ACAFA5D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwHwMG_b&_nc_oc=Adra3TLcDBJkPgsdwDlUaGYxP6gV7tOIKGhTWw2iJX4uHkOCincIhQU3vFuvlU8W11yC_lNuKi0Mf5THqmz02UlX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8wNeQd1oqL-YbfZ9E2aJ0g&_nc_ss=70689&oh=00_AQNC-MoSuCliNvi3YlH5HTp_7qatm_syUL8zaVxZpBVBWA&oe=6ACAFA5D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2541,
       "valor_atual": 2542,
-      "hash_anterior": "88c21b964efc8b29e2c451c1e9805a05f2bfb8f2e60f616cdd592d94a7ac01b7",
-      "hash_atual": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1538,15 +1652,16 @@
         "id": "17841401480024792",
         "username": "rafaelvitti",
         "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwHwMG_b&_nc_oc=Adra3TLcDBJkPgsdwDlUaGYxP6gV7tOIKGhTWw2iJX4uHkOCincIhQU3vFuvlU8W11yC_lNuKi0Mf5THqmz02UlX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZHPXx_dT3hltBKKrmMd1dQ&_nc_ss=70689&oh=00_AQOjT_DnRayM_nYyqLLv2nb_cmAmWXv5otLS468ZcxENTA&oe=6ACAFA5D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwHwMG_b&_nc_oc=Adra3TLcDBJkPgsdwDlUaGYxP6gV7tOIKGhTWw2iJX4uHkOCincIhQU3vFuvlU8W11yC_lNuKi0Mf5THqmz02UlX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZHPXx_dT3hltBKKrmMd1dQ&_nc_ss=70689&oh=00_AQOjT_DnRayM_nYyqLLv2nb_cmAmWXv5otLS468ZcxENTA&oe=6ACAFA5D",
+        "total_posts": 105
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2542,
       "valor_atual": 2541,
-      "hash_anterior": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "hash_atual": "88c21b964efc8b29e2c451c1e9805a05f2bfb8f2e60f616cdd592d94a7ac01b7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1554,79 +1669,61 @@
         "texto": "17 horas e 47 minutos e 38 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 64058.344044,
-        "texto": "17 horas e 47 minutos e 38 segundos"
+        "segundos": null,
+        "texto": null
       },
       "titulo": "Perdeu 1 seguidor",
       "descricao": "Os seguidores caíram de 2.542 para 2.541",
       "variacao_texto": "-1 seguidor"
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:54:01.598884",
-      "timestamp_anterior": "2026-10-05T20:40:00.080176",
-      "timestamp_atual": "2026-10-05T20:54:01.598884",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "ator",
-        "pk": 306737334,
-        "id": "17841401480024792",
-        "username": "rafaelvitti",
-        "nome": "Dr. Rafael Vitti Monteiro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/702669850_18583500931049335_9053244855797660242_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PEWNnr3p590Q7kNvwEGwd5o&_nc_oc=AdpPX2LhKcX2tqIyrWQjUcDjwzksnInT2FE5gttC-xii817drJDVjsqzA96EHGGfffssbdCem4SGhoi9fZUsEOzy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eI1JgthJGh4bz8WAn-axyw&_nc_ss=70689&oh=00_AQNkTqtL91N2evdjeTSXRpnPHcbRMv1eRcTGc7AXMu06BQ&oe=6ACA195D"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "atores",
-      "valor_atual": "ator",
-      "hash_anterior": "97bcd24a4f075ce7949306becdb66dfc1a9fa5fd252e9043548e6f60304162a9",
-      "hash_atual": "31b6d008fd04ef3708726d8885e26e7ccd5aab0204e326258fec9a5eb52493ef",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 841.518708,
-        "texto": "14 minutos e 1 segundo"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": null,
-        "texto": null
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"atores\" para \"ator\""
     }
   ],
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:00.080176",
-    "captura_mais_recente": "2026-11-03T12:10:36.391227",
-    "tempo_total_segundos": 2475036,
-    "tempo_total_dias": 28.64625,
-    "tempo_total_texto": "28 dias, 15 horas, 30 minutos e 36 segundos",
+    "captura_mais_recente": "2026-11-19T16:19:30.969275",
+    "tempo_total_segundos": 3872370,
+    "tempo_total_dias": 44.819097,
+    "tempo_total_texto": "44 dias, 19 horas, 39 minutos e 30 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -2,
-      "direcao": "perdeu",
-      "quantidade": 2,
-      "texto": "Perdeu 2 seguidores",
+    "1_dias": {
+      "variacao": 11,
+      "direcao": "ganhou",
+      "quantidade": 11,
+      "texto": "Ganhou 11 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T10:59:27.525891",
-      "captura_fim": "2026-11-03T12:10:36.391227",
-      "seguidores_inicio": 2544,
-      "seguidores_fim": 2542
+      "captura_inicio": "2026-11-03T12:10:36.391227",
+      "captura_fim": "2026-11-19T16:19:30.969275",
+      "seguidores_inicio": 2542,
+      "seguidores_fim": 2553
+    },
+    "7_dias": {
+      "variacao": 11,
+      "direcao": "ganhou",
+      "quantidade": 11,
+      "texto": "Ganhou 11 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:10:36.391227",
+      "captura_fim": "2026-11-19T16:19:30.969275",
+      "seguidores_inicio": 2542,
+      "seguidores_fim": 2553
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 11,
+      "direcao": "ganhou",
+      "quantidade": 11,
+      "texto": "Ganhou 11 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-14T12:11:40.247301",
+      "captura_fim": "2026-11-19T16:19:30.969275",
+      "seguidores_inicio": 2542,
+      "seguidores_fim": 2553
     },
     "90_dias": {
       "variacao": null,
@@ -1637,17 +1734,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 0,
-      "direcao": "estavel",
-      "quantidade": 0,
-      "texto": "Não ganhou nem perdeu seguidores",
+      "variacao": 11,
+      "direcao": "ganhou",
+      "quantidade": 11,
+      "texto": "Ganhou 11 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:00.080176",
-      "captura_mais_recente": "2026-11-03T12:10:36.391227",
-      "tempo_total_dias": 28.646254,
+      "captura_mais_recente": "2026-11-19T16:19:30.969275",
+      "tempo_total_dias": 44.819108,
       "seguidores_inicio": 2542,
-      "seguidores_fim": 2542
+      "seguidores_fim": 2553
     }
   }
 }

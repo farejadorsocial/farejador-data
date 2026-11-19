@@ -8,7 +8,8 @@
       "id": "17841400411004977",
       "username": "jottape",
       "nome": "Jottapê",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3BhemVeedNR95BthAlzMtg&_nc_ss=70689&oh=00_AQRE6BZSvuBc0Gkgi7zdQmchGil9tXzxJMkdFojGsbcjbQ&oe=6AEFE4E6"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=V7PshTmIsXwQ7kNvwFLXQf4&_nc_oc=AdrF8XdU-aJ7lHya5A_HB5krHTnw6NJg5TEVk8QtuNcVHILXuNr9ope_u9Xl2tzrU8a3XfMiAGyMmBY52hCuFew4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S-2CAMEPEhkoqookhDmWGQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRhYYThSucUL3p_DNZ9YxjXgLhOg00Dlgu5EvhqhROIGw&oe=6B053526",
+      "total_posts": 266
     },
     "biografia": [
       {
@@ -29,16 +30,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "Cantor e Ator \nA Fazenda 18 • #TeamJottapê 💡\nAgente/Assessoria: @rnassessoriaimprensa\n📧 jottape@rn.alohainfluencer.com.br",
-        "timestamp": "2026-10-05T19:15:53.915814",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "fazenda 2026",
         "timestamp": "2026-10-05T19:15:53.915814",
         "tipo": "inicial"
       }
@@ -115,6 +106,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 8271476,
+        "valor_atual": 8263593,
+        "variacao": -7883,
+        "direcao": "reducao",
+        "descricao": "-7883 seguidores",
+        "timestamp": "2026-11-19T16:27:44.841624",
+        "timestamp_anterior": "2026-11-03T12:21:14.907271",
+        "tempo_desde_anterior_segundos": 1397189
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -532,6 +536,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 4394,
+        "valor_atual": 4425,
+        "variacao": 31,
+        "direcao": "aumento",
+        "descricao": "Seguiu +31",
+        "timestamp": "2026-11-19T16:27:44.841624",
+        "timestamp_anterior": "2026-11-03T12:14:45.677634",
+        "tempo_desde_anterior_segundos": 1397579
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 4386,
         "valor_atual": 4394,
         "variacao": 8,
@@ -721,11 +738,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 262,
+        "valor_atual": 266,
+        "variacao": 4,
+        "direcao": "aumento",
+        "descricao": "+4 publicações",
+        "timestamp": "2026-11-19T16:27:44.841624",
+        "timestamp_anterior": "2026-11-03T12:14:45.677634",
+        "tempo_desde_anterior_segundos": 1397579
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 260,
         "valor_atual": 262,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-11-03T12:14:45.677634",
         "timestamp_anterior": "2026-10-30T20:13:25.168361",
         "tempo_desde_anterior_segundos": 316880
@@ -738,7 +768,7 @@
         "valor_atual": 260,
         "variacao": -30,
         "direcao": "reducao",
-        "descricao": "-30 posts",
+        "descricao": "-30 publicações",
         "timestamp": "2026-10-30T20:13:25.168361",
         "timestamp_anterior": "2026-10-16T13:57:20.865111",
         "tempo_desde_anterior_segundos": 1232164
@@ -751,7 +781,7 @@
         "valor_atual": 290,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-16T13:57:20.865111",
         "timestamp_anterior": "2026-10-15T00:26:38.728852",
         "tempo_desde_anterior_segundos": 135042
@@ -764,7 +794,7 @@
         "valor_atual": 287,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-15T00:26:38.728852",
         "timestamp_anterior": "2026-10-14T12:08:33.393206",
         "tempo_desde_anterior_segundos": 44285
@@ -777,7 +807,7 @@
         "valor_atual": 284,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-14T12:08:33.393206",
         "timestamp_anterior": "2026-10-13T15:58:40.473669",
         "tempo_desde_anterior_segundos": 72592
@@ -790,7 +820,7 @@
         "valor_atual": 283,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-13T15:58:40.473669",
         "timestamp_anterior": "2026-10-11T11:06:19.324105",
         "tempo_desde_anterior_segundos": 190341
@@ -803,7 +833,7 @@
         "valor_atual": 281,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-11T11:06:19.324105",
         "timestamp_anterior": "2026-10-10T13:40:37.849074",
         "tempo_desde_anterior_segundos": 77141
@@ -816,7 +846,7 @@
         "valor_atual": 280,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-10T13:40:37.849074",
         "timestamp_anterior": "2026-10-09T22:25:28.346892",
         "tempo_desde_anterior_segundos": 54909
@@ -829,7 +859,7 @@
         "valor_atual": 279,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-09T22:25:28.346892",
         "timestamp_anterior": "2026-10-08T18:30:57.203753",
         "tempo_desde_anterior_segundos": 100471
@@ -842,7 +872,7 @@
         "valor_atual": 278,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-08T18:30:57.203753",
         "timestamp_anterior": "2026-10-08T09:12:53.848842",
         "tempo_desde_anterior_segundos": 33483
@@ -855,7 +885,7 @@
         "valor_atual": 275,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-08T09:12:53.848842",
         "timestamp_anterior": "2026-10-07T13:06:08.723513",
         "tempo_desde_anterior_segundos": 72405
@@ -868,7 +898,7 @@
         "valor_atual": 274,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-07T13:06:08.723513",
         "timestamp_anterior": "2026-10-06T15:55:49.968633",
         "tempo_desde_anterior_segundos": 76218
@@ -881,7 +911,7 @@
         "valor_atual": 273,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T15:55:49.968633",
         "timestamp_anterior": "2026-10-05T19:15:53.915814",
         "tempo_desde_anterior_segundos": 74396
@@ -924,9 +954,127 @@
         "timestamp": "2026-10-05T19:15:53.915814",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "fazenda 2026",
+        "timestamp": "2026-10-05T19:15:53.915814",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:27:44.841624",
+      "timestamp_anterior": "2026-11-03T12:21:14.907271",
+      "timestamp_atual": "2026-11-19T16:27:44.841624",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 318541700,
+        "id": "17841400411004977",
+        "username": "jottape",
+        "nome": "Jottapê",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=V7PshTmIsXwQ7kNvwFLXQf4&_nc_oc=AdrF8XdU-aJ7lHya5A_HB5krHTnw6NJg5TEVk8QtuNcVHILXuNr9ope_u9Xl2tzrU8a3XfMiAGyMmBY52hCuFew4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S-2CAMEPEhkoqookhDmWGQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRhYYThSucUL3p_DNZ9YxjXgLhOg00Dlgu5EvhqhROIGw&oe=6B053526",
+        "total_posts": 266
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 8271476,
+      "valor_atual": 8263593,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -7883,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397189.934353,
+        "texto": "16 dias e 4 horas e 6 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397189.934353,
+        "texto": "16 dias e 4 horas e 6 minutos e 29 segundos"
+      },
+      "titulo": "Perdeu 7.883 seguidores",
+      "descricao": "Os seguidores caíram de 8.271.476 para 8.263.593",
+      "variacao_texto": "-7.883 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:27:44.841624",
+      "timestamp_anterior": "2026-11-03T12:21:14.907271",
+      "timestamp_atual": "2026-11-19T16:27:44.841624",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 318541700,
+        "id": "17841400411004977",
+        "username": "jottape",
+        "nome": "Jottapê",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=V7PshTmIsXwQ7kNvwFLXQf4&_nc_oc=AdrF8XdU-aJ7lHya5A_HB5krHTnw6NJg5TEVk8QtuNcVHILXuNr9ope_u9Xl2tzrU8a3XfMiAGyMmBY52hCuFew4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S-2CAMEPEhkoqookhDmWGQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRhYYThSucUL3p_DNZ9YxjXgLhOg00Dlgu5EvhqhROIGw&oe=6B053526",
+        "total_posts": 266
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 4394,
+      "valor_atual": 4425,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 31,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397189.934353,
+        "texto": "16 dias e 4 horas e 6 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 31 pessoas",
+      "descricao": "Estava seguindo 4.394 e passou a seguir 4.425",
+      "variacao_texto": "+31 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:27:44.841624",
+      "timestamp_anterior": "2026-11-03T12:21:14.907271",
+      "timestamp_atual": "2026-11-19T16:27:44.841624",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 318541700,
+        "id": "17841400411004977",
+        "username": "jottape",
+        "nome": "Jottapê",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=V7PshTmIsXwQ7kNvwFLXQf4&_nc_oc=AdrF8XdU-aJ7lHya5A_HB5krHTnw6NJg5TEVk8QtuNcVHILXuNr9ope_u9Xl2tzrU8a3XfMiAGyMmBY52hCuFew4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S-2CAMEPEhkoqookhDmWGQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRhYYThSucUL3p_DNZ9YxjXgLhOg00Dlgu5EvhqhROIGw&oe=6B053526",
+        "total_posts": 266
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 262,
+      "valor_atual": 266,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 4,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397189.934353,
+        "texto": "16 dias e 4 horas e 6 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 4 publicações",
+      "descricao": "O total mudou de 262 para 266",
+      "variacao_texto": "+4 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:21:14.907271",
@@ -939,15 +1087,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3BhemVeedNR95BthAlzMtg&_nc_ss=70689&oh=00_AQRE6BZSvuBc0Gkgi7zdQmchGil9tXzxJMkdFojGsbcjbQ&oe=6AEFE4E6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3BhemVeedNR95BthAlzMtg&_nc_ss=70689&oh=00_AQRE6BZSvuBc0Gkgi7zdQmchGil9tXzxJMkdFojGsbcjbQ&oe=6AEFE4E6",
+        "total_posts": 262
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8271485,
       "valor_atual": 8271476,
-      "hash_anterior": "c16b9f500dd2bdc32df54081438bc21c38ff22fd37e908bacf53f65e800649d7",
-      "hash_atual": "7e9dc2361ad023e07f4042528e58fa78e11a7056c273aeea1f63cc72ed2eee04",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -974,15 +1123,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vYljPuiNcbpkbGNsj8z2wg&_nc_ss=70689&oh=00_AQRFa1ICyPH0XI07y3OMY75LYc5XyrArYqFqRrXJB4KsDg&oe=6AEFE4E6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vYljPuiNcbpkbGNsj8z2wg&_nc_ss=70689&oh=00_AQRFa1ICyPH0XI07y3OMY75LYc5XyrArYqFqRrXJB4KsDg&oe=6AEFE4E6",
+        "total_posts": 262
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8278052,
       "valor_atual": 8271485,
-      "hash_anterior": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
-      "hash_atual": "c16b9f500dd2bdc32df54081438bc21c38ff22fd37e908bacf53f65e800649d7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6567,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1009,15 +1159,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vYljPuiNcbpkbGNsj8z2wg&_nc_ss=70689&oh=00_AQRFa1ICyPH0XI07y3OMY75LYc5XyrArYqFqRrXJB4KsDg&oe=6AEFE4E6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vYljPuiNcbpkbGNsj8z2wg&_nc_ss=70689&oh=00_AQRFa1ICyPH0XI07y3OMY75LYc5XyrArYqFqRrXJB4KsDg&oe=6AEFE4E6",
+        "total_posts": 262
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4386,
       "valor_atual": 4394,
-      "hash_anterior": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
-      "hash_atual": "c16b9f500dd2bdc32df54081438bc21c38ff22fd37e908bacf53f65e800649d7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1044,15 +1195,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vYljPuiNcbpkbGNsj8z2wg&_nc_ss=70689&oh=00_AQRFa1ICyPH0XI07y3OMY75LYc5XyrArYqFqRrXJB4KsDg&oe=6AEFE4E6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558446_18640843636013701_4561395038493878786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC4IqjSF_jyfvzlCAAIqqMWeVE0-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wMktixAMZOIQ7kNvwFsJLmI&_nc_oc=AdroQIxm_uDLoh0D3fi_L5GCbwTBAeNukpKVUcuM393-ZidvyyKZ8Y3xe8egqVBd4QLX5RAC_6H1uc8bGOvKhjOB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vYljPuiNcbpkbGNsj8z2wg&_nc_ss=70689&oh=00_AQRFa1ICyPH0XI07y3OMY75LYc5XyrArYqFqRrXJB4KsDg&oe=6AEFE4E6",
+        "total_posts": 262
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 260,
       "valor_atual": 262,
-      "hash_anterior": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
-      "hash_atual": "c16b9f500dd2bdc32df54081438bc21c38ff22fd37e908bacf53f65e800649d7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1063,7 +1215,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 260 para 262",
       "variacao_texto": "+2 posts"
     },
@@ -1079,15 +1231,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78",
+        "total_posts": 260
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "Cantor e Ator \nA Fazenda 18 • #TeamJottapê 💡\nAgente/Assessoria: @rnassessoriaimprensa\n📧 jottape@rn.alohainfluencer.com.br",
       "valor_atual": "Cantor e Ator \nJesus é o caminho, a verdade e a vida! ❤️‍🔥",
-      "hash_anterior": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
-      "hash_atual": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1113,7 +1266,8 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78",
+        "total_posts": 260
       },
       "tipo": "links",
       "campo": "links",
@@ -1124,8 +1278,8 @@
         }
       ],
       "valor_atual": [],
-      "hash_anterior": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
-      "hash_atual": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1151,15 +1305,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78",
+        "total_posts": 260
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8293405,
       "valor_atual": 8278052,
-      "hash_anterior": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
-      "hash_atual": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -15353,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1186,15 +1341,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78",
+        "total_posts": 260
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4381,
       "valor_atual": 4386,
-      "hash_anterior": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
-      "hash_atual": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1221,15 +1377,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78",
+        "total_posts": 260
       },
       "tipo": "total_destaques",
       "campo": "total_destaques",
       "nome_campo": "Total de Destaques",
       "valor_anterior": 5,
       "valor_atual": 0,
-      "hash_anterior": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
-      "hash_atual": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1256,15 +1413,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7fTBxCW4EFwQ7kNvwHwBCpN&_nc_oc=Adqa0vbyOXxRZkMGjxfHy77hjI2f9JWqct4XDXI9hZ4x7vPRrpQWrjf07f83-76-UaGUYe22Y5r-F2nduB7o7Bfd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJiLC2Ir7p6swbHN9CMKNw&_nc_ss=70689&oh=00_AQR-vorU3quyzHhI5zTefjbJeyI12_e6q315F0eJHEFalg&oe=6AEAED78",
+        "total_posts": 260
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 290,
       "valor_atual": 260,
-      "hash_anterior": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
-      "hash_atual": "db2480627f4735b20f4f6f8f2730d2bd4fe93df16e6b44c53e3ac5456ade689f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -30,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1275,7 +1433,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 30 posts",
+      "titulo": "Removeu 30 publicações",
       "descricao": "O total mudou de 290 para 260",
       "variacao_texto": "-30 posts"
     },
@@ -1291,15 +1449,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=UCW7fmfhXNMQ7kNvwEBVrdG&_nc_oc=Adqfx8Nv2gLUwshkN5TkENWkelAMdUAmA-wxRvJ8AzF0L57WZfEdYxlAjp_FHP4SbTUCfqjrP1qkxt4b-gaJkkH6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LlVUt4-cGvSslluGWiC5Xg&_nc_ss=70689&oh=00_AQNELN9XQ1aYFoFVHhU4Tm3uxah_FHvPcHLbfAHk-xU7WA&oe=6AE293F8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=UCW7fmfhXNMQ7kNvwEBVrdG&_nc_oc=Adqfx8Nv2gLUwshkN5TkENWkelAMdUAmA-wxRvJ8AzF0L57WZfEdYxlAjp_FHP4SbTUCfqjrP1qkxt4b-gaJkkH6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LlVUt4-cGvSslluGWiC5Xg&_nc_ss=70689&oh=00_AQNELN9XQ1aYFoFVHhU4Tm3uxah_FHvPcHLbfAHk-xU7WA&oe=6AE293F8",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8295145,
       "valor_atual": 8293405,
-      "hash_anterior": "04ccfb70244d61b064bc67b3789714d75b23ba9ebfedeade5db22631037233d3",
-      "hash_atual": "d02b616a01a45590076da73ed8f13062184a95675d948ae1ba007c48cfa718ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1740,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1326,15 +1485,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwFLUNyh&_nc_oc=AdpFbv6ptvQdf-TMb8lJF6Iaqdar6E1leXVVxW_ZNdUb6c60ycLO2XZxtHLwuIB7lTzODkbKf5-XLM_1vzR_yOHQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Kjq-QiwmmAKqlLemZS4_MQ&_nc_ss=70689&oh=00_AQMnTc3x43N0AHQZA8gjy74fZYNqTocZ9linAiaLSlN4Zw&oe=6AE14278"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwFLUNyh&_nc_oc=AdpFbv6ptvQdf-TMb8lJF6Iaqdar6E1leXVVxW_ZNdUb6c60ycLO2XZxtHLwuIB7lTzODkbKf5-XLM_1vzR_yOHQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Kjq-QiwmmAKqlLemZS4_MQ&_nc_ss=70689&oh=00_AQMnTc3x43N0AHQZA8gjy74fZYNqTocZ9linAiaLSlN4Zw&oe=6AE14278",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8295970,
       "valor_atual": 8295145,
-      "hash_anterior": "1a9ead194b8bc6d6266e060621965daa0d1883605c25295a2467d17145a44dfd",
-      "hash_atual": "04ccfb70244d61b064bc67b3789714d75b23ba9ebfedeade5db22631037233d3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -825,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1361,15 +1521,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwElynWO&_nc_oc=AdrCRH1nN9KG-hKyvZbJvcuovVxMWdyOw14GF2pFi08F5BXKb-21lDsm1tMP2EH-1Mdw80Q4UgTOFiy-jgaV3elk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SF0jPchY6taPYYEgOTvbAA&_nc_ss=70689&oh=00_AQO35VPmOnd5KNxF9tFPb0Fv-AE9x5jIXlXt3HB8apWfyg&oe=6AE06178"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwElynWO&_nc_oc=AdrCRH1nN9KG-hKyvZbJvcuovVxMWdyOw14GF2pFi08F5BXKb-21lDsm1tMP2EH-1Mdw80Q4UgTOFiy-jgaV3elk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SF0jPchY6taPYYEgOTvbAA&_nc_ss=70689&oh=00_AQO35VPmOnd5KNxF9tFPb0Fv-AE9x5jIXlXt3HB8apWfyg&oe=6AE06178",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8298148,
       "valor_atual": 8295970,
-      "hash_anterior": "92f498c271d985c51a286710e0f3224b5704a9d6f6bfaa43de28d1f443c77b86",
-      "hash_atual": "1a9ead194b8bc6d6266e060621965daa0d1883605c25295a2467d17145a44dfd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2178,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1396,15 +1557,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwElynWO&_nc_oc=AdrCRH1nN9KG-hKyvZbJvcuovVxMWdyOw14GF2pFi08F5BXKb-21lDsm1tMP2EH-1Mdw80Q4UgTOFiy-jgaV3elk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SF0jPchY6taPYYEgOTvbAA&_nc_ss=70689&oh=00_AQO35VPmOnd5KNxF9tFPb0Fv-AE9x5jIXlXt3HB8apWfyg&oe=6AE06178"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwElynWO&_nc_oc=AdrCRH1nN9KG-hKyvZbJvcuovVxMWdyOw14GF2pFi08F5BXKb-21lDsm1tMP2EH-1Mdw80Q4UgTOFiy-jgaV3elk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SF0jPchY6taPYYEgOTvbAA&_nc_ss=70689&oh=00_AQO35VPmOnd5KNxF9tFPb0Fv-AE9x5jIXlXt3HB8apWfyg&oe=6AE06178",
+        "total_posts": 290
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4379,
       "valor_atual": 4381,
-      "hash_anterior": "92f498c271d985c51a286710e0f3224b5704a9d6f6bfaa43de28d1f443c77b86",
-      "hash_atual": "1a9ead194b8bc6d6266e060621965daa0d1883605c25295a2467d17145a44dfd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1431,15 +1593,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwEtjum6&_nc_oc=AdoHbYqgY48kBVv-OVubDkaiM6RqNiW8_qmhxjlx7hZnrVSke5ntIRxGcy7EGaOFDthTg1BHKtVUKrEfW1RDOAo7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1_o40NnN7OVsqDDy9RZ5sA&_nc_ss=70689&oh=00_AQNswTnKL2qoax8ds5DvKxhP_0CnRTVwhBCcbZ8KxZ5MDA&oe=6ADF0FF8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwEtjum6&_nc_oc=AdoHbYqgY48kBVv-OVubDkaiM6RqNiW8_qmhxjlx7hZnrVSke5ntIRxGcy7EGaOFDthTg1BHKtVUKrEfW1RDOAo7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1_o40NnN7OVsqDDy9RZ5sA&_nc_ss=70689&oh=00_AQNswTnKL2qoax8ds5DvKxhP_0CnRTVwhBCcbZ8KxZ5MDA&oe=6ADF0FF8",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8298152,
       "valor_atual": 8298148,
-      "hash_anterior": "5e37d45fddf9eeddca35a27e7ca93729f332f5d2369e983a60c43870b3feb9de",
-      "hash_atual": "92f498c271d985c51a286710e0f3224b5704a9d6f6bfaa43de28d1f443c77b86",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1466,15 +1629,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwEtjum6&_nc_oc=AdoHbYqgY48kBVv-OVubDkaiM6RqNiW8_qmhxjlx7hZnrVSke5ntIRxGcy7EGaOFDthTg1BHKtVUKrEfW1RDOAo7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTRcovhAowDu3XWPSy7n7A&_nc_ss=70689&oh=00_AQOGqzUhFEn300Q-knHmEZzqTjdXuSUZIH4HzlYUlApPig&oe=6ADF0FF8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwEtjum6&_nc_oc=AdoHbYqgY48kBVv-OVubDkaiM6RqNiW8_qmhxjlx7hZnrVSke5ntIRxGcy7EGaOFDthTg1BHKtVUKrEfW1RDOAo7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTRcovhAowDu3XWPSy7n7A&_nc_ss=70689&oh=00_AQOGqzUhFEn300Q-knHmEZzqTjdXuSUZIH4HzlYUlApPig&oe=6ADF0FF8",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8302993,
       "valor_atual": 8298152,
-      "hash_anterior": "b328d8b773c29410763c1d289652230c8b9238c023fbed98b6c1df8cbb3d95f3",
-      "hash_atual": "5e37d45fddf9eeddca35a27e7ca93729f332f5d2369e983a60c43870b3feb9de",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4841,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1501,15 +1665,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwEtjum6&_nc_oc=AdoHbYqgY48kBVv-OVubDkaiM6RqNiW8_qmhxjlx7hZnrVSke5ntIRxGcy7EGaOFDthTg1BHKtVUKrEfW1RDOAo7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTRcovhAowDu3XWPSy7n7A&_nc_ss=70689&oh=00_AQOGqzUhFEn300Q-knHmEZzqTjdXuSUZIH4HzlYUlApPig&oe=6ADF0FF8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=24Q7YpHvvwcQ7kNvwEtjum6&_nc_oc=AdoHbYqgY48kBVv-OVubDkaiM6RqNiW8_qmhxjlx7hZnrVSke5ntIRxGcy7EGaOFDthTg1BHKtVUKrEfW1RDOAo7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DTRcovhAowDu3XWPSy7n7A&_nc_ss=70689&oh=00_AQOGqzUhFEn300Q-knHmEZzqTjdXuSUZIH4HzlYUlApPig&oe=6ADF0FF8",
+        "total_posts": 290
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4378,
       "valor_atual": 4379,
-      "hash_anterior": "b328d8b773c29410763c1d289652230c8b9238c023fbed98b6c1df8cbb3d95f3",
-      "hash_atual": "5e37d45fddf9eeddca35a27e7ca93729f332f5d2369e983a60c43870b3feb9de",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1536,15 +1701,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=On7FF1dXuv2LdP-NnCY9ow&_nc_ss=70689&oh=00_AQOu5o5cw7pyxV6isD6rCCW_Rvw0_WKJMa7LL7cMxcVhug&oe=6AD8B0B8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=On7FF1dXuv2LdP-NnCY9ow&_nc_ss=70689&oh=00_AQOu5o5cw7pyxV6isD6rCCW_Rvw0_WKJMa7LL7cMxcVhug&oe=6AD8B0B8",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8301179,
       "valor_atual": 8302993,
-      "hash_anterior": "57007b94e9d1e9c8cdd0745bb91bcf27141fa7c1b93025fab9f2e64d7128f253",
-      "hash_atual": "b328d8b773c29410763c1d289652230c8b9238c023fbed98b6c1df8cbb3d95f3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1814,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1571,15 +1737,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038",
+        "total_posts": 290
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8303179,
       "valor_atual": 8301179,
-      "hash_anterior": "69e98d0e4ae910aa29baae6976f5f87d1702bc82612a479e2c2ed89847410b1f",
-      "hash_atual": "57007b94e9d1e9c8cdd0745bb91bcf27141fa7c1b93025fab9f2e64d7128f253",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2000,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1606,15 +1773,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038",
+        "total_posts": 290
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4374,
       "valor_atual": 4378,
-      "hash_anterior": "69e98d0e4ae910aa29baae6976f5f87d1702bc82612a479e2c2ed89847410b1f",
-      "hash_atual": "57007b94e9d1e9c8cdd0745bb91bcf27141fa7c1b93025fab9f2e64d7128f253",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1641,15 +1809,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lKAsW4teem4Q7kNvwF7EqH8&_nc_oc=AdoCjbwj6mlHBbsfZmABcgE-B9qyBgKza1SVK5-gn9CPadYGoA1ap5MOHadbXekEwd3_y0uYAIVmX6NHuvT1jDs4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xGY0J7GDElqRhIFvS4eI7A&_nc_ss=70689&oh=00_AQPuXfgYmbWumh0u5JzlJ40nXANwgUapDPlH9dimQl8KoQ&oe=6AD84038",
+        "total_posts": 290
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 287,
       "valor_atual": 290,
-      "hash_anterior": "69e98d0e4ae910aa29baae6976f5f87d1702bc82612a479e2c2ed89847410b1f",
-      "hash_atual": "57007b94e9d1e9c8cdd0745bb91bcf27141fa7c1b93025fab9f2e64d7128f253",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1660,7 +1829,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 287 para 290",
       "variacao_texto": "+3 posts"
     },
@@ -1676,15 +1845,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwH8eDen&_nc_oc=Adq4IVfgNiWFNLTx9zb09mUxwS-0w4Pj4F-WfkRm7-iL8Fld8j_XGRq-JJwb5hI9DNrPVIe7eNzeDdYQOQO5Utsv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYwmcbyHh4uJEPcZZ7sG-w&_nc_ss=70689&oh=00_AQP4dyu8-qx6AWn9zox_6k1ITUfTs89DNIY8inL9y2-a_g&oe=6AD60DB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwH8eDen&_nc_oc=Adq4IVfgNiWFNLTx9zb09mUxwS-0w4Pj4F-WfkRm7-iL8Fld8j_XGRq-JJwb5hI9DNrPVIe7eNzeDdYQOQO5Utsv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYwmcbyHh4uJEPcZZ7sG-w&_nc_ss=70689&oh=00_AQP4dyu8-qx6AWn9zox_6k1ITUfTs89DNIY8inL9y2-a_g&oe=6AD60DB8",
+        "total_posts": 287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8304331,
       "valor_atual": 8303179,
-      "hash_anterior": "3a527cad0b6f1990bc588fc76cb69074e200eb78223884826c554a13e13a7bc6",
-      "hash_atual": "69e98d0e4ae910aa29baae6976f5f87d1702bc82612a479e2c2ed89847410b1f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1152,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1711,15 +1881,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwH8eDen&_nc_oc=Adq4IVfgNiWFNLTx9zb09mUxwS-0w4Pj4F-WfkRm7-iL8Fld8j_XGRq-JJwb5hI9DNrPVIe7eNzeDdYQOQO5Utsv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYwmcbyHh4uJEPcZZ7sG-w&_nc_ss=70689&oh=00_AQP4dyu8-qx6AWn9zox_6k1ITUfTs89DNIY8inL9y2-a_g&oe=6AD60DB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwH8eDen&_nc_oc=Adq4IVfgNiWFNLTx9zb09mUxwS-0w4Pj4F-WfkRm7-iL8Fld8j_XGRq-JJwb5hI9DNrPVIe7eNzeDdYQOQO5Utsv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYwmcbyHh4uJEPcZZ7sG-w&_nc_ss=70689&oh=00_AQP4dyu8-qx6AWn9zox_6k1ITUfTs89DNIY8inL9y2-a_g&oe=6AD60DB8",
+        "total_posts": 287
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4375,
       "valor_atual": 4374,
-      "hash_anterior": "3a527cad0b6f1990bc588fc76cb69074e200eb78223884826c554a13e13a7bc6",
-      "hash_atual": "69e98d0e4ae910aa29baae6976f5f87d1702bc82612a479e2c2ed89847410b1f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1746,15 +1917,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwH8eDen&_nc_oc=Adq4IVfgNiWFNLTx9zb09mUxwS-0w4Pj4F-WfkRm7-iL8Fld8j_XGRq-JJwb5hI9DNrPVIe7eNzeDdYQOQO5Utsv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYwmcbyHh4uJEPcZZ7sG-w&_nc_ss=70689&oh=00_AQP4dyu8-qx6AWn9zox_6k1ITUfTs89DNIY8inL9y2-a_g&oe=6AD60DB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwH8eDen&_nc_oc=Adq4IVfgNiWFNLTx9zb09mUxwS-0w4Pj4F-WfkRm7-iL8Fld8j_XGRq-JJwb5hI9DNrPVIe7eNzeDdYQOQO5Utsv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYwmcbyHh4uJEPcZZ7sG-w&_nc_ss=70689&oh=00_AQP4dyu8-qx6AWn9zox_6k1ITUfTs89DNIY8inL9y2-a_g&oe=6AD60DB8",
+        "total_posts": 287
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 284,
       "valor_atual": 287,
-      "hash_anterior": "3a527cad0b6f1990bc588fc76cb69074e200eb78223884826c554a13e13a7bc6",
-      "hash_atual": "69e98d0e4ae910aa29baae6976f5f87d1702bc82612a479e2c2ed89847410b1f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1765,7 +1937,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 284 para 287",
       "variacao_texto": "+3 posts"
     },
@@ -1781,15 +1953,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHJMMF9&_nc_oc=AdruD0PAov-rpdW5IMOYm3zzJ4P8LJGIvyAdYhH8bYZoywL9fd184aGeRETGJpC6ob-3pZd7Xs1qahCnXiPXAlbS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pTtGsDeXDfmUMZn2L8HTmA&_nc_ss=70689&oh=00_AQNjYsGHz0OmE5yMV_mSTxtPdhGjNRrNVC-6DCqAaNpNEA&oe=6AD564F8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHJMMF9&_nc_oc=AdruD0PAov-rpdW5IMOYm3zzJ4P8LJGIvyAdYhH8bYZoywL9fd184aGeRETGJpC6ob-3pZd7Xs1qahCnXiPXAlbS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pTtGsDeXDfmUMZn2L8HTmA&_nc_ss=70689&oh=00_AQNjYsGHz0OmE5yMV_mSTxtPdhGjNRrNVC-6DCqAaNpNEA&oe=6AD564F8",
+        "total_posts": 284
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8306315,
       "valor_atual": 8304331,
-      "hash_anterior": "caaf6d96ee99a422b014d6182063e32bfeabe6249e788a23090b890d5f518254",
-      "hash_atual": "3a527cad0b6f1990bc588fc76cb69074e200eb78223884826c554a13e13a7bc6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1984,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1816,15 +1989,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHJMMF9&_nc_oc=AdruD0PAov-rpdW5IMOYm3zzJ4P8LJGIvyAdYhH8bYZoywL9fd184aGeRETGJpC6ob-3pZd7Xs1qahCnXiPXAlbS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pTtGsDeXDfmUMZn2L8HTmA&_nc_ss=70689&oh=00_AQNjYsGHz0OmE5yMV_mSTxtPdhGjNRrNVC-6DCqAaNpNEA&oe=6AD564F8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHJMMF9&_nc_oc=AdruD0PAov-rpdW5IMOYm3zzJ4P8LJGIvyAdYhH8bYZoywL9fd184aGeRETGJpC6ob-3pZd7Xs1qahCnXiPXAlbS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pTtGsDeXDfmUMZn2L8HTmA&_nc_ss=70689&oh=00_AQNjYsGHz0OmE5yMV_mSTxtPdhGjNRrNVC-6DCqAaNpNEA&oe=6AD564F8",
+        "total_posts": 284
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 283,
       "valor_atual": 284,
-      "hash_anterior": "caaf6d96ee99a422b014d6182063e32bfeabe6249e788a23090b890d5f518254",
-      "hash_atual": "3a527cad0b6f1990bc588fc76cb69074e200eb78223884826c554a13e13a7bc6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1835,7 +2009,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 283 para 284",
       "variacao_texto": "+1 post"
     },
@@ -1851,15 +2025,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N-L0_pN-93N36j1bH7L_3g&_nc_ss=70689&oh=00_AQM4H_-5NnbzDCLCea1CUjvkC2fM4rXH6beJ7oI5IXoRWQ&oe=6AD483F8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N-L0_pN-93N36j1bH7L_3g&_nc_ss=70689&oh=00_AQM4H_-5NnbzDCLCea1CUjvkC2fM4rXH6beJ7oI5IXoRWQ&oe=6AD483F8",
+        "total_posts": 283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8306366,
       "valor_atual": 8306315,
-      "hash_anterior": "6cb23c355e751a58f2873018b111f4e62dc342844633ef3fdde5c0c369fdf23c",
-      "hash_atual": "caaf6d96ee99a422b014d6182063e32bfeabe6249e788a23090b890d5f518254",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -51,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1886,15 +2061,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=B2moEoJphiLpcgexuukbCA&_nc_ss=70689&oh=00_AQN9w2GMFJCeBvfhEY1A9DVKBJWu4MgQFpyhWq-lJ7UMcA&oe=6AD44BB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=B2moEoJphiLpcgexuukbCA&_nc_ss=70689&oh=00_AQN9w2GMFJCeBvfhEY1A9DVKBJWu4MgQFpyhWq-lJ7UMcA&oe=6AD44BB8",
+        "total_posts": 283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8306419,
       "valor_atual": 8306366,
-      "hash_anterior": "14e173e9b304339c2e4b4a24849bd2b039d236bfd0d3ecf50ede926c300426a4",
-      "hash_atual": "6cb23c355e751a58f2873018b111f4e62dc342844633ef3fdde5c0c369fdf23c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -53,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1921,15 +2097,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MVdPbg_P3Rep1U6F_HsChg&_nc_ss=70689&oh=00_AQP2B2rAC79rZs3U9p9b4EnQt9tBbq5ErqEwC6dcIe2Nrg&oe=6AD44BB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MVdPbg_P3Rep1U6F_HsChg&_nc_ss=70689&oh=00_AQP2B2rAC79rZs3U9p9b4EnQt9tBbq5ErqEwC6dcIe2Nrg&oe=6AD44BB8",
+        "total_posts": 283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8310228,
       "valor_atual": 8306419,
-      "hash_anterior": "7d962fddc4ff253f7d0607d1a1f21e0540d91fe2de722caf4c123a322ae78415",
-      "hash_atual": "14e173e9b304339c2e4b4a24849bd2b039d236bfd0d3ecf50ede926c300426a4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3809,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1956,15 +2133,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MVdPbg_P3Rep1U6F_HsChg&_nc_ss=70689&oh=00_AQP2B2rAC79rZs3U9p9b4EnQt9tBbq5ErqEwC6dcIe2Nrg&oe=6AD44BB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MVdPbg_P3Rep1U6F_HsChg&_nc_ss=70689&oh=00_AQP2B2rAC79rZs3U9p9b4EnQt9tBbq5ErqEwC6dcIe2Nrg&oe=6AD44BB8",
+        "total_posts": 283
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4376,
       "valor_atual": 4375,
-      "hash_anterior": "7d962fddc4ff253f7d0607d1a1f21e0540d91fe2de722caf4c123a322ae78415",
-      "hash_atual": "14e173e9b304339c2e4b4a24849bd2b039d236bfd0d3ecf50ede926c300426a4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1991,15 +2169,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MVdPbg_P3Rep1U6F_HsChg&_nc_ss=70689&oh=00_AQP2B2rAC79rZs3U9p9b4EnQt9tBbq5ErqEwC6dcIe2Nrg&oe=6AD44BB8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oSbMpIaTGtsQ7kNvwHBrzOw&_nc_oc=Adoe8tEPJ9DCcNxmLWQjzyjojbgJboMqsj3K6S7vKeRXOKXWxpV_ScDu_VmeUCIF7_ZMoiZkzhPQBMiC4Lzis8KT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MVdPbg_P3Rep1U6F_HsChg&_nc_ss=70689&oh=00_AQP2B2rAC79rZs3U9p9b4EnQt9tBbq5ErqEwC6dcIe2Nrg&oe=6AD44BB8",
+        "total_posts": 283
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 281,
       "valor_atual": 283,
-      "hash_anterior": "7d962fddc4ff253f7d0607d1a1f21e0540d91fe2de722caf4c123a322ae78415",
-      "hash_atual": "14e173e9b304339c2e4b4a24849bd2b039d236bfd0d3ecf50ede926c300426a4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2010,7 +2189,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 281 para 283",
       "variacao_texto": "+2 posts"
     },
@@ -2026,15 +2205,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pJPoHT2YtKKf1aa1dLXcTA&_nc_ss=70689&oh=00_AQMsUsOHdXjiY8NTg7q10YM0EC6od999a5Mcr0YYZ1u4LQ&oe=6AD17078"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pJPoHT2YtKKf1aa1dLXcTA&_nc_ss=70689&oh=00_AQMsUsOHdXjiY8NTg7q10YM0EC6od999a5Mcr0YYZ1u4LQ&oe=6AD17078",
+        "total_posts": 281
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8311000,
       "valor_atual": 8310228,
-      "hash_anterior": "8a613acb476c778c8620d21bad2468e35dfbe0cd2fff5c7864a619a88ec4cb3f",
-      "hash_atual": "7d962fddc4ff253f7d0607d1a1f21e0540d91fe2de722caf4c123a322ae78415",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -772,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2061,15 +2241,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pJPoHT2YtKKf1aa1dLXcTA&_nc_ss=70689&oh=00_AQMsUsOHdXjiY8NTg7q10YM0EC6od999a5Mcr0YYZ1u4LQ&oe=6AD17078"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pJPoHT2YtKKf1aa1dLXcTA&_nc_ss=70689&oh=00_AQMsUsOHdXjiY8NTg7q10YM0EC6od999a5Mcr0YYZ1u4LQ&oe=6AD17078",
+        "total_posts": 281
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 280,
       "valor_atual": 281,
-      "hash_anterior": "8a613acb476c778c8620d21bad2468e35dfbe0cd2fff5c7864a619a88ec4cb3f",
-      "hash_atual": "7d962fddc4ff253f7d0607d1a1f21e0540d91fe2de722caf4c123a322ae78415",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2080,7 +2261,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 280 para 281",
       "variacao_texto": "+1 post"
     },
@@ -2096,15 +2277,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pju5onr40bzSGIk_Ln0-9A&_nc_ss=70689&oh=00_AQN7WzqCtv1jLRkZxHwlFi5ZbvhP2_yHCAxoF7Th5U8n_Q&oe=6AD05738"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pju5onr40bzSGIk_Ln0-9A&_nc_ss=70689&oh=00_AQN7WzqCtv1jLRkZxHwlFi5ZbvhP2_yHCAxoF7Th5U8n_Q&oe=6AD05738",
+        "total_posts": 280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8311023,
       "valor_atual": 8311000,
-      "hash_anterior": "a34d30132d272f25ca519e4f1d4b45f416fc0230703c2193925c8409c6390541",
-      "hash_atual": "8a613acb476c778c8620d21bad2468e35dfbe0cd2fff5c7864a619a88ec4cb3f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -23,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2131,15 +2313,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_uXIPx_DuFOtcOE70yFPHw&_nc_ss=70689&oh=00_AQOz9Zy3Lu3Ug4FcDkKKKT-8LJ_uUj9KOKcEeVbbw7OZMQ&oe=6AD05738"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_uXIPx_DuFOtcOE70yFPHw&_nc_ss=70689&oh=00_AQOz9Zy3Lu3Ug4FcDkKKKT-8LJ_uUj9KOKcEeVbbw7OZMQ&oe=6AD05738",
+        "total_posts": 280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8311067,
       "valor_atual": 8311023,
-      "hash_anterior": "cf00637c780ded6e4c78ee37438aff3881c7d10750968b0722bb4f7df522dbfa",
-      "hash_atual": "a34d30132d272f25ca519e4f1d4b45f416fc0230703c2193925c8409c6390541",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -44,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2166,15 +2349,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c2nejWptSui8RhOGs2jBxQ&_nc_ss=70689&oh=00_AQNVQZeQluy9FELy9N4tC3HMSSlEIuzFH9gXcK0Oe-_aBA&oe=6AD05738"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c2nejWptSui8RhOGs2jBxQ&_nc_ss=70689&oh=00_AQNVQZeQluy9FELy9N4tC3HMSSlEIuzFH9gXcK0Oe-_aBA&oe=6AD05738",
+        "total_posts": 280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8311108,
       "valor_atual": 8311067,
-      "hash_anterior": "b13502322df647722b76e7d27f55e072bf620d52897cf936b90997e9ba66a78b",
-      "hash_atual": "cf00637c780ded6e4c78ee37438aff3881c7d10750968b0722bb4f7df522dbfa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -41,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2201,15 +2385,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XG3TjK5r_G-72systXSWKg&_nc_ss=70689&oh=00_AQMDEeq3ZOmE2buyaOo-i1fd8D5vAQrE-Ue2WygqLZSZ-A&oe=6AD05738"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XG3TjK5r_G-72systXSWKg&_nc_ss=70689&oh=00_AQMDEeq3ZOmE2buyaOo-i1fd8D5vAQrE-Ue2WygqLZSZ-A&oe=6AD05738",
+        "total_posts": 280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8311547,
       "valor_atual": 8311108,
-      "hash_anterior": "b04bcec990638cedb15f5a982694f10823976922929a3cda592b03f2b7b3f58a",
-      "hash_atual": "b13502322df647722b76e7d27f55e072bf620d52897cf936b90997e9ba66a78b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -439,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2236,15 +2421,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XG3TjK5r_G-72systXSWKg&_nc_ss=70689&oh=00_AQMDEeq3ZOmE2buyaOo-i1fd8D5vAQrE-Ue2WygqLZSZ-A&oe=6AD05738"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XG3TjK5r_G-72systXSWKg&_nc_ss=70689&oh=00_AQMDEeq3ZOmE2buyaOo-i1fd8D5vAQrE-Ue2WygqLZSZ-A&oe=6AD05738",
+        "total_posts": 280
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4374,
       "valor_atual": 4376,
-      "hash_anterior": "b04bcec990638cedb15f5a982694f10823976922929a3cda592b03f2b7b3f58a",
-      "hash_atual": "b13502322df647722b76e7d27f55e072bf620d52897cf936b90997e9ba66a78b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2271,15 +2457,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XG3TjK5r_G-72systXSWKg&_nc_ss=70689&oh=00_AQMDEeq3ZOmE2buyaOo-i1fd8D5vAQrE-Ue2WygqLZSZ-A&oe=6AD05738"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHrc3_8&_nc_oc=AdpCR5FqasH1bSTQu0jO1NDnrK5wxRv2ynNOpSJk63L4lgacHjT2IjAi725p33RK8JkfysSftvqcuGNF4fwl9cX8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XG3TjK5r_G-72systXSWKg&_nc_ss=70689&oh=00_AQMDEeq3ZOmE2buyaOo-i1fd8D5vAQrE-Ue2WygqLZSZ-A&oe=6AD05738",
+        "total_posts": 280
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 279,
       "valor_atual": 280,
-      "hash_anterior": "b04bcec990638cedb15f5a982694f10823976922929a3cda592b03f2b7b3f58a",
-      "hash_atual": "b13502322df647722b76e7d27f55e072bf620d52897cf936b90997e9ba66a78b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2290,7 +2477,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 279 para 280",
       "variacao_texto": "+1 post"
     },
@@ -2306,15 +2493,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wvxy24JHV3pFBL25UR_QvQ&_nc_ss=70689&oh=00_AQM43QmYAH3gjWfnzrqMYI3D95mZxI6fCXCu-liSjZFVdQ&oe=6ACF7638"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wvxy24JHV3pFBL25UR_QvQ&_nc_ss=70689&oh=00_AQM43QmYAH3gjWfnzrqMYI3D95mZxI6fCXCu-liSjZFVdQ&oe=6ACF7638",
+        "total_posts": 279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8311501,
       "valor_atual": 8311547,
-      "hash_anterior": "f76bd91519f6a9ce493ac15dbc229d6d985166acb9dc0a214916496e98226a3b",
-      "hash_atual": "b04bcec990638cedb15f5a982694f10823976922929a3cda592b03f2b7b3f58a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 46,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2341,15 +2529,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wvxy24JHV3pFBL25UR_QvQ&_nc_ss=70689&oh=00_AQM43QmYAH3gjWfnzrqMYI3D95mZxI6fCXCu-liSjZFVdQ&oe=6ACF7638"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wvxy24JHV3pFBL25UR_QvQ&_nc_ss=70689&oh=00_AQM43QmYAH3gjWfnzrqMYI3D95mZxI6fCXCu-liSjZFVdQ&oe=6ACF7638",
+        "total_posts": 279
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4373,
       "valor_atual": 4374,
-      "hash_anterior": "f76bd91519f6a9ce493ac15dbc229d6d985166acb9dc0a214916496e98226a3b",
-      "hash_atual": "b04bcec990638cedb15f5a982694f10823976922929a3cda592b03f2b7b3f58a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2376,15 +2565,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LMkSQk08ioltpkxDd4l6yA&_nc_ss=70689&oh=00_AQPLUx7QLLyYMC7CHNiZr8zZmhVNoTuRgtdVz-8RF6oJOQ&oe=6ACF7638"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LMkSQk08ioltpkxDd4l6yA&_nc_ss=70689&oh=00_AQPLUx7QLLyYMC7CHNiZr8zZmhVNoTuRgtdVz-8RF6oJOQ&oe=6ACF7638",
+        "total_posts": 279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8312172,
       "valor_atual": 8311501,
-      "hash_anterior": "4d93dd0e05a31d7f82fccb0017121057f23bd7a0062c0ae4bf91c0df23004cc5",
-      "hash_atual": "f76bd91519f6a9ce493ac15dbc229d6d985166acb9dc0a214916496e98226a3b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -671,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2411,15 +2601,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LMkSQk08ioltpkxDd4l6yA&_nc_ss=70689&oh=00_AQPLUx7QLLyYMC7CHNiZr8zZmhVNoTuRgtdVz-8RF6oJOQ&oe=6ACF7638"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LMkSQk08ioltpkxDd4l6yA&_nc_ss=70689&oh=00_AQPLUx7QLLyYMC7CHNiZr8zZmhVNoTuRgtdVz-8RF6oJOQ&oe=6ACF7638",
+        "total_posts": 279
       },
       "tipo": "total_destaques",
       "campo": "total_destaques",
       "nome_campo": "Total de Destaques",
       "valor_anterior": 3,
       "valor_atual": 5,
-      "hash_anterior": "4d93dd0e05a31d7f82fccb0017121057f23bd7a0062c0ae4bf91c0df23004cc5",
-      "hash_atual": "f76bd91519f6a9ce493ac15dbc229d6d985166acb9dc0a214916496e98226a3b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2446,15 +2637,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LMkSQk08ioltpkxDd4l6yA&_nc_ss=70689&oh=00_AQPLUx7QLLyYMC7CHNiZr8zZmhVNoTuRgtdVz-8RF6oJOQ&oe=6ACF7638"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwHzsZWJ&_nc_oc=Adp5N-Sd4_QaH5POzvf0_pBsKIA9EArLXWqF_MZzFDzchM232H9XOqFtCVq4h7BtRLLE-vz0mInE4dXmGiu79h0k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LMkSQk08ioltpkxDd4l6yA&_nc_ss=70689&oh=00_AQPLUx7QLLyYMC7CHNiZr8zZmhVNoTuRgtdVz-8RF6oJOQ&oe=6ACF7638",
+        "total_posts": 279
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 278,
       "valor_atual": 279,
-      "hash_anterior": "4d93dd0e05a31d7f82fccb0017121057f23bd7a0062c0ae4bf91c0df23004cc5",
-      "hash_atual": "f76bd91519f6a9ce493ac15dbc229d6d985166acb9dc0a214916496e98226a3b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2465,7 +2657,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 278 para 279",
       "variacao_texto": "+1 post"
     },
@@ -2481,15 +2673,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwF5Qm4f&_nc_oc=Ado8C1oasgmstoxrVdoq-rtF4xwn1SGJm4sjfs9tFnGVWAPbfE7bp6sLL7NPcLEVy9GzRYbvc4L_BNKSa6dEJmsU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2N0GJz1Elu4mxw7cNXlzGA&_nc_ss=70689&oh=00_AQMG9yAocX75RaYqeYt_0xqHxDi2GDKPeE1NfKqANX8GeA&oe=6ACE9538"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwF5Qm4f&_nc_oc=Ado8C1oasgmstoxrVdoq-rtF4xwn1SGJm4sjfs9tFnGVWAPbfE7bp6sLL7NPcLEVy9GzRYbvc4L_BNKSa6dEJmsU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2N0GJz1Elu4mxw7cNXlzGA&_nc_ss=70689&oh=00_AQMG9yAocX75RaYqeYt_0xqHxDi2GDKPeE1NfKqANX8GeA&oe=6ACE9538",
+        "total_posts": 278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8312886,
       "valor_atual": 8312172,
-      "hash_anterior": "52fe4f8dc1d4c083e8fa0d780f972e19d9d55e369815fe4207420b04b04d95c9",
-      "hash_atual": "4d93dd0e05a31d7f82fccb0017121057f23bd7a0062c0ae4bf91c0df23004cc5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -714,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2516,15 +2709,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwF5Qm4f&_nc_oc=Ado8C1oasgmstoxrVdoq-rtF4xwn1SGJm4sjfs9tFnGVWAPbfE7bp6sLL7NPcLEVy9GzRYbvc4L_BNKSa6dEJmsU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2N0GJz1Elu4mxw7cNXlzGA&_nc_ss=70689&oh=00_AQMG9yAocX75RaYqeYt_0xqHxDi2GDKPeE1NfKqANX8GeA&oe=6ACE9538"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LKx_kprt-sAQ7kNvwF5Qm4f&_nc_oc=Ado8C1oasgmstoxrVdoq-rtF4xwn1SGJm4sjfs9tFnGVWAPbfE7bp6sLL7NPcLEVy9GzRYbvc4L_BNKSa6dEJmsU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2N0GJz1Elu4mxw7cNXlzGA&_nc_ss=70689&oh=00_AQMG9yAocX75RaYqeYt_0xqHxDi2GDKPeE1NfKqANX8GeA&oe=6ACE9538",
+        "total_posts": 278
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4374,
       "valor_atual": 4373,
-      "hash_anterior": "52fe4f8dc1d4c083e8fa0d780f972e19d9d55e369815fe4207420b04b04d95c9",
-      "hash_atual": "4d93dd0e05a31d7f82fccb0017121057f23bd7a0062c0ae4bf91c0df23004cc5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2551,15 +2745,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwHCcZ_P&_nc_oc=AdoNyuIKQ1ud_EvVo6QFJo_s2_Ad9k4GdbRzRQ4sTHR9sUMdj9AirC8lB0QE67_0CclS9FlDANitJjo8B6xE1FVH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kC6uw-yxwGzyEvpg_QnjBA&_nc_ss=70689&oh=00_AQM7jn78_VBo3COnetwykKCQ4KUwzBcseCN7ng-oRNOwlQ&oe=6ACDEC78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwHCcZ_P&_nc_oc=AdoNyuIKQ1ud_EvVo6QFJo_s2_Ad9k4GdbRzRQ4sTHR9sUMdj9AirC8lB0QE67_0CclS9FlDANitJjo8B6xE1FVH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kC6uw-yxwGzyEvpg_QnjBA&_nc_ss=70689&oh=00_AQM7jn78_VBo3COnetwykKCQ4KUwzBcseCN7ng-oRNOwlQ&oe=6ACDEC78",
+        "total_posts": 278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8313812,
       "valor_atual": 8312886,
-      "hash_anterior": "e6c697bb1db27ae44e5d491a875246cf8294afc05694e05193b39764dab8a878",
-      "hash_atual": "52fe4f8dc1d4c083e8fa0d780f972e19d9d55e369815fe4207420b04b04d95c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -926,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2586,15 +2781,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwHCcZ_P&_nc_oc=AdoNyuIKQ1ud_EvVo6QFJo_s2_Ad9k4GdbRzRQ4sTHR9sUMdj9AirC8lB0QE67_0CclS9FlDANitJjo8B6xE1FVH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kC6uw-yxwGzyEvpg_QnjBA&_nc_ss=70689&oh=00_AQM7jn78_VBo3COnetwykKCQ4KUwzBcseCN7ng-oRNOwlQ&oe=6ACDEC78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwHCcZ_P&_nc_oc=AdoNyuIKQ1ud_EvVo6QFJo_s2_Ad9k4GdbRzRQ4sTHR9sUMdj9AirC8lB0QE67_0CclS9FlDANitJjo8B6xE1FVH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kC6uw-yxwGzyEvpg_QnjBA&_nc_ss=70689&oh=00_AQM7jn78_VBo3COnetwykKCQ4KUwzBcseCN7ng-oRNOwlQ&oe=6ACDEC78",
+        "total_posts": 278
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4373,
       "valor_atual": 4374,
-      "hash_anterior": "e6c697bb1db27ae44e5d491a875246cf8294afc05694e05193b39764dab8a878",
-      "hash_atual": "52fe4f8dc1d4c083e8fa0d780f972e19d9d55e369815fe4207420b04b04d95c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2621,15 +2817,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwHCcZ_P&_nc_oc=AdoNyuIKQ1ud_EvVo6QFJo_s2_Ad9k4GdbRzRQ4sTHR9sUMdj9AirC8lB0QE67_0CclS9FlDANitJjo8B6xE1FVH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kC6uw-yxwGzyEvpg_QnjBA&_nc_ss=70689&oh=00_AQM7jn78_VBo3COnetwykKCQ4KUwzBcseCN7ng-oRNOwlQ&oe=6ACDEC78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwHCcZ_P&_nc_oc=AdoNyuIKQ1ud_EvVo6QFJo_s2_Ad9k4GdbRzRQ4sTHR9sUMdj9AirC8lB0QE67_0CclS9FlDANitJjo8B6xE1FVH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kC6uw-yxwGzyEvpg_QnjBA&_nc_ss=70689&oh=00_AQM7jn78_VBo3COnetwykKCQ4KUwzBcseCN7ng-oRNOwlQ&oe=6ACDEC78",
+        "total_posts": 278
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 275,
       "valor_atual": 278,
-      "hash_anterior": "e6c697bb1db27ae44e5d491a875246cf8294afc05694e05193b39764dab8a878",
-      "hash_atual": "52fe4f8dc1d4c083e8fa0d780f972e19d9d55e369815fe4207420b04b04d95c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2640,7 +2837,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 275 para 278",
       "variacao_texto": "+3 posts"
     },
@@ -2656,15 +2853,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwEuGm_O&_nc_oc=AdrHpWchY8FuL_5JbNz713yZLOgMRYEu8KhkW8CeDqgVB9DHVt0cruSs3PlhQbtirOq6usFJOvaPebvDPS5-BnaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Vn3OBWK4vD7pKjP2pUNI1Q&_nc_ss=70689&oh=00_AQN3Ywm1RK09v2xwAvRIrN3cmZV-oV6f1D2CjHn61SVn8A&oe=6ACD43B8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwEuGm_O&_nc_oc=AdrHpWchY8FuL_5JbNz713yZLOgMRYEu8KhkW8CeDqgVB9DHVt0cruSs3PlhQbtirOq6usFJOvaPebvDPS5-BnaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Vn3OBWK4vD7pKjP2pUNI1Q&_nc_ss=70689&oh=00_AQN3Ywm1RK09v2xwAvRIrN3cmZV-oV6f1D2CjHn61SVn8A&oe=6ACD43B8",
+        "total_posts": 275
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8314465,
       "valor_atual": 8313812,
-      "hash_anterior": "ebe429cdce722b7ac3acc6ce592d50df9354ee61e1d34fc0816fd1b5f9bb2209",
-      "hash_atual": "e6c697bb1db27ae44e5d491a875246cf8294afc05694e05193b39764dab8a878",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -653,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2691,15 +2889,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwEuGm_O&_nc_oc=AdrHpWchY8FuL_5JbNz713yZLOgMRYEu8KhkW8CeDqgVB9DHVt0cruSs3PlhQbtirOq6usFJOvaPebvDPS5-BnaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Vn3OBWK4vD7pKjP2pUNI1Q&_nc_ss=70689&oh=00_AQN3Ywm1RK09v2xwAvRIrN3cmZV-oV6f1D2CjHn61SVn8A&oe=6ACD43B8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwEuGm_O&_nc_oc=AdrHpWchY8FuL_5JbNz713yZLOgMRYEu8KhkW8CeDqgVB9DHVt0cruSs3PlhQbtirOq6usFJOvaPebvDPS5-BnaC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Vn3OBWK4vD7pKjP2pUNI1Q&_nc_ss=70689&oh=00_AQN3Ywm1RK09v2xwAvRIrN3cmZV-oV6f1D2CjHn61SVn8A&oe=6ACD43B8",
+        "total_posts": 275
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 274,
       "valor_atual": 275,
-      "hash_anterior": "ebe429cdce722b7ac3acc6ce592d50df9354ee61e1d34fc0816fd1b5f9bb2209",
-      "hash_atual": "e6c697bb1db27ae44e5d491a875246cf8294afc05694e05193b39764dab8a878",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2710,7 +2909,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 274 para 275",
       "variacao_texto": "+1 post"
     },
@@ -2726,15 +2925,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGxKG9a&_nc_oc=AdoqMv1N5MoTmsM6zoPXS_WqqLRv5l2ODNx5nj-LftDjMXRicEHLHN0UO1elQo28v-7zO-yaNlJkAOQJtMxIYt-n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QyjnGKV7dQ7u2YTGdV0gkQ&_nc_ss=70689&oh=00_AQMh6JYTt3IPX2WstYPEzetaTnrGc6hEpY62ktAziIDsSg&oe=6ACC9AF8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGxKG9a&_nc_oc=AdoqMv1N5MoTmsM6zoPXS_WqqLRv5l2ODNx5nj-LftDjMXRicEHLHN0UO1elQo28v-7zO-yaNlJkAOQJtMxIYt-n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QyjnGKV7dQ7u2YTGdV0gkQ&_nc_ss=70689&oh=00_AQMh6JYTt3IPX2WstYPEzetaTnrGc6hEpY62ktAziIDsSg&oe=6ACC9AF8",
+        "total_posts": 274
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8315724,
       "valor_atual": 8314465,
-      "hash_anterior": "e1486a2d5612fdc4a10ded18dd2f07fbc91143840dc1c85858c049dd513a8966",
-      "hash_atual": "ebe429cdce722b7ac3acc6ce592d50df9354ee61e1d34fc0816fd1b5f9bb2209",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1259,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2761,15 +2961,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGqXtAJ&_nc_oc=AdoFdkq3s6M8rSJ3Ve-vunPG7IhoLsNPiZbtZjJlLWX_4A6vSFdme-zoR4y5MP86t4UxJFm_Kzf6CHCgC0p3vK_r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T4s9LlRR-HqKohVye-LpuQ&_nc_ss=70689&oh=00_AQOIrLATWaogaVYe5WKnzTDY09esP1cF_L5IgjwEqeEu4A&oe=6ACC2A78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGqXtAJ&_nc_oc=AdoFdkq3s6M8rSJ3Ve-vunPG7IhoLsNPiZbtZjJlLWX_4A6vSFdme-zoR4y5MP86t4UxJFm_Kzf6CHCgC0p3vK_r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T4s9LlRR-HqKohVye-LpuQ&_nc_ss=70689&oh=00_AQOIrLATWaogaVYe5WKnzTDY09esP1cF_L5IgjwEqeEu4A&oe=6ACC2A78",
+        "total_posts": 274
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8316879,
       "valor_atual": 8315724,
-      "hash_anterior": "bea21080f06e2e3e1b78211ac18a15a4c669a63f9180b3344630353c8a56c8f6",
-      "hash_atual": "e1486a2d5612fdc4a10ded18dd2f07fbc91143840dc1c85858c049dd513a8966",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1155,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2796,15 +2997,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGqXtAJ&_nc_oc=AdoFdkq3s6M8rSJ3Ve-vunPG7IhoLsNPiZbtZjJlLWX_4A6vSFdme-zoR4y5MP86t4UxJFm_Kzf6CHCgC0p3vK_r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T4s9LlRR-HqKohVye-LpuQ&_nc_ss=70689&oh=00_AQOIrLATWaogaVYe5WKnzTDY09esP1cF_L5IgjwEqeEu4A&oe=6ACC2A78"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGqXtAJ&_nc_oc=AdoFdkq3s6M8rSJ3Ve-vunPG7IhoLsNPiZbtZjJlLWX_4A6vSFdme-zoR4y5MP86t4UxJFm_Kzf6CHCgC0p3vK_r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T4s9LlRR-HqKohVye-LpuQ&_nc_ss=70689&oh=00_AQOIrLATWaogaVYe5WKnzTDY09esP1cF_L5IgjwEqeEu4A&oe=6ACC2A78",
+        "total_posts": 274
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 273,
       "valor_atual": 274,
-      "hash_anterior": "bea21080f06e2e3e1b78211ac18a15a4c669a63f9180b3344630353c8a56c8f6",
-      "hash_atual": "e1486a2d5612fdc4a10ded18dd2f07fbc91143840dc1c85858c049dd513a8966",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2815,7 +3017,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 273 para 274",
       "variacao_texto": "+1 post"
     },
@@ -2831,15 +3033,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGcirah&_nc_oc=AdqpFkKUZvlk2cFbYseK1ve03lHsx650zESdAHnnwrskwm6yUUqu3rsUjMElrTGTJMdo6XXZpW4qQxXd1g5_tlyK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bova27xnR3u8MnjGlq45_Q&_nc_ss=70689&oh=00_AQNYLBZBF0HxcmFAaVSz2zMSlTTi_aGW8uIZxqQNv8-t9w&oe=6ACB81B8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGcirah&_nc_oc=AdqpFkKUZvlk2cFbYseK1ve03lHsx650zESdAHnnwrskwm6yUUqu3rsUjMElrTGTJMdo6XXZpW4qQxXd1g5_tlyK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bova27xnR3u8MnjGlq45_Q&_nc_ss=70689&oh=00_AQNYLBZBF0HxcmFAaVSz2zMSlTTi_aGW8uIZxqQNv8-t9w&oe=6ACB81B8",
+        "total_posts": 273
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8317194,
       "valor_atual": 8316879,
-      "hash_anterior": "7a171634256300ce6e0f413cb945cbb17a87e566f28dab5258ec65d33aad93de",
-      "hash_atual": "bea21080f06e2e3e1b78211ac18a15a4c669a63f9180b3344630353c8a56c8f6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -315,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2866,15 +3069,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGcirah&_nc_oc=AdqpFkKUZvlk2cFbYseK1ve03lHsx650zESdAHnnwrskwm6yUUqu3rsUjMElrTGTJMdo6XXZpW4qQxXd1g5_tlyK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9iwiQHgbj-Th_617-QHDRg&_nc_ss=70689&oh=00_AQN5KIWhWBYqvr0BtKdGgBCUN5_n6N1rlQhIctj-ggkAdw&oe=6ACB4978"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwGcirah&_nc_oc=AdqpFkKUZvlk2cFbYseK1ve03lHsx650zESdAHnnwrskwm6yUUqu3rsUjMElrTGTJMdo6XXZpW4qQxXd1g5_tlyK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9iwiQHgbj-Th_617-QHDRg&_nc_ss=70689&oh=00_AQN5KIWhWBYqvr0BtKdGgBCUN5_n6N1rlQhIctj-ggkAdw&oe=6ACB4978",
+        "total_posts": 273
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8317472,
       "valor_atual": 8317194,
-      "hash_anterior": "cc0c70107ce6f2dd6418eb4a8df2e7e8f8d7ebaf898da348d10bf591b6b3d28d",
-      "hash_atual": "7a171634256300ce6e0f413cb945cbb17a87e566f28dab5258ec65d33aad93de",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -278,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2901,15 +3105,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwG7SUCc&_nc_oc=AdpfZ1eAsUD_JsgjmUmfY4iu9O-hOxBlwRrb3BxCHInDcgnA8kt9eNMeaip0qr3ymUGan3r3ljitcZmNnr2EKFHj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OwtUf_srgDIZOVuhGGdwFg&_nc_ss=70689&oh=00_AQPkvltztrA8WsdfZrMoGLj7J0luHLWVUXgtXffF0PFKqQ&oe=6ACB1138"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwG7SUCc&_nc_oc=AdpfZ1eAsUD_JsgjmUmfY4iu9O-hOxBlwRrb3BxCHInDcgnA8kt9eNMeaip0qr3ymUGan3r3ljitcZmNnr2EKFHj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OwtUf_srgDIZOVuhGGdwFg&_nc_ss=70689&oh=00_AQPkvltztrA8WsdfZrMoGLj7J0luHLWVUXgtXffF0PFKqQ&oe=6ACB1138",
+        "total_posts": 273
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8320013,
       "valor_atual": 8317472,
-      "hash_anterior": "278226b4c5d30c02e8b0a45574274780697f378697871b0cdc1fa1a17260b91a",
-      "hash_atual": "cc0c70107ce6f2dd6418eb4a8df2e7e8f8d7ebaf898da348d10bf591b6b3d28d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2541,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2936,15 +3141,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwG7SUCc&_nc_oc=AdpfZ1eAsUD_JsgjmUmfY4iu9O-hOxBlwRrb3BxCHInDcgnA8kt9eNMeaip0qr3ymUGan3r3ljitcZmNnr2EKFHj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OwtUf_srgDIZOVuhGGdwFg&_nc_ss=70689&oh=00_AQPkvltztrA8WsdfZrMoGLj7J0luHLWVUXgtXffF0PFKqQ&oe=6ACB1138"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=duIkKTWcV2oQ7kNvwG7SUCc&_nc_oc=AdpfZ1eAsUD_JsgjmUmfY4iu9O-hOxBlwRrb3BxCHInDcgnA8kt9eNMeaip0qr3ymUGan3r3ljitcZmNnr2EKFHj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OwtUf_srgDIZOVuhGGdwFg&_nc_ss=70689&oh=00_AQPkvltztrA8WsdfZrMoGLj7J0luHLWVUXgtXffF0PFKqQ&oe=6ACB1138",
+        "total_posts": 273
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 272,
       "valor_atual": 273,
-      "hash_anterior": "278226b4c5d30c02e8b0a45574274780697f378697871b0cdc1fa1a17260b91a",
-      "hash_atual": "cc0c70107ce6f2dd6418eb4a8df2e7e8f8d7ebaf898da348d10bf591b6b3d28d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2955,7 +3161,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 272 para 273",
       "variacao_texto": "+1 post"
     },
@@ -2971,15 +3177,16 @@
         "id": "17841400411004977",
         "username": "jottape",
         "nome": "Jottapê",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0VUiPSogbhQQ7kNvwH3H7kP&_nc_oc=Adr6nuA9zgX30UrnSE64TqOyuaWr8k_bX0brwnQowGUiYiprps1s304SgBEaP_NmRprmRfqfX2kJPjWiXsQpRwWZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TbPcQufbeXmg1e5wZoib6A&_nc_ss=70689&oh=00_AQPGGr5v5S3Fj9sHCIqavyXqhLpokbUDjf7IoJVdnGBFtQ&oe=6AC9F7F8"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/808192557_18624311869013701_4149878385318792731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0VUiPSogbhQQ7kNvwH3H7kP&_nc_oc=Adr6nuA9zgX30UrnSE64TqOyuaWr8k_bX0brwnQowGUiYiprps1s304SgBEaP_NmRprmRfqfX2kJPjWiXsQpRwWZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TbPcQufbeXmg1e5wZoib6A&_nc_ss=70689&oh=00_AQPGGr5v5S3Fj9sHCIqavyXqhLpokbUDjf7IoJVdnGBFtQ&oe=6AC9F7F8",
+        "total_posts": 272
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 8320236,
       "valor_atual": 8320013,
-      "hash_anterior": "b9627390e02c8eaf6298d7424b3b4c1d6223b04c4a85389cc3468211b7c7e597",
-      "hash_atual": "278226b4c5d30c02e8b0a45574274780697f378697871b0cdc1fa1a17260b91a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -223,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2998,34 +3205,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:15:53.915814",
-    "captura_mais_recente": "2026-11-03T12:21:14.907271",
-    "tempo_total_segundos": 2480720,
-    "tempo_total_dias": 28.712037,
-    "tempo_total_texto": "28 dias, 17 horas, 5 minutos e 20 segundos",
+    "captura_mais_recente": "2026-11-19T16:27:44.841624",
+    "tempo_total_segundos": 3877910,
+    "tempo_total_dias": 44.883218,
+    "tempo_total_texto": "44 dias, 21 horas, 11 minutos e 50 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -21929,
+    "1_dias": {
+      "variacao": -7883,
       "direcao": "perdeu",
-      "quantidade": 21929,
-      "texto": "Perdeu 21929 seguidores",
+      "quantidade": 7883,
+      "texto": "Perdeu 7883 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:03:15.531256",
-      "captura_fim": "2026-11-03T12:21:14.907271",
-      "seguidores_inicio": 8293405,
-      "seguidores_fim": 8271476
+      "captura_inicio": "2026-11-03T12:21:14.907271",
+      "captura_fim": "2026-11-19T16:27:44.841624",
+      "seguidores_inicio": 8271476,
+      "seguidores_fim": 8263593
+    },
+    "7_dias": {
+      "variacao": -7883,
+      "direcao": "perdeu",
+      "quantidade": 7883,
+      "texto": "Perdeu 7883 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:21:14.907271",
+      "captura_fim": "2026-11-19T16:27:44.841624",
+      "seguidores_inicio": 8271476,
+      "seguidores_fim": 8263593
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -39400,
+      "direcao": "perdeu",
+      "quantidade": 39400,
+      "texto": "Perdeu 39400 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:26:56.646890",
+      "captura_fim": "2026-11-19T16:27:44.841624",
+      "seguidores_inicio": 8302993,
+      "seguidores_fim": 8263593
     },
     "90_dias": {
       "variacao": null,
@@ -3036,17 +3259,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -48760,
+      "variacao": -56643,
       "direcao": "perdeu",
-      "quantidade": 48760,
-      "texto": "Perdeu 48760 seguidores",
+      "quantidade": 56643,
+      "texto": "Perdeu 56643 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:15:53.915814",
-      "captura_mais_recente": "2026-11-03T12:21:14.907271",
-      "tempo_total_dias": 28.712049,
+      "captura_mais_recente": "2026-11-19T16:27:44.841624",
+      "tempo_total_dias": 44.883228,
       "seguidores_inicio": 8320236,
-      "seguidores_fim": 8271476
+      "seguidores_fim": 8263593
     }
   }
 }

@@ -8,7 +8,8 @@
       "id": "17841400762870368",
       "username": "wesleysafadao",
       "nome": "Wesley Safadão",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ye7Y5OEnJ1uf9fkxsYqMtA&_nc_ss=70689&oh=00_AQS8AvuapcK8N6U_2Siphk7PsghIxJfjS2cOjq2KYymXFQ&oe=6AEFD7F2"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=obkvqJxX7o0Q7kNvwEExAyN&_nc_oc=Ado2nBAxzK4kd5N8M2wWkqX6pBOTIoPMTUFcpp-iigH-7XrcnaskRG917VlHivRIYXseWUAsaQVdy2IfTJVB9ZWN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cOKImB77TOtvLEoJSSFjYw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSOyNJOtORtFDXlpG5UlU_ADrNQzBlgC1cTm5NlN_I7qg&oe=6B052832",
+      "total_posts": 0
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "🎵 Ouça agora “Displicente”👇",
-        "timestamp": "2026-10-05T20:40:37.519826",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "cantores",
-        "valor_atual": "cantor",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"cantores\" para \"cantor\"",
-        "timestamp": "2026-10-05T20:54:38.895085",
-        "timestamp_anterior": "2026-10-05T20:40:37.519826",
-        "tempo_desde_anterior_segundos": 841
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "cantores",
         "timestamp": "2026-10-05T20:40:37.519826",
         "tipo": "inicial"
       }
@@ -98,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 39723797,
+        "valor_atual": 39729045,
+        "variacao": 5248,
+        "direcao": "aumento",
+        "descricao": "+5248 seguidores",
+        "timestamp": "2026-11-19T16:32:24.766409",
+        "timestamp_anterior": "2026-11-03T12:24:12.497657",
+        "tempo_desde_anterior_segundos": 1397292
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -970,6 +961,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 1054,
+        "valor_atual": 1062,
+        "variacao": 8,
+        "direcao": "aumento",
+        "descricao": "Seguiu +8",
+        "timestamp": "2026-11-19T16:32:24.766409",
+        "timestamp_anterior": "2026-11-03T12:11:05.106672",
+        "tempo_desde_anterior_segundos": 1398079
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 1052,
         "valor_atual": 1054,
         "variacao": 2,
@@ -1115,9 +1119,91 @@
         "timestamp": "2026-10-05T20:40:37.519826",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "cantor",
+        "timestamp": "2026-10-05T20:40:37.519826",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:32:24.766409",
+      "timestamp_anterior": "2026-11-03T12:24:12.497657",
+      "timestamp_atual": "2026-11-19T16:32:24.766409",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 23577429,
+        "id": "17841400762870368",
+        "username": "wesleysafadao",
+        "nome": "Wesley Safadão",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=obkvqJxX7o0Q7kNvwEExAyN&_nc_oc=Ado2nBAxzK4kd5N8M2wWkqX6pBOTIoPMTUFcpp-iigH-7XrcnaskRG917VlHivRIYXseWUAsaQVdy2IfTJVB9ZWN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cOKImB77TOtvLEoJSSFjYw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSOyNJOtORtFDXlpG5UlU_ADrNQzBlgC1cTm5NlN_I7qg&oe=6B052832",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 39723797,
+      "valor_atual": 39729045,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 5248,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397292.268752,
+        "texto": "16 dias e 4 horas e 8 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397292.268752,
+        "texto": "16 dias e 4 horas e 8 minutos e 12 segundos"
+      },
+      "titulo": "Ganhou 5.248 seguidores",
+      "descricao": "Os seguidores passaram de 39.723.797 para 39.729.045",
+      "variacao_texto": "+5.248 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:32:24.766409",
+      "timestamp_anterior": "2026-11-03T12:24:12.497657",
+      "timestamp_atual": "2026-11-19T16:32:24.766409",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 23577429,
+        "id": "17841400762870368",
+        "username": "wesleysafadao",
+        "nome": "Wesley Safadão",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=obkvqJxX7o0Q7kNvwEExAyN&_nc_oc=Ado2nBAxzK4kd5N8M2wWkqX6pBOTIoPMTUFcpp-iigH-7XrcnaskRG917VlHivRIYXseWUAsaQVdy2IfTJVB9ZWN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cOKImB77TOtvLEoJSSFjYw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSOyNJOtORtFDXlpG5UlU_ADrNQzBlgC1cTm5NlN_I7qg&oe=6B052832",
+        "total_posts": 0
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1054,
+      "valor_atual": 1062,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 8,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397292.268752,
+        "texto": "16 dias e 4 horas e 8 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 8 pessoas",
+      "descricao": "Estava seguindo 1.054 e passou a seguir 1.062",
+      "variacao_texto": "+8 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:24:12.497657",
@@ -1130,15 +1216,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ye7Y5OEnJ1uf9fkxsYqMtA&_nc_ss=70689&oh=00_AQS8AvuapcK8N6U_2Siphk7PsghIxJfjS2cOjq2KYymXFQ&oe=6AEFD7F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ye7Y5OEnJ1uf9fkxsYqMtA&_nc_ss=70689&oh=00_AQS8AvuapcK8N6U_2Siphk7PsghIxJfjS2cOjq2KYymXFQ&oe=6AEFD7F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39723798,
       "valor_atual": 39723797,
-      "hash_anterior": "ed86af934090ebcc7eafd505840864183c3c77ac1912b4168577f67308113e6d",
-      "hash_atual": "e460fafece676b81f8e9c64e01f4d590df0e87ed4bb10971972457dd0c3297ee",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1165,15 +1252,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-KCJyg8HxbablZfKA8NO6A&_nc_ss=70689&oh=00_AQQA-ysEv_zfMxtEGGJ32N92iiE5ba1iPWeX_dLps98llA&oe=6AEFD7F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-KCJyg8HxbablZfKA8NO6A&_nc_ss=70689&oh=00_AQQA-ysEv_zfMxtEGGJ32N92iiE5ba1iPWeX_dLps98llA&oe=6AEFD7F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39723800,
       "valor_atual": 39723798,
-      "hash_anterior": "ffd7df48a8245e4ddcf4ec4b6cf28f9a68e851ad1e355f6378e1dfb6114457c0",
-      "hash_atual": "ed86af934090ebcc7eafd505840864183c3c77ac1912b4168577f67308113e6d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1200,15 +1288,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ziiAu5axTpu3vQiI3iEgZw&_nc_ss=70689&oh=00_AQSThBcrU06NfUBI-tClntXlCjf9JT_iA0lXlGjlQWtkHw&oe=6AEFD7F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ziiAu5axTpu3vQiI3iEgZw&_nc_ss=70689&oh=00_AQSThBcrU06NfUBI-tClntXlCjf9JT_iA0lXlGjlQWtkHw&oe=6AEFD7F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39723806,
       "valor_atual": 39723800,
-      "hash_anterior": "b9d556d808093fc08a6858f2f7df1df5c6a48774f81aa2b70ac898a0d4011bf5",
-      "hash_atual": "ffd7df48a8245e4ddcf4ec4b6cf28f9a68e851ad1e355f6378e1dfb6114457c0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1235,15 +1324,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qmazWh199a8NDgVMGsYcJA&_nc_ss=70689&oh=00_AQStTxzUsYaoIeNsipV7VKTarsfhOoBi7wa2cz0bbu-jfw&oe=6AEFD7F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qmazWh199a8NDgVMGsYcJA&_nc_ss=70689&oh=00_AQStTxzUsYaoIeNsipV7VKTarsfhOoBi7wa2cz0bbu-jfw&oe=6AEFD7F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39723805,
       "valor_atual": 39723806,
-      "hash_anterior": "8e676ee3af25b7daf7634957e98c4fa978b4b52d0a35577c7b20695729afde6d",
-      "hash_atual": "b9d556d808093fc08a6858f2f7df1df5c6a48774f81aa2b70ac898a0d4011bf5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1270,15 +1360,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qkaZak8RvQxFN2gdCMfefA&_nc_ss=70689&oh=00_AQSfmri2ZyWQolLIBLLkI0rQ-mNfrxqV19fPXQs_Y-Og_A&oe=6AEFD7F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qkaZak8RvQxFN2gdCMfefA&_nc_ss=70689&oh=00_AQSfmri2ZyWQolLIBLLkI0rQ-mNfrxqV19fPXQs_Y-Og_A&oe=6AEFD7F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39724138,
       "valor_atual": 39723805,
-      "hash_anterior": "21ba8493c531c030200afd6363b88e7cb6d4b42844cdc67ae0dd89092dae2360",
-      "hash_atual": "8e676ee3af25b7daf7634957e98c4fa978b4b52d0a35577c7b20695729afde6d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -333,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1305,15 +1396,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qkaZak8RvQxFN2gdCMfefA&_nc_ss=70689&oh=00_AQSfmri2ZyWQolLIBLLkI0rQ-mNfrxqV19fPXQs_Y-Og_A&oe=6AEFD7F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFzeEyiWZLvCqBRCAHQ90KtjlrV1bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=XvigR9EC4woQ7kNvwGwsf0c&_nc_oc=AdoDcx-yUEXrIw5Yes6IHRCWvHJsRQVitjX3ZGseirQPMSt87Di6QKLROZXOZmva75bslOtPgRXv7yBJDzPflGUp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qkaZak8RvQxFN2gdCMfefA&_nc_ss=70689&oh=00_AQSfmri2ZyWQolLIBLLkI0rQ-mNfrxqV19fPXQs_Y-Og_A&oe=6AEFD7F2",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1052,
       "valor_atual": 1054,
-      "hash_anterior": "21ba8493c531c030200afd6363b88e7cb6d4b42844cdc67ae0dd89092dae2360",
-      "hash_atual": "8e676ee3af25b7daf7634957e98c4fa978b4b52d0a35577c7b20695729afde6d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1340,15 +1432,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=hW6zUvrNnnEQ7kNvwE7S2j4&_nc_oc=AdqGGJqoazZpU526IalX9JUIrZQDF0yNClTvcCyhApTA8bSEP5edNK4itKAkursoCSwRcMNinMXcFmBML1qTVQvg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wcCFzzOcydUhyMpgJkQKbQ&_nc_ss=70689&oh=00_AQQBVhtrBRFXIcXetWuRyajVJXazf3mOOrLBc1FDiYXUsg&oe=6AEB0272"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=hW6zUvrNnnEQ7kNvwE7S2j4&_nc_oc=AdqGGJqoazZpU526IalX9JUIrZQDF0yNClTvcCyhApTA8bSEP5edNK4itKAkursoCSwRcMNinMXcFmBML1qTVQvg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wcCFzzOcydUhyMpgJkQKbQ&_nc_ss=70689&oh=00_AQQBVhtrBRFXIcXetWuRyajVJXazf3mOOrLBc1FDiYXUsg&oe=6AEB0272",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39724142,
       "valor_atual": 39724138,
-      "hash_anterior": "d931383bc37156eecd1a2c5df75fb3e3b3f5eff4dcd28affc39ef4fd5f809113",
-      "hash_atual": "21ba8493c531c030200afd6363b88e7cb6d4b42844cdc67ae0dd89092dae2360",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1375,15 +1468,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=hW6zUvrNnnEQ7kNvwE7S2j4&_nc_oc=AdqGGJqoazZpU526IalX9JUIrZQDF0yNClTvcCyhApTA8bSEP5edNK4itKAkursoCSwRcMNinMXcFmBML1qTVQvg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PWMTu58ftoaXZqfVypNFGw&_nc_ss=70689&oh=00_AQT_jZHc5pMG8BboxGU9X-Uo05gTZcyCINr1Ano_0TdwYQ&oe=6AEB0272"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=hW6zUvrNnnEQ7kNvwE7S2j4&_nc_oc=AdqGGJqoazZpU526IalX9JUIrZQDF0yNClTvcCyhApTA8bSEP5edNK4itKAkursoCSwRcMNinMXcFmBML1qTVQvg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PWMTu58ftoaXZqfVypNFGw&_nc_ss=70689&oh=00_AQT_jZHc5pMG8BboxGU9X-Uo05gTZcyCINr1Ano_0TdwYQ&oe=6AEB0272",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39759002,
       "valor_atual": 39724142,
-      "hash_anterior": "9bdb56904208244ae9e50db4ecfe339e433d618f39cefbe23e9c8582b0e6af3b",
-      "hash_atual": "d931383bc37156eecd1a2c5df75fb3e3b3f5eff4dcd28affc39ef4fd5f809113",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -34860,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1410,15 +1504,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=hW6zUvrNnnEQ7kNvwE7S2j4&_nc_oc=AdqGGJqoazZpU526IalX9JUIrZQDF0yNClTvcCyhApTA8bSEP5edNK4itKAkursoCSwRcMNinMXcFmBML1qTVQvg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PWMTu58ftoaXZqfVypNFGw&_nc_ss=70689&oh=00_AQT_jZHc5pMG8BboxGU9X-Uo05gTZcyCINr1Ano_0TdwYQ&oe=6AEB0272"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=hW6zUvrNnnEQ7kNvwE7S2j4&_nc_oc=AdqGGJqoazZpU526IalX9JUIrZQDF0yNClTvcCyhApTA8bSEP5edNK4itKAkursoCSwRcMNinMXcFmBML1qTVQvg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PWMTu58ftoaXZqfVypNFGw&_nc_ss=70689&oh=00_AQT_jZHc5pMG8BboxGU9X-Uo05gTZcyCINr1Ano_0TdwYQ&oe=6AEB0272",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1050,
       "valor_atual": 1052,
-      "hash_anterior": "9bdb56904208244ae9e50db4ecfe339e433d618f39cefbe23e9c8582b0e6af3b",
-      "hash_atual": "d931383bc37156eecd1a2c5df75fb3e3b3f5eff4dcd28affc39ef4fd5f809113",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1445,15 +1540,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=IhdhqK2wBYwQ7kNvwGlW-IU&_nc_oc=AdouMYBhJMvD6HcXTw3X457VsCLieyOs1dZKBItjUqRM5Ayh_hYB8dj_Mm0hX86kJANOOQyts2YescGhQAWvPkLD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=U9pZKIpHYVp9S0DfoG2iYQ&_nc_ss=70689&oh=00_AQOhonHR8cfiAD8qIb7WeGvnMQseg6tpPmJgYXrcIlKztg&oe=6AE2A8F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=IhdhqK2wBYwQ7kNvwGlW-IU&_nc_oc=AdouMYBhJMvD6HcXTw3X457VsCLieyOs1dZKBItjUqRM5Ayh_hYB8dj_Mm0hX86kJANOOQyts2YescGhQAWvPkLD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=U9pZKIpHYVp9S0DfoG2iYQ&_nc_ss=70689&oh=00_AQOhonHR8cfiAD8qIb7WeGvnMQseg6tpPmJgYXrcIlKztg&oe=6AE2A8F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39759005,
       "valor_atual": 39759002,
-      "hash_anterior": "789666c85ce3128a331dea51bf2f22cbf4ec1e708be25f57edc2117150ac2e26",
-      "hash_atual": "9bdb56904208244ae9e50db4ecfe339e433d618f39cefbe23e9c8582b0e6af3b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1480,15 +1576,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=IhdhqK2wBYwQ7kNvwGlW-IU&_nc_oc=AdouMYBhJMvD6HcXTw3X457VsCLieyOs1dZKBItjUqRM5Ayh_hYB8dj_Mm0hX86kJANOOQyts2YescGhQAWvPkLD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=16X6aKBtrU8B-pbrfY3WDw&_nc_ss=70689&oh=00_AQOzWfaMQxNTsFpzGyLR7GFRzEeLO4PZ9dYZw86hc2FS3g&oe=6AE2A8F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=IhdhqK2wBYwQ7kNvwGlW-IU&_nc_oc=AdouMYBhJMvD6HcXTw3X457VsCLieyOs1dZKBItjUqRM5Ayh_hYB8dj_Mm0hX86kJANOOQyts2YescGhQAWvPkLD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=16X6aKBtrU8B-pbrfY3WDw&_nc_ss=70689&oh=00_AQOzWfaMQxNTsFpzGyLR7GFRzEeLO4PZ9dYZw86hc2FS3g&oe=6AE2A8F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39759012,
       "valor_atual": 39759005,
-      "hash_anterior": "4c0d1b67f94683104ffdf0c50e3b19a3882f8895fa0b361461add99757f315e3",
-      "hash_atual": "789666c85ce3128a331dea51bf2f22cbf4ec1e708be25f57edc2117150ac2e26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1515,15 +1612,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=IhdhqK2wBYwQ7kNvwGlW-IU&_nc_oc=AdouMYBhJMvD6HcXTw3X457VsCLieyOs1dZKBItjUqRM5Ayh_hYB8dj_Mm0hX86kJANOOQyts2YescGhQAWvPkLD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BBZ9tVUiJduAP7-aKaCoEg&_nc_ss=70689&oh=00_AQMJpkzaAfWO6dD3pwoVJrAGFl9Nw6xVkk9sQgSsxqg7dg&oe=6AE270B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=IhdhqK2wBYwQ7kNvwGlW-IU&_nc_oc=AdouMYBhJMvD6HcXTw3X457VsCLieyOs1dZKBItjUqRM5Ayh_hYB8dj_Mm0hX86kJANOOQyts2YescGhQAWvPkLD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BBZ9tVUiJduAP7-aKaCoEg&_nc_ss=70689&oh=00_AQMJpkzaAfWO6dD3pwoVJrAGFl9Nw6xVkk9sQgSsxqg7dg&oe=6AE270B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39760391,
       "valor_atual": 39759012,
-      "hash_anterior": "4c9c3dd378d9f678badf049c180a85e26804579c32552928cbd3eb5cc07bc101",
-      "hash_atual": "4c0d1b67f94683104ffdf0c50e3b19a3882f8895fa0b361461add99757f315e3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1379,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1550,15 +1648,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwEBDBF0&_nc_oc=Adqnm2WKaeTwhZYuIs3fBAStS5qo3wYUd-Co-qBpZbxQV5gUk4lIpzTWw6RoBgJ2jytXybKIJMBWnI4VmpPZsST1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gEX0bp0NgMlEc99dgn6uZg&_nc_ss=70689&oh=00_AQOxCNmT4iMxaSMXwg8RyMNvGBxf3xXFF8wuY323eAW_7w&oe=6AE11F32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwEBDBF0&_nc_oc=Adqnm2WKaeTwhZYuIs3fBAStS5qo3wYUd-Co-qBpZbxQV5gUk4lIpzTWw6RoBgJ2jytXybKIJMBWnI4VmpPZsST1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gEX0bp0NgMlEc99dgn6uZg&_nc_ss=70689&oh=00_AQOxCNmT4iMxaSMXwg8RyMNvGBxf3xXFF8wuY323eAW_7w&oe=6AE11F32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39760394,
       "valor_atual": 39760391,
-      "hash_anterior": "e4d5d4a10daa6895f8d624cf7a533ea0b3bff8dc9089f84115706b8627f49f5b",
-      "hash_atual": "4c9c3dd378d9f678badf049c180a85e26804579c32552928cbd3eb5cc07bc101",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1585,15 +1684,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwEBDBF0&_nc_oc=Adqnm2WKaeTwhZYuIs3fBAStS5qo3wYUd-Co-qBpZbxQV5gUk4lIpzTWw6RoBgJ2jytXybKIJMBWnI4VmpPZsST1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a6JCBpy8Bd-14IhimhOnwA&_nc_ss=70689&oh=00_AQNeBzWuWEQwGzaTs_B70OyeTY89yHTskMJ2SNw6wWE_Yg&oe=6AE11F32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwEBDBF0&_nc_oc=Adqnm2WKaeTwhZYuIs3fBAStS5qo3wYUd-Co-qBpZbxQV5gUk4lIpzTWw6RoBgJ2jytXybKIJMBWnI4VmpPZsST1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a6JCBpy8Bd-14IhimhOnwA&_nc_ss=70689&oh=00_AQNeBzWuWEQwGzaTs_B70OyeTY89yHTskMJ2SNw6wWE_Yg&oe=6AE11F32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39759418,
       "valor_atual": 39760394,
-      "hash_anterior": "95ca6040a43bd17331ed7f4fb2d43fe023163b8607e38b3c6282083b6b8c1a6e",
-      "hash_atual": "e4d5d4a10daa6895f8d624cf7a533ea0b3bff8dc9089f84115706b8627f49f5b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 976,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1620,15 +1720,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JVon4zdGztZvjROhQeLDyw&_nc_ss=70689&oh=00_AQMl5K0NbUIDaivs8_b4x1tjW_IEFB9Zzi2pT8nk_ZXIfQ&oe=6AE07672"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JVon4zdGztZvjROhQeLDyw&_nc_ss=70689&oh=00_AQMl5K0NbUIDaivs8_b4x1tjW_IEFB9Zzi2pT8nk_ZXIfQ&oe=6AE07672",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39759413,
       "valor_atual": 39759418,
-      "hash_anterior": "909b5260e9592174ab310f2720e056101414353d1ac303c10d8d33cf9379066b",
-      "hash_atual": "95ca6040a43bd17331ed7f4fb2d43fe023163b8607e38b3c6282083b6b8c1a6e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1655,15 +1756,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9MIEl0AEb2IG2YZeTy8drA&_nc_ss=70689&oh=00_AQM_L0WMXkyS7fsEzS_xE63FiVQXHhvFauhbY2yqxCFLjQ&oe=6AE07672"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9MIEl0AEb2IG2YZeTy8drA&_nc_ss=70689&oh=00_AQM_L0WMXkyS7fsEzS_xE63FiVQXHhvFauhbY2yqxCFLjQ&oe=6AE07672",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39759402,
       "valor_atual": 39759413,
-      "hash_anterior": "6be7be9b67ddfeaa92a3cd7395f5ca2fca9401cc43545ff5235b004c9d52003e",
-      "hash_atual": "909b5260e9592174ab310f2720e056101414353d1ac303c10d8d33cf9379066b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1690,15 +1792,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UqZZJLH31PTmtoLgBahA6g&_nc_ss=70689&oh=00_AQMOLQi2echKxDCX8SBGWPVq6UBCH9Z02AqbZb4hLjjgSg&oe=6AE07672"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwHDhhCn&_nc_oc=AdroeZ1-0yy180srCICB9OI1FvapMY21Gp1gBtdBvZUrqA2Sq7SqKRNoKxH00EAXFpNFGFgAGB2z3c33Vn76x1XD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UqZZJLH31PTmtoLgBahA6g&_nc_ss=70689&oh=00_AQMOLQi2echKxDCX8SBGWPVq6UBCH9Z02AqbZb4hLjjgSg&oe=6AE07672",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39763812,
       "valor_atual": 39759402,
-      "hash_anterior": "51d48ea317109f9bb5960465c616079e33427a79a2c83285741a9ba198e566ed",
-      "hash_atual": "6be7be9b67ddfeaa92a3cd7395f5ca2fca9401cc43545ff5235b004c9d52003e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4410,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1725,15 +1828,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=u3ckebfTgs9IquBtgMthFA&_nc_ss=70689&oh=00_AQNobRAlMNNKB5zPG-IIKw1TzD2CbQEQRUYgQ3cLdjegYA&oe=6ADEECB2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=u3ckebfTgs9IquBtgMthFA&_nc_ss=70689&oh=00_AQNobRAlMNNKB5zPG-IIKw1TzD2CbQEQRUYgQ3cLdjegYA&oe=6ADEECB2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39763813,
       "valor_atual": 39763812,
-      "hash_anterior": "ab7c855336f15d5b0a427e666aa32c62e2c31378bbdc827d69d5d33a16c8185a",
-      "hash_atual": "51d48ea317109f9bb5960465c616079e33427a79a2c83285741a9ba198e566ed",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1760,15 +1864,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggD6IzgNnChNQUou8Os5rA&_nc_ss=70689&oh=00_AQO5cZHUnOKyfVs_vdjqiVmG1RLU52Md4Fm1Kwn8dyhH0A&oe=6ADEECB2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggD6IzgNnChNQUou8Os5rA&_nc_ss=70689&oh=00_AQO5cZHUnOKyfVs_vdjqiVmG1RLU52Md4Fm1Kwn8dyhH0A&oe=6ADEECB2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39763821,
       "valor_atual": 39763813,
-      "hash_anterior": "7cca1bddb0ae91ea309a303d265505a7aef6f41321a71acba0d141e748ac9efb",
-      "hash_atual": "ab7c855336f15d5b0a427e666aa32c62e2c31378bbdc827d69d5d33a16c8185a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1795,15 +1900,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KiaMXkkLWJxSdZr9cWCA2w&_nc_ss=70689&oh=00_AQP0-ZjiyTOzuWIU29DZpWivoAcMGbi5Zer60iFMgYi15g&oe=6ADEECB2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KiaMXkkLWJxSdZr9cWCA2w&_nc_ss=70689&oh=00_AQP0-ZjiyTOzuWIU29DZpWivoAcMGbi5Zer60iFMgYi15g&oe=6ADEECB2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39763830,
       "valor_atual": 39763821,
-      "hash_anterior": "2807ce57d0df310a932f815ce41c0f3a9c36727db3712e08d582111638169b40",
-      "hash_atual": "7cca1bddb0ae91ea309a303d265505a7aef6f41321a71acba0d141e748ac9efb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1830,15 +1936,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uAqgQHvyJDmgLD3CJ3pF7g&_nc_ss=70689&oh=00_AQNUmKysX3ZYvzOCMwWM_9U5Q7GLtLDbOUKfzE7IPXf1Lg&oe=6ADEECB2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uAqgQHvyJDmgLD3CJ3pF7g&_nc_ss=70689&oh=00_AQNUmKysX3ZYvzOCMwWM_9U5Q7GLtLDbOUKfzE7IPXf1Lg&oe=6ADEECB2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39779805,
       "valor_atual": 39763830,
-      "hash_anterior": "1c6d87242dcedd7ddc1ffe34013a880096859d30f4f187932c6f7886ed7d25ee",
-      "hash_atual": "2807ce57d0df310a932f815ce41c0f3a9c36727db3712e08d582111638169b40",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -15975,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1865,15 +1972,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uAqgQHvyJDmgLD3CJ3pF7g&_nc_ss=70689&oh=00_AQNUmKysX3ZYvzOCMwWM_9U5Q7GLtLDbOUKfzE7IPXf1Lg&oe=6ADEECB2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=LFWqy39Zb3kQ7kNvwF2bfSx&_nc_oc=AdpjWlMhGum0RzDhPxmGndD_-5WYUmOX9gLExNJGiKE0FxxuywtfgF89op14-tT-3tCxx0dR8wXhrTiN3cIeAutF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uAqgQHvyJDmgLD3CJ3pF7g&_nc_ss=70689&oh=00_AQNUmKysX3ZYvzOCMwWM_9U5Q7GLtLDbOUKfzE7IPXf1Lg&oe=6ADEECB2",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1052,
       "valor_atual": 1050,
-      "hash_anterior": "1c6d87242dcedd7ddc1ffe34013a880096859d30f4f187932c6f7886ed7d25ee",
-      "hash_atual": "2807ce57d0df310a932f815ce41c0f3a9c36727db3712e08d582111638169b40",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1900,15 +2008,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DWqmHN2mrajbhFBOZkJGqQ&_nc_ss=70689&oh=00_AQPIzEa3yGisXTvlyEJcbNuAgbtnvdxTU-I5RaMfcaTnlg&oe=6AD8C5B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DWqmHN2mrajbhFBOZkJGqQ&_nc_ss=70689&oh=00_AQPIzEa3yGisXTvlyEJcbNuAgbtnvdxTU-I5RaMfcaTnlg&oe=6AD8C5B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39779813,
       "valor_atual": 39779805,
-      "hash_anterior": "65e6bd33b89846c06cd179a02ffa7e00a26a356c206c8d579e21ab5e54036bb0",
-      "hash_atual": "1c6d87242dcedd7ddc1ffe34013a880096859d30f4f187932c6f7886ed7d25ee",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1935,15 +2044,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ncq7czMEXHqGvMbmesceNA&_nc_ss=70689&oh=00_AQM8TlBfTtKkx_oPetPkCCnUd_zlbH-iPoOupFF8JDgGyw&oe=6AD8C5B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ncq7czMEXHqGvMbmesceNA&_nc_ss=70689&oh=00_AQM8TlBfTtKkx_oPetPkCCnUd_zlbH-iPoOupFF8JDgGyw&oe=6AD8C5B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39780697,
       "valor_atual": 39779813,
-      "hash_anterior": "d7ac6101ec3dd8e7d8376d9c811ce7515a751fd86a785e31d5b9d3c3b3494c0d",
-      "hash_atual": "65e6bd33b89846c06cd179a02ffa7e00a26a356c206c8d579e21ab5e54036bb0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -884,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1970,15 +2080,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1Uw9ciZ7DVerYV87DtApkw&_nc_ss=70689&oh=00_AQOVYb6LRGymiwVcj9qhhPeTTVeGHWzmLaepwqMloALdwg&oe=6AD81CF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1Uw9ciZ7DVerYV87DtApkw&_nc_ss=70689&oh=00_AQOVYb6LRGymiwVcj9qhhPeTTVeGHWzmLaepwqMloALdwg&oe=6AD81CF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39780699,
       "valor_atual": 39780697,
-      "hash_anterior": "60b3575ce0580a25bf3b935f56eea9ef634083c907dd59f9edbc34c765b326c5",
-      "hash_atual": "d7ac6101ec3dd8e7d8376d9c811ce7515a751fd86a785e31d5b9d3c3b3494c0d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2005,15 +2116,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JhiYlB0kRRpbofTFmh64vQ&_nc_ss=70689&oh=00_AQNN0JMYFC3tVqF1lvQgiuoA-4UfsqJ6u-WWVYbMH34IbA&oe=6AD81CF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JhiYlB0kRRpbofTFmh64vQ&_nc_ss=70689&oh=00_AQNN0JMYFC3tVqF1lvQgiuoA-4UfsqJ6u-WWVYbMH34IbA&oe=6AD81CF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39780704,
       "valor_atual": 39780699,
-      "hash_anterior": "392cc6c17916bf1cd166fd85e9ecfb75f9374b7993943fac85bea269a76a7a26",
-      "hash_atual": "60b3575ce0580a25bf3b935f56eea9ef634083c907dd59f9edbc34c765b326c5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2040,15 +2152,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ob5BDa43onzw4M71GAR4Ow&_nc_ss=70689&oh=00_AQO9h1EV-ylL2g1wcq5tFVfNzWYq1105nbm_DztIQ7FiSg&oe=6AD81CF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwESy6HO&_nc_oc=Adog8JbJlcM23Lck0fqlMZZskVSBCdm8K9VsMTHwdR1jI799WcPlp0XG2V-9ZrnBTnobwwsK4iBt_vIaiM_PB3lE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ob5BDa43onzw4M71GAR4Ow&_nc_ss=70689&oh=00_AQO9h1EV-ylL2g1wcq5tFVfNzWYq1105nbm_DztIQ7FiSg&oe=6AD81CF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39782793,
       "valor_atual": 39780704,
-      "hash_anterior": "e65665722b1b3066c3bb1eca947e928d9a07fde7151cec269ffbddcd5b32b08b",
-      "hash_atual": "392cc6c17916bf1cd166fd85e9ecfb75f9374b7993943fac85bea269a76a7a26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2089,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2075,15 +2188,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwFAB5yV&_nc_oc=AdqA2HwDnW1qF00NcxUg1h65kpbdwlr1kTGh3ZY7Hxuu_H-DznMGy2wFeGZowzwDqQyPq62XL10GsQVC86dQGFZO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6KBY2amltF-Qg5Dax2A0WQ&_nc_ss=70689&oh=00_AQPJirv4BqewH8MVULoCDTYDD_b05GmmfXU8ngajM0T0Hw&oe=6AD6CB72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwFAB5yV&_nc_oc=AdqA2HwDnW1qF00NcxUg1h65kpbdwlr1kTGh3ZY7Hxuu_H-DznMGy2wFeGZowzwDqQyPq62XL10GsQVC86dQGFZO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6KBY2amltF-Qg5Dax2A0WQ&_nc_ss=70689&oh=00_AQPJirv4BqewH8MVULoCDTYDD_b05GmmfXU8ngajM0T0Hw&oe=6AD6CB72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39783817,
       "valor_atual": 39782793,
-      "hash_anterior": "37469ac213ffadba1c3fbe2c8116fd25ecb7485eee5fbe0eaa04ad0899e6af6a",
-      "hash_atual": "e65665722b1b3066c3bb1eca947e928d9a07fde7151cec269ffbddcd5b32b08b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1024,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2110,15 +2224,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwGVW68u&_nc_oc=Adqf3kG8RMuM7V--SFY4kU76aqhWf4eUBznWRmgu3g2boet6AO7-bOagFsfwBC2wIwKMtiNvCQ2f98brwv3TC1LX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7HzgVPSE6rFCl-pJ8wWaRg&_nc_ss=70689&oh=00_AQOz0ZSKMMwOhvJJ1U4giJlst49U9OCAthVVqOd817QegQ&oe=6AD622B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwGVW68u&_nc_oc=Adqf3kG8RMuM7V--SFY4kU76aqhWf4eUBznWRmgu3g2boet6AO7-bOagFsfwBC2wIwKMtiNvCQ2f98brwv3TC1LX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7HzgVPSE6rFCl-pJ8wWaRg&_nc_ss=70689&oh=00_AQOz0ZSKMMwOhvJJ1U4giJlst49U9OCAthVVqOd817QegQ&oe=6AD622B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39783822,
       "valor_atual": 39783817,
-      "hash_anterior": "f7e207030bc0924eea6924b70a247a15744b5e49776453ec16e35d8e12bbb09e",
-      "hash_atual": "37469ac213ffadba1c3fbe2c8116fd25ecb7485eee5fbe0eaa04ad0899e6af6a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2145,15 +2260,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwGVW68u&_nc_oc=Adqf3kG8RMuM7V--SFY4kU76aqhWf4eUBznWRmgu3g2boet6AO7-bOagFsfwBC2wIwKMtiNvCQ2f98brwv3TC1LX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSBhs4i0w60pnEZVklSEmw&_nc_ss=70689&oh=00_AQOTbmxaTSSyTaB9mArk2dnQ80oWDKF_Rc7xCU1aKoSwRw&oe=6AD622B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=qQlphry96dwQ7kNvwGVW68u&_nc_oc=Adqf3kG8RMuM7V--SFY4kU76aqhWf4eUBznWRmgu3g2boet6AO7-bOagFsfwBC2wIwKMtiNvCQ2f98brwv3TC1LX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSBhs4i0w60pnEZVklSEmw&_nc_ss=70689&oh=00_AQOTbmxaTSSyTaB9mArk2dnQ80oWDKF_Rc7xCU1aKoSwRw&oe=6AD622B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39786032,
       "valor_atual": 39783822,
-      "hash_anterior": "406bb29d8e8d6a028ce7b4012cbc7e91f342e43a079039744c4095072d98045e",
-      "hash_atual": "f7e207030bc0924eea6924b70a247a15744b5e49776453ec16e35d8e12bbb09e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2210,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2180,15 +2296,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwH6wH_E&_nc_oc=AdqNKYctm2IwZ3hg0HX4xjGqLyajB0Bs5JpedypSz5oV1vlfYa4AS5lbIknBY9-0-Y8ZYItsRKJaOiZXg8soEGXi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mYdlcXrDYSo7tCB_hIIyHA&_nc_ss=70689&oh=00_AQNbbx--O_Nh3580p5haBUYl_4wYTAjCTdk-O-kVVkIoUA&oe=6AD579F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwH6wH_E&_nc_oc=AdqNKYctm2IwZ3hg0HX4xjGqLyajB0Bs5JpedypSz5oV1vlfYa4AS5lbIknBY9-0-Y8ZYItsRKJaOiZXg8soEGXi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mYdlcXrDYSo7tCB_hIIyHA&_nc_ss=70689&oh=00_AQNbbx--O_Nh3580p5haBUYl_4wYTAjCTdk-O-kVVkIoUA&oe=6AD579F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39789714,
       "valor_atual": 39786032,
-      "hash_anterior": "86251e795ed7ed7d286181ca61573c7dd8af67f022b7e4476ee8da60aed2f640",
-      "hash_atual": "406bb29d8e8d6a028ce7b4012cbc7e91f342e43a079039744c4095072d98045e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3682,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2215,15 +2332,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O9ywc8tr9spA3zWJoDZY4Q&_nc_ss=70689&oh=00_AQM-ktJQnikb1k_ww_nHiMh9KYKkl318RRwWliV7ZVJ0bA&oe=6AD460B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O9ywc8tr9spA3zWJoDZY4Q&_nc_ss=70689&oh=00_AQM-ktJQnikb1k_ww_nHiMh9KYKkl318RRwWliV7ZVJ0bA&oe=6AD460B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39789761,
       "valor_atual": 39789714,
-      "hash_anterior": "5e5edc8632aed8fd1c5ce0268303222834a5665d6f4e800dc1ea2a5d391e7b1e",
-      "hash_atual": "86251e795ed7ed7d286181ca61573c7dd8af67f022b7e4476ee8da60aed2f640",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -47,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2250,15 +2368,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=57Cai4fT-0cavPbR-RTpzg&_nc_ss=70689&oh=00_AQMZy8OmGjEtqwsuRcBpyFJH-a9FsQ7cCw_V-Yv5CBt3Yg&oe=6AD460B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=57Cai4fT-0cavPbR-RTpzg&_nc_ss=70689&oh=00_AQMZy8OmGjEtqwsuRcBpyFJH-a9FsQ7cCw_V-Yv5CBt3Yg&oe=6AD460B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39789844,
       "valor_atual": 39789761,
-      "hash_anterior": "cece452a0415245daae22147aa2f649b4ba75f4f8d7b87ad74621afe117a1f18",
-      "hash_atual": "5e5edc8632aed8fd1c5ce0268303222834a5665d6f4e800dc1ea2a5d391e7b1e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -83,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2285,15 +2404,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NCJu6W3UUrjilvv794kO6w&_nc_ss=70689&oh=00_AQO9GdXnUh6ST_jDYCq5lQAzhcMfvuu4lYgwSbBqv1sxhA&oe=6AD460B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NCJu6W3UUrjilvv794kO6w&_nc_ss=70689&oh=00_AQO9GdXnUh6ST_jDYCq5lQAzhcMfvuu4lYgwSbBqv1sxhA&oe=6AD460B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39796788,
       "valor_atual": 39789844,
-      "hash_anterior": "4ea52fbc7fd11153eb2272a092aeb23e36efed7def3767b0d037b87c5d9b9f49",
-      "hash_atual": "cece452a0415245daae22147aa2f649b4ba75f4f8d7b87ad74621afe117a1f18",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6944,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2320,15 +2440,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NCJu6W3UUrjilvv794kO6w&_nc_ss=70689&oh=00_AQO9GdXnUh6ST_jDYCq5lQAzhcMfvuu4lYgwSbBqv1sxhA&oe=6AD460B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=loUU2Nk6UCAQ7kNvwEP9CqG&_nc_oc=AdqOb31N8NxlpFEGWzTPz3eMsrR4I-rQOe459Wvf4F6rzVRyv1BEPKd0QlEiYQqNsEPPA9sDDIQjGuJr1C12SC16&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NCJu6W3UUrjilvv794kO6w&_nc_ss=70689&oh=00_AQO9GdXnUh6ST_jDYCq5lQAzhcMfvuu4lYgwSbBqv1sxhA&oe=6AD460B2",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1053,
       "valor_atual": 1052,
-      "hash_anterior": "4ea52fbc7fd11153eb2272a092aeb23e36efed7def3767b0d037b87c5d9b9f49",
-      "hash_atual": "cece452a0415245daae22147aa2f649b4ba75f4f8d7b87ad74621afe117a1f18",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2355,15 +2476,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=33FQWeSawayriTCbLEn_fQ&_nc_ss=70689&oh=00_AQMf9eCCZo0U32CLW3mgESfjcc5KUi4VNWLcrFlrBSFGHA&oe=6AD18572"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=33FQWeSawayriTCbLEn_fQ&_nc_ss=70689&oh=00_AQMf9eCCZo0U32CLW3mgESfjcc5KUi4VNWLcrFlrBSFGHA&oe=6AD18572",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39799972,
       "valor_atual": 39796788,
-      "hash_anterior": "526a25cf623045de98dc9ffa75b2cd247ce4d69ab01240fc6242d4990800f1f9",
-      "hash_atual": "4ea52fbc7fd11153eb2272a092aeb23e36efed7def3767b0d037b87c5d9b9f49",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3184,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2390,15 +2512,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HnXLZLz_RbQktuaTTomWwQ&_nc_ss=70689&oh=00_AQMswOCFYLhF-VVKXs40Db4lYbY1aasxgi3RZgSLR8aDeQ&oe=6AD06C32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HnXLZLz_RbQktuaTTomWwQ&_nc_ss=70689&oh=00_AQMswOCFYLhF-VVKXs40Db4lYbY1aasxgi3RZgSLR8aDeQ&oe=6AD06C32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39800152,
       "valor_atual": 39799972,
-      "hash_anterior": "176388c34e594c22b83ce1a61f4a093dd0ad532b17270645b6e2b96633209361",
-      "hash_atual": "526a25cf623045de98dc9ffa75b2cd247ce4d69ab01240fc6242d4990800f1f9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -180,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2425,15 +2548,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JGTgSXHBM1qgCHq8pFF7eQ&_nc_ss=70689&oh=00_AQMRxTkXp6iF9T_AsoMuMcfPjfObQKgf_CFCAt7c38gDrw&oe=6AD06C32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JGTgSXHBM1qgCHq8pFF7eQ&_nc_ss=70689&oh=00_AQMRxTkXp6iF9T_AsoMuMcfPjfObQKgf_CFCAt7c38gDrw&oe=6AD06C32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39800266,
       "valor_atual": 39800152,
-      "hash_anterior": "0bfa3895fd223a6e42579716997a51e9c142f5f72be6b3aaa760a246100c6b2c",
-      "hash_atual": "176388c34e594c22b83ce1a61f4a093dd0ad532b17270645b6e2b96633209361",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -114,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2460,15 +2584,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XAx4pKkGgZZhvt4fsC69Vg&_nc_ss=70689&oh=00_AQN6yCLPBtv-Jn7KZNInE79da7F39H0VLJDkv0TFX7g23g&oe=6AD033F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XAx4pKkGgZZhvt4fsC69Vg&_nc_ss=70689&oh=00_AQN6yCLPBtv-Jn7KZNInE79da7F39H0VLJDkv0TFX7g23g&oe=6AD033F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39800369,
       "valor_atual": 39800266,
-      "hash_anterior": "afe8a35fa3385f297927428b153349aaa4d834bc8de9b956078941b0cd269d42",
-      "hash_atual": "0bfa3895fd223a6e42579716997a51e9c142f5f72be6b3aaa760a246100c6b2c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -103,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2495,15 +2620,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PDUVQghOzHYQuWzaogio5w&_nc_ss=70689&oh=00_AQOKRK7rDcXS6WCPSX1DuYLXZG7WzHPE5mWypK58pEN-SA&oe=6AD033F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwF0LNTN&_nc_oc=AdoD1xQOLfyNAQjXM3wyvkpze_OgvV3Qyo8pkvNBwYaMhNumMgTx0z2plHcfTVPnT5kVgNwIMQfVbQTwjX6uXbdy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PDUVQghOzHYQuWzaogio5w&_nc_ss=70689&oh=00_AQOKRK7rDcXS6WCPSX1DuYLXZG7WzHPE5mWypK58pEN-SA&oe=6AD033F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39801976,
       "valor_atual": 39800369,
-      "hash_anterior": "5a9ca14ed011995d9a46a5b4b6c4cc2d463d64f44783e78745a8ef05263ed701",
-      "hash_atual": "afe8a35fa3385f297927428b153349aaa4d834bc8de9b956078941b0cd269d42",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1607,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2530,15 +2656,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwHUcfjj&_nc_oc=AdrvPVhL_8jX4m0h8H80rW2EN6j78VQoUznjgbuiaiZG-qMDEFPvVsM9jRpr_JRLv0MY7aPqFUd4O90d4SiSww4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ItDs3wEuiT13mVyhyL2swQ&_nc_ss=70689&oh=00_AQONKmceV-QUIgSlWhurAVA9RYpvY8OTcWwg6Ol8STo99Q&oe=6ACF8B32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwHUcfjj&_nc_oc=AdrvPVhL_8jX4m0h8H80rW2EN6j78VQoUznjgbuiaiZG-qMDEFPvVsM9jRpr_JRLv0MY7aPqFUd4O90d4SiSww4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ItDs3wEuiT13mVyhyL2swQ&_nc_ss=70689&oh=00_AQONKmceV-QUIgSlWhurAVA9RYpvY8OTcWwg6Ol8STo99Q&oe=6ACF8B32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39802054,
       "valor_atual": 39801976,
-      "hash_anterior": "36df6384e56ef4b57a3138276a36788b5b627813ed4a9037af58388db71e03ae",
-      "hash_atual": "5a9ca14ed011995d9a46a5b4b6c4cc2d463d64f44783e78745a8ef05263ed701",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -78,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2565,15 +2692,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwHUcfjj&_nc_oc=AdrvPVhL_8jX4m0h8H80rW2EN6j78VQoUznjgbuiaiZG-qMDEFPvVsM9jRpr_JRLv0MY7aPqFUd4O90d4SiSww4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x7r224EaNOgD7Li4YYxJ1g&_nc_ss=70689&oh=00_AQNsYAjsxkC6Rb0ubt0yWLuULnsredJ91iNAd2f386MgYw&oe=6ACF52F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwHUcfjj&_nc_oc=AdrvPVhL_8jX4m0h8H80rW2EN6j78VQoUznjgbuiaiZG-qMDEFPvVsM9jRpr_JRLv0MY7aPqFUd4O90d4SiSww4x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x7r224EaNOgD7Li4YYxJ1g&_nc_ss=70689&oh=00_AQNsYAjsxkC6Rb0ubt0yWLuULnsredJ91iNAd2f386MgYw&oe=6ACF52F2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39803215,
       "valor_atual": 39802054,
-      "hash_anterior": "b3f34621f77b9be64bad0daa98203690c985a9ecbede36171fa380f3457f836f",
-      "hash_atual": "36df6384e56ef4b57a3138276a36788b5b627813ed4a9037af58388db71e03ae",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1161,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2600,15 +2728,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwE83MXa&_nc_oc=AdoLKlORoL3TQQAqvqTHeVfHevWT5_obxc1w_jaNdYdC68ywNyhIqSB_v-2bhUVnroeZvrWtl3HDzCpfOXlUmUD5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6BeGQ1QMv5kDmsKwWWghsA&_nc_ss=70689&oh=00_AQNWdrMpWrQpSCrLdddKVky5J95W53I7NOdC6NQtewxO9Q&oe=6ACEAA32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwE83MXa&_nc_oc=AdoLKlORoL3TQQAqvqTHeVfHevWT5_obxc1w_jaNdYdC68ywNyhIqSB_v-2bhUVnroeZvrWtl3HDzCpfOXlUmUD5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6BeGQ1QMv5kDmsKwWWghsA&_nc_ss=70689&oh=00_AQNWdrMpWrQpSCrLdddKVky5J95W53I7NOdC6NQtewxO9Q&oe=6ACEAA32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39803223,
       "valor_atual": 39803215,
-      "hash_anterior": "cf1d36ade17e13abfc2dc184d431042a53782df861431cab6cbc64e232b80b69",
-      "hash_atual": "b3f34621f77b9be64bad0daa98203690c985a9ecbede36171fa380f3457f836f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2635,15 +2764,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwE83MXa&_nc_oc=AdoLKlORoL3TQQAqvqTHeVfHevWT5_obxc1w_jaNdYdC68ywNyhIqSB_v-2bhUVnroeZvrWtl3HDzCpfOXlUmUD5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=G-t35mHUA8p-Lqe3bvEAug&_nc_ss=70689&oh=00_AQMiN_f1OL33bEV3iF1uZV7O6CfhHR-KSNklu080k0Tehg&oe=6ACEAA32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwE83MXa&_nc_oc=AdoLKlORoL3TQQAqvqTHeVfHevWT5_obxc1w_jaNdYdC68ywNyhIqSB_v-2bhUVnroeZvrWtl3HDzCpfOXlUmUD5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=G-t35mHUA8p-Lqe3bvEAug&_nc_ss=70689&oh=00_AQMiN_f1OL33bEV3iF1uZV7O6CfhHR-KSNklu080k0Tehg&oe=6ACEAA32",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39804257,
       "valor_atual": 39803223,
-      "hash_anterior": "6c02e5b651657dc8d0b46936e9078275ea56ae8afa45cddf3ccdb2410884eccc",
-      "hash_atual": "cf1d36ade17e13abfc2dc184d431042a53782df861431cab6cbc64e232b80b69",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1034,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2670,15 +2800,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwEdicyd&_nc_oc=AdrjmhshEDcSwPNHM7AUl7ffT_eun3AHNpfZqSrR-auLLXhafKv0NjWms6SptOUM5qN4ZQSuLnNPTScgOtOOQZnm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Tw7CLQx3NnnPslx7rWVzEw&_nc_ss=70689&oh=00_AQNKXS1DJEVb-v1JUrb2M7zDIlbzwCedGPnQ1embf1yaEQ&oe=6ACDC932"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwEdicyd&_nc_oc=AdrjmhshEDcSwPNHM7AUl7ffT_eun3AHNpfZqSrR-auLLXhafKv0NjWms6SptOUM5qN4ZQSuLnNPTScgOtOOQZnm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Tw7CLQx3NnnPslx7rWVzEw&_nc_ss=70689&oh=00_AQNKXS1DJEVb-v1JUrb2M7zDIlbzwCedGPnQ1embf1yaEQ&oe=6ACDC932",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39804259,
       "valor_atual": 39804257,
-      "hash_anterior": "ef7521c2d3d357acf2a4d617c272634da7fb51739cbee613eea2cd576934294f",
-      "hash_atual": "6c02e5b651657dc8d0b46936e9078275ea56ae8afa45cddf3ccdb2410884eccc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2705,15 +2836,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwEdicyd&_nc_oc=AdrjmhshEDcSwPNHM7AUl7ffT_eun3AHNpfZqSrR-auLLXhafKv0NjWms6SptOUM5qN4ZQSuLnNPTScgOtOOQZnm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lt3QGPbJ_D3AQSyEvxYNkA&_nc_ss=70689&oh=00_AQN-ps4jE-stJ0G63EwDruvt0BX2RQkql84z5ucdrLoC8g&oe=6ACDC932"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwEdicyd&_nc_oc=AdrjmhshEDcSwPNHM7AUl7ffT_eun3AHNpfZqSrR-auLLXhafKv0NjWms6SptOUM5qN4ZQSuLnNPTScgOtOOQZnm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lt3QGPbJ_D3AQSyEvxYNkA&_nc_ss=70689&oh=00_AQN-ps4jE-stJ0G63EwDruvt0BX2RQkql84z5ucdrLoC8g&oe=6ACDC932",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39806433,
       "valor_atual": 39804259,
-      "hash_anterior": "cb085b536b38d327b4d0cbea2d74c59e0f270329217fbede9b495394a0dca675",
-      "hash_atual": "ef7521c2d3d357acf2a4d617c272634da7fb51739cbee613eea2cd576934294f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2174,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2740,15 +2872,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwEdicyd&_nc_oc=AdrjmhshEDcSwPNHM7AUl7ffT_eun3AHNpfZqSrR-auLLXhafKv0NjWms6SptOUM5qN4ZQSuLnNPTScgOtOOQZnm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lt3QGPbJ_D3AQSyEvxYNkA&_nc_ss=70689&oh=00_AQN-ps4jE-stJ0G63EwDruvt0BX2RQkql84z5ucdrLoC8g&oe=6ACDC932"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=YOSt5Ft1Yr4Q7kNvwEdicyd&_nc_oc=AdrjmhshEDcSwPNHM7AUl7ffT_eun3AHNpfZqSrR-auLLXhafKv0NjWms6SptOUM5qN4ZQSuLnNPTScgOtOOQZnm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lt3QGPbJ_D3AQSyEvxYNkA&_nc_ss=70689&oh=00_AQN-ps4jE-stJ0G63EwDruvt0BX2RQkql84z5ucdrLoC8g&oe=6ACDC932",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1052,
       "valor_atual": 1053,
-      "hash_anterior": "cb085b536b38d327b4d0cbea2d74c59e0f270329217fbede9b495394a0dca675",
-      "hash_atual": "ef7521c2d3d357acf2a4d617c272634da7fb51739cbee613eea2cd576934294f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2775,15 +2908,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwEIsXQH&_nc_oc=AdrgAyG4WUvNr79RJD8mvVtd1KQXlf_K4xh4Q0VgsPcJyc6rmShOXaNtGawx-Y53rqHQ27qMCyF9pdtY2rzjY4Z_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rD1EyYz_dnLgeIgr_2qt8w&_nc_ss=70689&oh=00_AQNK86YOUh1s5gpbraEZ3PxmXnrY-YPnTi1Ol-gHt3BQEw&oe=6ACD58B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwEIsXQH&_nc_oc=AdrgAyG4WUvNr79RJD8mvVtd1KQXlf_K4xh4Q0VgsPcJyc6rmShOXaNtGawx-Y53rqHQ27qMCyF9pdtY2rzjY4Z_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rD1EyYz_dnLgeIgr_2qt8w&_nc_ss=70689&oh=00_AQNK86YOUh1s5gpbraEZ3PxmXnrY-YPnTi1Ol-gHt3BQEw&oe=6ACD58B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39806434,
       "valor_atual": 39806433,
-      "hash_anterior": "1becb0ba11853136e94fceb64245c2ca8d1f44e9a73adb5b80ad89a8b7f4b57f",
-      "hash_atual": "cb085b536b38d327b4d0cbea2d74c59e0f270329217fbede9b495394a0dca675",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2810,15 +2944,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwEIsXQH&_nc_oc=AdrgAyG4WUvNr79RJD8mvVtd1KQXlf_K4xh4Q0VgsPcJyc6rmShOXaNtGawx-Y53rqHQ27qMCyF9pdtY2rzjY4Z_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=joXHMOlFhWqGwMZZiMDMPw&_nc_ss=70689&oh=00_AQMDEU3nVCQGW871jFOHqd1pZakwfG-jcvl3phfHRbLdNQ&oe=6ACD58B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwEIsXQH&_nc_oc=AdrgAyG4WUvNr79RJD8mvVtd1KQXlf_K4xh4Q0VgsPcJyc6rmShOXaNtGawx-Y53rqHQ27qMCyF9pdtY2rzjY4Z_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=joXHMOlFhWqGwMZZiMDMPw&_nc_ss=70689&oh=00_AQMDEU3nVCQGW871jFOHqd1pZakwfG-jcvl3phfHRbLdNQ&oe=6ACD58B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39806433,
       "valor_atual": 39806434,
-      "hash_anterior": "cb085b536b38d327b4d0cbea2d74c59e0f270329217fbede9b495394a0dca675",
-      "hash_atual": "1becb0ba11853136e94fceb64245c2ca8d1f44e9a73adb5b80ad89a8b7f4b57f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2845,15 +2980,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwEIsXQH&_nc_oc=AdrgAyG4WUvNr79RJD8mvVtd1KQXlf_K4xh4Q0VgsPcJyc6rmShOXaNtGawx-Y53rqHQ27qMCyF9pdtY2rzjY4Z_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zX8bWtaVfKdICBn_xdFbOw&_nc_ss=70689&oh=00_AQOWU3NqjVMmYiTHmLFJ-2tX5rIFg9otZjCeHcYYbisR9g&oe=6ACD58B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwEIsXQH&_nc_oc=AdrgAyG4WUvNr79RJD8mvVtd1KQXlf_K4xh4Q0VgsPcJyc6rmShOXaNtGawx-Y53rqHQ27qMCyF9pdtY2rzjY4Z_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zX8bWtaVfKdICBn_xdFbOw&_nc_ss=70689&oh=00_AQOWU3NqjVMmYiTHmLFJ-2tX5rIFg9otZjCeHcYYbisR9g&oe=6ACD58B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39807357,
       "valor_atual": 39806433,
-      "hash_anterior": "4c08fc097140e863c9a814371f9c0eed1f2c59a69da0293cd277b9a94cd3312c",
-      "hash_atual": "cb085b536b38d327b4d0cbea2d74c59e0f270329217fbede9b495394a0dca675",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -924,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2880,15 +3016,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zxQ607VrvR6VScZT21EIPg&_nc_ss=70689&oh=00_AQPCx89HbI-oCevsXf4FxwOBKFJnVNVV3cxgH7gAHu_rQQ&oe=6ACCAFF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zxQ607VrvR6VScZT21EIPg&_nc_ss=70689&oh=00_AQPCx89HbI-oCevsXf4FxwOBKFJnVNVV3cxgH7gAHu_rQQ&oe=6ACCAFF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39807364,
       "valor_atual": 39807357,
-      "hash_anterior": "d00bf2fa9c5746b8c7f5e8d35406c83f5d7abcedb287aac467f8f29d8b018ff1",
-      "hash_atual": "4c08fc097140e863c9a814371f9c0eed1f2c59a69da0293cd277b9a94cd3312c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2915,15 +3052,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LR9PjaeE7ju1zpLNOsshbQ&_nc_ss=70689&oh=00_AQNBxNI0WVNO0Dp6sfvbOrt75vQWG8uAd8NtzEYWbtrgzA&oe=6ACCAFF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LR9PjaeE7ju1zpLNOsshbQ&_nc_ss=70689&oh=00_AQNBxNI0WVNO0Dp6sfvbOrt75vQWG8uAd8NtzEYWbtrgzA&oe=6ACCAFF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39807367,
       "valor_atual": 39807364,
-      "hash_anterior": "fe0e77131ff735deab006b2f6b20679ea994de7e64edaa6d9b6dfd8de5f97a41",
-      "hash_atual": "d00bf2fa9c5746b8c7f5e8d35406c83f5d7abcedb287aac467f8f29d8b018ff1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2950,15 +3088,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X2PeRkSQUpnVFMrkpde8wQ&_nc_ss=70689&oh=00_AQOn9ZBpxrsKmmRlrZ4jpnbqHB1YCJdzRkm61dGjTc6NUw&oe=6ACCAFF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X2PeRkSQUpnVFMrkpde8wQ&_nc_ss=70689&oh=00_AQOn9ZBpxrsKmmRlrZ4jpnbqHB1YCJdzRkm61dGjTc6NUw&oe=6ACCAFF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39809571,
       "valor_atual": 39807367,
-      "hash_anterior": "69fad7a49a37dfad57ca4ebe3f44b3d2aa1d4962ce5bbded1a3c383a9f25d060",
-      "hash_atual": "fe0e77131ff735deab006b2f6b20679ea994de7e64edaa6d9b6dfd8de5f97a41",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2204,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2985,15 +3124,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X2PeRkSQUpnVFMrkpde8wQ&_nc_ss=70689&oh=00_AQOn9ZBpxrsKmmRlrZ4jpnbqHB1YCJdzRkm61dGjTc6NUw&oe=6ACCAFF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwG9Aozj&_nc_oc=Adp8Ri_ibfBxkKCmmV4u4nzf5Yh7Gl-33GRoq5oOY0UZofmjnXdm0nHTHQ37ygNJIDAaNz5DeM7_QJTTDC0sV5PU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X2PeRkSQUpnVFMrkpde8wQ&_nc_ss=70689&oh=00_AQOn9ZBpxrsKmmRlrZ4jpnbqHB1YCJdzRkm61dGjTc6NUw&oe=6ACCAFF2",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1051,
       "valor_atual": 1052,
-      "hash_anterior": "69fad7a49a37dfad57ca4ebe3f44b3d2aa1d4962ce5bbded1a3c383a9f25d060",
-      "hash_atual": "fe0e77131ff735deab006b2f6b20679ea994de7e64edaa6d9b6dfd8de5f97a41",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3020,15 +3160,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DCtqZxhvGBxcurCJ9bBzwg&_nc_ss=70689&oh=00_AQMFdfdubMWguYTekpKIiufTzJcHTLCY80CyCUoojGqgDg&oe=6ACC3F72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DCtqZxhvGBxcurCJ9bBzwg&_nc_ss=70689&oh=00_AQMFdfdubMWguYTekpKIiufTzJcHTLCY80CyCUoojGqgDg&oe=6ACC3F72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39809573,
       "valor_atual": 39809571,
-      "hash_anterior": "7e8a57ea63702320bd68cf82380c1263e21de4bb8df9a1388403c1b102aec80b",
-      "hash_atual": "69fad7a49a37dfad57ca4ebe3f44b3d2aa1d4962ce5bbded1a3c383a9f25d060",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3055,15 +3196,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PC_m1E0GSqxcD6cQ4wB6XQ&_nc_ss=70689&oh=00_AQPhgq8Gnr6tP_UmPjWqL8Z4xwN7iuBLCLg4BTJBFPS89Q&oe=6ACC3F72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PC_m1E0GSqxcD6cQ4wB6XQ&_nc_ss=70689&oh=00_AQPhgq8Gnr6tP_UmPjWqL8Z4xwN7iuBLCLg4BTJBFPS89Q&oe=6ACC3F72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39809569,
       "valor_atual": 39809573,
-      "hash_anterior": "f964108241f6eac8c0f0260dbfda8932fd7882ac588df894e5163da8259a8660",
-      "hash_atual": "7e8a57ea63702320bd68cf82380c1263e21de4bb8df9a1388403c1b102aec80b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3090,15 +3232,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GfYHuaKpP2_3wQCqKm91cQ&_nc_ss=70689&oh=00_AQOD8TG7FF1PtGN3kdgVWCCP8tc2QL43p24LvcvSh4KbpA&oe=6ACC3F72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GfYHuaKpP2_3wQCqKm91cQ&_nc_ss=70689&oh=00_AQOD8TG7FF1PtGN3kdgVWCCP8tc2QL43p24LvcvSh4KbpA&oe=6ACC3F72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39809572,
       "valor_atual": 39809569,
-      "hash_anterior": "6e8d4caea5aa5a834b631b473615f833e80a8fb4a1f6f68933204129b23f06e7",
-      "hash_atual": "f964108241f6eac8c0f0260dbfda8932fd7882ac588df894e5163da8259a8660",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3125,15 +3268,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=M5oSST5TiAtKkBw86LNZOg&_nc_ss=70689&oh=00_AQN6-rWuTDDglXWngqCOeUmudcsHLO8L1w6BdKSYM1DTFw&oe=6ACC3F72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH2u3qd&_nc_oc=Adoq24KMTsvk8Lm4Ew6bfreoP9Y_Mx_3yAG73ZEgtyWIeHstY4Ec1nBcWlNvldMk3iFPDrR2PB3Z1uzdtUuUBwKq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=M5oSST5TiAtKkBw86LNZOg&_nc_ss=70689&oh=00_AQN6-rWuTDDglXWngqCOeUmudcsHLO8L1w6BdKSYM1DTFw&oe=6ACC3F72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39810872,
       "valor_atual": 39809572,
-      "hash_anterior": "e89019da1ac5d2e468d63850f65140edae3960aaa506faa7fe666122abbe967a",
-      "hash_atual": "6e8d4caea5aa5a834b631b473615f833e80a8fb4a1f6f68933204129b23f06e7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1300,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3160,15 +3304,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qgW_RInULHHchR0QwSEAWQ&_nc_ss=70689&oh=00_AQPZOtKzgg_kQNP2CKex5KwcjM3L3tuVq7wjZrvGaNYYXA&oe=6ACB96B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qgW_RInULHHchR0QwSEAWQ&_nc_ss=70689&oh=00_AQPZOtKzgg_kQNP2CKex5KwcjM3L3tuVq7wjZrvGaNYYXA&oe=6ACB96B2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811096,
       "valor_atual": 39810872,
-      "hash_anterior": "e89856f54abff518f2e2bb8678b8c6eb5e6fcbf5fd79a2113772db32ae81494c",
-      "hash_atual": "e89019da1ac5d2e468d63850f65140edae3960aaa506faa7fe666122abbe967a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -224,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3195,15 +3340,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uMIMj1EbEgnq_hy46nMucg&_nc_ss=70689&oh=00_AQPPWPc7kMNzGQhtRKfS3IBlKTFKr9ybQs4nLu7YtAdRjw&oe=6ACB5E72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uMIMj1EbEgnq_hy46nMucg&_nc_ss=70689&oh=00_AQPPWPc7kMNzGQhtRKfS3IBlKTFKr9ybQs4nLu7YtAdRjw&oe=6ACB5E72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811142,
       "valor_atual": 39811096,
-      "hash_anterior": "22f6b1819aed5b9edd80290cc572896bb6e8c130e92248a4ddc16ff7dd02de03",
-      "hash_atual": "e89856f54abff518f2e2bb8678b8c6eb5e6fcbf5fd79a2113772db32ae81494c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -46,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3230,15 +3376,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hWXC-BV9z_6cLiBmbqTUPg&_nc_ss=70689&oh=00_AQPjBF3219AyGVRs8RTI1UtNcIsjvkfnZ3kNpeUjePeUiQ&oe=6ACB5E72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hWXC-BV9z_6cLiBmbqTUPg&_nc_ss=70689&oh=00_AQPjBF3219AyGVRs8RTI1UtNcIsjvkfnZ3kNpeUjePeUiQ&oe=6ACB5E72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811256,
       "valor_atual": 39811142,
-      "hash_anterior": "0c68164516e622ef458147c2e46768a3b5388a87661889c562fec067b23cec0a",
-      "hash_atual": "22f6b1819aed5b9edd80290cc572896bb6e8c130e92248a4ddc16ff7dd02de03",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -114,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3265,15 +3412,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yx2FlTge7r25oHgXMcFlww&_nc_ss=70689&oh=00_AQOq_eDM4CHV7LPeKPwaIeznCj83ERN1wUPvxT42Q8TrZw&oe=6ACB5E72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yx2FlTge7r25oHgXMcFlww&_nc_ss=70689&oh=00_AQOq_eDM4CHV7LPeKPwaIeznCj83ERN1wUPvxT42Q8TrZw&oe=6ACB5E72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811262,
       "valor_atual": 39811256,
-      "hash_anterior": "96959b4ec70ce1a61a1829d7beeab355f665e9714648d355dd403073a6d3c750",
-      "hash_atual": "0c68164516e622ef458147c2e46768a3b5388a87661889c562fec067b23cec0a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3300,15 +3448,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dBhqYc2GmiLFMsIlMC3n1g&_nc_ss=70689&oh=00_AQMIaJr5yvR0Ca6ZWTbtVdkaYFUkqoixfB2uMAlRTffWBQ&oe=6ACB5E72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dBhqYc2GmiLFMsIlMC3n1g&_nc_ss=70689&oh=00_AQMIaJr5yvR0Ca6ZWTbtVdkaYFUkqoixfB2uMAlRTffWBQ&oe=6ACB5E72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811263,
       "valor_atual": 39811262,
-      "hash_anterior": "72f8befb2322d0fa91668947f02fa5ef34ddf1012aea39d3177dcf08ca48528b",
-      "hash_atual": "96959b4ec70ce1a61a1829d7beeab355f665e9714648d355dd403073a6d3c750",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3335,15 +3484,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZPVyXQz2W0IaO9NRqHeDSA&_nc_ss=70689&oh=00_AQNhbBhp25_oQwTnhQm0UMudL6-abOcktcbbkcPuBOf4Hg&oe=6ACB5E72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZPVyXQz2W0IaO9NRqHeDSA&_nc_ss=70689&oh=00_AQNhbBhp25_oQwTnhQm0UMudL6-abOcktcbbkcPuBOf4Hg&oe=6ACB5E72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811260,
       "valor_atual": 39811263,
-      "hash_anterior": "e3dabffbcedba9a646258ce67a004ef00afe2e1731f270be0b1eb833135faf17",
-      "hash_atual": "72f8befb2322d0fa91668947f02fa5ef34ddf1012aea39d3177dcf08ca48528b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3370,15 +3520,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mtfWrFWmDYGKYnA45xrr_Q&_nc_ss=70689&oh=00_AQNSU0PJAn6PLmIi1yGI5ZR8lxJGvOnBxsjK9kYqOjkArA&oe=6ACB5E72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHr2ibi&_nc_oc=Adp1EKU48egw61aXTqagbZgP5lU7ZI2N-zml6isZ7HEbAOCz7cIKtyj-mXotumoH6GkopYy-b5VHCrXgVZ8DtsMe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mtfWrFWmDYGKYnA45xrr_Q&_nc_ss=70689&oh=00_AQNSU0PJAn6PLmIi1yGI5ZR8lxJGvOnBxsjK9kYqOjkArA&oe=6ACB5E72",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811570,
       "valor_atual": 39811260,
-      "hash_anterior": "6bb955ce9fb8c6cf94ea515d6ba7dbd90cf270b7242d66cc33546cc6df2b94a1",
-      "hash_atual": "e3dabffbcedba9a646258ce67a004ef00afe2e1731f270be0b1eb833135faf17",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -310,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3405,15 +3556,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-XVgtFWc3jreuzp1sfSt3g&_nc_ss=70689&oh=00_AQNOLVIFtbRQRYATikjWaR472ZEEleiYbl3jp8CVelUZeA&oe=6ACB2632"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-XVgtFWc3jreuzp1sfSt3g&_nc_ss=70689&oh=00_AQNOLVIFtbRQRYATikjWaR472ZEEleiYbl3jp8CVelUZeA&oe=6ACB2632",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811574,
       "valor_atual": 39811570,
-      "hash_anterior": "d9243d475cb6996a5e4c6c8702545da579b75cae9ae0f0c5b1566813909f88ef",
-      "hash_atual": "6bb955ce9fb8c6cf94ea515d6ba7dbd90cf270b7242d66cc33546cc6df2b94a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3440,15 +3592,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DB1JVR3GWMrHvtfw5qFhnQ&_nc_ss=70689&oh=00_AQOLAQIQEV22uVdngil7CQ9YmAEF9XbzDMyH0X1I4V8nbA&oe=6ACB2632"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DB1JVR3GWMrHvtfw5qFhnQ&_nc_ss=70689&oh=00_AQOLAQIQEV22uVdngil7CQ9YmAEF9XbzDMyH0X1I4V8nbA&oe=6ACB2632",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39811738,
       "valor_atual": 39811574,
-      "hash_anterior": "355cc29ca72b6e484b9ed807935216feb17d780f2f9d2c846eb89d0a6e669a20",
-      "hash_atual": "d9243d475cb6996a5e4c6c8702545da579b75cae9ae0f0c5b1566813909f88ef",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -164,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3475,15 +3628,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jxD5wxHThMzdFzXDT2_TcA&_nc_ss=70689&oh=00_AQNDkmM2G4fYxDNUC8YpF9Tu0Z1MwP0RE82F2ZsSS7zaTg&oe=6ACAEDF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jxD5wxHThMzdFzXDT2_TcA&_nc_ss=70689&oh=00_AQNDkmM2G4fYxDNUC8YpF9Tu0Z1MwP0RE82F2ZsSS7zaTg&oe=6ACAEDF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39813613,
       "valor_atual": 39811738,
-      "hash_anterior": "83b62d81b80764a7095e7b70258d3da5293851931941145a9981832be4079775",
-      "hash_atual": "355cc29ca72b6e484b9ed807935216feb17d780f2f9d2c846eb89d0a6e669a20",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1875,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3510,15 +3664,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9N-o8CQytITEA4J1OhZFmw&_nc_ss=70689&oh=00_AQMmmr3Uu4Snb4Z8YbMomI89Gw2OdgljvSXbDdfDeUaw8A&oe=6ACAEDF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9N-o8CQytITEA4J1OhZFmw&_nc_ss=70689&oh=00_AQMmmr3Uu4Snb4Z8YbMomI89Gw2OdgljvSXbDdfDeUaw8A&oe=6ACAEDF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39814828,
       "valor_atual": 39813613,
-      "hash_anterior": "9c6a0798dd2c7dc22132d203a92571e97bf900e424f1873e8172e91fc5f0bf09",
-      "hash_atual": "83b62d81b80764a7095e7b70258d3da5293851931941145a9981832be4079775",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1215,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3545,15 +3700,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9N-o8CQytITEA4J1OhZFmw&_nc_ss=70689&oh=00_AQMmmr3Uu4Snb4Z8YbMomI89Gw2OdgljvSXbDdfDeUaw8A&oe=6ACAEDF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwHm8PWJ&_nc_oc=AdqbZ6yMopfMP2aTOLzfrmi7-_rpYNMXRYBjZ4PAEU08gs0EefIEhK9kkHG2DGif6h85x0g_r8wEtR5cCpZmMfLJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9N-o8CQytITEA4J1OhZFmw&_nc_ss=70689&oh=00_AQMmmr3Uu4Snb4Z8YbMomI89Gw2OdgljvSXbDdfDeUaw8A&oe=6ACAEDF2",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1050,
       "valor_atual": 1051,
-      "hash_anterior": "9c6a0798dd2c7dc22132d203a92571e97bf900e424f1873e8172e91fc5f0bf09",
-      "hash_atual": "83b62d81b80764a7095e7b70258d3da5293851931941145a9981832be4079775",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3580,15 +3736,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6tNWhZAgbGPQjoyzTu9VNA&_nc_ss=70689&oh=00_AQN8-fTwwjmpUCPGlgkcQtaH8sdYad4Bib1irHszykbOvQ&oe=6ACA0CF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6tNWhZAgbGPQjoyzTu9VNA&_nc_ss=70689&oh=00_AQN8-fTwwjmpUCPGlgkcQtaH8sdYad4Bib1irHszykbOvQ&oe=6ACA0CF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39814840,
       "valor_atual": 39814828,
-      "hash_anterior": "9b44a0a22a17db3851e651ba96ff7fe243b4aeccbf70660d2f3061fde5d729ab",
-      "hash_atual": "9c6a0798dd2c7dc22132d203a92571e97bf900e424f1873e8172e91fc5f0bf09",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3615,49 +3772,16 @@
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qNiUmeHTOQDeI1B_dn1Q4g&_nc_ss=70689&oh=00_AQNsBxAuXjqyOO3KEXzvY-EDQ7xs3wR8LB45w23PDILnkQ&oe=6ACA0CF2"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "cantores",
-      "valor_atual": "cantor",
-      "hash_anterior": "9a1c94dbdffce6bf6894dc937cb94e139c8446caf18d698f7527c14f5e8752fb",
-      "hash_atual": "9b44a0a22a17db3851e651ba96ff7fe243b4aeccbf70660d2f3061fde5d729ab",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 637.87253,
-        "texto": "10 minutos e 37 segundos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 637.87253,
-        "texto": "10 minutos e 37 segundos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"cantores\" para \"cantor\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:54:38.895085",
-      "timestamp_anterior": "2026-10-05T20:44:01.022555",
-      "timestamp_atual": "2026-10-05T20:54:38.895085",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "cantor",
-        "pk": 23577429,
-        "id": "17841400762870368",
-        "username": "wesleysafadao",
-        "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qNiUmeHTOQDeI1B_dn1Q4g&_nc_ss=70689&oh=00_AQNsBxAuXjqyOO3KEXzvY-EDQ7xs3wR8LB45w23PDILnkQ&oe=6ACA0CF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qNiUmeHTOQDeI1B_dn1Q4g&_nc_ss=70689&oh=00_AQNsBxAuXjqyOO3KEXzvY-EDQ7xs3wR8LB45w23PDILnkQ&oe=6ACA0CF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39814856,
       "valor_atual": 39814840,
-      "hash_anterior": "9a1c94dbdffce6bf6894dc937cb94e139c8446caf18d698f7527c14f5e8752fb",
-      "hash_atual": "9b44a0a22a17db3851e651ba96ff7fe243b4aeccbf70660d2f3061fde5d729ab",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -16,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3665,8 +3789,8 @@
         "texto": "10 minutos e 37 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 0.0,
-        "texto": "0 segundos"
+        "segundos": 637.87253,
+        "texto": "10 minutos e 37 segundos"
       },
       "titulo": "Perdeu 16 seguidores",
       "descricao": "Os seguidores caíram de 39.814.856 para 39.814.840",
@@ -3679,20 +3803,21 @@
       "timestamp_atual": "2026-10-05T20:44:01.022555",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "cantores",
+        "categoria": "cantor",
         "pk": 23577429,
         "id": "17841400762870368",
         "username": "wesleysafadao",
         "nome": "Wesley Safadão",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CABku-ClPbfLopWlVHIvaw&_nc_ss=70689&oh=00_AQOXTEqDBKC1auWLFZSt0FZ69kEZSU0Ccuz6zR91ty26oA&oe=6ACA0CF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/672390748_18600063517025430_8481850828050677108_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTUuQzMifQ%3D%3D&_nc_ohc=zpqQ1Wbq5QYQ7kNvwH4FQij&_nc_oc=Adpruc7NerphVk_XYl9sZfO3mMzFjHnkp14QkffBT-pQLDGlqdaxfAmcBg_oycOBYpcJMRM5mPYEXqUo5Q7RDL-U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CABku-ClPbfLopWlVHIvaw&_nc_ss=70689&oh=00_AQOXTEqDBKC1auWLFZSt0FZ69kEZSU0Ccuz6zR91ty26oA&oe=6ACA0CF2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 39814855,
       "valor_atual": 39814856,
-      "hash_anterior": "2e320a6c7c20dc3b3fcaf80a7eace1768141b53097ad2879e9e68521e212e0a5",
-      "hash_atual": "9a1c94dbdffce6bf6894dc937cb94e139c8446caf18d698f7527c14f5e8752fb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3711,34 +3836,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:37.519826",
-    "captura_mais_recente": "2026-11-03T12:24:12.497657",
-    "tempo_total_segundos": 2475814,
-    "tempo_total_dias": 28.655255,
-    "tempo_total_texto": "28 dias, 15 horas, 43 minutos e 34 segundos",
+    "captura_mais_recente": "2026-11-19T16:32:24.766409",
+    "tempo_total_segundos": 3873107,
+    "tempo_total_dias": 44.827627,
+    "tempo_total_texto": "44 dias, 19 horas, 51 minutos e 47 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -35205,
-      "direcao": "perdeu",
-      "quantidade": 35205,
-      "texto": "Perdeu 35205 seguidores",
+    "1_dias": {
+      "variacao": 5248,
+      "direcao": "ganhou",
+      "quantidade": 5248,
+      "texto": "Ganhou 5248 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:06:24.428520",
-      "captura_fim": "2026-11-03T12:24:12.497657",
-      "seguidores_inicio": 39759002,
-      "seguidores_fim": 39723797
+      "captura_inicio": "2026-11-03T12:24:12.497657",
+      "captura_fim": "2026-11-19T16:32:24.766409",
+      "seguidores_inicio": 39723797,
+      "seguidores_fim": 39729045
+    },
+    "7_dias": {
+      "variacao": 5248,
+      "direcao": "ganhou",
+      "quantidade": 5248,
+      "texto": "Ganhou 5248 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:24:12.497657",
+      "captura_fim": "2026-11-19T16:32:24.766409",
+      "seguidores_inicio": 39723797,
+      "seguidores_fim": 39729045
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -50760,
+      "direcao": "perdeu",
+      "quantidade": 50760,
+      "texto": "Perdeu 50760 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:26:52.115726",
+      "captura_fim": "2026-11-19T16:32:24.766409",
+      "seguidores_inicio": 39779805,
+      "seguidores_fim": 39729045
     },
     "90_dias": {
       "variacao": null,
@@ -3749,17 +3890,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -91058,
+      "variacao": -85810,
       "direcao": "perdeu",
-      "quantidade": 91058,
-      "texto": "Perdeu 91058 seguidores",
+      "quantidade": 85810,
+      "texto": "Perdeu 85810 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:37.519826",
-      "captura_mais_recente": "2026-11-03T12:24:12.497657",
-      "tempo_total_dias": 28.655266,
+      "captura_mais_recente": "2026-11-19T16:32:24.766409",
+      "tempo_total_dias": 44.82763,
       "seguidores_inicio": 39814855,
-      "seguidores_fim": 39723797
+      "seguidores_fim": 39729045
     }
   }
 }

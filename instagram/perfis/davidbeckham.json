@@ -8,7 +8,8 @@
       "id": "17841400748562920",
       "username": "davidbeckham",
       "nome": "David Beckham",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mFRWILQ3eDPtbJJDpEn39Q&_nc_ss=70689&oh=00_AQSSMsIj9FcYavvCuFrGufmQpEbwKmhWQ4J6-KmM7Dupew&oe=6AEFC95C"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=r0Rf9DYEIm8Q7kNvwFKARma&_nc_oc=Adq-Z3QFS7Gc7MKM3P94KEfUH9WcFebrum6TiU7B_rHvUoJaPolVHiIRJBQz7p6TosOFw3C4jSGacc1K00An8OIy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wu8nBD3gVT8kUgEKf27Kjw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTnwKuw-bCot3eGpWiAPLTi61KL1A-eC1LoLo4LFgD7Xg&oe=6B05199C",
+      "total_posts": 2296
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "Freedom to Dream",
-        "timestamp": "2026-10-05T20:41:13.788304",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "atletas",
-        "valor_atual": "atleta",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"atletas\" para \"atleta\"",
-        "timestamp": "2026-10-05T20:55:15.047544",
-        "timestamp_anterior": "2026-10-05T20:41:13.788304",
-        "tempo_desde_anterior_segundos": 841
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "atletas",
         "timestamp": "2026-10-05T20:41:13.788304",
         "tipo": "inicial"
       }
@@ -98,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 87580880,
+        "valor_atual": 87486805,
+        "variacao": -94075,
+        "direcao": "reducao",
+        "descricao": "-94075 seguidores",
+        "timestamp": "2026-11-19T16:28:46.553716",
+        "timestamp_anterior": "2026-11-03T12:22:13.282914",
+        "tempo_desde_anterior_segundos": 1397193
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -873,11 +864,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 2289,
+        "valor_atual": 2296,
+        "variacao": 7,
+        "direcao": "aumento",
+        "descricao": "+7 publicações",
+        "timestamp": "2026-11-19T16:28:46.553716",
+        "timestamp_anterior": "2026-11-03T12:11:36.336101",
+        "tempo_desde_anterior_segundos": 1397830
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 2288,
         "valor_atual": 2289,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-11-03T12:11:36.336101",
         "timestamp_anterior": "2026-10-30T20:10:29.841413",
         "tempo_desde_anterior_segundos": 316866
@@ -890,7 +894,7 @@
         "valor_atual": 2288,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-30T20:10:29.841413",
         "timestamp_anterior": "2026-10-22T19:22:53.974758",
         "tempo_desde_anterior_segundos": 694055
@@ -903,7 +907,7 @@
         "valor_atual": 2287,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-22T19:22:53.974758",
         "timestamp_anterior": "2026-10-21T17:36:33.240192",
         "tempo_desde_anterior_segundos": 92780
@@ -916,7 +920,7 @@
         "valor_atual": 2286,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-21T17:36:33.240192",
         "timestamp_anterior": "2026-10-16T13:54:29.320800",
         "tempo_desde_anterior_segundos": 445323
@@ -929,7 +933,7 @@
         "valor_atual": 2284,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-16T13:54:29.320800",
         "timestamp_anterior": "2026-10-13T16:04:39.039160",
         "tempo_desde_anterior_segundos": 251390
@@ -942,7 +946,7 @@
         "valor_atual": 2283,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-13T16:04:39.039160",
         "timestamp_anterior": "2026-10-10T13:46:50.430440",
         "tempo_desde_anterior_segundos": 267468
@@ -955,7 +959,7 @@
         "valor_atual": 2281,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-10T13:46:50.430440",
         "timestamp_anterior": "2026-10-08T18:27:13.954996",
         "tempo_desde_anterior_segundos": 155976
@@ -968,7 +972,7 @@
         "valor_atual": 2280,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-08T18:27:13.954996",
         "timestamp_anterior": "2026-10-07T13:02:21.979832",
         "tempo_desde_anterior_segundos": 105891
@@ -981,7 +985,7 @@
         "valor_atual": 2279,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-07T13:02:21.979832",
         "timestamp_anterior": "2026-10-06T12:10:14.873267",
         "tempo_desde_anterior_segundos": 89527
@@ -994,7 +998,7 @@
         "valor_atual": 2278,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-06T12:10:14.873267",
         "timestamp_anterior": "2026-10-05T20:41:13.788304",
         "tempo_desde_anterior_segundos": 55741
@@ -1037,9 +1041,91 @@
         "timestamp": "2026-10-05T20:41:13.788304",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "atleta",
+        "timestamp": "2026-10-05T20:41:13.788304",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:28:46.553716",
+      "timestamp_anterior": "2026-11-03T12:22:13.282914",
+      "timestamp_atual": "2026-11-19T16:28:46.553716",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 186904952,
+        "id": "17841400748562920",
+        "username": "davidbeckham",
+        "nome": "David Beckham",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=r0Rf9DYEIm8Q7kNvwFKARma&_nc_oc=Adq-Z3QFS7Gc7MKM3P94KEfUH9WcFebrum6TiU7B_rHvUoJaPolVHiIRJBQz7p6TosOFw3C4jSGacc1K00An8OIy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wu8nBD3gVT8kUgEKf27Kjw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTnwKuw-bCot3eGpWiAPLTi61KL1A-eC1LoLo4LFgD7Xg&oe=6B05199C",
+        "total_posts": 2296
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 87580880,
+      "valor_atual": 87486805,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -94075,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397193.270802,
+        "texto": "16 dias e 4 horas e 6 minutos e 33 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397193.270802,
+        "texto": "16 dias e 4 horas e 6 minutos e 33 segundos"
+      },
+      "titulo": "Perdeu 94.075 seguidores",
+      "descricao": "Os seguidores caíram de 87.580.880 para 87.486.805",
+      "variacao_texto": "-94.075 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:28:46.553716",
+      "timestamp_anterior": "2026-11-03T12:22:13.282914",
+      "timestamp_atual": "2026-11-19T16:28:46.553716",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 186904952,
+        "id": "17841400748562920",
+        "username": "davidbeckham",
+        "nome": "David Beckham",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=r0Rf9DYEIm8Q7kNvwFKARma&_nc_oc=Adq-Z3QFS7Gc7MKM3P94KEfUH9WcFebrum6TiU7B_rHvUoJaPolVHiIRJBQz7p6TosOFw3C4jSGacc1K00An8OIy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Wu8nBD3gVT8kUgEKf27Kjw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTnwKuw-bCot3eGpWiAPLTi61KL1A-eC1LoLo4LFgD7Xg&oe=6B05199C",
+        "total_posts": 2296
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 2289,
+      "valor_atual": 2296,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 7,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397193.270802,
+        "texto": "16 dias e 4 horas e 6 minutos e 33 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 7 publicações",
+      "descricao": "O total mudou de 2.289 para 2.296",
+      "variacao_texto": "+7 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:22:13.282914",
@@ -1052,15 +1138,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mFRWILQ3eDPtbJJDpEn39Q&_nc_ss=70689&oh=00_AQSSMsIj9FcYavvCuFrGufmQpEbwKmhWQ4J6-KmM7Dupew&oe=6AEFC95C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mFRWILQ3eDPtbJJDpEn39Q&_nc_ss=70689&oh=00_AQSSMsIj9FcYavvCuFrGufmQpEbwKmhWQ4J6-KmM7Dupew&oe=6AEFC95C",
+        "total_posts": 2289
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87580892,
       "valor_atual": 87580880,
-      "hash_anterior": "92cf16c8863993c954c4efa1fd9d415de5db2283b32918c8522674fa291c1f72",
-      "hash_atual": "6649cd6e9988043df8918c958e5a83ff24779c652e2b3a686bfa67e11f95dbb2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1087,15 +1174,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=90jCa-5hcszK2SC3NUt-5Q&_nc_ss=70689&oh=00_AQRWXC1hh0vL5plZ3mh5tE9mLyurOWEWp2P2AzamcNwKPA&oe=6AEFC95C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=90jCa-5hcszK2SC3NUt-5Q&_nc_ss=70689&oh=00_AQRWXC1hh0vL5plZ3mh5tE9mLyurOWEWp2P2AzamcNwKPA&oe=6AEFC95C",
+        "total_posts": 2289
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87580899,
       "valor_atual": 87580892,
-      "hash_anterior": "36b9d47dca2d37cd8c83be1722fef19954865ffbcb772dc2104a3bd31212c4bf",
-      "hash_atual": "92cf16c8863993c954c4efa1fd9d415de5db2283b32918c8522674fa291c1f72",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1122,15 +1210,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WQbCgjW8TBSBLNXUNGKlhA&_nc_ss=70689&oh=00_AQQ3VjgJCddRBEZelgIWObvS4479QYz7Pct5xNTOg8b14w&oe=6AEFC95C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WQbCgjW8TBSBLNXUNGKlhA&_nc_ss=70689&oh=00_AQQ3VjgJCddRBEZelgIWObvS4479QYz7Pct5xNTOg8b14w&oe=6AEFC95C",
+        "total_posts": 2289
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87580904,
       "valor_atual": 87580899,
-      "hash_anterior": "903f666f27ae41ac7209826f75d447e35a34d87060c1ec8d341edd2609eba9ca",
-      "hash_atual": "36b9d47dca2d37cd8c83be1722fef19954865ffbcb772dc2104a3bd31212c4bf",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1157,15 +1246,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AaxHflkXvVMMmghFwT-BCA&_nc_ss=70689&oh=00_AQT1A-GCFy4QiKyCSoDdlmhWRQ2Ka0FR9s1vDM4xKNo_6g&oe=6AEFC95C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AaxHflkXvVMMmghFwT-BCA&_nc_ss=70689&oh=00_AQT1A-GCFy4QiKyCSoDdlmhWRQ2Ka0FR9s1vDM4xKNo_6g&oe=6AEFC95C",
+        "total_posts": 2289
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87602203,
       "valor_atual": 87580904,
-      "hash_anterior": "ff273e14d8364d5133f7fc5dde4cfddcc67547e51581dc40d88deadb8d6dba25",
-      "hash_atual": "903f666f27ae41ac7209826f75d447e35a34d87060c1ec8d341edd2609eba9ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -21299,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1192,15 +1282,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AaxHflkXvVMMmghFwT-BCA&_nc_ss=70689&oh=00_AQT1A-GCFy4QiKyCSoDdlmhWRQ2Ka0FR9s1vDM4xKNo_6g&oe=6AEFC95C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GL8ApSH5domeSe5BACIo5YBJg2Y4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q_KqnYkpK8wQ7kNvwFJTIit&_nc_oc=AdqWIABRyNLOJiBP7yHbon-Eo9QyV2U-t8MlsNbwzojztqNJ7O7FFLnfLHsuFseo6WITvQuxStUC7O58NVjSKAHx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AaxHflkXvVMMmghFwT-BCA&_nc_ss=70689&oh=00_AQT1A-GCFy4QiKyCSoDdlmhWRQ2Ka0FR9s1vDM4xKNo_6g&oe=6AEFC95C",
+        "total_posts": 2289
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2288,
       "valor_atual": 2289,
-      "hash_anterior": "ff273e14d8364d5133f7fc5dde4cfddcc67547e51581dc40d88deadb8d6dba25",
-      "hash_atual": "903f666f27ae41ac7209826f75d447e35a34d87060c1ec8d341edd2609eba9ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1211,7 +1302,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.288 para 2.289",
       "variacao_texto": "+1 post"
     },
@@ -1227,15 +1318,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HFcyB2rDPt0Q7kNvwEEyDdY&_nc_oc=AdrPaQDsXn0bABcec3rJdjiA_GlOpv4jiU4XLfwPTW21-l7VmVYx1kH0Wj8PVCZ_J8VHZZIr7yEIh8tnVJZey-MW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RgONG-bPCpOFe8owbgY-QA&_nc_ss=70689&oh=00_AQRio3Myb2zOCduXUdwJT3oxO-Q3G3_DjLbncFkIdp5PSQ&oe=6AEAF3DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HFcyB2rDPt0Q7kNvwEEyDdY&_nc_oc=AdrPaQDsXn0bABcec3rJdjiA_GlOpv4jiU4XLfwPTW21-l7VmVYx1kH0Wj8PVCZ_J8VHZZIr7yEIh8tnVJZey-MW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RgONG-bPCpOFe8owbgY-QA&_nc_ss=70689&oh=00_AQRio3Myb2zOCduXUdwJT3oxO-Q3G3_DjLbncFkIdp5PSQ&oe=6AEAF3DC",
+        "total_posts": 2288
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87602202,
       "valor_atual": 87602203,
-      "hash_anterior": "32d5128581815de2715d7efc12dfcc7ad56ce17d291e330ae57ee775f6e1a2a5",
-      "hash_atual": "ff273e14d8364d5133f7fc5dde4cfddcc67547e51581dc40d88deadb8d6dba25",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1262,15 +1354,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HFcyB2rDPt0Q7kNvwEEyDdY&_nc_oc=AdrPaQDsXn0bABcec3rJdjiA_GlOpv4jiU4XLfwPTW21-l7VmVYx1kH0Wj8PVCZ_J8VHZZIr7yEIh8tnVJZey-MW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O7gsFVkAoZ7Ot0M9WTwybA&_nc_ss=70689&oh=00_AQTah8L8IddCR6S9zVYtXmHqOc_mvboXnD1N_D3OURDS-g&oe=6AEAF3DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HFcyB2rDPt0Q7kNvwEEyDdY&_nc_oc=AdrPaQDsXn0bABcec3rJdjiA_GlOpv4jiU4XLfwPTW21-l7VmVYx1kH0Wj8PVCZ_J8VHZZIr7yEIh8tnVJZey-MW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O7gsFVkAoZ7Ot0M9WTwybA&_nc_ss=70689&oh=00_AQTah8L8IddCR6S9zVYtXmHqOc_mvboXnD1N_D3OURDS-g&oe=6AEAF3DC",
+        "total_posts": 2288
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87625146,
       "valor_atual": 87602202,
-      "hash_anterior": "e88a05de779d8d0e7f994f7a47cc503a354af3f1295a4fe1aa2dd03baf4d4f62",
-      "hash_atual": "32d5128581815de2715d7efc12dfcc7ad56ce17d291e330ae57ee775f6e1a2a5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -22944,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1297,15 +1390,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HFcyB2rDPt0Q7kNvwEEyDdY&_nc_oc=AdrPaQDsXn0bABcec3rJdjiA_GlOpv4jiU4XLfwPTW21-l7VmVYx1kH0Wj8PVCZ_J8VHZZIr7yEIh8tnVJZey-MW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O7gsFVkAoZ7Ot0M9WTwybA&_nc_ss=70689&oh=00_AQTah8L8IddCR6S9zVYtXmHqOc_mvboXnD1N_D3OURDS-g&oe=6AEAF3DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HFcyB2rDPt0Q7kNvwEEyDdY&_nc_oc=AdrPaQDsXn0bABcec3rJdjiA_GlOpv4jiU4XLfwPTW21-l7VmVYx1kH0Wj8PVCZ_J8VHZZIr7yEIh8tnVJZey-MW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O7gsFVkAoZ7Ot0M9WTwybA&_nc_ss=70689&oh=00_AQTah8L8IddCR6S9zVYtXmHqOc_mvboXnD1N_D3OURDS-g&oe=6AEAF3DC",
+        "total_posts": 2288
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2287,
       "valor_atual": 2288,
-      "hash_anterior": "e88a05de779d8d0e7f994f7a47cc503a354af3f1295a4fe1aa2dd03baf4d4f62",
-      "hash_atual": "32d5128581815de2715d7efc12dfcc7ad56ce17d291e330ae57ee775f6e1a2a5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1316,7 +1410,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.287 para 2.288",
       "variacao_texto": "+1 post"
     },
@@ -1332,15 +1426,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7VEaz9rP9BMQ7kNvwHUJm1H&_nc_oc=AdrvZSLHWJbzaF9u3QaoGKCHsc-LmA1FsGQTtwS-CX_rAjZIwDr3YVtSF9AWuOEouSy6yBpGUCjXIxRC2bWzLjRj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iXtBs7GrUTYsG_w7TBeyVA&_nc_ss=70689&oh=00_AQPS0-FoT9yyOiv84629vJXU9x4gw0xFo9PqwI0dyTjsqA&oe=6AE29A5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7VEaz9rP9BMQ7kNvwHUJm1H&_nc_oc=AdrvZSLHWJbzaF9u3QaoGKCHsc-LmA1FsGQTtwS-CX_rAjZIwDr3YVtSF9AWuOEouSy6yBpGUCjXIxRC2bWzLjRj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iXtBs7GrUTYsG_w7TBeyVA&_nc_ss=70689&oh=00_AQPS0-FoT9yyOiv84629vJXU9x4gw0xFo9PqwI0dyTjsqA&oe=6AE29A5C",
+        "total_posts": 2287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87625161,
       "valor_atual": 87625146,
-      "hash_anterior": "5f40a9dcaf738000117d82e1a1387296745bcc2d9fefcdcc319438aef587a5aa",
-      "hash_atual": "e88a05de779d8d0e7f994f7a47cc503a354af3f1295a4fe1aa2dd03baf4d4f62",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -15,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1367,15 +1462,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7VEaz9rP9BMQ7kNvwHUJm1H&_nc_oc=AdrvZSLHWJbzaF9u3QaoGKCHsc-LmA1FsGQTtwS-CX_rAjZIwDr3YVtSF9AWuOEouSy6yBpGUCjXIxRC2bWzLjRj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pSmxCi1D9rClxFRr-9upIQ&_nc_ss=70689&oh=00_AQOIeSydTMY96IepXAMRFENHIU6SvFKAxHja2eiM1Fa4QQ&oe=6AE29A5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7VEaz9rP9BMQ7kNvwHUJm1H&_nc_oc=AdrvZSLHWJbzaF9u3QaoGKCHsc-LmA1FsGQTtwS-CX_rAjZIwDr3YVtSF9AWuOEouSy6yBpGUCjXIxRC2bWzLjRj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pSmxCi1D9rClxFRr-9upIQ&_nc_ss=70689&oh=00_AQOIeSydTMY96IepXAMRFENHIU6SvFKAxHja2eiM1Fa4QQ&oe=6AE29A5C",
+        "total_posts": 2287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87627334,
       "valor_atual": 87625161,
-      "hash_anterior": "4914dc7324085dab808455296be4e6294e2178a01c3f36b087048c669b590b10",
-      "hash_atual": "5f40a9dcaf738000117d82e1a1387296745bcc2d9fefcdcc319438aef587a5aa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2173,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1402,15 +1498,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwEnmrCy&_nc_oc=AdpZ57Iz48FxubtBexa67hGryFuG0QrB9r8KdKJfR2uXG0hzmtYxEQyKJPORMKlhoFWPqIFN-LffCR6ImaQYtc6D&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zQozT30iweBwdJJTW_srvQ&_nc_ss=70689&oh=00_AQMGXXyYof6AJFRlFQ93DvBdyzmxs8NJafYYAtrzK2H-bw&oe=6AE148DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwEnmrCy&_nc_oc=AdpZ57Iz48FxubtBexa67hGryFuG0QrB9r8KdKJfR2uXG0hzmtYxEQyKJPORMKlhoFWPqIFN-LffCR6ImaQYtc6D&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zQozT30iweBwdJJTW_srvQ&_nc_ss=70689&oh=00_AQMGXXyYof6AJFRlFQ93DvBdyzmxs8NJafYYAtrzK2H-bw&oe=6AE148DC",
+        "total_posts": 2287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87627352,
       "valor_atual": 87627334,
-      "hash_anterior": "d4067606a298c158327d98c724e68ab2d32457679ed4075f3056ad0916616bc0",
-      "hash_atual": "4914dc7324085dab808455296be4e6294e2178a01c3f36b087048c669b590b10",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -18,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1437,15 +1534,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwEnmrCy&_nc_oc=AdpZ57Iz48FxubtBexa67hGryFuG0QrB9r8KdKJfR2uXG0hzmtYxEQyKJPORMKlhoFWPqIFN-LffCR6ImaQYtc6D&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vDmOwJgmfO4ShZxuaoIjYw&_nc_ss=70689&oh=00_AQNSr_sH345FGebbEvpObyCc5EIgdBZfnCa4Mw_VCP22Dg&oe=6AE148DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwEnmrCy&_nc_oc=AdpZ57Iz48FxubtBexa67hGryFuG0QrB9r8KdKJfR2uXG0hzmtYxEQyKJPORMKlhoFWPqIFN-LffCR6ImaQYtc6D&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vDmOwJgmfO4ShZxuaoIjYw&_nc_ss=70689&oh=00_AQNSr_sH345FGebbEvpObyCc5EIgdBZfnCa4Mw_VCP22Dg&oe=6AE148DC",
+        "total_posts": 2287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87631403,
       "valor_atual": 87627352,
-      "hash_anterior": "1c5b46675a2083881cfed8143542581b8ef91c8e96e80d26b36a0abf8446f5b6",
-      "hash_atual": "d4067606a298c158327d98c724e68ab2d32457679ed4075f3056ad0916616bc0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4051,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1472,15 +1570,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHw65r7&_nc_oc=AdonRbUCvvhV-ahDn3e-2cN5JJOmoje23fZLSfrjaUXUa5A0E7qxEFXkxrJYA-HUpoydb45ewhI9ZP_pptfMmES2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lBx81soCQh1B38t3PI0ocQ&_nc_ss=70689&oh=00_AQMU-941OH9TPWG-rPj2qy2OdMrrkrCs87VGErOjse097Q&oe=6AE067DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHw65r7&_nc_oc=AdonRbUCvvhV-ahDn3e-2cN5JJOmoje23fZLSfrjaUXUa5A0E7qxEFXkxrJYA-HUpoydb45ewhI9ZP_pptfMmES2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lBx81soCQh1B38t3PI0ocQ&_nc_ss=70689&oh=00_AQMU-941OH9TPWG-rPj2qy2OdMrrkrCs87VGErOjse097Q&oe=6AE067DC",
+        "total_posts": 2287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87631423,
       "valor_atual": 87631403,
-      "hash_anterior": "c1732a2126bac485361b20bda48bf494310e07f535bdbaf7b58d02dca4f6ce6d",
-      "hash_atual": "1c5b46675a2083881cfed8143542581b8ef91c8e96e80d26b36a0abf8446f5b6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -20,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1507,15 +1606,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHw65r7&_nc_oc=AdonRbUCvvhV-ahDn3e-2cN5JJOmoje23fZLSfrjaUXUa5A0E7qxEFXkxrJYA-HUpoydb45ewhI9ZP_pptfMmES2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=InOidXEC3O1nIgQPqk02yg&_nc_ss=70689&oh=00_AQMvLxiSlGuGwl1xC148I00bHC8dDjc48_d0opqcvH0M0g&oe=6AE067DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHw65r7&_nc_oc=AdonRbUCvvhV-ahDn3e-2cN5JJOmoje23fZLSfrjaUXUa5A0E7qxEFXkxrJYA-HUpoydb45ewhI9ZP_pptfMmES2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=InOidXEC3O1nIgQPqk02yg&_nc_ss=70689&oh=00_AQMvLxiSlGuGwl1xC148I00bHC8dDjc48_d0opqcvH0M0g&oe=6AE067DC",
+        "total_posts": 2287
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87640577,
       "valor_atual": 87631423,
-      "hash_anterior": "edc71dbdf3091352e297fc875036882ed2b32af41fff8a17834e8d4441a96515",
-      "hash_atual": "c1732a2126bac485361b20bda48bf494310e07f535bdbaf7b58d02dca4f6ce6d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9154,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1542,15 +1642,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHw65r7&_nc_oc=AdonRbUCvvhV-ahDn3e-2cN5JJOmoje23fZLSfrjaUXUa5A0E7qxEFXkxrJYA-HUpoydb45ewhI9ZP_pptfMmES2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=InOidXEC3O1nIgQPqk02yg&_nc_ss=70689&oh=00_AQMvLxiSlGuGwl1xC148I00bHC8dDjc48_d0opqcvH0M0g&oe=6AE067DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHw65r7&_nc_oc=AdonRbUCvvhV-ahDn3e-2cN5JJOmoje23fZLSfrjaUXUa5A0E7qxEFXkxrJYA-HUpoydb45ewhI9ZP_pptfMmES2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=InOidXEC3O1nIgQPqk02yg&_nc_ss=70689&oh=00_AQMvLxiSlGuGwl1xC148I00bHC8dDjc48_d0opqcvH0M0g&oe=6AE067DC",
+        "total_posts": 2287
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2286,
       "valor_atual": 2287,
-      "hash_anterior": "edc71dbdf3091352e297fc875036882ed2b32af41fff8a17834e8d4441a96515",
-      "hash_atual": "c1732a2126bac485361b20bda48bf494310e07f535bdbaf7b58d02dca4f6ce6d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1561,7 +1662,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.286 para 2.287",
       "variacao_texto": "+1 post"
     },
@@ -1577,15 +1678,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gYVjryd1kx_EZ2NQsPvMaA&_nc_ss=70689&oh=00_AQPQd7y7NpkRd6nnWrEFRhxSXLqqlkbqpvd4Yf-omwDfrg&oe=6ADEDE1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gYVjryd1kx_EZ2NQsPvMaA&_nc_ss=70689&oh=00_AQPQd7y7NpkRd6nnWrEFRhxSXLqqlkbqpvd4Yf-omwDfrg&oe=6ADEDE1C",
+        "total_posts": 2286
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87640578,
       "valor_atual": 87640577,
-      "hash_anterior": "888267d99d6aec06f6a2778ed8924cf4f95b701c04069cdecc9e5c5bca2b580f",
-      "hash_atual": "edc71dbdf3091352e297fc875036882ed2b32af41fff8a17834e8d4441a96515",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1612,15 +1714,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-Al0yXiSp8cQKM1_sqU_IA&_nc_ss=70689&oh=00_AQOUYruzRWcmXXwuAS2yKskY9R0fUcrqlrjB6SCTCzds1w&oe=6ADEDE1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-Al0yXiSp8cQKM1_sqU_IA&_nc_ss=70689&oh=00_AQOUYruzRWcmXXwuAS2yKskY9R0fUcrqlrjB6SCTCzds1w&oe=6ADEDE1C",
+        "total_posts": 2286
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87640585,
       "valor_atual": 87640578,
-      "hash_anterior": "828a1b1d9c2612e9b0eca571fb830a08ec5c31b8c785cc38aab70604496fd3c8",
-      "hash_atual": "888267d99d6aec06f6a2778ed8924cf4f95b701c04069cdecc9e5c5bca2b580f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1647,15 +1750,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TNdqDxtqQyMOA4-OwjkiOw&_nc_ss=70689&oh=00_AQN30De7ytYLc96f4XLEz_N_ENkGIyoqf_Y83CdTl7epTQ&oe=6ADEDE1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TNdqDxtqQyMOA4-OwjkiOw&_nc_ss=70689&oh=00_AQN30De7ytYLc96f4XLEz_N_ENkGIyoqf_Y83CdTl7epTQ&oe=6ADEDE1C",
+        "total_posts": 2286
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87640590,
       "valor_atual": 87640585,
-      "hash_anterior": "2a9141b55b7e3996323c0fd13da8b5ebdbe8a7efe8117261e09b4808ddc31297",
-      "hash_atual": "828a1b1d9c2612e9b0eca571fb830a08ec5c31b8c785cc38aab70604496fd3c8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1682,15 +1786,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=96vnNSh5dcHZtgXek1RgMw&_nc_ss=70689&oh=00_AQMO7JdLgYb2Va5khN6p8pwXeXliPIJoAODPjKBR7wIzlg&oe=6ADEDE1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=96vnNSh5dcHZtgXek1RgMw&_nc_ss=70689&oh=00_AQMO7JdLgYb2Va5khN6p8pwXeXliPIJoAODPjKBR7wIzlg&oe=6ADEDE1C",
+        "total_posts": 2286
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87647502,
       "valor_atual": 87640590,
-      "hash_anterior": "e35dcaa57382cba5d023f4c88e2f3e9dd4bf9526def75c638c0954d2370c34d1",
-      "hash_atual": "2a9141b55b7e3996323c0fd13da8b5ebdbe8a7efe8117261e09b4808ddc31297",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6912,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1717,15 +1822,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=96vnNSh5dcHZtgXek1RgMw&_nc_ss=70689&oh=00_AQMO7JdLgYb2Va5khN6p8pwXeXliPIJoAODPjKBR7wIzlg&oe=6ADEDE1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YINMhu3JppEQ7kNvwHhsIv9&_nc_oc=Ado5Sh7G12JxrqGLh43BFm_S5iiC4WI87QMCyY6OE2v5HEUs_BuIO2clVg7d5oavdUGDIOU6mlXxlM5e-mezGPx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=96vnNSh5dcHZtgXek1RgMw&_nc_ss=70689&oh=00_AQMO7JdLgYb2Va5khN6p8pwXeXliPIJoAODPjKBR7wIzlg&oe=6ADEDE1C",
+        "total_posts": 2286
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2284,
       "valor_atual": 2286,
-      "hash_anterior": "e35dcaa57382cba5d023f4c88e2f3e9dd4bf9526def75c638c0954d2370c34d1",
-      "hash_atual": "2a9141b55b7e3996323c0fd13da8b5ebdbe8a7efe8117261e09b4808ddc31297",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1736,7 +1842,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.284 para 2.286",
       "variacao_texto": "+2 posts"
     },
@@ -1752,15 +1858,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aRusnRvXYCGW5yrmUKU3Gw&_nc_ss=70689&oh=00_AQOtsQa0dmizFylRaE9ItFropRaji0wfBQxwcAyZ055cRA&oe=6AD8B71C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aRusnRvXYCGW5yrmUKU3Gw&_nc_ss=70689&oh=00_AQOtsQa0dmizFylRaE9ItFropRaji0wfBQxwcAyZ055cRA&oe=6AD8B71C",
+        "total_posts": 2284
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87647516,
       "valor_atual": 87647502,
-      "hash_anterior": "b3ceacf6212c2e9beb9127f9eeb206aac0c43a04bb0e235fffb01c3e284da311",
-      "hash_atual": "e35dcaa57382cba5d023f4c88e2f3e9dd4bf9526def75c638c0954d2370c34d1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1787,15 +1894,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PZ6GxvxbGW2Akm3CpFyY_w&_nc_ss=70689&oh=00_AQNX66EBqNcPZlYbwZ8u4l_Ag9GPNq7vLPFbxUddhHnkQA&oe=6AD8B71C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PZ6GxvxbGW2Akm3CpFyY_w&_nc_ss=70689&oh=00_AQNX66EBqNcPZlYbwZ8u4l_Ag9GPNq7vLPFbxUddhHnkQA&oe=6AD8B71C",
+        "total_posts": 2284
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87648575,
       "valor_atual": 87647516,
-      "hash_anterior": "d7fc084783df57696d360b1e37331c924fdd34c3c38e90e89263de2701cf04e0",
-      "hash_atual": "b3ceacf6212c2e9beb9127f9eeb206aac0c43a04bb0e235fffb01c3e284da311",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1059,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1822,15 +1930,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X7PsbjEm__lw4VXS-7Dh2w&_nc_ss=70689&oh=00_AQNXYmNKruNJqV2jAS58Fa3r0P4ZXlYfBTgzEUwIQdWyuw&oe=6AD8469C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X7PsbjEm__lw4VXS-7Dh2w&_nc_ss=70689&oh=00_AQNXYmNKruNJqV2jAS58Fa3r0P4ZXlYfBTgzEUwIQdWyuw&oe=6AD8469C",
+        "total_posts": 2284
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87648568,
       "valor_atual": 87648575,
-      "hash_anterior": "c0f3f8b122731f6ec46196dcf92e674b5909c5710967eee0965661ee8ca54300",
-      "hash_atual": "d7fc084783df57696d360b1e37331c924fdd34c3c38e90e89263de2701cf04e0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1857,15 +1966,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bRhJz8r6rFQblNTIgyntDg&_nc_ss=70689&oh=00_AQPjvOx2GTBwVOLeFIKRtjfH1tnuVGWE1_FWrVPN_nbHag&oe=6AD80E5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bRhJz8r6rFQblNTIgyntDg&_nc_ss=70689&oh=00_AQPjvOx2GTBwVOLeFIKRtjfH1tnuVGWE1_FWrVPN_nbHag&oe=6AD80E5C",
+        "total_posts": 2284
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87651965,
       "valor_atual": 87648568,
-      "hash_anterior": "d840f0de759761c8134c63188a1a201451771ce44f4a6394cebf7970d289c1a3",
-      "hash_atual": "c0f3f8b122731f6ec46196dcf92e674b5909c5710967eee0965661ee8ca54300",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3397,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1892,15 +2002,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bRhJz8r6rFQblNTIgyntDg&_nc_ss=70689&oh=00_AQPjvOx2GTBwVOLeFIKRtjfH1tnuVGWE1_FWrVPN_nbHag&oe=6AD80E5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwG8XSnh&_nc_oc=Adridb8Ietdq9xhZVW6UjMwP3rriIpVHX7F0PBGM6Ay1_KSBuHjA3X2lE49Zv4rIjl4W7b4ikDmMqQW_aBycRoMp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bRhJz8r6rFQblNTIgyntDg&_nc_ss=70689&oh=00_AQPjvOx2GTBwVOLeFIKRtjfH1tnuVGWE1_FWrVPN_nbHag&oe=6AD80E5C",
+        "total_posts": 2284
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2283,
       "valor_atual": 2284,
-      "hash_anterior": "d840f0de759761c8134c63188a1a201451771ce44f4a6394cebf7970d289c1a3",
-      "hash_atual": "c0f3f8b122731f6ec46196dcf92e674b5909c5710967eee0965661ee8ca54300",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1911,7 +2022,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.283 para 2.284",
       "variacao_texto": "+1 post"
     },
@@ -1927,15 +2038,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwGJ5Um4&_nc_oc=Adq_lw7HM1twhAix76WaYIG1ebVvs_G2oLVg9CfqPjHXdcC5pkakBGUV0YKFXMWkegU4lqB9ey0-wqdStrNoyKap&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nwPTA_3dwTCLlb_vZtzRsA&_nc_ss=70689&oh=00_AQM1bOgXJhAEQju7qec41nRpYOOvCi4SoO64TClUrB6ryA&oe=6AD6BCDC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=07ZviQH7x_QQ7kNvwGJ5Um4&_nc_oc=Adq_lw7HM1twhAix76WaYIG1ebVvs_G2oLVg9CfqPjHXdcC5pkakBGUV0YKFXMWkegU4lqB9ey0-wqdStrNoyKap&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nwPTA_3dwTCLlb_vZtzRsA&_nc_ss=70689&oh=00_AQM1bOgXJhAEQju7qec41nRpYOOvCi4SoO64TClUrB6ryA&oe=6AD6BCDC",
+        "total_posts": 2283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87652689,
       "valor_atual": 87651965,
-      "hash_anterior": "24d75e63ab4f17c4c3a82e08d3e9dab11f64ae235052932cb9921eda4e5381e5",
-      "hash_atual": "d840f0de759761c8134c63188a1a201451771ce44f4a6394cebf7970d289c1a3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -724,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1962,15 +2074,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwHvrF0j&_nc_oc=AdqaOG7df7NjEBbpOcYYz5qzJcgvH7IlkwOI729SVOvahsec2MBMHWbFzwttVPY6_jkRE-2YpxGn2RerLKwSQwyh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZpVlKJQZM51A8KAeRHRKUA&_nc_ss=70689&oh=00_AQOiloR1dy9khODv5mkHKYegG-mLsjChW6A5Xi1IYp4Swg&oe=6AD6141C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwHvrF0j&_nc_oc=AdqaOG7df7NjEBbpOcYYz5qzJcgvH7IlkwOI729SVOvahsec2MBMHWbFzwttVPY6_jkRE-2YpxGn2RerLKwSQwyh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZpVlKJQZM51A8KAeRHRKUA&_nc_ss=70689&oh=00_AQOiloR1dy9khODv5mkHKYegG-mLsjChW6A5Xi1IYp4Swg&oe=6AD6141C",
+        "total_posts": 2283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87652693,
       "valor_atual": 87652689,
-      "hash_anterior": "ef15cd73cab4e0e35b3dd16731e6c3e2164fa11614c5f6e17f9d821a77f8573f",
-      "hash_atual": "24d75e63ab4f17c4c3a82e08d3e9dab11f64ae235052932cb9921eda4e5381e5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1997,15 +2110,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwHvrF0j&_nc_oc=AdqaOG7df7NjEBbpOcYYz5qzJcgvH7IlkwOI729SVOvahsec2MBMHWbFzwttVPY6_jkRE-2YpxGn2RerLKwSQwyh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EoXwydQUTpNuEEOAIhACgw&_nc_ss=70689&oh=00_AQNdIhIMusCTfG8TyIIOmyr6_pdca5TztFzuFmIBsp0KgQ&oe=6AD6141C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwHvrF0j&_nc_oc=AdqaOG7df7NjEBbpOcYYz5qzJcgvH7IlkwOI729SVOvahsec2MBMHWbFzwttVPY6_jkRE-2YpxGn2RerLKwSQwyh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EoXwydQUTpNuEEOAIhACgw&_nc_ss=70689&oh=00_AQNdIhIMusCTfG8TyIIOmyr6_pdca5TztFzuFmIBsp0KgQ&oe=6AD6141C",
+        "total_posts": 2283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87657019,
       "valor_atual": 87652693,
-      "hash_anterior": "309a5e88b54a021ca143decb2db2479ea68026fb5835e0755a37f6d408babd7c",
-      "hash_atual": "ef15cd73cab4e0e35b3dd16731e6c3e2164fa11614c5f6e17f9d821a77f8573f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4326,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2032,15 +2146,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwFe8_Bg&_nc_oc=AdqgNp87Li5KrK4edtGIpKiu7KgHNCsDdTSmRQU32krgc9ZdYCzNGs6E7Zi48Sc54-5-I3xP6nlFq24mKcJXSd_H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z132Z3zA4okdFmC1cOEM7w&_nc_ss=70689&oh=00_AQMhuF3MvhUks2X6bChS0KHt_57kivHZKi9iYOoi5TA75Q&oe=6AD56B5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwFe8_Bg&_nc_oc=AdqgNp87Li5KrK4edtGIpKiu7KgHNCsDdTSmRQU32krgc9ZdYCzNGs6E7Zi48Sc54-5-I3xP6nlFq24mKcJXSd_H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z132Z3zA4okdFmC1cOEM7w&_nc_ss=70689&oh=00_AQMhuF3MvhUks2X6bChS0KHt_57kivHZKi9iYOoi5TA75Q&oe=6AD56B5C",
+        "total_posts": 2283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87662170,
       "valor_atual": 87657019,
-      "hash_anterior": "7848920292e2ec214c20da7b43fd937e68293635014a3d7da4fb958d7c661ea3",
-      "hash_atual": "309a5e88b54a021ca143decb2db2479ea68026fb5835e0755a37f6d408babd7c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5151,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2067,15 +2182,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwGSEZMw&_nc_oc=Adra9abniNkwR-OU19lU2enDiJuJlMnPZs8Fvj21dkB-_b-hUzMDcju-EXWzj70F5b2cltzDH2ms2-S33Sjy8ODt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AM7sQPraSa2_40iGrY9zcQ&_nc_ss=70689&oh=00_AQOpJFJZf6-6q914lffYEt3oiPghFFvRSpfUovLdsTSCQQ&oe=6AD4521C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwGSEZMw&_nc_oc=Adra9abniNkwR-OU19lU2enDiJuJlMnPZs8Fvj21dkB-_b-hUzMDcju-EXWzj70F5b2cltzDH2ms2-S33Sjy8ODt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AM7sQPraSa2_40iGrY9zcQ&_nc_ss=70689&oh=00_AQOpJFJZf6-6q914lffYEt3oiPghFFvRSpfUovLdsTSCQQ&oe=6AD4521C",
+        "total_posts": 2283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87662179,
       "valor_atual": 87662170,
-      "hash_anterior": "04ef723e23ef338550976b4a365f860680a9040e48b9b15933d561adc73a23a3",
-      "hash_atual": "7848920292e2ec214c20da7b43fd937e68293635014a3d7da4fb958d7c661ea3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2102,15 +2218,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwGSEZMw&_nc_oc=Adra9abniNkwR-OU19lU2enDiJuJlMnPZs8Fvj21dkB-_b-hUzMDcju-EXWzj70F5b2cltzDH2ms2-S33Sjy8ODt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c4623Y47ccSS0xesM57rBw&_nc_ss=70689&oh=00_AQO4CuuHSpKEpj9lzWKpU7mp1NqF56m8d33mnPj54JOkXw&oe=6AD4521C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwGSEZMw&_nc_oc=Adra9abniNkwR-OU19lU2enDiJuJlMnPZs8Fvj21dkB-_b-hUzMDcju-EXWzj70F5b2cltzDH2ms2-S33Sjy8ODt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c4623Y47ccSS0xesM57rBw&_nc_ss=70689&oh=00_AQO4CuuHSpKEpj9lzWKpU7mp1NqF56m8d33mnPj54JOkXw&oe=6AD4521C",
+        "total_posts": 2283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670145,
       "valor_atual": 87662179,
-      "hash_anterior": "3d7a42706073059d52e45c60511e31f260a13d9afc12cc707075a9d0d5dc71b8",
-      "hash_atual": "04ef723e23ef338550976b4a365f860680a9040e48b9b15933d561adc73a23a3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7966,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2137,15 +2254,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwGSEZMw&_nc_oc=Adra9abniNkwR-OU19lU2enDiJuJlMnPZs8Fvj21dkB-_b-hUzMDcju-EXWzj70F5b2cltzDH2ms2-S33Sjy8ODt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c4623Y47ccSS0xesM57rBw&_nc_ss=70689&oh=00_AQO4CuuHSpKEpj9lzWKpU7mp1NqF56m8d33mnPj54JOkXw&oe=6AD4521C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BwFOxv3G-WUQ7kNvwGSEZMw&_nc_oc=Adra9abniNkwR-OU19lU2enDiJuJlMnPZs8Fvj21dkB-_b-hUzMDcju-EXWzj70F5b2cltzDH2ms2-S33Sjy8ODt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c4623Y47ccSS0xesM57rBw&_nc_ss=70689&oh=00_AQO4CuuHSpKEpj9lzWKpU7mp1NqF56m8d33mnPj54JOkXw&oe=6AD4521C",
+        "total_posts": 2283
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2281,
       "valor_atual": 2283,
-      "hash_anterior": "3d7a42706073059d52e45c60511e31f260a13d9afc12cc707075a9d0d5dc71b8",
-      "hash_atual": "04ef723e23ef338550976b4a365f860680a9040e48b9b15933d561adc73a23a3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2156,7 +2274,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.281 para 2.283",
       "variacao_texto": "+2 posts"
     },
@@ -2172,15 +2290,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0R1jXKOZPy2HDlB5u23toA&_nc_ss=70689&oh=00_AQO34D4wna3fKTXAjbozELuVC1-h_dDQia0lmjPf3jT_uA&oe=6AD176DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0R1jXKOZPy2HDlB5u23toA&_nc_ss=70689&oh=00_AQO34D4wna3fKTXAjbozELuVC1-h_dDQia0lmjPf3jT_uA&oe=6AD176DC",
+        "total_posts": 2281
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669247,
       "valor_atual": 87670145,
-      "hash_anterior": "221f10f545f44514f804e27dfb060099a23d6760b3817f61bd492f58d45cdf5e",
-      "hash_atual": "3d7a42706073059d52e45c60511e31f260a13d9afc12cc707075a9d0d5dc71b8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 898,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2207,15 +2326,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SZ9EMeKnOepKiybZS1MNwA&_nc_ss=70689&oh=00_AQO7KBuXcvv-E7eaKeAXdz8_95Y2TTlly_47b1R-iehvdw&oe=6AD05D9C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SZ9EMeKnOepKiybZS1MNwA&_nc_ss=70689&oh=00_AQO7KBuXcvv-E7eaKeAXdz8_95Y2TTlly_47b1R-iehvdw&oe=6AD05D9C",
+        "total_posts": 2281
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669124,
       "valor_atual": 87669247,
-      "hash_anterior": "632d5dee3b44ff0ab77939e3750b6c0f18b8c7e014f444a2817c294f2a8fce84",
-      "hash_atual": "221f10f545f44514f804e27dfb060099a23d6760b3817f61bd492f58d45cdf5e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 123,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2242,15 +2362,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AnxPS1p9lQiNIz7bDElU5g&_nc_ss=70689&oh=00_AQMeVkPE1YPbdFnQcjM3gbRbTQivW1qx5WwENR3Pbn0wQg&oe=6AD05D9C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AnxPS1p9lQiNIz7bDElU5g&_nc_ss=70689&oh=00_AQMeVkPE1YPbdFnQcjM3gbRbTQivW1qx5WwENR3Pbn0wQg&oe=6AD05D9C",
+        "total_posts": 2281
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669012,
       "valor_atual": 87669124,
-      "hash_anterior": "545e3df171f373937dd836640ce39fa790912126174955d46bb9a79336fea817",
-      "hash_atual": "632d5dee3b44ff0ab77939e3750b6c0f18b8c7e014f444a2817c294f2a8fce84",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 112,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2277,15 +2398,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pZ3NS6PwGBweKeHmyuiuHQ&_nc_ss=70689&oh=00_AQNuIgOLfz7Ln6FshV_QiJiyVJt9PUa5oNm3i3SsKk54_A&oe=6AD0255C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pZ3NS6PwGBweKeHmyuiuHQ&_nc_ss=70689&oh=00_AQNuIgOLfz7Ln6FshV_QiJiyVJt9PUa5oNm3i3SsKk54_A&oe=6AD0255C",
+        "total_posts": 2281
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670031,
       "valor_atual": 87669012,
-      "hash_anterior": "c0d4a70736172919419e1c8619928fb68ff3fb3ea9b4635fb4a4ed3cc051069a",
-      "hash_atual": "545e3df171f373937dd836640ce39fa790912126174955d46bb9a79336fea817",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1019,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2312,15 +2434,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pZ3NS6PwGBweKeHmyuiuHQ&_nc_ss=70689&oh=00_AQNuIgOLfz7Ln6FshV_QiJiyVJt9PUa5oNm3i3SsKk54_A&oe=6AD0255C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFiyPIp&_nc_oc=AdreZdYwcqQecz28MmfAmWwXoULx-LgpmY7Ik8q2q4arCJUrIMqn_sb0FIhX2jivj3XevRhahFBMRWOnvsARUT9P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pZ3NS6PwGBweKeHmyuiuHQ&_nc_ss=70689&oh=00_AQNuIgOLfz7Ln6FshV_QiJiyVJt9PUa5oNm3i3SsKk54_A&oe=6AD0255C",
+        "total_posts": 2281
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2280,
       "valor_atual": 2281,
-      "hash_anterior": "c0d4a70736172919419e1c8619928fb68ff3fb3ea9b4635fb4a4ed3cc051069a",
-      "hash_atual": "545e3df171f373937dd836640ce39fa790912126174955d46bb9a79336fea817",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2331,7 +2454,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.280 para 2.281",
       "variacao_texto": "+1 post"
     },
@@ -2347,15 +2470,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwGzodcV&_nc_oc=AdqUCOwBo7i8e5CxOaGzvMkO86WJH24cMLNTcPFVcjrbJfJuw1XzIFILK2Gl68Yot3j7P2SBNsIxVtFuMG9S8kbX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=P4yYsoo_nNGx4Uyca9ct6w&_nc_ss=70689&oh=00_AQNhljjHaBaV5moClUrRBqiBtgx5U4qwdhMSqgc1vKO2DA&oe=6ACF7C9C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwGzodcV&_nc_oc=AdqUCOwBo7i8e5CxOaGzvMkO86WJH24cMLNTcPFVcjrbJfJuw1XzIFILK2Gl68Yot3j7P2SBNsIxVtFuMG9S8kbX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=P4yYsoo_nNGx4Uyca9ct6w&_nc_ss=70689&oh=00_AQNhljjHaBaV5moClUrRBqiBtgx5U4qwdhMSqgc1vKO2DA&oe=6ACF7C9C",
+        "total_posts": 2280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670181,
       "valor_atual": 87670031,
-      "hash_anterior": "79aa8be9cecf63f50f4afea757d93edd965c562e7b30a4974c7b3d962db2af60",
-      "hash_atual": "c0d4a70736172919419e1c8619928fb68ff3fb3ea9b4635fb4a4ed3cc051069a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -150,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2382,15 +2506,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwGzodcV&_nc_oc=AdqUCOwBo7i8e5CxOaGzvMkO86WJH24cMLNTcPFVcjrbJfJuw1XzIFILK2Gl68Yot3j7P2SBNsIxVtFuMG9S8kbX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=06KfNBs2bhyw-zmvqu2gyA&_nc_ss=70689&oh=00_AQMymhvggY9y_3mMBDdNn_9XtavA1mOfPsfAqanCOYPcRQ&oe=6ACF7C9C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwGzodcV&_nc_oc=AdqUCOwBo7i8e5CxOaGzvMkO86WJH24cMLNTcPFVcjrbJfJuw1XzIFILK2Gl68Yot3j7P2SBNsIxVtFuMG9S8kbX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=06KfNBs2bhyw-zmvqu2gyA&_nc_ss=70689&oh=00_AQMymhvggY9y_3mMBDdNn_9XtavA1mOfPsfAqanCOYPcRQ&oe=6ACF7C9C",
+        "total_posts": 2280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670723,
       "valor_atual": 87670181,
-      "hash_anterior": "f51e3b617f2afd54234e3b7b636490d6a8982e5b603d1916b72615beb59c565e",
-      "hash_atual": "79aa8be9cecf63f50f4afea757d93edd965c562e7b30a4974c7b3d962db2af60",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -542,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2417,15 +2542,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFQ0Wk0&_nc_oc=AdowJUsWn3au1KPxWy7nDAcwir4SRNNO9mbp5SMnKVXH72rBlxt_NVO0_GsTG04HtYdENqZrBtGGxHAv4790-LC6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nh9k5QJTK8nhqkj-8YCC1w&_nc_ss=70689&oh=00_AQN60AI5vodbgSzlhj_BZvXLcASCKx4yvgTHVv6EzCDJ9g&oe=6ACE9B9C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFQ0Wk0&_nc_oc=AdowJUsWn3au1KPxWy7nDAcwir4SRNNO9mbp5SMnKVXH72rBlxt_NVO0_GsTG04HtYdENqZrBtGGxHAv4790-LC6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nh9k5QJTK8nhqkj-8YCC1w&_nc_ss=70689&oh=00_AQN60AI5vodbgSzlhj_BZvXLcASCKx4yvgTHVv6EzCDJ9g&oe=6ACE9B9C",
+        "total_posts": 2280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670730,
       "valor_atual": 87670723,
-      "hash_anterior": "668256194bf97111b3918639e75de36a74436eb3d2f76208b6f9b0d7f64e0183",
-      "hash_atual": "f51e3b617f2afd54234e3b7b636490d6a8982e5b603d1916b72615beb59c565e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2452,15 +2578,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFQ0Wk0&_nc_oc=AdowJUsWn3au1KPxWy7nDAcwir4SRNNO9mbp5SMnKVXH72rBlxt_NVO0_GsTG04HtYdENqZrBtGGxHAv4790-LC6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TCk5K7bCm_GjVVpQz0quAw&_nc_ss=70689&oh=00_AQOGaMBU2kaFVS2zdTEPY5giNpqV09NSPoAqh8_351ibTg&oe=6ACE9B9C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PlN3i_SENlsQ7kNvwFQ0Wk0&_nc_oc=AdowJUsWn3au1KPxWy7nDAcwir4SRNNO9mbp5SMnKVXH72rBlxt_NVO0_GsTG04HtYdENqZrBtGGxHAv4790-LC6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TCk5K7bCm_GjVVpQz0quAw&_nc_ss=70689&oh=00_AQOGaMBU2kaFVS2zdTEPY5giNpqV09NSPoAqh8_351ibTg&oe=6ACE9B9C",
+        "total_posts": 2280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87671940,
       "valor_atual": 87670730,
-      "hash_anterior": "f4b5e3b2c70f9001d8365708b24d94cc70b88a59dd60006ced922e1b5c6aa9d0",
-      "hash_atual": "668256194bf97111b3918639e75de36a74436eb3d2f76208b6f9b0d7f64e0183",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1210,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2487,15 +2614,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGTsJaN&_nc_oc=AdoK5UmI-zJmlZN4zScL1QdndJXccSfdKQxCL3e_MubBaGN7MnYoLMsbkbJWs2D_rHhWOSZpLRbKN3BfS5jyIvo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pfwNstyuTIp6IgwifJg2YA&_nc_ss=70689&oh=00_AQPQtWswVev1B1jWWGOhtMkX45J7d5z8A6FGvghVHrY7Gw&oe=6ACDF2DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGTsJaN&_nc_oc=AdoK5UmI-zJmlZN4zScL1QdndJXccSfdKQxCL3e_MubBaGN7MnYoLMsbkbJWs2D_rHhWOSZpLRbKN3BfS5jyIvo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pfwNstyuTIp6IgwifJg2YA&_nc_ss=70689&oh=00_AQPQtWswVev1B1jWWGOhtMkX45J7d5z8A6FGvghVHrY7Gw&oe=6ACDF2DC",
+        "total_posts": 2280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87671949,
       "valor_atual": 87671940,
-      "hash_anterior": "e31cd36f3c0f9b2237d647ff69a5e7260a0f43826e7ed83cdfaab0295292b4cf",
-      "hash_atual": "f4b5e3b2c70f9001d8365708b24d94cc70b88a59dd60006ced922e1b5c6aa9d0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2522,15 +2650,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGTsJaN&_nc_oc=AdoK5UmI-zJmlZN4zScL1QdndJXccSfdKQxCL3e_MubBaGN7MnYoLMsbkbJWs2D_rHhWOSZpLRbKN3BfS5jyIvo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bpjtQfIsX5lNtcElWrrsIQ&_nc_ss=70689&oh=00_AQPdhZmXgwue_muMCKvD6ASyJQFXWV0hgIyuN85NHAbEsg&oe=6ACDF2DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGTsJaN&_nc_oc=AdoK5UmI-zJmlZN4zScL1QdndJXccSfdKQxCL3e_MubBaGN7MnYoLMsbkbJWs2D_rHhWOSZpLRbKN3BfS5jyIvo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bpjtQfIsX5lNtcElWrrsIQ&_nc_ss=70689&oh=00_AQPdhZmXgwue_muMCKvD6ASyJQFXWV0hgIyuN85NHAbEsg&oe=6ACDF2DC",
+        "total_posts": 2280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87674592,
       "valor_atual": 87671949,
-      "hash_anterior": "5120167e443e72e9a5dba3a8be6b9804743a03991bc4f54868f6db3f46cb09dc",
-      "hash_atual": "e31cd36f3c0f9b2237d647ff69a5e7260a0f43826e7ed83cdfaab0295292b4cf",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2643,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2557,15 +2686,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGTsJaN&_nc_oc=AdoK5UmI-zJmlZN4zScL1QdndJXccSfdKQxCL3e_MubBaGN7MnYoLMsbkbJWs2D_rHhWOSZpLRbKN3BfS5jyIvo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bpjtQfIsX5lNtcElWrrsIQ&_nc_ss=70689&oh=00_AQPdhZmXgwue_muMCKvD6ASyJQFXWV0hgIyuN85NHAbEsg&oe=6ACDF2DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGTsJaN&_nc_oc=AdoK5UmI-zJmlZN4zScL1QdndJXccSfdKQxCL3e_MubBaGN7MnYoLMsbkbJWs2D_rHhWOSZpLRbKN3BfS5jyIvo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bpjtQfIsX5lNtcElWrrsIQ&_nc_ss=70689&oh=00_AQPdhZmXgwue_muMCKvD6ASyJQFXWV0hgIyuN85NHAbEsg&oe=6ACDF2DC",
+        "total_posts": 2280
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2279,
       "valor_atual": 2280,
-      "hash_anterior": "5120167e443e72e9a5dba3a8be6b9804743a03991bc4f54868f6db3f46cb09dc",
-      "hash_atual": "e31cd36f3c0f9b2237d647ff69a5e7260a0f43826e7ed83cdfaab0295292b4cf",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2576,7 +2706,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.279 para 2.280",
       "variacao_texto": "+1 post"
     },
@@ -2592,15 +2722,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwHeIOa8&_nc_oc=AdrQC3s3GNfG15ikHrbiP9CAQJBLeDvNnTh1rqzZbrtSEhST-buMCh91pn6xawpfwWhYQJHubOBAccyttWa2Z1aE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T1EtU4qMYauS6lsnNkWCNw&_nc_ss=70689&oh=00_AQPSNawbjZH-D3o7OWOi_Eq4qhHbzWY67pPPNaGsesO_CA&oe=6ACD4A1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwHeIOa8&_nc_oc=AdrQC3s3GNfG15ikHrbiP9CAQJBLeDvNnTh1rqzZbrtSEhST-buMCh91pn6xawpfwWhYQJHubOBAccyttWa2Z1aE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T1EtU4qMYauS6lsnNkWCNw&_nc_ss=70689&oh=00_AQPSNawbjZH-D3o7OWOi_Eq4qhHbzWY67pPPNaGsesO_CA&oe=6ACD4A1C",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87674597,
       "valor_atual": 87674592,
-      "hash_anterior": "ae3de4b1145c0de52d52728b3d0f88f5fe63bc66ed3ce88f84c05e502161d416",
-      "hash_atual": "5120167e443e72e9a5dba3a8be6b9804743a03991bc4f54868f6db3f46cb09dc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2627,15 +2758,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwHeIOa8&_nc_oc=AdrQC3s3GNfG15ikHrbiP9CAQJBLeDvNnTh1rqzZbrtSEhST-buMCh91pn6xawpfwWhYQJHubOBAccyttWa2Z1aE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_GLEYYbyxNbeVqjGIqoAEA&_nc_ss=70689&oh=00_AQM0-bLSw9y0FZOJtcgWFQQSe5v5mDd_lUObXjQGQaz8fg&oe=6ACD4A1C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwHeIOa8&_nc_oc=AdrQC3s3GNfG15ikHrbiP9CAQJBLeDvNnTh1rqzZbrtSEhST-buMCh91pn6xawpfwWhYQJHubOBAccyttWa2Z1aE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_GLEYYbyxNbeVqjGIqoAEA&_nc_ss=70689&oh=00_AQM0-bLSw9y0FZOJtcgWFQQSe5v5mDd_lUObXjQGQaz8fg&oe=6ACD4A1C",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87672739,
       "valor_atual": 87674597,
-      "hash_anterior": "e22cca3aab4ecffb2a6f0114b7cc2f13aa63981c020fa804123fd04b5e1d273d",
-      "hash_atual": "ae3de4b1145c0de52d52728b3d0f88f5fe63bc66ed3ce88f84c05e502161d416",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1858,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2662,15 +2794,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=u9HzyMFGkO_lFm2dPNqjOg&_nc_ss=70689&oh=00_AQOGjYDc78CTOahaDzizieluITr8sbXrlozk_XxKg6ScwA&oe=6ACCA15C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=u9HzyMFGkO_lFm2dPNqjOg&_nc_ss=70689&oh=00_AQOGjYDc78CTOahaDzizieluITr8sbXrlozk_XxKg6ScwA&oe=6ACCA15C",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87672719,
       "valor_atual": 87672739,
-      "hash_anterior": "5ba3751ffaa0e2ba88fa6f20f1b28f100a693e7180a972ee1fad8931063c4537",
-      "hash_atual": "e22cca3aab4ecffb2a6f0114b7cc2f13aa63981c020fa804123fd04b5e1d273d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 20,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2697,15 +2830,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=G-MtRPyibuNTJZZtxuFFTQ&_nc_ss=70689&oh=00_AQO2Z4I8H6kt59pGD3Xu3BSX3YI9re_FFUKWxbvnU-ve9A&oe=6ACCA15C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=G-MtRPyibuNTJZZtxuFFTQ&_nc_ss=70689&oh=00_AQO2Z4I8H6kt59pGD3Xu3BSX3YI9re_FFUKWxbvnU-ve9A&oe=6ACCA15C",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87672692,
       "valor_atual": 87672719,
-      "hash_anterior": "17356f674cfd15dc8407257fe76a62e8d1c2292a6936c8aede2f7bbbda8731ed",
-      "hash_atual": "5ba3751ffaa0e2ba88fa6f20f1b28f100a693e7180a972ee1fad8931063c4537",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 27,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2732,15 +2866,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HW2X2gZd6YhEiynDatGO8g&_nc_ss=70689&oh=00_AQPo3IMZbJndQu6VkvrlD3j5TNAmtjEQCjJECImwYhVstQ&oe=6ACCA15C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HW2X2gZd6YhEiynDatGO8g&_nc_ss=70689&oh=00_AQPo3IMZbJndQu6VkvrlD3j5TNAmtjEQCjJECImwYhVstQ&oe=6ACCA15C",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87672667,
       "valor_atual": 87672692,
-      "hash_anterior": "f941d63eaee197d3124933838312ae0c4bbf303c059a9e3fb828696d07335b22",
-      "hash_atual": "17356f674cfd15dc8407257fe76a62e8d1c2292a6936c8aede2f7bbbda8731ed",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 25,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2767,15 +2902,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FG_JOp8oRw47tGpje0hYow&_nc_ss=70689&oh=00_AQN1GmSanbHu06gIpFuMUUTJMRHhzYAumXGxwjfhXudh6w&oe=6ACCA15C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGffCT-&_nc_oc=AdomE01H9HcyDPVYpRMqUxwu9ZJgAcAiHhoAEh-7Iv5_qYovHGMyzlcLkSVFdnuMspzQ_xo3uF0VG0184mg5LAfV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FG_JOp8oRw47tGpje0hYow&_nc_ss=70689&oh=00_AQN1GmSanbHu06gIpFuMUUTJMRHhzYAumXGxwjfhXudh6w&oe=6ACCA15C",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670349,
       "valor_atual": 87672667,
-      "hash_anterior": "b49ff1165b5637de7a2894a674ffb78a73284bf858d04ac80fa99ab68e107de7",
-      "hash_atual": "f941d63eaee197d3124933838312ae0c4bbf303c059a9e3fb828696d07335b22",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2318,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2802,15 +2938,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5VcM9wZBJlkC8ePXERH0g&_nc_ss=70689&oh=00_AQMypgwTZPH44u1rbRaCn_35obK317nT6SWniN-M3TUpqA&oe=6ACC30DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5VcM9wZBJlkC8ePXERH0g&_nc_ss=70689&oh=00_AQMypgwTZPH44u1rbRaCn_35obK317nT6SWniN-M3TUpqA&oe=6ACC30DC",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670309,
       "valor_atual": 87670349,
-      "hash_anterior": "a7542df160a2eef4b5446624df18298f3b7176dd92d05d7b7de07f0a3f334789",
-      "hash_atual": "b49ff1165b5637de7a2894a674ffb78a73284bf858d04ac80fa99ab68e107de7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 40,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2837,15 +2974,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZMvG1o7qWi5URrgv638w8w&_nc_ss=70689&oh=00_AQOikZos8fiCa8HgBdePP1Vf8xlX-EmhamfjIf8zpydiog&oe=6ACC30DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZMvG1o7qWi5URrgv638w8w&_nc_ss=70689&oh=00_AQOikZos8fiCa8HgBdePP1Vf8xlX-EmhamfjIf8zpydiog&oe=6ACC30DC",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670276,
       "valor_atual": 87670309,
-      "hash_anterior": "03bd80813d7ec708af2de97c0c5191daaba5a2610e9b25fbe20c5bfeb1f0e8ee",
-      "hash_atual": "a7542df160a2eef4b5446624df18298f3b7176dd92d05d7b7de07f0a3f334789",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 33,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2872,15 +3010,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fdhKMOI-4LeOzBBlSx9jHA&_nc_ss=70689&oh=00_AQMTODYLHIKHNaxnoHRMcrLFVzHaapyBO6uscNA0ECGR2A&oe=6ACC30DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fdhKMOI-4LeOzBBlSx9jHA&_nc_ss=70689&oh=00_AQMTODYLHIKHNaxnoHRMcrLFVzHaapyBO6uscNA0ECGR2A&oe=6ACC30DC",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87670225,
       "valor_atual": 87670276,
-      "hash_anterior": "7d24535e849856393911c666775373e6c7ab99a99ff9047a514a642cb861ecf3",
-      "hash_atual": "03bd80813d7ec708af2de97c0c5191daaba5a2610e9b25fbe20c5bfeb1f0e8ee",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 51,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2907,15 +3046,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XKUmnnGouqa0euy47KnTAw&_nc_ss=70689&oh=00_AQMfOhuI4L5PW_WObpkrxChB-KaaIqsWHW4oE2RmBN8Fnw&oe=6ACC30DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XKUmnnGouqa0euy47KnTAw&_nc_ss=70689&oh=00_AQMfOhuI4L5PW_WObpkrxChB-KaaIqsWHW4oE2RmBN8Fnw&oe=6ACC30DC",
+        "total_posts": 2279
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667475,
       "valor_atual": 87670225,
-      "hash_anterior": "977628c4e6af22ee1619c73292b9454db7ae97e8d9fa03f4ed28e234cd212e90",
-      "hash_atual": "7d24535e849856393911c666775373e6c7ab99a99ff9047a514a642cb861ecf3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2750,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2942,15 +3082,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XKUmnnGouqa0euy47KnTAw&_nc_ss=70689&oh=00_AQMfOhuI4L5PW_WObpkrxChB-KaaIqsWHW4oE2RmBN8Fnw&oe=6ACC30DC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwER-8T2&_nc_oc=AdobFwCudsgeOBpLLiUxeSkbF3oocAmij0TK2C6Nx7SMXa6ArcQrTSrZYBh0iBXUQAMaTr9c6LGsTmhvfDNL-1bg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XKUmnnGouqa0euy47KnTAw&_nc_ss=70689&oh=00_AQMfOhuI4L5PW_WObpkrxChB-KaaIqsWHW4oE2RmBN8Fnw&oe=6ACC30DC",
+        "total_posts": 2279
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2278,
       "valor_atual": 2279,
-      "hash_anterior": "977628c4e6af22ee1619c73292b9454db7ae97e8d9fa03f4ed28e234cd212e90",
-      "hash_atual": "7d24535e849856393911c666775373e6c7ab99a99ff9047a514a642cb861ecf3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2961,7 +3102,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.278 para 2.279",
       "variacao_texto": "+1 post"
     },
@@ -2977,15 +3118,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EuoobHGG6L2ytPARk5owGA&_nc_ss=70689&oh=00_AQOeRNw0mT3zNkQYpqyu0njJsOgoURhuqyRwUshOgb_9_Q&oe=6ACB881C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EuoobHGG6L2ytPARk5owGA&_nc_ss=70689&oh=00_AQOeRNw0mT3zNkQYpqyu0njJsOgoURhuqyRwUshOgb_9_Q&oe=6ACB881C",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667470,
       "valor_atual": 87667475,
-      "hash_anterior": "0883d5cc4365cf2acbf4ca4511f88e99f4c351562a93a5b38e4b18c373299ef4",
-      "hash_atual": "977628c4e6af22ee1619c73292b9454db7ae97e8d9fa03f4ed28e234cd212e90",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3012,15 +3154,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f_ItK3vWBeo-jJ2Soq995w&_nc_ss=70689&oh=00_AQPMgpflfe2unJ7nuaqanh4-jwqa2UZYvaXC9IF9jT6DMg&oe=6ACB4FDC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f_ItK3vWBeo-jJ2Soq995w&_nc_ss=70689&oh=00_AQPMgpflfe2unJ7nuaqanh4-jwqa2UZYvaXC9IF9jT6DMg&oe=6ACB4FDC",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667451,
       "valor_atual": 87667470,
-      "hash_anterior": "7eb67ee50e1837a105b0ec725d693f7d9070c0417e5b406ff094d3e88b28c5bb",
-      "hash_atual": "0883d5cc4365cf2acbf4ca4511f88e99f4c351562a93a5b38e4b18c373299ef4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 19,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3047,15 +3190,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n8fr45bzGYU0q7ZVtskc8A&_nc_ss=70689&oh=00_AQNH2eJmghRxQ_aSX4PkCE_FNjlcM4j5zK1ZZvHyTb9BKA&oe=6ACB4FDC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n8fr45bzGYU0q7ZVtskc8A&_nc_ss=70689&oh=00_AQNH2eJmghRxQ_aSX4PkCE_FNjlcM4j5zK1ZZvHyTb9BKA&oe=6ACB4FDC",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667455,
       "valor_atual": 87667451,
-      "hash_anterior": "ae5b24666d5b3a509764d0f7337b76686f9e070bd82700502f6222ce1313273c",
-      "hash_atual": "7eb67ee50e1837a105b0ec725d693f7d9070c0417e5b406ff094d3e88b28c5bb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3082,15 +3226,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-eb2LKAMtH37EqIWybRqaw&_nc_ss=70689&oh=00_AQMYZ3Xu-HzMROkEuw6E_WWtmJcI6eND-Z6Kh_BLTok33g&oe=6ACB4FDC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-eb2LKAMtH37EqIWybRqaw&_nc_ss=70689&oh=00_AQMYZ3Xu-HzMROkEuw6E_WWtmJcI6eND-Z6Kh_BLTok33g&oe=6ACB4FDC",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667452,
       "valor_atual": 87667455,
-      "hash_anterior": "d7d41c456fdc4fe2a633590b74c7644822156f3ad1ec401df5f601ef3c2b065b",
-      "hash_atual": "ae5b24666d5b3a509764d0f7337b76686f9e070bd82700502f6222ce1313273c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3117,15 +3262,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-PrrHcMXltkmfstH1QCw2g&_nc_ss=70689&oh=00_AQMuwK6MN-CzpWHv6hrOPM9zGJTTYDGXaVPD3VjkyLL_oQ&oe=6ACB4FDC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-PrrHcMXltkmfstH1QCw2g&_nc_ss=70689&oh=00_AQMuwK6MN-CzpWHv6hrOPM9zGJTTYDGXaVPD3VjkyLL_oQ&oe=6ACB4FDC",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667454,
       "valor_atual": 87667452,
-      "hash_anterior": "347ec7bfaed345dfb3b217de67854e67e01b32eb6c1a2da3f4ec9861dfbb455e",
-      "hash_atual": "d7d41c456fdc4fe2a633590b74c7644822156f3ad1ec401df5f601ef3c2b065b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3152,15 +3298,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=I-PvGo2WeUvpDz-QyOpqxQ&_nc_ss=70689&oh=00_AQNQf8j2c2j1jOKZEsqnR9KXg6nyaQfttCyfG9NBHSiS7Q&oe=6ACB4FDC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwGHuLqE&_nc_oc=AdryTmazFtA6EF0TE1SOdC3WYgRy28s2OGXXmOIuaGrVGmHzoe7Sadbfr8BD-_V5BHsjPLl4DXsCJCyTZv_SJtoq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=I-PvGo2WeUvpDz-QyOpqxQ&_nc_ss=70689&oh=00_AQNQf8j2c2j1jOKZEsqnR9KXg6nyaQfttCyfG9NBHSiS7Q&oe=6ACB4FDC",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87667290,
       "valor_atual": 87667454,
-      "hash_anterior": "150c75eac32d9d311c4fe9776f946d8c27ec1fd91c63dda8ad924cd3f1bb148d",
-      "hash_atual": "347ec7bfaed345dfb3b217de67854e67e01b32eb6c1a2da3f4ec9861dfbb455e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 164,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3187,15 +3334,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwEX1JT1&_nc_oc=AdrXaHh5oQTVwMtK-9rUJYbr8zIYMSzCg7M0_UFLfSoXPDi4mCGF3Y6QwhtB9byOPZ1OtAZGVfJwa-7yAGUKbiRD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=sHXCHpVPFWTGsLOfcVFkcw&_nc_ss=70689&oh=00_AQN1o0VkMaLzmz5IuIVe63pXba5o6TJ92G6zAYUVJpd7mA&oe=6ACB179C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwEX1JT1&_nc_oc=AdrXaHh5oQTVwMtK-9rUJYbr8zIYMSzCg7M0_UFLfSoXPDi4mCGF3Y6QwhtB9byOPZ1OtAZGVfJwa-7yAGUKbiRD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=sHXCHpVPFWTGsLOfcVFkcw&_nc_ss=70689&oh=00_AQN1o0VkMaLzmz5IuIVe63pXba5o6TJ92G6zAYUVJpd7mA&oe=6ACB179C",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87668270,
       "valor_atual": 87667290,
-      "hash_anterior": "4672159ae627896c81599fbb90b21daeb4709148c65665a11507078ce3eec9fc",
-      "hash_atual": "150c75eac32d9d311c4fe9776f946d8c27ec1fd91c63dda8ad924cd3f1bb148d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -980,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3222,15 +3370,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwEX1JT1&_nc_oc=AdrXaHh5oQTVwMtK-9rUJYbr8zIYMSzCg7M0_UFLfSoXPDi4mCGF3Y6QwhtB9byOPZ1OtAZGVfJwa-7yAGUKbiRD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L_iFyMudVkqeLuVkEZBoSg&_nc_ss=70689&oh=00_AQPwgEwLs35PW2YMuJQbP3TuzN_W9Qysk6yqbjHVe7KO4w&oe=6ACADF5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwEX1JT1&_nc_oc=AdrXaHh5oQTVwMtK-9rUJYbr8zIYMSzCg7M0_UFLfSoXPDi4mCGF3Y6QwhtB9byOPZ1OtAZGVfJwa-7yAGUKbiRD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L_iFyMudVkqeLuVkEZBoSg&_nc_ss=70689&oh=00_AQPwgEwLs35PW2YMuJQbP3TuzN_W9Qysk6yqbjHVe7KO4w&oe=6ACADF5C",
+        "total_posts": 2278
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669034,
       "valor_atual": 87668270,
-      "hash_anterior": "2c18fa6cc9840d1cecde0cf96c078e689ec1930abe0b08f91901b5155349dcd1",
-      "hash_atual": "4672159ae627896c81599fbb90b21daeb4709148c65665a11507078ce3eec9fc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -764,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3257,15 +3406,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwEX1JT1&_nc_oc=AdrXaHh5oQTVwMtK-9rUJYbr8zIYMSzCg7M0_UFLfSoXPDi4mCGF3Y6QwhtB9byOPZ1OtAZGVfJwa-7yAGUKbiRD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L_iFyMudVkqeLuVkEZBoSg&_nc_ss=70689&oh=00_AQPwgEwLs35PW2YMuJQbP3TuzN_W9Qysk6yqbjHVe7KO4w&oe=6ACADF5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XCgt0aXmBKcQ7kNvwEX1JT1&_nc_oc=AdrXaHh5oQTVwMtK-9rUJYbr8zIYMSzCg7M0_UFLfSoXPDi4mCGF3Y6QwhtB9byOPZ1OtAZGVfJwa-7yAGUKbiRD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L_iFyMudVkqeLuVkEZBoSg&_nc_ss=70689&oh=00_AQPwgEwLs35PW2YMuJQbP3TuzN_W9Qysk6yqbjHVe7KO4w&oe=6ACADF5C",
+        "total_posts": 2278
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2276,
       "valor_atual": 2278,
-      "hash_anterior": "2c18fa6cc9840d1cecde0cf96c078e689ec1930abe0b08f91901b5155349dcd1",
-      "hash_atual": "4672159ae627896c81599fbb90b21daeb4709148c65665a11507078ce3eec9fc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3276,7 +3426,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.276 para 2.278",
       "variacao_texto": "+2 posts"
     },
@@ -3292,15 +3442,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=J1hOH-xyLeTf4JCDB2SrEQ&_nc_ss=70689&oh=00_AQMixJUFjQumR5uCl9V0oWzA-2OfadpvqJd4tv7-eCeO6Q&oe=6AC9FE5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=J1hOH-xyLeTf4JCDB2SrEQ&_nc_ss=70689&oh=00_AQMixJUFjQumR5uCl9V0oWzA-2OfadpvqJd4tv7-eCeO6Q&oe=6AC9FE5C",
+        "total_posts": 2276
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669043,
       "valor_atual": 87669034,
-      "hash_anterior": "dcc2cae8775e4d1fd62688c6d778e566ab53f574bad0244dcdc88c9c7c7a4672",
-      "hash_atual": "2c18fa6cc9840d1cecde0cf96c078e689ec1930abe0b08f91901b5155349dcd1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3327,49 +3478,16 @@
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bD-idGrAhZ7hxau48HvEig&_nc_ss=70689&oh=00_AQPuP1O6AdWjjdUGtdtlce0hQHXNtjnvKkd6UjeqYIdYzQ&oe=6AC9FE5C"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "atletas",
-      "valor_atual": "atleta",
-      "hash_anterior": "330f50e2d04b96bfa3832ce85fe3ef4160e0b9e59333f0a0b30027dbd38ff716",
-      "hash_atual": "dcc2cae8775e4d1fd62688c6d778e566ab53f574bad0244dcdc88c9c7c7a4672",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 641.477203,
-        "texto": "10 minutos e 41 segundos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 641.477203,
-        "texto": "10 minutos e 41 segundos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"atletas\" para \"atleta\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:55:15.047544",
-      "timestamp_anterior": "2026-10-05T20:44:33.570341",
-      "timestamp_atual": "2026-10-05T20:55:15.047544",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "atleta",
-        "pk": 186904952,
-        "id": "17841400748562920",
-        "username": "davidbeckham",
-        "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bD-idGrAhZ7hxau48HvEig&_nc_ss=70689&oh=00_AQPuP1O6AdWjjdUGtdtlce0hQHXNtjnvKkd6UjeqYIdYzQ&oe=6AC9FE5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bD-idGrAhZ7hxau48HvEig&_nc_ss=70689&oh=00_AQPuP1O6AdWjjdUGtdtlce0hQHXNtjnvKkd6UjeqYIdYzQ&oe=6AC9FE5C",
+        "total_posts": 2276
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669070,
       "valor_atual": 87669043,
-      "hash_anterior": "330f50e2d04b96bfa3832ce85fe3ef4160e0b9e59333f0a0b30027dbd38ff716",
-      "hash_atual": "dcc2cae8775e4d1fd62688c6d778e566ab53f574bad0244dcdc88c9c7c7a4672",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -27,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3377,8 +3495,8 @@
         "texto": "10 minutos e 41 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 0.0,
-        "texto": "0 segundos"
+        "segundos": 641.477203,
+        "texto": "10 minutos e 41 segundos"
       },
       "titulo": "Perdeu 27 seguidores",
       "descricao": "Os seguidores caíram de 87.669.070 para 87.669.043",
@@ -3391,20 +3509,21 @@
       "timestamp_atual": "2026-10-05T20:44:33.570341",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "atletas",
+        "categoria": "atleta",
         "pk": 186904952,
         "id": "17841400748562920",
         "username": "davidbeckham",
         "nome": "David Beckham",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UTwkUq04Kx2M4jP-V2cy8g&_nc_ss=70689&oh=00_AQM8tPcOxSW_qRnIxOFTuZX0KLwSBK2bCYcK6G5FSEMzdw&oe=6AC9FE5C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/564461759_18557873446024953_4064080065466804258_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bKrRVUlPUf8Q7kNvwGYCB9P&_nc_oc=AdpSzl2iusxK4aA_dVJbQXNVs5Vkf3kh2nFUTfX4JEtwiBz7qWPZvSEcrxqiLqqfsfZbkg8C3AS7ib4P-MHhrndd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UTwkUq04Kx2M4jP-V2cy8g&_nc_ss=70689&oh=00_AQM8tPcOxSW_qRnIxOFTuZX0KLwSBK2bCYcK6G5FSEMzdw&oe=6AC9FE5C",
+        "total_posts": 2276
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 87669081,
       "valor_atual": 87669070,
-      "hash_anterior": "3609f6c680c6c74de4e8dc6de2878e859ec197732d3fa9ecf50ecadc225c1fe3",
-      "hash_atual": "330f50e2d04b96bfa3832ce85fe3ef4160e0b9e59333f0a0b30027dbd38ff716",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3423,34 +3542,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:13.788304",
-    "captura_mais_recente": "2026-11-03T12:22:13.282914",
-    "tempo_total_segundos": 2475659,
-    "tempo_total_dias": 28.653461,
-    "tempo_total_texto": "28 dias, 15 horas, 40 minutos e 59 segundos",
+    "captura_mais_recente": "2026-11-19T16:28:46.553716",
+    "tempo_total_segundos": 3872852,
+    "tempo_total_dias": 44.824676,
+    "tempo_total_texto": "44 dias, 19 horas, 47 minutos e 32 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -44266,
+    "1_dias": {
+      "variacao": -94075,
       "direcao": "perdeu",
-      "quantidade": 44266,
-      "texto": "Perdeu 44266 seguidores",
+      "quantidade": 94075,
+      "texto": "Perdeu 94075 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:07:18.204461",
-      "captura_fim": "2026-11-03T12:22:13.282914",
-      "seguidores_inicio": 87625146,
-      "seguidores_fim": 87580880
+      "captura_inicio": "2026-11-03T12:22:13.282914",
+      "captura_fim": "2026-11-19T16:28:46.553716",
+      "seguidores_inicio": 87580880,
+      "seguidores_fim": 87486805
+    },
+    "7_dias": {
+      "variacao": -94075,
+      "direcao": "perdeu",
+      "quantidade": 94075,
+      "texto": "Perdeu 94075 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:22:13.282914",
+      "captura_fim": "2026-11-19T16:28:46.553716",
+      "seguidores_inicio": 87580880,
+      "seguidores_fim": 87486805
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -160697,
+      "direcao": "perdeu",
+      "quantidade": 160697,
+      "texto": "Perdeu 160697 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:27:35.556399",
+      "captura_fim": "2026-11-19T16:28:46.553716",
+      "seguidores_inicio": 87647502,
+      "seguidores_fim": 87486805
     },
     "90_dias": {
       "variacao": null,
@@ -3461,17 +3596,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -88201,
+      "variacao": -182276,
       "direcao": "perdeu",
-      "quantidade": 88201,
-      "texto": "Perdeu 88201 seguidores",
+      "quantidade": 182276,
+      "texto": "Perdeu 182276 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:13.788304",
-      "captura_mais_recente": "2026-11-03T12:22:13.282914",
-      "tempo_total_dias": 28.653466,
+      "captura_mais_recente": "2026-11-19T16:28:46.553716",
+      "tempo_total_dias": 44.824685,
       "seguidores_inicio": 87669081,
-      "seguidores_fim": 87580880
+      "seguidores_fim": 87486805
     }
   }
 }

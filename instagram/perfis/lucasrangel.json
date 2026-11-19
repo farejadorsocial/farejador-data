@@ -8,7 +8,8 @@
       "id": "17841401458900133",
       "username": "lucasrangel",
       "nome": "Lucas Rangel",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=FW34EcKkDj8Q7kNvwEgA-kN&_nc_oc=Adpuh_mFRO9Nasyf9Pg-iifRVeUeN1S6V4GhNDzVFMcHAA5q3_NPkIcY7L_x7Ex80H61L5xEG4jA5P-uZ7p1IFd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ct14paxLsbsjhm1ttrfIfw&_nc_ss=70689&oh=00_AQRNoXj5690f-wemYZaNk6mmeqRk3sRY-jeaJ1JIDrB5uA&oe=6AEFC090"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=TywNdP3wUU8Q7kNvwFjkr9w&_nc_oc=AdoyRPHhpCFVYEucNzN0rgFR7y32lbWANdUNLy0i1GW7GZG7bsy25rsIcBotR_JPTZSlGQPAX1YuIgIIbmQ6Ivfr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9eim_yM8weGtE6kl_C4IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTGetVtY4ut-9wjKp6FYQaMv_Zp3b-1_JxscltQoSy1FQ&oe=6B0510D0",
+      "total_posts": 3
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "",
-        "timestamp": "2026-10-06T21:42:09.861950",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "Influenciadora digital",
-        "valor_atual": "Influenciadores digital",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"Influenciadora digital\" para \"Influenciadores digital\"",
-        "timestamp": "2026-10-15T00:23:51.170414",
-        "timestamp_anterior": "2026-10-06T21:42:09.861950",
-        "tempo_desde_anterior_segundos": 700901
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "Influenciadora digital",
         "timestamp": "2026-10-06T21:42:09.861950",
         "tipo": "inicial"
       }
@@ -78,6 +56,19 @@
         "plataforma": "instagram",
         "campo": "privado",
         "nome": "Privacidade",
+        "valor_anterior": false,
+        "valor_atual": true,
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Conta ficou privada",
+        "timestamp": "2026-11-19T16:22:35.900073",
+        "timestamp_anterior": "2026-10-30T20:10:30.605406",
+        "tempo_desde_anterior_segundos": 1714325
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "privado",
+        "nome": "Privacidade",
         "valor_anterior": true,
         "valor_atual": false,
         "variacao": null,
@@ -107,6 +98,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 2357,
+        "valor_atual": 2347,
+        "variacao": -10,
+        "direcao": "reducao",
+        "descricao": "-10 seguidores",
+        "timestamp": "2026-11-19T16:22:35.900073",
+        "timestamp_anterior": "2026-11-03T12:11:35.851587",
+        "tempo_desde_anterior_segundos": 1397460
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -264,6 +268,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 635,
+        "valor_atual": 639,
+        "variacao": 4,
+        "direcao": "aumento",
+        "descricao": "Seguiu +4",
+        "timestamp": "2026-11-19T16:22:35.900073",
+        "timestamp_anterior": "2026-11-03T12:11:35.851587",
+        "tempo_desde_anterior_segundos": 1397460
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 633,
         "valor_atual": 635,
         "variacao": 2,
@@ -404,6 +421,19 @@
         "plataforma": "instagram",
         "campo": "total_destaques",
         "nome": "Total de Destaques",
+        "valor_anterior": 1,
+        "valor_atual": 0,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 destaques",
+        "timestamp": "2026-11-19T16:22:35.900073",
+        "timestamp_anterior": "2026-10-30T20:10:30.605406",
+        "tempo_desde_anterior_segundos": 1714325
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_destaques",
+        "nome": "Total de Destaques",
         "valor_anterior": 0,
         "valor_atual": 1,
         "variacao": 1,
@@ -423,6 +453,19 @@
       }
     ],
     "total_posts": [
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
+        "valor_anterior": 2,
+        "valor_atual": 3,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 publicações",
+        "timestamp": "2026-11-19T16:22:35.900073",
+        "timestamp_anterior": "2026-10-06T21:42:09.861950",
+        "tempo_desde_anterior_segundos": 3782426
+      },
       {
         "plataforma": "instagram",
         "campo": "total_posts",
@@ -461,9 +504,198 @@
         "timestamp": "2026-10-06T21:42:09.861950",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "Influenciadores digital",
+        "timestamp": "2026-10-06T21:42:09.861950",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:22:35.900073",
+      "timestamp_anterior": "2026-11-03T12:11:35.851587",
+      "timestamp_atual": "2026-11-19T16:22:35.900073",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=TywNdP3wUU8Q7kNvwFjkr9w&_nc_oc=AdoyRPHhpCFVYEucNzN0rgFR7y32lbWANdUNLy0i1GW7GZG7bsy25rsIcBotR_JPTZSlGQPAX1YuIgIIbmQ6Ivfr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9eim_yM8weGtE6kl_C4IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTGetVtY4ut-9wjKp6FYQaMv_Zp3b-1_JxscltQoSy1FQ&oe=6B0510D0",
+        "total_posts": 3
+      },
+      "tipo": "privado",
+      "campo": "privado",
+      "nome_campo": "Privacidade",
+      "valor_anterior": false,
+      "valor_atual": true,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "status",
+      "tempo_desde_anterior": {
+        "segundos": 1397460.048486,
+        "texto": "16 dias e 4 horas e 11 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397460.048486,
+        "texto": "16 dias e 4 horas e 11 minutos"
+      },
+      "titulo": "O perfil ficou privado",
+      "descricao": "O perfil tornou-se privado"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:22:35.900073",
+      "timestamp_anterior": "2026-11-03T12:11:35.851587",
+      "timestamp_atual": "2026-11-19T16:22:35.900073",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=TywNdP3wUU8Q7kNvwFjkr9w&_nc_oc=AdoyRPHhpCFVYEucNzN0rgFR7y32lbWANdUNLy0i1GW7GZG7bsy25rsIcBotR_JPTZSlGQPAX1YuIgIIbmQ6Ivfr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9eim_yM8weGtE6kl_C4IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTGetVtY4ut-9wjKp6FYQaMv_Zp3b-1_JxscltQoSy1FQ&oe=6B0510D0",
+        "total_posts": 3
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 2357,
+      "valor_atual": 2347,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -10,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397460.048486,
+        "texto": "16 dias e 4 horas e 11 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 10 seguidores",
+      "descricao": "Os seguidores caíram de 2.357 para 2.347",
+      "variacao_texto": "-10 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:22:35.900073",
+      "timestamp_anterior": "2026-11-03T12:11:35.851587",
+      "timestamp_atual": "2026-11-19T16:22:35.900073",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=TywNdP3wUU8Q7kNvwFjkr9w&_nc_oc=AdoyRPHhpCFVYEucNzN0rgFR7y32lbWANdUNLy0i1GW7GZG7bsy25rsIcBotR_JPTZSlGQPAX1YuIgIIbmQ6Ivfr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9eim_yM8weGtE6kl_C4IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTGetVtY4ut-9wjKp6FYQaMv_Zp3b-1_JxscltQoSy1FQ&oe=6B0510D0",
+        "total_posts": 3
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 635,
+      "valor_atual": 639,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 4,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397460.048486,
+        "texto": "16 dias e 4 horas e 11 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 4 pessoas",
+      "descricao": "Estava seguindo 635 e passou a seguir 639",
+      "variacao_texto": "+4 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:22:35.900073",
+      "timestamp_anterior": "2026-11-03T12:11:35.851587",
+      "timestamp_atual": "2026-11-19T16:22:35.900073",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=TywNdP3wUU8Q7kNvwFjkr9w&_nc_oc=AdoyRPHhpCFVYEucNzN0rgFR7y32lbWANdUNLy0i1GW7GZG7bsy25rsIcBotR_JPTZSlGQPAX1YuIgIIbmQ6Ivfr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9eim_yM8weGtE6kl_C4IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTGetVtY4ut-9wjKp6FYQaMv_Zp3b-1_JxscltQoSy1FQ&oe=6B0510D0",
+        "total_posts": 3
+      },
+      "tipo": "total_destaques",
+      "campo": "total_destaques",
+      "nome_campo": "Total de Destaques",
+      "valor_anterior": 1,
+      "valor_atual": 0,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397460.048486,
+        "texto": "16 dias e 4 horas e 11 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Removeu 1 destaque",
+      "descricao": "O total mudou de 1 para 0",
+      "variacao_texto": "-1 destaque"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:22:35.900073",
+      "timestamp_anterior": "2026-11-03T12:11:35.851587",
+      "timestamp_atual": "2026-11-19T16:22:35.900073",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 8560630,
+        "id": "17841401458900133",
+        "username": "lucasrangel",
+        "nome": "Lucas Rangel",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=TywNdP3wUU8Q7kNvwFjkr9w&_nc_oc=AdoyRPHhpCFVYEucNzN0rgFR7y32lbWANdUNLy0i1GW7GZG7bsy25rsIcBotR_JPTZSlGQPAX1YuIgIIbmQ6Ivfr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9eim_yM8weGtE6kl_C4IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTGetVtY4ut-9wjKp6FYQaMv_Zp3b-1_JxscltQoSy1FQ&oe=6B0510D0",
+        "total_posts": 3
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 2,
+      "valor_atual": 3,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397460.048486,
+        "texto": "16 dias e 4 horas e 11 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 publicação",
+      "descricao": "O total mudou de 2 para 3",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:11:35.851587",
@@ -476,15 +708,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=FW34EcKkDj8Q7kNvwEgA-kN&_nc_oc=Adpuh_mFRO9Nasyf9Pg-iifRVeUeN1S6V4GhNDzVFMcHAA5q3_NPkIcY7L_x7Ex80H61L5xEG4jA5P-uZ7p1IFd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ct14paxLsbsjhm1ttrfIfw&_nc_ss=70689&oh=00_AQRNoXj5690f-wemYZaNk6mmeqRk3sRY-jeaJ1JIDrB5uA&oe=6AEFC090"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=FW34EcKkDj8Q7kNvwEgA-kN&_nc_oc=Adpuh_mFRO9Nasyf9Pg-iifRVeUeN1S6V4GhNDzVFMcHAA5q3_NPkIcY7L_x7Ex80H61L5xEG4jA5P-uZ7p1IFd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ct14paxLsbsjhm1ttrfIfw&_nc_ss=70689&oh=00_AQRNoXj5690f-wemYZaNk6mmeqRk3sRY-jeaJ1JIDrB5uA&oe=6AEFC090",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2358,
       "valor_atual": 2357,
-      "hash_anterior": "d65b464c9c50ba606b36690942da9af8a26edfc2a22fb5dabef7945132e809cb",
-      "hash_atual": "efe2ae588952db4fbd0086416025a37c8f4f9e6d9921f749fec1fceab0aa17cb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -511,15 +744,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=FW34EcKkDj8Q7kNvwEgA-kN&_nc_oc=Adpuh_mFRO9Nasyf9Pg-iifRVeUeN1S6V4GhNDzVFMcHAA5q3_NPkIcY7L_x7Ex80H61L5xEG4jA5P-uZ7p1IFd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ct14paxLsbsjhm1ttrfIfw&_nc_ss=70689&oh=00_AQRNoXj5690f-wemYZaNk6mmeqRk3sRY-jeaJ1JIDrB5uA&oe=6AEFC090"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GASRQiq3nufTjwlCAMUlb3u2EO0DbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=FW34EcKkDj8Q7kNvwEgA-kN&_nc_oc=Adpuh_mFRO9Nasyf9Pg-iifRVeUeN1S6V4GhNDzVFMcHAA5q3_NPkIcY7L_x7Ex80H61L5xEG4jA5P-uZ7p1IFd-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ct14paxLsbsjhm1ttrfIfw&_nc_ss=70689&oh=00_AQRNoXj5690f-wemYZaNk6mmeqRk3sRY-jeaJ1JIDrB5uA&oe=6AEFC090",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 633,
       "valor_atual": 635,
-      "hash_anterior": "d65b464c9c50ba606b36690942da9af8a26edfc2a22fb5dabef7945132e809cb",
-      "hash_atual": "efe2ae588952db4fbd0086416025a37c8f4f9e6d9921f749fec1fceab0aa17cb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -546,15 +780,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10",
+        "total_posts": 2
       },
       "tipo": "privado",
       "campo": "privado",
       "nome_campo": "Privacidade",
       "valor_anterior": true,
       "valor_atual": false,
-      "hash_anterior": "228b33d264dc49add18e9e4f4f4fc62951d41fb9fe6b36c5a58b1240bd5d04dc",
-      "hash_atual": "d65b464c9c50ba606b36690942da9af8a26edfc2a22fb5dabef7945132e809cb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "status",
       "tempo_desde_anterior": {
@@ -580,15 +815,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2363,
       "valor_atual": 2358,
-      "hash_anterior": "228b33d264dc49add18e9e4f4f4fc62951d41fb9fe6b36c5a58b1240bd5d04dc",
-      "hash_atual": "d65b464c9c50ba606b36690942da9af8a26edfc2a22fb5dabef7945132e809cb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -615,15 +851,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 630,
       "valor_atual": 633,
-      "hash_anterior": "228b33d264dc49add18e9e4f4f4fc62951d41fb9fe6b36c5a58b1240bd5d04dc",
-      "hash_atual": "d65b464c9c50ba606b36690942da9af8a26edfc2a22fb5dabef7945132e809cb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -650,15 +887,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=dX9WXmnMnI8Q7kNvwF8Iahc&_nc_oc=Adqwxz_9ZIb3LKNsVIpKy-mqcUk0N4kiFZx25zwKZex807wQYSjYTauKtuuDUMfY3LIuUqhkrvAHtdfbIuftlWT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZW9OyQZNz8TFx8vBIcHMMg&_nc_ss=70689&oh=00_AQQorNtd6LPUkaTYrc3Mt2tLUFHqSvoL2-Ck0ug854dwpw&oe=6AEAEB10",
+        "total_posts": 2
       },
       "tipo": "total_destaques",
       "campo": "total_destaques",
       "nome_campo": "Total de Destaques",
       "valor_anterior": 0,
       "valor_atual": 1,
-      "hash_anterior": "228b33d264dc49add18e9e4f4f4fc62951d41fb9fe6b36c5a58b1240bd5d04dc",
-      "hash_atual": "d65b464c9c50ba606b36690942da9af8a26edfc2a22fb5dabef7945132e809cb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -685,15 +923,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=5jE7hCQf_R0Q7kNvwGxhhUX&_nc_oc=AdqZpZxIiiAHL-F__zUiOxQQX041IpoHukOCPQ88OvLCYalJ2yWzZ1Ybg-dWjI3gmjtDDAaExXCdJNtj3-LZZSjx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g_C5FyR0-KvBgmtQ8n7hTw&_nc_ss=70689&oh=00_AQMw9kj5mRSPLGYjdeSSP271l1fOIMgJuppaVcG0UvYt1Q&oe=6AE29190"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=5jE7hCQf_R0Q7kNvwGxhhUX&_nc_oc=AdqZpZxIiiAHL-F__zUiOxQQX041IpoHukOCPQ88OvLCYalJ2yWzZ1Ybg-dWjI3gmjtDDAaExXCdJNtj3-LZZSjx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g_C5FyR0-KvBgmtQ8n7hTw&_nc_ss=70689&oh=00_AQMw9kj5mRSPLGYjdeSSP271l1fOIMgJuppaVcG0UvYt1Q&oe=6AE29190",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2365,
       "valor_atual": 2363,
-      "hash_anterior": "5e76cdd7104421cd161c3ce40b2dd9a82ccdd92fbbb57dad62f34ad9997568b3",
-      "hash_atual": "228b33d264dc49add18e9e4f4f4fc62951d41fb9fe6b36c5a58b1240bd5d04dc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -720,15 +959,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=qzYsI__joGgQ7kNvwGkoNzh&_nc_oc=AdqZ2A5PqAfIN49DszKlH8LwKCAiKTW4g1lTnR9S9bUNXZIr7Uy005RKvdBH_iUCplg0EqZUwsMtRw-B_fn-z4U2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UFKndZ2mlqCyVo-b2wm_Kw&_nc_ss=70689&oh=00_AQNXbXnjMV-7JcYbDcyxHNc5hGAYVnPm07nKjbMTIggyNg&oe=6ADF0D90"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=qzYsI__joGgQ7kNvwGkoNzh&_nc_oc=AdqZ2A5PqAfIN49DszKlH8LwKCAiKTW4g1lTnR9S9bUNXZIr7Uy005RKvdBH_iUCplg0EqZUwsMtRw-B_fn-z4U2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UFKndZ2mlqCyVo-b2wm_Kw&_nc_ss=70689&oh=00_AQNXbXnjMV-7JcYbDcyxHNc5hGAYVnPm07nKjbMTIggyNg&oe=6ADF0D90",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2370,
       "valor_atual": 2365,
-      "hash_anterior": "4156e7cf0a25687db85f09209f3293eeb416acef6a738cd1d002abdec84d9d13",
-      "hash_atual": "5e76cdd7104421cd161c3ce40b2dd9a82ccdd92fbbb57dad62f34ad9997568b3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -755,15 +995,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=qzYsI__joGgQ7kNvwGkoNzh&_nc_oc=AdqZ2A5PqAfIN49DszKlH8LwKCAiKTW4g1lTnR9S9bUNXZIr7Uy005RKvdBH_iUCplg0EqZUwsMtRw-B_fn-z4U2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UFKndZ2mlqCyVo-b2wm_Kw&_nc_ss=70689&oh=00_AQNXbXnjMV-7JcYbDcyxHNc5hGAYVnPm07nKjbMTIggyNg&oe=6ADF0D90"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=qzYsI__joGgQ7kNvwGkoNzh&_nc_oc=AdqZ2A5PqAfIN49DszKlH8LwKCAiKTW4g1lTnR9S9bUNXZIr7Uy005RKvdBH_iUCplg0EqZUwsMtRw-B_fn-z4U2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UFKndZ2mlqCyVo-b2wm_Kw&_nc_ss=70689&oh=00_AQNXbXnjMV-7JcYbDcyxHNc5hGAYVnPm07nKjbMTIggyNg&oe=6ADF0D90",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 626,
       "valor_atual": 630,
-      "hash_anterior": "4156e7cf0a25687db85f09209f3293eeb416acef6a738cd1d002abdec84d9d13",
-      "hash_atual": "5e76cdd7104421cd161c3ce40b2dd9a82ccdd92fbbb57dad62f34ad9997568b3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -790,15 +1031,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=00ICKJufqy0Q7kNvwEswsnL&_nc_oc=AdoMzbeNrtdBwb6yRSfL0rU4J3F3Zo7BOjEJo1aXEL2YY3NrQrY0XQYkWNIrpBNbsule4ZomhUjxS1Z-M03i2Lnu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wwZ_c7jKa5_AeJoQtl7SOg&_nc_ss=70689&oh=00_AQNvQXFODR5WQDF-BvpUw2YWgxjpPtB61-X3gSrDBjiWDg&oe=6AD83DD0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=00ICKJufqy0Q7kNvwEswsnL&_nc_oc=AdoMzbeNrtdBwb6yRSfL0rU4J3F3Zo7BOjEJo1aXEL2YY3NrQrY0XQYkWNIrpBNbsule4ZomhUjxS1Z-M03i2Lnu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wwZ_c7jKa5_AeJoQtl7SOg&_nc_ss=70689&oh=00_AQNvQXFODR5WQDF-BvpUw2YWgxjpPtB61-X3gSrDBjiWDg&oe=6AD83DD0",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2369,
       "valor_atual": 2370,
-      "hash_anterior": "faacd03d0a573ce3ea02e1d4dc4876ee12859ffb35db9932946667ed5da46670",
-      "hash_atual": "4156e7cf0a25687db85f09209f3293eeb416acef6a738cd1d002abdec84d9d13",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -825,15 +1067,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=00ICKJufqy0Q7kNvwEswsnL&_nc_oc=AdoMzbeNrtdBwb6yRSfL0rU4J3F3Zo7BOjEJo1aXEL2YY3NrQrY0XQYkWNIrpBNbsule4ZomhUjxS1Z-M03i2Lnu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wwZ_c7jKa5_AeJoQtl7SOg&_nc_ss=70689&oh=00_AQNvQXFODR5WQDF-BvpUw2YWgxjpPtB61-X3gSrDBjiWDg&oe=6AD83DD0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=00ICKJufqy0Q7kNvwEswsnL&_nc_oc=AdoMzbeNrtdBwb6yRSfL0rU4J3F3Zo7BOjEJo1aXEL2YY3NrQrY0XQYkWNIrpBNbsule4ZomhUjxS1Z-M03i2Lnu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wwZ_c7jKa5_AeJoQtl7SOg&_nc_ss=70689&oh=00_AQNvQXFODR5WQDF-BvpUw2YWgxjpPtB61-X3gSrDBjiWDg&oe=6AD83DD0",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 624,
       "valor_atual": 626,
-      "hash_anterior": "faacd03d0a573ce3ea02e1d4dc4876ee12859ffb35db9932946667ed5da46670",
-      "hash_atual": "4156e7cf0a25687db85f09209f3293eeb416acef6a738cd1d002abdec84d9d13",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -860,15 +1103,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2372,
       "valor_atual": 2369,
-      "hash_anterior": "73b660917d7f86e1771d69e29f0d1bc185529110871ba456725bb2178bf8ed8b",
-      "hash_atual": "faacd03d0a573ce3ea02e1d4dc4876ee12859ffb35db9932946667ed5da46670",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -876,8 +1120,8 @@
         "texto": "11 horas e 38 minutos e 26 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 41906.509704,
-        "texto": "11 horas e 38 minutos e 26 segundos"
+        "segundos": 86060.218785,
+        "texto": "23 horas e 54 minutos e 20 segundos"
       },
       "titulo": "Perdeu 3 seguidores",
       "descricao": "Os seguidores caíram de 2.372 para 2.369",
@@ -895,15 +1139,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFy0WHU&_nc_oc=AdpauixO_CiAO-mZo-Db2LETwEovnrisch9Au5l5U_ECZRetoKjZUHiS02TVq75P3KY6si62AZvfEcIxZbdNPncu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Qm5VvDPARNdRpBS892bSZg&_nc_ss=70689&oh=00_AQMz_JaAghuGsAfmPhXVrL2uH3uHo8XmUopfzlWI6Eq3_w&oe=6AD6B410",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 625,
       "valor_atual": 624,
-      "hash_anterior": "73b660917d7f86e1771d69e29f0d1bc185529110871ba456725bb2178bf8ed8b",
-      "hash_atual": "faacd03d0a573ce3ea02e1d4dc4876ee12859ffb35db9932946667ed5da46670",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -920,9 +1165,9 @@
     },
     {
       "plataforma": "instagram",
-      "timestamp": "2026-10-15T00:23:51.170414",
-      "timestamp_anterior": "2026-10-14T12:07:57.461333",
-      "timestamp_atual": "2026-10-15T00:23:51.170414",
+      "timestamp": "2026-10-14T12:07:57.461333",
+      "timestamp_anterior": "2026-10-13T15:57:58.878446",
+      "timestamp_atual": "2026-10-14T12:07:57.461333",
       "usuario": {
         "plataforma": "instagram",
         "categoria": "Influenciadores digital",
@@ -930,49 +1175,16 @@
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwFAcGUA&_nc_oc=AdrQfEAn8K_6QKNrm9_Jzdl86_2Hl0F_zKdRfhBM4zsOY3xr3ShfH2CEOVzfbbKPWH0abenK6kAXoUXy0kHupRd5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mKdy0Bep9DRPNZTjcJM3QA&_nc_ss=70689&oh=00_AQPGd90pPqbLzaELfuQV7BC90OXMoTSZ3MOV2Ye2JYAtxg&oe=6AD60B50"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "Influenciadora digital",
-      "valor_atual": "Influenciadores digital",
-      "hash_anterior": "a6df13940d5b0285e463a91f1b0bb51ed53b08e9659f2ffbf22c2b473be30c46",
-      "hash_atual": "73b660917d7f86e1771d69e29f0d1bc185529110871ba456725bb2178bf8ed8b",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 44153.709081,
-        "texto": "12 horas e 15 minutos e 53 segundos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 44153.709081,
-        "texto": "12 horas e 15 minutos e 53 segundos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"Influenciadora digital\" para \"Influenciadores digital\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-14T12:07:57.461333",
-      "timestamp_anterior": "2026-10-13T15:57:58.878446",
-      "timestamp_atual": "2026-10-14T12:07:57.461333",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
-        "pk": 8560630,
-        "id": "17841401458900133",
-        "username": "lucasrangel",
-        "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwGTEsPj&_nc_oc=AdoiNJxcMKeXAyppCfaQSQ1hMqcKdIM-i_OchrW4NZD2zKpctlDMOus4XN-rWdKcbFvfi5V3HX1x8l9dK4k6IGNA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tWS7DMl8yt1Tx5_gM6v3lw&_nc_ss=70689&oh=00_AQNCpzVLjvmCetiNb2L1ZDPF--elYejdTq_oVtKx0KIP2A&oe=6AD56290"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwGTEsPj&_nc_oc=AdoiNJxcMKeXAyppCfaQSQ1hMqcKdIM-i_OchrW4NZD2zKpctlDMOus4XN-rWdKcbFvfi5V3HX1x8l9dK4k6IGNA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tWS7DMl8yt1Tx5_gM6v3lw&_nc_ss=70689&oh=00_AQNCpzVLjvmCetiNb2L1ZDPF--elYejdTq_oVtKx0KIP2A&oe=6AD56290",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2373,
       "valor_atual": 2372,
-      "hash_anterior": "9fefe611232fc84185575f42801be6547bc8ae067a997b75dff866dd8de5b528",
-      "hash_atual": "a6df13940d5b0285e463a91f1b0bb51ed53b08e9659f2ffbf22c2b473be30c46",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -994,20 +1206,21 @@
       "timestamp_atual": "2026-10-13T15:57:58.878446",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwHAEio_&_nc_oc=Ado32CkM4q-Oo4u0C5bTuRWcB-8Zncf5qGUx6t1UYW4wVghOATskBJ7f5UPnMysCfzbRVDbAMOFyflbL4YpwJDeU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mQKhUOMqD70yTAR5YcoaGA&_nc_ss=70689&oh=00_AQNaY9Vin76rvO5lznuhgA3nVRmoTMnDU4O8XdLh_Jn_Yw&oe=6AD44950"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=cwWdZuepXOwQ7kNvwHAEio_&_nc_oc=Ado32CkM4q-Oo4u0C5bTuRWcB-8Zncf5qGUx6t1UYW4wVghOATskBJ7f5UPnMysCfzbRVDbAMOFyflbL4YpwJDeU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mQKhUOMqD70yTAR5YcoaGA&_nc_ss=70689&oh=00_AQNaY9Vin76rvO5lznuhgA3nVRmoTMnDU4O8XdLh_Jn_Yw&oe=6AD44950",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 626,
       "valor_atual": 625,
-      "hash_anterior": "a8ff827666a3b5ecf3d9276f760c324523163efff419d97064572ced1556e82a",
-      "hash_atual": "9fefe611232fc84185575f42801be6547bc8ae067a997b75dff866dd8de5b528",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1029,20 +1242,21 @@
       "timestamp_atual": "2026-10-11T11:05:56.171871",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEQAKLH&_nc_oc=Adr9UqZmKoAl1ZRrjpoEJvE2gjGDc_bXL8AhYxeNS5ogEEYEZwr5ntjIWIoqvzkP07CyMHxzY_Uw9vs1Rkx4APt2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=p1O7mEAnTBq78-zdBrAwlQ&_nc_ss=70689&oh=00_AQNfkyxKj5c6yaRmcAWm4hTXC0fQfqaLjcqfT_Erbap_JA&oe=6AD16E10"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEQAKLH&_nc_oc=Adr9UqZmKoAl1ZRrjpoEJvE2gjGDc_bXL8AhYxeNS5ogEEYEZwr5ntjIWIoqvzkP07CyMHxzY_Uw9vs1Rkx4APt2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=p1O7mEAnTBq78-zdBrAwlQ&_nc_ss=70689&oh=00_AQNfkyxKj5c6yaRmcAWm4hTXC0fQfqaLjcqfT_Erbap_JA&oe=6AD16E10",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2374,
       "valor_atual": 2373,
-      "hash_anterior": "f3d501b67ef5420fb5d3cb00b245df3213ec92c14f8564bb7527ca745687ee4b",
-      "hash_atual": "a8ff827666a3b5ecf3d9276f760c324523163efff419d97064572ced1556e82a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1064,20 +1278,21 @@
       "timestamp_atual": "2026-10-10T13:40:06.246269",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEQAKLH&_nc_oc=Adr9UqZmKoAl1ZRrjpoEJvE2gjGDc_bXL8AhYxeNS5ogEEYEZwr5ntjIWIoqvzkP07CyMHxzY_Uw9vs1Rkx4APt2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=voxtYZNC3T6k2xrEEWFA5A&_nc_ss=70689&oh=00_AQNrzpv6uGBD4EIuAhfRAIXVQBE1Jz7gtQsAhSquI9U5_Q&oe=6AD054D0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEQAKLH&_nc_oc=Adr9UqZmKoAl1ZRrjpoEJvE2gjGDc_bXL8AhYxeNS5ogEEYEZwr5ntjIWIoqvzkP07CyMHxzY_Uw9vs1Rkx4APt2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=voxtYZNC3T6k2xrEEWFA5A&_nc_ss=70689&oh=00_AQNrzpv6uGBD4EIuAhfRAIXVQBE1Jz7gtQsAhSquI9U5_Q&oe=6AD054D0",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 625,
       "valor_atual": 626,
-      "hash_anterior": "30f66db700eaab2e3e8b6b5414da3b73b64a06029f6685e0b68f361627a12190",
-      "hash_atual": "f3d501b67ef5420fb5d3cb00b245df3213ec92c14f8564bb7527ca745687ee4b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1099,20 +1314,21 @@
       "timestamp_atual": "2026-10-09T22:21:46.600078",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEV0Nv5&_nc_oc=AdqqadOit2D6c4JZpFvUjsyv2ldqVLUulyFqxw4xvfvwdoWOneFPH8Tqa0281l_S3_NSp2xqqh4JXPhqchBmmupy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n1L_xqZjaIcW3pzkcBRTWQ&_nc_ss=70689&oh=00_AQPhBKbYs_acjw9JWd0U15smBq5A3IHAmcwOW2l8qUYNhg&oe=6ACF73D0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEV0Nv5&_nc_oc=AdqqadOit2D6c4JZpFvUjsyv2ldqVLUulyFqxw4xvfvwdoWOneFPH8Tqa0281l_S3_NSp2xqqh4JXPhqchBmmupy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n1L_xqZjaIcW3pzkcBRTWQ&_nc_ss=70689&oh=00_AQPhBKbYs_acjw9JWd0U15smBq5A3IHAmcwOW2l8qUYNhg&oe=6ACF73D0",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2375,
       "valor_atual": 2374,
-      "hash_anterior": "76d6c9acf2a896ab755bb63edb5ad573d70753efc776b0ff0fc31456e25e3178",
-      "hash_atual": "30f66db700eaab2e3e8b6b5414da3b73b64a06029f6685e0b68f361627a12190",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1134,20 +1350,21 @@
       "timestamp_atual": "2026-10-09T22:21:46.600078",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEV0Nv5&_nc_oc=AdqqadOit2D6c4JZpFvUjsyv2ldqVLUulyFqxw4xvfvwdoWOneFPH8Tqa0281l_S3_NSp2xqqh4JXPhqchBmmupy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n1L_xqZjaIcW3pzkcBRTWQ&_nc_ss=70689&oh=00_AQPhBKbYs_acjw9JWd0U15smBq5A3IHAmcwOW2l8qUYNhg&oe=6ACF73D0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=C9oG99V-_8gQ7kNvwEV0Nv5&_nc_oc=AdqqadOit2D6c4JZpFvUjsyv2ldqVLUulyFqxw4xvfvwdoWOneFPH8Tqa0281l_S3_NSp2xqqh4JXPhqchBmmupy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=n1L_xqZjaIcW3pzkcBRTWQ&_nc_ss=70689&oh=00_AQPhBKbYs_acjw9JWd0U15smBq5A3IHAmcwOW2l8qUYNhg&oe=6ACF73D0",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 626,
       "valor_atual": 625,
-      "hash_anterior": "76d6c9acf2a896ab755bb63edb5ad573d70753efc776b0ff0fc31456e25e3178",
-      "hash_atual": "30f66db700eaab2e3e8b6b5414da3b73b64a06029f6685e0b68f361627a12190",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1169,20 +1386,21 @@
       "timestamp_atual": "2026-10-09T09:27:44.112061",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwE3ENc7&_nc_oc=AdoQvkUYfSZX24xuwi5aqBk5L2OP5iamOfqHrrbgtf5JtSfMxdFhHWEW5VQ2quQKmvxw5bGvTQaWq1JyCBmiaf5K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Zq8vlTuPUW9mdRH5zJja2A&_nc_ss=70689&oh=00_AQMVgkwOp4ZZtbmMyf0-U1FuY7nlT0yCKlb1CJ_g4pV7zQ&oe=6ACECB10"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwE3ENc7&_nc_oc=AdoQvkUYfSZX24xuwi5aqBk5L2OP5iamOfqHrrbgtf5JtSfMxdFhHWEW5VQ2quQKmvxw5bGvTQaWq1JyCBmiaf5K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Zq8vlTuPUW9mdRH5zJja2A&_nc_ss=70689&oh=00_AQMVgkwOp4ZZtbmMyf0-U1FuY7nlT0yCKlb1CJ_g4pV7zQ&oe=6ACECB10",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 625,
       "valor_atual": 626,
-      "hash_anterior": "a1066f18895322d4bbafccd691b08d0fd9376fc8071aa4cce5369055eb0f493a",
-      "hash_atual": "76d6c9acf2a896ab755bb63edb5ad573d70753efc776b0ff0fc31456e25e3178",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1204,20 +1422,21 @@
       "timestamp_atual": "2026-10-08T09:09:03.293123",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwFsi0kE&_nc_oc=AdokMmZOb758jz0OGnBObXh28Q0pZfFptzCO6oJbIr8ON7kQ_beoLG5krZmpdt1I_aqkr6fsERlKw1CmfH-8_Ldf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DKO9Da4WEuMHdOvqAPJZPg&_nc_ss=70689&oh=00_AQP7pVxwrHEgRDnYVhjLntEyOEtf87JAi08p5Lu56ts0Vg&oe=6ACD4150"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwFsi0kE&_nc_oc=AdokMmZOb758jz0OGnBObXh28Q0pZfFptzCO6oJbIr8ON7kQ_beoLG5krZmpdt1I_aqkr6fsERlKw1CmfH-8_Ldf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DKO9Da4WEuMHdOvqAPJZPg&_nc_ss=70689&oh=00_AQP7pVxwrHEgRDnYVhjLntEyOEtf87JAi08p5Lu56ts0Vg&oe=6ACD4150",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2376,
       "valor_atual": 2375,
-      "hash_anterior": "ea9aee4e71d6be10a3b5bf51e901e531c44e16bc1cc0955d2c8358067f5e00f8",
-      "hash_atual": "a1066f18895322d4bbafccd691b08d0fd9376fc8071aa4cce5369055eb0f493a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1239,20 +1458,21 @@
       "timestamp_atual": "2026-10-07T19:17:50.242224",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwG5IeqJ&_nc_oc=Adp4uhsXaZcWdX4KZp-DJy25a7YgdzXb-xfO98pdwu7XvIQtEbn3qMoy4-JdsMIh_xOtj0d8d-PktbThdx53YeUc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9r6BNsRaxJoAqlmRlnaO6A&_nc_ss=70689&oh=00_AQPsjbBRpcZPSsJWD7u_26a71R2i0zth_0AJALpQgyUn_g&oe=6ACC9890"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwG5IeqJ&_nc_oc=Adp4uhsXaZcWdX4KZp-DJy25a7YgdzXb-xfO98pdwu7XvIQtEbn3qMoy4-JdsMIh_xOtj0d8d-PktbThdx53YeUc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9r6BNsRaxJoAqlmRlnaO6A&_nc_ss=70689&oh=00_AQPsjbBRpcZPSsJWD7u_26a71R2i0zth_0AJALpQgyUn_g&oe=6ACC9890",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 2378,
       "valor_atual": 2376,
-      "hash_anterior": "49df7784adaf3c0681dd5ea01d9850bdbec152b229e283b1f334100d456392b8",
-      "hash_atual": "ea9aee4e71d6be10a3b5bf51e901e531c44e16bc1cc0955d2c8358067f5e00f8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1274,20 +1494,21 @@
       "timestamp_atual": "2026-10-07T19:17:50.242224",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 8560630,
         "id": "17841401458900133",
         "username": "lucasrangel",
         "nome": "Lucas Rangel",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwG5IeqJ&_nc_oc=Adp4uhsXaZcWdX4KZp-DJy25a7YgdzXb-xfO98pdwu7XvIQtEbn3qMoy4-JdsMIh_xOtj0d8d-PktbThdx53YeUc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9r6BNsRaxJoAqlmRlnaO6A&_nc_ss=70689&oh=00_AQPsjbBRpcZPSsJWD7u_26a71R2i0zth_0AJALpQgyUn_g&oe=6ACC9890"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709005572_18587861803048631_282900727535183301_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDIuQzMifQ%3D%3D&_nc_ohc=1yCgJBfol9MQ7kNvwG5IeqJ&_nc_oc=Adp4uhsXaZcWdX4KZp-DJy25a7YgdzXb-xfO98pdwu7XvIQtEbn3qMoy4-JdsMIh_xOtj0d8d-PktbThdx53YeUc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9r6BNsRaxJoAqlmRlnaO6A&_nc_ss=70689&oh=00_AQPsjbBRpcZPSsJWD7u_26a71R2i0zth_0AJALpQgyUn_g&oe=6ACC9890",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 626,
       "valor_atual": 625,
-      "hash_anterior": "49df7784adaf3c0681dd5ea01d9850bdbec152b229e283b1f334100d456392b8",
-      "hash_atual": "ea9aee4e71d6be10a3b5bf51e901e531c44e16bc1cc0955d2c8358067f5e00f8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1306,34 +1527,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:09.861950",
-    "captura_mais_recente": "2026-11-03T12:11:35.851587",
-    "tempo_total_segundos": 2384965,
-    "tempo_total_dias": 27.603762,
-    "tempo_total_texto": "27 dias, 14 horas, 29 minutos e 25 segundos",
+    "captura_mais_recente": "2026-11-19T16:22:35.900073",
+    "tempo_total_segundos": 3782426,
+    "tempo_total_dias": 43.778079,
+    "tempo_total_texto": "43 dias, 18 horas, 40 minutos e 26 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -6,
+    "1_dias": {
+      "variacao": -10,
       "direcao": "perdeu",
-      "quantidade": 6,
-      "texto": "Perdeu 6 seguidores",
+      "quantidade": 10,
+      "texto": "Perdeu 10 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:00:26.087904",
-      "captura_fim": "2026-11-03T12:11:35.851587",
-      "seguidores_inicio": 2363,
-      "seguidores_fim": 2357
+      "captura_inicio": "2026-11-03T12:11:35.851587",
+      "captura_fim": "2026-11-19T16:22:35.900073",
+      "seguidores_inicio": 2357,
+      "seguidores_fim": 2347
+    },
+    "7_dias": {
+      "variacao": -10,
+      "direcao": "perdeu",
+      "quantidade": 10,
+      "texto": "Perdeu 10 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:11:35.851587",
+      "captura_fim": "2026-11-19T16:22:35.900073",
+      "seguidores_inicio": 2357,
+      "seguidores_fim": 2347
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -23,
+      "direcao": "perdeu",
+      "quantidade": 23,
+      "texto": "Perdeu 23 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T13:54:29.320800",
+      "captura_fim": "2026-11-19T16:22:35.900073",
+      "seguidores_inicio": 2370,
+      "seguidores_fim": 2347
     },
     "90_dias": {
       "variacao": null,
@@ -1344,17 +1581,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -21,
+      "variacao": -31,
       "direcao": "perdeu",
-      "quantidade": 21,
-      "texto": "Perdeu 21 seguidores",
+      "quantidade": 31,
+      "texto": "Perdeu 31 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:09.861950",
-      "captura_mais_recente": "2026-11-03T12:11:35.851587",
-      "tempo_total_dias": 27.603773,
+      "captura_mais_recente": "2026-11-19T16:22:35.900073",
+      "tempo_total_dias": 43.778079,
       "seguidores_inicio": 2378,
-      "seguidores_fim": 2357
+      "seguidores_fim": 2347
     }
   }
 }

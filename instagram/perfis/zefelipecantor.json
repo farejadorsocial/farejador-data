@@ -8,7 +8,8 @@
       "id": "17841478466130332",
       "username": "zefelipecantor",
       "nome": "Zefelipe",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JLBi6PFvcDIQ7kNvwGJ82ap&_nc_oc=Adotfyz6v_O-kfaPHmAPSAcP4YocZHC0oTGaGdYusMvqLIq79wnKPPbOHLavmaf8aiIvIosUlqFjocnBVCXTweGB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KtocSbJgynQlkpqlI06E9Q&_nc_ss=70689&oh=00_AQTK3Teu8Y7sj7KyUQyj1xn0B3fiwBUIYT0pdNmaOF7hqw&oe=6AEFDF0C"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pp0eY06h_T8Q7kNvwEY7--C&_nc_oc=Ado9JqUqylsKkaEtXEzGw3eSnArkxRV5RROW2420M2c58NVWBtpn4HuObn-fqrDfzpJpEpJysh6D0AOMIbHQtcvN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UDrtce5ndb_2k6BZeidWXA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQwRCNZDHpasy5jqup7k7T9Z8wnPvphitKlqBzkPAY4tw&oe=6B052F4C",
+      "total_posts": 2
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "Conta reserva",
-        "timestamp": "2026-10-05T20:41:14.708032",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "cantores",
-        "valor_atual": "cantor",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"cantores\" para \"cantor\"",
-        "timestamp": "2026-10-05T20:55:15.312183",
-        "timestamp_anterior": "2026-10-05T20:41:14.708032",
-        "tempo_desde_anterior_segundos": 840
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "cantores",
         "timestamp": "2026-10-05T20:41:14.708032",
         "tipo": "inicial"
       }
@@ -94,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 199,
+        "valor_atual": 255,
+        "variacao": 56,
+        "direcao": "aumento",
+        "descricao": "+56 seguidores",
+        "timestamp": "2026-11-19T16:22:05.137327",
+        "timestamp_anterior": "2026-11-03T12:11:35.023619",
+        "tempo_desde_anterior_segundos": 1397430
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -418,7 +409,7 @@
         "valor_atual": 2,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-09T09:27:43.297013",
         "timestamp_anterior": "2026-10-05T20:41:14.708032",
         "tempo_desde_anterior_segundos": 305188
@@ -461,9 +452,55 @@
         "timestamp": "2026-10-05T20:41:14.708032",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "cantor",
+        "timestamp": "2026-10-05T20:41:14.708032",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:22:05.137327",
+      "timestamp_anterior": "2026-11-03T12:11:35.023619",
+      "timestamp_atual": "2026-11-19T16:22:05.137327",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 78402663537,
+        "id": "17841478466130332",
+        "username": "zefelipecantor",
+        "nome": "Zefelipe",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pp0eY06h_T8Q7kNvwEY7--C&_nc_oc=Ado9JqUqylsKkaEtXEzGw3eSnArkxRV5RROW2420M2c58NVWBtpn4HuObn-fqrDfzpJpEpJysh6D0AOMIbHQtcvN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UDrtce5ndb_2k6BZeidWXA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQwRCNZDHpasy5jqup7k7T9Z8wnPvphitKlqBzkPAY4tw&oe=6B052F4C",
+        "total_posts": 2
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 199,
+      "valor_atual": 255,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 56,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397430.113708,
+        "texto": "16 dias e 4 horas e 10 minutos e 30 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397430.113708,
+        "texto": "16 dias e 4 horas e 10 minutos e 30 segundos"
+      },
+      "titulo": "Ganhou 56 seguidores",
+      "descricao": "Os seguidores passaram de 199 para 255",
+      "variacao_texto": "+56 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:11:35.023619",
@@ -476,15 +513,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JLBi6PFvcDIQ7kNvwGJ82ap&_nc_oc=Adotfyz6v_O-kfaPHmAPSAcP4YocZHC0oTGaGdYusMvqLIq79wnKPPbOHLavmaf8aiIvIosUlqFjocnBVCXTweGB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KtocSbJgynQlkpqlI06E9Q&_nc_ss=70689&oh=00_AQTK3Teu8Y7sj7KyUQyj1xn0B3fiwBUIYT0pdNmaOF7hqw&oe=6AEFDF0C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JLBi6PFvcDIQ7kNvwGJ82ap&_nc_oc=Adotfyz6v_O-kfaPHmAPSAcP4YocZHC0oTGaGdYusMvqLIq79wnKPPbOHLavmaf8aiIvIosUlqFjocnBVCXTweGB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KtocSbJgynQlkpqlI06E9Q&_nc_ss=70689&oh=00_AQTK3Teu8Y7sj7KyUQyj1xn0B3fiwBUIYT0pdNmaOF7hqw&oe=6AEFDF0C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 192,
       "valor_atual": 199,
-      "hash_anterior": "326498266e39abff85a3b9ac2a91939732a900aa4cfe6fe84beb46e745c0c9a1",
-      "hash_atual": "43c953c7093afff6b5971859991144413cd5b92f3a476e7bd388bc3139778e91",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -511,15 +549,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JLBi6PFvcDIQ7kNvwGJ82ap&_nc_oc=Adotfyz6v_O-kfaPHmAPSAcP4YocZHC0oTGaGdYusMvqLIq79wnKPPbOHLavmaf8aiIvIosUlqFjocnBVCXTweGB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KtocSbJgynQlkpqlI06E9Q&_nc_ss=70689&oh=00_AQTK3Teu8Y7sj7KyUQyj1xn0B3fiwBUIYT0pdNmaOF7hqw&oe=6AEFDF0C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCQktzGyHCjQV5A-AMzbvK78x8hBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JLBi6PFvcDIQ7kNvwGJ82ap&_nc_oc=Adotfyz6v_O-kfaPHmAPSAcP4YocZHC0oTGaGdYusMvqLIq79wnKPPbOHLavmaf8aiIvIosUlqFjocnBVCXTweGB&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KtocSbJgynQlkpqlI06E9Q&_nc_ss=70689&oh=00_AQTK3Teu8Y7sj7KyUQyj1xn0B3fiwBUIYT0pdNmaOF7hqw&oe=6AEFDF0C",
+        "total_posts": 2
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 8,
       "valor_atual": 11,
-      "hash_anterior": "326498266e39abff85a3b9ac2a91939732a900aa4cfe6fe84beb46e745c0c9a1",
-      "hash_atual": "43c953c7093afff6b5971859991144413cd5b92f3a476e7bd388bc3139778e91",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -546,15 +585,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CFC1pez73AIQ7kNvwEWB87J&_nc_oc=AdrR6_C9jRyV-VdhnKaWZtKW8QXVxl9KW0IUqROxMdQo1bPHfxnXw96L2v93ld0TTMQl8Y3z8RSWFoTEsiqCHOf0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6hlZpOCpkkDKnrp2xt3h-g&_nc_ss=70689&oh=00_AQSVxl47RcG6X1yaRn7Hpe3OwyA92s3cWXFHprSn027xtA&oe=6AEB098C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=CFC1pez73AIQ7kNvwEWB87J&_nc_oc=AdrR6_C9jRyV-VdhnKaWZtKW8QXVxl9KW0IUqROxMdQo1bPHfxnXw96L2v93ld0TTMQl8Y3z8RSWFoTEsiqCHOf0&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6hlZpOCpkkDKnrp2xt3h-g&_nc_ss=70689&oh=00_AQSVxl47RcG6X1yaRn7Hpe3OwyA92s3cWXFHprSn027xtA&oe=6AEB098C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 171,
       "valor_atual": 192,
-      "hash_anterior": "5c4b86fa672761c9e0a2d8fed36dc8a39eb65cc9283d64cad3d075b7c8ef2ed5",
-      "hash_atual": "326498266e39abff85a3b9ac2a91939732a900aa4cfe6fe84beb46e745c0c9a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 21,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -581,15 +621,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Lh6f6my7ytIQ7kNvwEAzO57&_nc_oc=Adq5L_34peqfmpOncN365oiaA_fFpLJxcflALkcL3jwurzQQqdDS9NqcW3I8WKIeDv3eY3mIwhWodQw2ZliZpQd7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q7Rxk-lCS3-5ZN__WKwSZA&_nc_ss=70689&oh=00_AQP6XBe-2aNeMgHXB1hxbMP5iz__krkf7bE49st8AyYYEA&oe=6AE277CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Lh6f6my7ytIQ7kNvwEAzO57&_nc_oc=Adq5L_34peqfmpOncN365oiaA_fFpLJxcflALkcL3jwurzQQqdDS9NqcW3I8WKIeDv3eY3mIwhWodQw2ZliZpQd7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q7Rxk-lCS3-5ZN__WKwSZA&_nc_ss=70689&oh=00_AQP6XBe-2aNeMgHXB1hxbMP5iz__krkf7bE49st8AyYYEA&oe=6AE277CC",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 160,
       "valor_atual": 171,
-      "hash_anterior": "148ca8df3d5f5fb6b1918ee7f38fd33149fb96491d22b48b4f15bad6603f1197",
-      "hash_atual": "5c4b86fa672761c9e0a2d8fed36dc8a39eb65cc9283d64cad3d075b7c8ef2ed5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -616,15 +657,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Lh6f6my7ytIQ7kNvwFK0CUs&_nc_oc=AdrP8zvw4svZv22dLBoIN0xSESaISa-ALuo-Bty_KqEYJYukq9r2TeF0eGTbKSLcwbu7q69Zze2ctEJixcwit9Gj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-u7nmabFuMUOeoCQ2k9G-w&_nc_ss=70689&oh=00_AQPTxROxuJGXgqntEElc3eQzpheFSps8SB6pyG7x2jE1vg&oe=6AE1264C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Lh6f6my7ytIQ7kNvwFK0CUs&_nc_oc=AdrP8zvw4svZv22dLBoIN0xSESaISa-ALuo-Bty_KqEYJYukq9r2TeF0eGTbKSLcwbu7q69Zze2ctEJixcwit9Gj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-u7nmabFuMUOeoCQ2k9G-w&_nc_ss=70689&oh=00_AQPTxROxuJGXgqntEElc3eQzpheFSps8SB6pyG7x2jE1vg&oe=6AE1264C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 159,
       "valor_atual": 160,
-      "hash_anterior": "55d23ecf15339729e455eb583326d2666732de048a4f021fac70a1817ac20fc1",
-      "hash_atual": "148ca8df3d5f5fb6b1918ee7f38fd33149fb96491d22b48b4f15bad6603f1197",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -651,15 +693,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IFUw4bD8iI0Q7kNvwH9X71k&_nc_oc=AdpAZ_nKAmqA-TCqy2UlvDTWwUaPLt5I5vZqWOdUmB8T4w8G9jwekU9nxyXf6Zf9v26qvyIKkL2Tm5n3JvnpqmFe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cOiHf2VKDw5AiCeXVW3Gcw&_nc_ss=70689&oh=00_AQMGIzWdfHMNSxONXa24CWt9myTokme4rqEhO8u4LPAJUg&oe=6AE0454C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IFUw4bD8iI0Q7kNvwH9X71k&_nc_oc=AdpAZ_nKAmqA-TCqy2UlvDTWwUaPLt5I5vZqWOdUmB8T4w8G9jwekU9nxyXf6Zf9v26qvyIKkL2Tm5n3JvnpqmFe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cOiHf2VKDw5AiCeXVW3Gcw&_nc_ss=70689&oh=00_AQMGIzWdfHMNSxONXa24CWt9myTokme4rqEhO8u4LPAJUg&oe=6AE0454C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 154,
       "valor_atual": 159,
-      "hash_anterior": "0eabeb3ff0b72a8302469bb41a66f5569773b03a3fc27f4e64cdc17cfbd8bbc3",
-      "hash_atual": "55d23ecf15339729e455eb583326d2666732de048a4f021fac70a1817ac20fc1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -686,15 +729,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IFUw4bD8iI0Q7kNvwFAihD8&_nc_oc=AdoIIqwsJ-_Wuzy6OABnT1A-cseJoVqbBGXDvL9u0tC40zERKu8mG6Gr7dAZfQG3F48NK_2JQvRDUgbnQh3GV-4O&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJ6SpFM43NF7ZkMFfNUZmw&_nc_ss=70689&oh=00_AQNBgyFcvWW4b_XOusunNb-HzWRO56Elj2JUHlrKLtToZw&oe=6ADEF3CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IFUw4bD8iI0Q7kNvwFAihD8&_nc_oc=AdoIIqwsJ-_Wuzy6OABnT1A-cseJoVqbBGXDvL9u0tC40zERKu8mG6Gr7dAZfQG3F48NK_2JQvRDUgbnQh3GV-4O&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XJ6SpFM43NF7ZkMFfNUZmw&_nc_ss=70689&oh=00_AQNBgyFcvWW4b_XOusunNb-HzWRO56Elj2JUHlrKLtToZw&oe=6ADEF3CC",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 124,
       "valor_atual": 154,
-      "hash_anterior": "21baf8a72d4fb6f5ad725628b3a10e23af1856b0dba300f2d603e46217cba674",
-      "hash_atual": "0eabeb3ff0b72a8302469bb41a66f5569773b03a3fc27f4e64cdc17cfbd8bbc3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 30,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -721,15 +765,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FbRQOKxw2YgQ7kNvwHwl3gU&_nc_oc=Adr6IKSxB6ph96a1hwxG1G5iBGy4Y-QFfRXkQ-3pYNLc1kyKl9cm496c3WyTayL5lqC7BgxaL-HXY_-yVXyVFwM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NKRzOLT3UKeeQBE0RTPi8w&_nc_ss=70689&oh=00_AQNQuJOqgTUazhNgtrXt4r3kxMv5wVjzgkxkxvkRSUYrtA&oe=6AD8948C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=FbRQOKxw2YgQ7kNvwHwl3gU&_nc_oc=Adr6IKSxB6ph96a1hwxG1G5iBGy4Y-QFfRXkQ-3pYNLc1kyKl9cm496c3WyTayL5lqC7BgxaL-HXY_-yVXyVFwM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NKRzOLT3UKeeQBE0RTPi8w&_nc_ss=70689&oh=00_AQNQuJOqgTUazhNgtrXt4r3kxMv5wVjzgkxkxvkRSUYrtA&oe=6AD8948C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 120,
       "valor_atual": 124,
-      "hash_anterior": "8977c6a9f5286da41098db98f01cbb3d5cc222e214062208ca1160fa222ad8b6",
-      "hash_atual": "21baf8a72d4fb6f5ad725628b3a10e23af1856b0dba300f2d603e46217cba674",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -756,15 +801,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwGstwat&_nc_oc=Adp_AIXBpXpSTilSrEF3YYElhdsDIsf3XdrwDjSURoSlWoR-Bf2PKs0_GId9ZW3G28nkN4F3G6M77_7JdioEwBQs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UY5sk9rubDPI-4Qe9JXMAQ&_nc_ss=70689&oh=00_AQPat9vM-w68oE87NS31kwGYtx-mb6-s0cvrQjVOh8pRwg&oe=6AD8240C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwGstwat&_nc_oc=Adp_AIXBpXpSTilSrEF3YYElhdsDIsf3XdrwDjSURoSlWoR-Bf2PKs0_GId9ZW3G28nkN4F3G6M77_7JdioEwBQs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UY5sk9rubDPI-4Qe9JXMAQ&_nc_ss=70689&oh=00_AQPat9vM-w68oE87NS31kwGYtx-mb6-s0cvrQjVOh8pRwg&oe=6AD8240C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 112,
       "valor_atual": 120,
-      "hash_anterior": "a383f4bf9e4fe55ecbda4b4ae6d608cf8101bb37d75e90b6ac722509be94691a",
-      "hash_atual": "8977c6a9f5286da41098db98f01cbb3d5cc222e214062208ca1160fa222ad8b6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -791,15 +837,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwGKznXo&_nc_oc=AdoAc-5VpM6h-XjVNPnuE7k9TNubchi21TMckrW8QRu78vwLEteGa-VaYLdiAy26xIQ4lyHD8A3lqhmhU9E9L5RJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RrKL0vULsDTsnhVnAp7JMA&_nc_ss=70689&oh=00_AQPo653a3ftNow3ON8jSyOGYc5uWspjxyVsu9Oyif6JYpg&oe=6AD6D28C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwGKznXo&_nc_oc=AdoAc-5VpM6h-XjVNPnuE7k9TNubchi21TMckrW8QRu78vwLEteGa-VaYLdiAy26xIQ4lyHD8A3lqhmhU9E9L5RJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RrKL0vULsDTsnhVnAp7JMA&_nc_ss=70689&oh=00_AQPo653a3ftNow3ON8jSyOGYc5uWspjxyVsu9Oyif6JYpg&oe=6AD6D28C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 114,
       "valor_atual": 112,
-      "hash_anterior": "2296afe4ffaee0481eb294f9865c814676f82de4122de8cb8ded83aa2c66af6a",
-      "hash_atual": "a383f4bf9e4fe55ecbda4b4ae6d608cf8101bb37d75e90b6ac722509be94691a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -826,15 +873,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwEI1CR5&_nc_oc=AdrukYDrPV9HrEEnuG8vnImyRoJPnPRt-dFPk4WUAoX87mV2rdYnL9__UIHa3_VGyE-usXjqX39ygdM-gB3EFjOV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CWJFpLfbUjk6YYHGonKwCg&_nc_ss=70689&oh=00_AQP7r9N3K24b9l2wyNHbB_MYSPq_WOSfLvX52k9wAj9ilA&oe=6AD5810C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BYDLBKTC4dQQ7kNvwEI1CR5&_nc_oc=AdrukYDrPV9HrEEnuG8vnImyRoJPnPRt-dFPk4WUAoX87mV2rdYnL9__UIHa3_VGyE-usXjqX39ygdM-gB3EFjOV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CWJFpLfbUjk6YYHGonKwCg&_nc_ss=70689&oh=00_AQP7r9N3K24b9l2wyNHbB_MYSPq_WOSfLvX52k9wAj9ilA&oe=6AD5810C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 112,
       "valor_atual": 114,
-      "hash_anterior": "a383f4bf9e4fe55ecbda4b4ae6d608cf8101bb37d75e90b6ac722509be94691a",
-      "hash_atual": "2296afe4ffaee0481eb294f9865c814676f82de4122de8cb8ded83aa2c66af6a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -861,15 +909,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VYaCADyhSGQQ7kNvwEQM0VB&_nc_oc=AdqITuNLNRqOsATsq9zYorKJrySIEjTpzGc1SQBxPKJogYWUWw3dZzg6D7jQhW1_kAJpsu-3KqdWhIk92b7hpqwi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=F9LeOVh-byy0Zpwkdje-eQ&_nc_ss=70689&oh=00_AQPNwtVdylcakoZ7-V7mF_d09-HdzaDrMyBq5EDX3qehrg&oe=6AD467CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VYaCADyhSGQQ7kNvwEQM0VB&_nc_oc=AdqITuNLNRqOsATsq9zYorKJrySIEjTpzGc1SQBxPKJogYWUWw3dZzg6D7jQhW1_kAJpsu-3KqdWhIk92b7hpqwi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=F9LeOVh-byy0Zpwkdje-eQ&_nc_ss=70689&oh=00_AQPNwtVdylcakoZ7-V7mF_d09-HdzaDrMyBq5EDX3qehrg&oe=6AD467CC",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 98,
       "valor_atual": 112,
-      "hash_anterior": "7bd8ea08f456b225c067dc0e88f5566d29edfaf19da2c4dadf6b79b1b5380c62",
-      "hash_atual": "a383f4bf9e4fe55ecbda4b4ae6d608cf8101bb37d75e90b6ac722509be94691a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -896,15 +945,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VYaCADyhSGQQ7kNvwEQmEkt&_nc_oc=Adomwe7GajGW-hjP0kxG4KN9EmEl7Fw0DSqo6G87EtB_pJExP7f6U1mr-DCsOuhhgwvZJbzp1YNCl1_lo7mcFCF8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JVObphcm5W7B78lf1sv2tw&_nc_ss=70689&oh=00_AQPfDFEI4HlG09F6tB1qxhgYH4dQGjOSWo6UrgCd39lYGg&oe=6AD1544C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VYaCADyhSGQQ7kNvwEQmEkt&_nc_oc=Adomwe7GajGW-hjP0kxG4KN9EmEl7Fw0DSqo6G87EtB_pJExP7f6U1mr-DCsOuhhgwvZJbzp1YNCl1_lo7mcFCF8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JVObphcm5W7B78lf1sv2tw&_nc_ss=70689&oh=00_AQPfDFEI4HlG09F6tB1qxhgYH4dQGjOSWo6UrgCd39lYGg&oe=6AD1544C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 96,
       "valor_atual": 98,
-      "hash_anterior": "e55df608b2e001b8e4339482864d28b1e488925af5b3465bc9db7cabb1ca5646",
-      "hash_atual": "7bd8ea08f456b225c067dc0e88f5566d29edfaf19da2c4dadf6b79b1b5380c62",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -931,15 +981,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwFRib_Y&_nc_oc=AdpZtVuypMamO02MJ4j2Ax81g0wwZhGYw9WZzoyRKXh5uyNp24nGoIv1hpaowOYbB6M423j7zFqvgTw8KZFMct4u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RWIFB6sYkPoOcv8Jux3PRw&_nc_ss=70689&oh=00_AQPWIq2NJJj2k3ZDucjdgkpsL9jfpzaAj3mdjM7X9kQfmQ&oe=6AD0734C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwFRib_Y&_nc_oc=AdpZtVuypMamO02MJ4j2Ax81g0wwZhGYw9WZzoyRKXh5uyNp24nGoIv1hpaowOYbB6M423j7zFqvgTw8KZFMct4u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RWIFB6sYkPoOcv8Jux3PRw&_nc_ss=70689&oh=00_AQPWIq2NJJj2k3ZDucjdgkpsL9jfpzaAj3mdjM7X9kQfmQ&oe=6AD0734C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 95,
       "valor_atual": 96,
-      "hash_anterior": "a32a04d72aa40b54c96b65c0e93bec91c3da9ad29434c87257609c540d36e468",
-      "hash_atual": "e55df608b2e001b8e4339482864d28b1e488925af5b3465bc9db7cabb1ca5646",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -966,15 +1017,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwG4xAS7&_nc_oc=AdrRzKigIzdkJo_tYfHw_juUeC_EtrJuNKTsxJav87JjQcMabCaqlu9YMjvn9tD5KXTD_02PGfdt6R2h2eL_4vaO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1CQ-v8bIXaDUoKrYaldDrw&_nc_ss=70689&oh=00_AQPuckaUY0GCaL5sQkJC6Z3e_I_hAhMw0Qn-6XSStIEYqw&oe=6ACF5A0C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwG4xAS7&_nc_oc=AdrRzKigIzdkJo_tYfHw_juUeC_EtrJuNKTsxJav87JjQcMabCaqlu9YMjvn9tD5KXTD_02PGfdt6R2h2eL_4vaO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1CQ-v8bIXaDUoKrYaldDrw&_nc_ss=70689&oh=00_AQPuckaUY0GCaL5sQkJC6Z3e_I_hAhMw0Qn-6XSStIEYqw&oe=6ACF5A0C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 96,
       "valor_atual": 95,
-      "hash_anterior": "e55df608b2e001b8e4339482864d28b1e488925af5b3465bc9db7cabb1ca5646",
-      "hash_atual": "a32a04d72aa40b54c96b65c0e93bec91c3da9ad29434c87257609c540d36e468",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1001,15 +1053,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwFodrri&_nc_oc=AdrN_Aiw9YHBNqQWUZNMHXwLQmTTTX96Z2DURe692AEyAOz3HGSb-B9boJUQ-5ClbpjdGT0xqZ0t2HacuUuUtENE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_HLOegKx97MiV0GjonvAJA&_nc_ss=70689&oh=00_AQOuOT7qRXCVw9_CoUwuKFdoJeNRcJDZo_HvhBvA99KXlA&oe=6ACEB14C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwFodrri&_nc_oc=AdrN_Aiw9YHBNqQWUZNMHXwLQmTTTX96Z2DURe692AEyAOz3HGSb-B9boJUQ-5ClbpjdGT0xqZ0t2HacuUuUtENE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_HLOegKx97MiV0GjonvAJA&_nc_ss=70689&oh=00_AQOuOT7qRXCVw9_CoUwuKFdoJeNRcJDZo_HvhBvA99KXlA&oe=6ACEB14C",
+        "total_posts": 2
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 95,
       "valor_atual": 96,
-      "hash_anterior": "b23020947b53692f7cc1059147e23c05fff2f6bcb4a1f1b45e3349f3767ac0f6",
-      "hash_atual": "e55df608b2e001b8e4339482864d28b1e488925af5b3465bc9db7cabb1ca5646",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1036,15 +1089,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwFodrri&_nc_oc=AdrN_Aiw9YHBNqQWUZNMHXwLQmTTTX96Z2DURe692AEyAOz3HGSb-B9boJUQ-5ClbpjdGT0xqZ0t2HacuUuUtENE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_HLOegKx97MiV0GjonvAJA&_nc_ss=70689&oh=00_AQOuOT7qRXCVw9_CoUwuKFdoJeNRcJDZo_HvhBvA99KXlA&oe=6ACEB14C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwFodrri&_nc_oc=AdrN_Aiw9YHBNqQWUZNMHXwLQmTTTX96Z2DURe692AEyAOz3HGSb-B9boJUQ-5ClbpjdGT0xqZ0t2HacuUuUtENE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_HLOegKx97MiV0GjonvAJA&_nc_ss=70689&oh=00_AQOuOT7qRXCVw9_CoUwuKFdoJeNRcJDZo_HvhBvA99KXlA&oe=6ACEB14C",
+        "total_posts": 2
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1,
       "valor_atual": 2,
-      "hash_anterior": "b23020947b53692f7cc1059147e23c05fff2f6bcb4a1f1b45e3349f3767ac0f6",
-      "hash_atual": "e55df608b2e001b8e4339482864d28b1e488925af5b3465bc9db7cabb1ca5646",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1055,7 +1109,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 1 para 2",
       "variacao_texto": "+1 post"
     },
@@ -1071,15 +1125,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwGDB8rM&_nc_oc=AdocJVHiM4FcP4SekNuUYaeTj1uGAs_esF_fz-W4styEW7eJbChASvTwdc6UDfozKPEjy7ddV5bBtkM7TM9Oa4qC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=huS-cq2EJsdqwuwBFSAUfw&_nc_ss=70689&oh=00_AQMHEToEJWzHTEbmjBOnsyxaiCnCRF2HQ_fhN8t5aUs8Ug&oe=6ACDD04C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwGDB8rM&_nc_oc=AdocJVHiM4FcP4SekNuUYaeTj1uGAs_esF_fz-W4styEW7eJbChASvTwdc6UDfozKPEjy7ddV5bBtkM7TM9Oa4qC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=huS-cq2EJsdqwuwBFSAUfw&_nc_ss=70689&oh=00_AQMHEToEJWzHTEbmjBOnsyxaiCnCRF2HQ_fhN8t5aUs8Ug&oe=6ACDD04C",
+        "total_posts": 1
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 102,
       "valor_atual": 95,
-      "hash_anterior": "28c8b0ae8ec76e7188b44c4a0df4066b103805ed76e8963ef237a96eb7e098d3",
-      "hash_atual": "b23020947b53692f7cc1059147e23c05fff2f6bcb4a1f1b45e3349f3767ac0f6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1106,15 +1161,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwEicbLK&_nc_oc=AdqInhlpgWHNGuMx78PsmiOgzXCfSHdGlhAGC5EbyYYa35NvVF4nAw2bAuILjgY9t9KaOR0NpW-LgkyDMXxdj-Th&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5Oi_bb3d4XbEnFe-Sb6Stg&_nc_ss=70689&oh=00_AQOpA1VfmgifhiX7sH3B92_Wj0tHxODhIYD0zdfLu1jT3A&oe=6ACD5FCC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k0ryJPQv6rcQ7kNvwEicbLK&_nc_oc=AdqInhlpgWHNGuMx78PsmiOgzXCfSHdGlhAGC5EbyYYa35NvVF4nAw2bAuILjgY9t9KaOR0NpW-LgkyDMXxdj-Th&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5Oi_bb3d4XbEnFe-Sb6Stg&_nc_ss=70689&oh=00_AQOpA1VfmgifhiX7sH3B92_Wj0tHxODhIYD0zdfLu1jT3A&oe=6ACD5FCC",
+        "total_posts": 1
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 99,
       "valor_atual": 102,
-      "hash_anterior": "b61d38903f062881bdc138d788a84d7e3c805dc9af45eea9ba672074cbad84ee",
-      "hash_atual": "28c8b0ae8ec76e7188b44c4a0df4066b103805ed76e8963ef237a96eb7e098d3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1141,15 +1197,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwFsktOh&_nc_oc=AdrgWxDeA0Dv6x4IUDxKzvU1AVA-u9klQL6COHgh6wUAyv7uo_kO_8wt46aYC-iQk1v_tEq7-I4YkLJj_SGA6dBV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ST6ZRNtNduSqvcsudBJLhQ&_nc_ss=70689&oh=00_AQNv3MVJyb6NP4yld3WyHDMuIMXohtJ79MB9TLPamni2JQ&oe=6ACC7ECC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwFsktOh&_nc_oc=AdrgWxDeA0Dv6x4IUDxKzvU1AVA-u9klQL6COHgh6wUAyv7uo_kO_8wt46aYC-iQk1v_tEq7-I4YkLJj_SGA6dBV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ST6ZRNtNduSqvcsudBJLhQ&_nc_ss=70689&oh=00_AQNv3MVJyb6NP4yld3WyHDMuIMXohtJ79MB9TLPamni2JQ&oe=6ACC7ECC",
+        "total_posts": 1
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 96,
       "valor_atual": 99,
-      "hash_anterior": "a17e90dad9b0432093dfd7d475a352317c9b9a2a3e47121033fd3897c900ea7f",
-      "hash_atual": "b61d38903f062881bdc138d788a84d7e3c805dc9af45eea9ba672074cbad84ee",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1176,15 +1233,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwHLZV5n&_nc_oc=Adqx00VonNi9LUFY8QVC0XAQyDyPcav8xOBoWqSM80Asj9osAZFRXovmM0iDj-6p9j5r9h8cR8OBNeuNf1Cu839V&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRFyeQDG4Z4kUAlE44qn7A&_nc_ss=70689&oh=00_AQO1SbhQTabVCXWG3JFjB4luIfYWpbU8b_Db7zJ0M98Ebw&oe=6ACC468C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwHLZV5n&_nc_oc=Adqx00VonNi9LUFY8QVC0XAQyDyPcav8xOBoWqSM80Asj9osAZFRXovmM0iDj-6p9j5r9h8cR8OBNeuNf1Cu839V&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRFyeQDG4Z4kUAlE44qn7A&_nc_ss=70689&oh=00_AQO1SbhQTabVCXWG3JFjB4luIfYWpbU8b_Db7zJ0M98Ebw&oe=6ACC468C",
+        "total_posts": 1
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 95,
       "valor_atual": 96,
-      "hash_anterior": "b23020947b53692f7cc1059147e23c05fff2f6bcb4a1f1b45e3349f3767ac0f6",
-      "hash_atual": "a17e90dad9b0432093dfd7d475a352317c9b9a2a3e47121033fd3897c900ea7f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1211,15 +1269,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwGj5VrC&_nc_oc=AdqegQ-lQasx6wPC8AIkIivmi9bqmgUsD_1zEnFGIjjMhJXFit9IO4p6K8i3jK-RsAA7All7OxrxQfrn8rGhlFCW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nfR4H1mN6xlWF3YKgzjazw&_nc_ss=70689&oh=00_AQNi28qQPqBtrErIZYcSo9QVrj01H82gWeSK4hp6wIBb2w&oe=6ACB658C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwGj5VrC&_nc_oc=AdqegQ-lQasx6wPC8AIkIivmi9bqmgUsD_1zEnFGIjjMhJXFit9IO4p6K8i3jK-RsAA7All7OxrxQfrn8rGhlFCW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nfR4H1mN6xlWF3YKgzjazw&_nc_ss=70689&oh=00_AQNi28qQPqBtrErIZYcSo9QVrj01H82gWeSK4hp6wIBb2w&oe=6ACB658C",
+        "total_posts": 1
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 92,
       "valor_atual": 95,
-      "hash_anterior": "df843db6f62bbe140cad9fd6fb5ba3e2578cf9d77d0043b82bae7a35894e1d1a",
-      "hash_atual": "b23020947b53692f7cc1059147e23c05fff2f6bcb4a1f1b45e3349f3767ac0f6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1246,15 +1305,16 @@
         "id": "17841478466130332",
         "username": "zefelipecantor",
         "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwGeX165&_nc_oc=AdqAWIQFbKBryRXkc7xwck2TLmz6ath6ykbayNe1ZR5JRmr7_DGizRdEBkLVsDrIqC6_-9ofcRg9iGscxJELglI_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xzM6ESfkvBC3QJmN1HnUvA&_nc_ss=70689&oh=00_AQN_z2Q1i3YSPtJnSPV9CR-tCNWYZZmhxoZ1dg-CZFv2MA&oe=6ACAF50C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwGeX165&_nc_oc=AdqAWIQFbKBryRXkc7xwck2TLmz6ath6ykbayNe1ZR5JRmr7_DGizRdEBkLVsDrIqC6_-9ofcRg9iGscxJELglI_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xzM6ESfkvBC3QJmN1HnUvA&_nc_ss=70689&oh=00_AQN_z2Q1i3YSPtJnSPV9CR-tCNWYZZmhxoZ1dg-CZFv2MA&oe=6ACAF50C",
+        "total_posts": 1
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 88,
       "valor_atual": 92,
-      "hash_anterior": "2295bfc3fcbc72f6ca46c4ff9fe7a28e212a3583d00a15ef4dfd0a71fcc3dc43",
-      "hash_atual": "df843db6f62bbe140cad9fd6fb5ba3e2578cf9d77d0043b82bae7a35894e1d1a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1262,79 +1322,61 @@
         "texto": "15 horas e 14 minutos e 34 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 54874.494487,
-        "texto": "15 horas e 14 minutos e 34 segundos"
+        "segundos": null,
+        "texto": null
       },
       "titulo": "Ganhou 4 seguidores",
       "descricao": "Os seguidores passaram de 88 para 92",
       "variacao_texto": "+4 seguidores"
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:55:15.312183",
-      "timestamp_anterior": "2026-10-05T20:41:14.708032",
-      "timestamp_atual": "2026-10-05T20:55:15.312183",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "cantor",
-        "pk": 78402663537,
-        "id": "17841478466130332",
-        "username": "zefelipecantor",
-        "nome": "Zefelipe",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/834085924_17891630361615538_4740258495884745676_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SVX43fCqGNMQ7kNvwEzkJE9&_nc_oc=AdrI3Jp2Sq4X-28fzOgkMgQJnnudgNdvV8no_M2Z9c7f2-dMfV9t3xZsnm0fgq6dbg3TDmJi972J7QejSfzCUpo-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z39RNyTYb2yr_La6-PEjKA&_nc_ss=70689&oh=00_AQN6ncvgxIVlrcWWLXJ8iUEn4C1OXpaHqSRjJoP6MvsJrw&oe=6ACA140C"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "cantores",
-      "valor_atual": "cantor",
-      "hash_anterior": "aed84228d7d13a2581016faf6955b0156f4c1d8d7804992fd25ce03e39d1f941",
-      "hash_atual": "2295bfc3fcbc72f6ca46c4ff9fe7a28e212a3583d00a15ef4dfd0a71fcc3dc43",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 840.604151,
-        "texto": "14 minutos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": null,
-        "texto": null
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"cantores\" para \"cantor\""
     }
   ],
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:14.708032",
-    "captura_mais_recente": "2026-11-03T12:11:35.023619",
-    "tempo_total_segundos": 2475020,
-    "tempo_total_dias": 28.646065,
-    "tempo_total_texto": "28 dias, 15 horas, 30 minutos e 20 segundos",
+    "captura_mais_recente": "2026-11-19T16:22:05.137327",
+    "tempo_total_segundos": 3872450,
+    "tempo_total_dias": 44.820023,
+    "tempo_total_texto": "44 dias, 19 horas, 40 minutos e 50 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 28,
+    "1_dias": {
+      "variacao": 56,
       "direcao": "ganhou",
-      "quantidade": 28,
-      "texto": "Ganhou 28 seguidores",
+      "quantidade": 56,
+      "texto": "Ganhou 56 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:00:28.128699",
-      "captura_fim": "2026-11-03T12:11:35.023619",
-      "seguidores_inicio": 171,
-      "seguidores_fim": 199
+      "captura_inicio": "2026-11-03T12:11:35.023619",
+      "captura_fim": "2026-11-19T16:22:05.137327",
+      "seguidores_inicio": 199,
+      "seguidores_fim": 255
+    },
+    "7_dias": {
+      "variacao": 56,
+      "direcao": "ganhou",
+      "quantidade": 56,
+      "texto": "Ganhou 56 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:11:35.023619",
+      "captura_fim": "2026-11-19T16:22:05.137327",
+      "seguidores_inicio": 199,
+      "seguidores_fim": 255
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 131,
+      "direcao": "ganhou",
+      "quantidade": 131,
+      "texto": "Ganhou 131 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:24:10.086894",
+      "captura_fim": "2026-11-19T16:22:05.137327",
+      "seguidores_inicio": 124,
+      "seguidores_fim": 255
     },
     "90_dias": {
       "variacao": null,
@@ -1345,17 +1387,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 111,
+      "variacao": 167,
       "direcao": "ganhou",
-      "quantidade": 111,
-      "texto": "Ganhou 111 seguidores",
+      "quantidade": 167,
+      "texto": "Ganhou 167 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:14.708032",
-      "captura_mais_recente": "2026-11-03T12:11:35.023619",
-      "tempo_total_dias": 28.646068,
+      "captura_mais_recente": "2026-11-19T16:22:05.137327",
+      "tempo_total_dias": 44.820028,
       "seguidores_inicio": 88,
-      "seguidores_fim": 199
+      "seguidores_fim": 255
     }
   }
 }

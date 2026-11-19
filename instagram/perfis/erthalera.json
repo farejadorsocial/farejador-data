@@ -8,7 +8,8 @@
       "id": "17841400544980416",
       "username": "erthalera",
       "nome": "Daniel Erthal / Artista / Venda",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QLSUn94055srTrFVP4Tp5w&_nc_ss=70689&oh=00_AQTEUeTfznto_JARAJtmxtYhDkONVTguCgLIULMqyXjS3A&oe=6AEFBF4B"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vQGpLgN3iLEQ7kNvwEV-dFT&_nc_oc=Adpo5tLpo-mY0K7OFeQqujgpDevXseMNIZryPsyvgsGArYUJ5M0uldja76NO6T7l-0Q3F2c53zl8K5_a83RIlChi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0awWMO55R_DY41zR0F6QMg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTuuBfK53KuYkew6Jn_qRuja-WNtOMvLrqyTVfiUcEL3A&oe=6B050F8B",
+      "total_posts": 5571
     },
     "biografia": [
       {
@@ -16,16 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "PARTICIPANTE @afazendarecord 🦅\nAtor | Unstoppable | O maior vendedor do Brasil\nGestão: @mediahey\nContato: imprensa@danielerthal.com.br\n@ilhadasede",
-        "timestamp": "2026-10-04T17:57:05.068806",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "fazenda 2026",
         "timestamp": "2026-10-04T17:57:05.068806",
         "tipo": "inicial"
       }
@@ -81,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 718029,
+        "valor_atual": 716004,
+        "variacao": -2025,
+        "direcao": "reducao",
+        "descricao": "-2025 seguidores",
+        "timestamp": "2026-11-19T16:26:12.114597",
+        "timestamp_anterior": "2026-11-03T12:18:40.937576",
+        "tempo_desde_anterior_segundos": 1397251
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -680,6 +684,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 7583,
+        "valor_atual": 7566,
+        "variacao": -17,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 17",
+        "timestamp": "2026-11-19T16:26:12.114597",
+        "timestamp_anterior": "2026-11-03T12:11:57.400043",
+        "tempo_desde_anterior_segundos": 1397654
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 7584,
         "valor_atual": 7583,
         "variacao": -1,
@@ -869,11 +886,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 5534,
+        "valor_atual": 5571,
+        "variacao": 37,
+        "direcao": "aumento",
+        "descricao": "+37 publicações",
+        "timestamp": "2026-11-19T16:26:12.114597",
+        "timestamp_anterior": "2026-11-03T12:11:57.400043",
+        "tempo_desde_anterior_segundos": 1397654
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 5528,
         "valor_atual": 5534,
         "variacao": 6,
         "direcao": "aumento",
-        "descricao": "+6 posts",
+        "descricao": "+6 publicações",
         "timestamp": "2026-11-03T12:11:57.400043",
         "timestamp_anterior": "2026-10-30T20:10:45.170333",
         "tempo_desde_anterior_segundos": 316872
@@ -886,7 +916,7 @@
         "valor_atual": 5528,
         "variacao": 15,
         "direcao": "aumento",
-        "descricao": "+15 posts",
+        "descricao": "+15 publicações",
         "timestamp": "2026-10-30T20:10:45.170333",
         "timestamp_anterior": "2026-10-24T11:00:40.665367",
         "tempo_desde_anterior_segundos": 551404
@@ -899,7 +929,7 @@
         "valor_atual": 5513,
         "variacao": 5,
         "direcao": "aumento",
-        "descricao": "+5 posts",
+        "descricao": "+5 publicações",
         "timestamp": "2026-10-24T11:00:40.665367",
         "timestamp_anterior": "2026-10-22T19:23:06.616922",
         "tempo_desde_anterior_segundos": 142654
@@ -912,7 +942,7 @@
         "valor_atual": 5508,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-22T19:23:06.616922",
         "timestamp_anterior": "2026-10-21T17:36:46.542228",
         "tempo_desde_anterior_segundos": 92780
@@ -925,7 +955,7 @@
         "valor_atual": 5507,
         "variacao": 9,
         "direcao": "aumento",
-        "descricao": "+9 posts",
+        "descricao": "+9 publicações",
         "timestamp": "2026-10-21T17:36:46.542228",
         "timestamp_anterior": "2026-10-16T13:54:44.531281",
         "tempo_desde_anterior_segundos": 445322
@@ -938,7 +968,7 @@
         "valor_atual": 5498,
         "variacao": 4,
         "direcao": "aumento",
-        "descricao": "+4 posts",
+        "descricao": "+4 publicações",
         "timestamp": "2026-10-16T13:54:44.531281",
         "timestamp_anterior": "2026-10-15T00:24:05.144347",
         "tempo_desde_anterior_segundos": 135039
@@ -951,7 +981,7 @@
         "valor_atual": 5494,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-15T00:24:05.144347",
         "timestamp_anterior": "2026-10-14T12:04:55.471212",
         "tempo_desde_anterior_segundos": 44349
@@ -964,7 +994,7 @@
         "valor_atual": 5491,
         "variacao": 4,
         "direcao": "aumento",
-        "descricao": "+4 posts",
+        "descricao": "+4 publicações",
         "timestamp": "2026-10-14T12:04:55.471212",
         "timestamp_anterior": "2026-10-13T15:55:04.852473",
         "tempo_desde_anterior_segundos": 72590
@@ -977,7 +1007,7 @@
         "valor_atual": 5487,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-13T15:55:04.852473",
         "timestamp_anterior": "2026-10-11T11:02:54.272398",
         "tempo_desde_anterior_segundos": 190330
@@ -990,7 +1020,7 @@
         "valor_atual": 5484,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-11T11:02:54.272398",
         "timestamp_anterior": "2026-10-10T13:37:06.625114",
         "tempo_desde_anterior_segundos": 77147
@@ -1003,7 +1033,7 @@
         "valor_atual": 5483,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-10T13:37:06.625114",
         "timestamp_anterior": "2026-10-09T22:22:04.221663",
         "tempo_desde_anterior_segundos": 54902
@@ -1016,7 +1046,7 @@
         "valor_atual": 5482,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-09T22:22:04.221663",
         "timestamp_anterior": "2026-10-09T09:28:00.370364",
         "tempo_desde_anterior_segundos": 46443
@@ -1029,7 +1059,7 @@
         "valor_atual": 5480,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-09T09:28:00.370364",
         "timestamp_anterior": "2026-10-08T18:27:33.346212",
         "tempo_desde_anterior_segundos": 54027
@@ -1042,7 +1072,7 @@
         "valor_atual": 5479,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-08T18:27:33.346212",
         "timestamp_anterior": "2026-10-08T09:09:24.659531",
         "tempo_desde_anterior_segundos": 33488
@@ -1055,7 +1085,7 @@
         "valor_atual": 5478,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-08T09:09:24.659531",
         "timestamp_anterior": "2026-10-07T13:02:43.811451",
         "tempo_desde_anterior_segundos": 72400
@@ -1068,7 +1098,7 @@
         "valor_atual": 5476,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-07T13:02:43.811451",
         "timestamp_anterior": "2026-10-06T23:53:13.404044",
         "tempo_desde_anterior_segundos": 47370
@@ -1081,7 +1111,7 @@
         "valor_atual": 5475,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T23:53:13.404044",
         "timestamp_anterior": "2026-10-06T19:12:05.114717",
         "tempo_desde_anterior_segundos": 16868
@@ -1094,7 +1124,7 @@
         "valor_atual": 5474,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T19:12:05.114717",
         "timestamp_anterior": "2026-10-06T19:04:05.084189",
         "tempo_desde_anterior_segundos": 480
@@ -1107,7 +1137,7 @@
         "valor_atual": 5473,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T19:04:05.084189",
         "timestamp_anterior": "2026-10-06T12:10:16.034607",
         "tempo_desde_anterior_segundos": 24829
@@ -1120,7 +1150,7 @@
         "valor_atual": 5472,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-06T12:10:16.034607",
         "timestamp_anterior": "2026-10-05T20:55:33.235571",
         "tempo_desde_anterior_segundos": 54882
@@ -1133,7 +1163,7 @@
         "valor_atual": 5470,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-05T20:55:33.235571",
         "timestamp_anterior": "2026-10-05T19:12:27.514719",
         "tempo_desde_anterior_segundos": 6185
@@ -1146,7 +1176,7 @@
         "valor_atual": 5468,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-05T19:12:27.514719",
         "timestamp_anterior": "2026-10-05T18:30:13.849652",
         "tempo_desde_anterior_segundos": 2533
@@ -1159,7 +1189,7 @@
         "valor_atual": 5467,
         "variacao": 6,
         "direcao": "aumento",
-        "descricao": "+6 posts",
+        "descricao": "+6 publicações",
         "timestamp": "2026-10-05T18:30:13.849652",
         "timestamp_anterior": "2026-10-04T17:57:05.068806",
         "tempo_desde_anterior_segundos": 88388
@@ -1202,9 +1232,127 @@
         "timestamp": "2026-10-04T17:57:05.068806",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "fazenda 2026",
+        "timestamp": "2026-10-04T17:57:05.068806",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:26:12.114597",
+      "timestamp_anterior": "2026-11-03T12:18:40.937576",
+      "timestamp_atual": "2026-11-19T16:26:12.114597",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 26642166,
+        "id": "17841400544980416",
+        "username": "erthalera",
+        "nome": "Daniel Erthal / Artista / Venda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vQGpLgN3iLEQ7kNvwEV-dFT&_nc_oc=Adpo5tLpo-mY0K7OFeQqujgpDevXseMNIZryPsyvgsGArYUJ5M0uldja76NO6T7l-0Q3F2c53zl8K5_a83RIlChi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0awWMO55R_DY41zR0F6QMg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTuuBfK53KuYkew6Jn_qRuja-WNtOMvLrqyTVfiUcEL3A&oe=6B050F8B",
+        "total_posts": 5571
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 718029,
+      "valor_atual": 716004,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -2025,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397251.177021,
+        "texto": "16 dias e 4 horas e 7 minutos e 31 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397251.177021,
+        "texto": "16 dias e 4 horas e 7 minutos e 31 segundos"
+      },
+      "titulo": "Perdeu 2.025 seguidores",
+      "descricao": "Os seguidores caíram de 718.029 para 716.004",
+      "variacao_texto": "-2.025 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:26:12.114597",
+      "timestamp_anterior": "2026-11-03T12:18:40.937576",
+      "timestamp_atual": "2026-11-19T16:26:12.114597",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 26642166,
+        "id": "17841400544980416",
+        "username": "erthalera",
+        "nome": "Daniel Erthal / Artista / Venda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vQGpLgN3iLEQ7kNvwEV-dFT&_nc_oc=Adpo5tLpo-mY0K7OFeQqujgpDevXseMNIZryPsyvgsGArYUJ5M0uldja76NO6T7l-0Q3F2c53zl8K5_a83RIlChi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0awWMO55R_DY41zR0F6QMg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTuuBfK53KuYkew6Jn_qRuja-WNtOMvLrqyTVfiUcEL3A&oe=6B050F8B",
+        "total_posts": 5571
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 7583,
+      "valor_atual": 7566,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -17,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397251.177021,
+        "texto": "16 dias e 4 horas e 7 minutos e 31 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 17 pessoas",
+      "descricao": "Estava seguindo 7.583 e passou a seguir 7.566",
+      "variacao_texto": "-17 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:26:12.114597",
+      "timestamp_anterior": "2026-11-03T12:18:40.937576",
+      "timestamp_atual": "2026-11-19T16:26:12.114597",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 26642166,
+        "id": "17841400544980416",
+        "username": "erthalera",
+        "nome": "Daniel Erthal / Artista / Venda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vQGpLgN3iLEQ7kNvwEV-dFT&_nc_oc=Adpo5tLpo-mY0K7OFeQqujgpDevXseMNIZryPsyvgsGArYUJ5M0uldja76NO6T7l-0Q3F2c53zl8K5_a83RIlChi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0awWMO55R_DY41zR0F6QMg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTuuBfK53KuYkew6Jn_qRuja-WNtOMvLrqyTVfiUcEL3A&oe=6B050F8B",
+        "total_posts": 5571
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 5534,
+      "valor_atual": 5571,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 37,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397251.177021,
+        "texto": "16 dias e 4 horas e 7 minutos e 31 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 37 publicações",
+      "descricao": "O total mudou de 5.534 para 5.571",
+      "variacao_texto": "+37 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:18:40.937576",
@@ -1217,15 +1365,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QLSUn94055srTrFVP4Tp5w&_nc_ss=70689&oh=00_AQTEUeTfznto_JARAJtmxtYhDkONVTguCgLIULMqyXjS3A&oe=6AEFBF4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QLSUn94055srTrFVP4Tp5w&_nc_ss=70689&oh=00_AQTEUeTfznto_JARAJtmxtYhDkONVTguCgLIULMqyXjS3A&oe=6AEFBF4B",
+        "total_posts": 5534
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 718028,
       "valor_atual": 718029,
-      "hash_anterior": "0ad20bb4b1bf8239d1725023902bf202f7a73aff3db96a7108d62e8c769ed0ca",
-      "hash_atual": "eeda337156f4fa74fbbebf0b95fc4c1828f3d256f01917e45d284b5c264d48cd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1252,15 +1401,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MEMH_JlZ0ew8WJ-hCq0LoA&_nc_ss=70689&oh=00_AQTqr2_j5Y1-xnVvGPpLEil5tOvVxRbRKupogsG3TuorxQ&oe=6AEFBF4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MEMH_JlZ0ew8WJ-hCq0LoA&_nc_ss=70689&oh=00_AQTqr2_j5Y1-xnVvGPpLEil5tOvVxRbRKupogsG3TuorxQ&oe=6AEFBF4B",
+        "total_posts": 5534
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 719924,
       "valor_atual": 718028,
-      "hash_anterior": "deeaeb47beba6bc189527c40e51c47daaebb574750e03ac382e711b838df229e",
-      "hash_atual": "0ad20bb4b1bf8239d1725023902bf202f7a73aff3db96a7108d62e8c769ed0ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1896,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1287,15 +1437,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MEMH_JlZ0ew8WJ-hCq0LoA&_nc_ss=70689&oh=00_AQTqr2_j5Y1-xnVvGPpLEil5tOvVxRbRKupogsG3TuorxQ&oe=6AEFBF4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MEMH_JlZ0ew8WJ-hCq0LoA&_nc_ss=70689&oh=00_AQTqr2_j5Y1-xnVvGPpLEil5tOvVxRbRKupogsG3TuorxQ&oe=6AEFBF4B",
+        "total_posts": 5534
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7584,
       "valor_atual": 7583,
-      "hash_anterior": "deeaeb47beba6bc189527c40e51c47daaebb574750e03ac382e711b838df229e",
-      "hash_atual": "0ad20bb4b1bf8239d1725023902bf202f7a73aff3db96a7108d62e8c769ed0ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1322,15 +1473,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MEMH_JlZ0ew8WJ-hCq0LoA&_nc_ss=70689&oh=00_AQTqr2_j5Y1-xnVvGPpLEil5tOvVxRbRKupogsG3TuorxQ&oe=6AEFBF4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GOPdDjC3LMCpPDBCAEO9VWUxxtllbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JTyBBLSBMAYQ7kNvwEqkxjU&_nc_oc=AdoKXZTPknBkEWb2_pFfZ_CCuL-fNWdGyIyqHmlEsUApzqcF7KZScbIdzPNjUCMVpJNtIqTmHhy9xs719G9IgnXM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MEMH_JlZ0ew8WJ-hCq0LoA&_nc_ss=70689&oh=00_AQTqr2_j5Y1-xnVvGPpLEil5tOvVxRbRKupogsG3TuorxQ&oe=6AEFBF4B",
+        "total_posts": 5534
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5528,
       "valor_atual": 5534,
-      "hash_anterior": "deeaeb47beba6bc189527c40e51c47daaebb574750e03ac382e711b838df229e",
-      "hash_atual": "0ad20bb4b1bf8239d1725023902bf202f7a73aff3db96a7108d62e8c769ed0ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1341,7 +1493,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 6 posts",
+      "titulo": "Publicou 6 publicações",
       "descricao": "O total mudou de 5.528 para 5.534",
       "variacao_texto": "+6 posts"
     },
@@ -1357,15 +1509,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHpZ0fgmQ2AQ7kNvwEMZ1HT&_nc_oc=AdoxDsaULIt5Jko6g2QAg3zCqLvbCvGbwCUYDg6FeORhLqGGZvpzEWkXpgM6BFRqlbLetUIoVy-57_Rgq7ZnVJcW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QPHSxsylKKVpIkLsjclbeA&_nc_ss=70689&oh=00_AQRm6icC_F8QG99bb1kE4nfoghFDKdHWrt-xftOVy5kfJQ&oe=6AEAE9CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHpZ0fgmQ2AQ7kNvwEMZ1HT&_nc_oc=AdoxDsaULIt5Jko6g2QAg3zCqLvbCvGbwCUYDg6FeORhLqGGZvpzEWkXpgM6BFRqlbLetUIoVy-57_Rgq7ZnVJcW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QPHSxsylKKVpIkLsjclbeA&_nc_ss=70689&oh=00_AQRm6icC_F8QG99bb1kE4nfoghFDKdHWrt-xftOVy5kfJQ&oe=6AEAE9CB",
+        "total_posts": 5528
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 723831,
       "valor_atual": 719924,
-      "hash_anterior": "17f482e0d04638b96936b53ca5c1ce3128598504402c182333995d9e42d36338",
-      "hash_atual": "deeaeb47beba6bc189527c40e51c47daaebb574750e03ac382e711b838df229e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3907,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1392,15 +1545,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHpZ0fgmQ2AQ7kNvwEMZ1HT&_nc_oc=AdoxDsaULIt5Jko6g2QAg3zCqLvbCvGbwCUYDg6FeORhLqGGZvpzEWkXpgM6BFRqlbLetUIoVy-57_Rgq7ZnVJcW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QPHSxsylKKVpIkLsjclbeA&_nc_ss=70689&oh=00_AQRm6icC_F8QG99bb1kE4nfoghFDKdHWrt-xftOVy5kfJQ&oe=6AEAE9CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHpZ0fgmQ2AQ7kNvwEMZ1HT&_nc_oc=AdoxDsaULIt5Jko6g2QAg3zCqLvbCvGbwCUYDg6FeORhLqGGZvpzEWkXpgM6BFRqlbLetUIoVy-57_Rgq7ZnVJcW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QPHSxsylKKVpIkLsjclbeA&_nc_ss=70689&oh=00_AQRm6icC_F8QG99bb1kE4nfoghFDKdHWrt-xftOVy5kfJQ&oe=6AEAE9CB",
+        "total_posts": 5528
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7583,
       "valor_atual": 7584,
-      "hash_anterior": "17f482e0d04638b96936b53ca5c1ce3128598504402c182333995d9e42d36338",
-      "hash_atual": "deeaeb47beba6bc189527c40e51c47daaebb574750e03ac382e711b838df229e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1427,15 +1581,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHpZ0fgmQ2AQ7kNvwEMZ1HT&_nc_oc=AdoxDsaULIt5Jko6g2QAg3zCqLvbCvGbwCUYDg6FeORhLqGGZvpzEWkXpgM6BFRqlbLetUIoVy-57_Rgq7ZnVJcW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QPHSxsylKKVpIkLsjclbeA&_nc_ss=70689&oh=00_AQRm6icC_F8QG99bb1kE4nfoghFDKdHWrt-xftOVy5kfJQ&oe=6AEAE9CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHpZ0fgmQ2AQ7kNvwEMZ1HT&_nc_oc=AdoxDsaULIt5Jko6g2QAg3zCqLvbCvGbwCUYDg6FeORhLqGGZvpzEWkXpgM6BFRqlbLetUIoVy-57_Rgq7ZnVJcW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QPHSxsylKKVpIkLsjclbeA&_nc_ss=70689&oh=00_AQRm6icC_F8QG99bb1kE4nfoghFDKdHWrt-xftOVy5kfJQ&oe=6AEAE9CB",
+        "total_posts": 5528
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5513,
       "valor_atual": 5528,
-      "hash_anterior": "17f482e0d04638b96936b53ca5c1ce3128598504402c182333995d9e42d36338",
-      "hash_atual": "deeaeb47beba6bc189527c40e51c47daaebb574750e03ac382e711b838df229e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 15,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1446,7 +1601,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 15 posts",
+      "titulo": "Publicou 15 publicações",
       "descricao": "O total mudou de 5.513 para 5.528",
       "variacao_texto": "+15 posts"
     },
@@ -1462,15 +1617,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Omn4NJVupworcOkGwyQFNg&_nc_ss=70689&oh=00_AQOR_B7eoYaKavTCEo0OC7pRs5ouQsxEdthkjy2iTBhaEw&oe=6AE2904B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Omn4NJVupworcOkGwyQFNg&_nc_ss=70689&oh=00_AQOR_B7eoYaKavTCEo0OC7pRs5ouQsxEdthkjy2iTBhaEw&oe=6AE2904B",
+        "total_posts": 5513
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 723836,
       "valor_atual": 723831,
-      "hash_anterior": "5452cbd07a0308f1b438301fdd644ddd471bd4f0ba642be5df6f4bde83b08b70",
-      "hash_atual": "17f482e0d04638b96936b53ca5c1ce3128598504402c182333995d9e42d36338",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1497,15 +1653,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HEuV5iiL8hWCtm4iW9XjFg&_nc_ss=70689&oh=00_AQPLR9ywB_pwksFJx0ShbfuXwSy4Ym7C7I9h7Ete4CxQvg&oe=6AE2904B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HEuV5iiL8hWCtm4iW9XjFg&_nc_ss=70689&oh=00_AQPLR9ywB_pwksFJx0ShbfuXwSy4Ym7C7I9h7Ete4CxQvg&oe=6AE2904B",
+        "total_posts": 5513
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 725786,
       "valor_atual": 723836,
-      "hash_anterior": "1a986daa20df7b118d44c75f4929ada75a3d8047a390db6b0bc6fc100669f862",
-      "hash_atual": "5452cbd07a0308f1b438301fdd644ddd471bd4f0ba642be5df6f4bde83b08b70",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1950,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1532,15 +1689,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HEuV5iiL8hWCtm4iW9XjFg&_nc_ss=70689&oh=00_AQPLR9ywB_pwksFJx0ShbfuXwSy4Ym7C7I9h7Ete4CxQvg&oe=6AE2904B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HEuV5iiL8hWCtm4iW9XjFg&_nc_ss=70689&oh=00_AQPLR9ywB_pwksFJx0ShbfuXwSy4Ym7C7I9h7Ete4CxQvg&oe=6AE2904B",
+        "total_posts": 5513
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7585,
       "valor_atual": 7583,
-      "hash_anterior": "1a986daa20df7b118d44c75f4929ada75a3d8047a390db6b0bc6fc100669f862",
-      "hash_atual": "5452cbd07a0308f1b438301fdd644ddd471bd4f0ba642be5df6f4bde83b08b70",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1567,15 +1725,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HEuV5iiL8hWCtm4iW9XjFg&_nc_ss=70689&oh=00_AQPLR9ywB_pwksFJx0ShbfuXwSy4Ym7C7I9h7Ete4CxQvg&oe=6AE2904B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8INPSLq8bswQ7kNvwGiYkYX&_nc_oc=Adoz1yXdFJijL9g5Z_QBiT_mlFFEhW8NDt0bKLMo7Mey72lSaO-OWxw16Oh-0STVPZXha8uCiDefMaLMnVSNrX0P&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HEuV5iiL8hWCtm4iW9XjFg&_nc_ss=70689&oh=00_AQPLR9ywB_pwksFJx0ShbfuXwSy4Ym7C7I9h7Ete4CxQvg&oe=6AE2904B",
+        "total_posts": 5513
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5508,
       "valor_atual": 5513,
-      "hash_anterior": "1a986daa20df7b118d44c75f4929ada75a3d8047a390db6b0bc6fc100669f862",
-      "hash_atual": "5452cbd07a0308f1b438301fdd644ddd471bd4f0ba642be5df6f4bde83b08b70",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1586,7 +1745,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 5 posts",
+      "titulo": "Publicou 5 publicações",
       "descricao": "O total mudou de 5.508 para 5.513",
       "variacao_texto": "+5 posts"
     },
@@ -1602,15 +1761,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwEt0F9k&_nc_oc=AdpH-IN7Ji1hPwSXkvQHXRXS7o7U0Kr7y1H_Or8dEvJtGLu5dHZpAQXNl4lQ5HEFyMaA42u706Z4U5QGEVPH0Cj1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_RnQ_dbYVipblfBxdufSZA&_nc_ss=70689&oh=00_AQMgc1xwEAkOI-IWdj8dhuMZREbr1e5Sdz7A9iVDqZiilw&oe=6AE13ECB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwEt0F9k&_nc_oc=AdpH-IN7Ji1hPwSXkvQHXRXS7o7U0Kr7y1H_Or8dEvJtGLu5dHZpAQXNl4lQ5HEFyMaA42u706Z4U5QGEVPH0Cj1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_RnQ_dbYVipblfBxdufSZA&_nc_ss=70689&oh=00_AQMgc1xwEAkOI-IWdj8dhuMZREbr1e5Sdz7A9iVDqZiilw&oe=6AE13ECB",
+        "total_posts": 5508
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 725779,
       "valor_atual": 725786,
-      "hash_anterior": "92d99b7bd6e8f88552d61227e6861e1391e2214f103194a109591417b01fad5e",
-      "hash_atual": "1a986daa20df7b118d44c75f4929ada75a3d8047a390db6b0bc6fc100669f862",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1637,15 +1797,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwHybNV1&_nc_oc=Adrx_By56ZdHV-KktwhUdneNLNWaQwdJXZiXbgOINTwaf31lwFkFtHKsZBffKKp4mK1uxHGtwpNYzUJvGrCLpofl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-Oh1JAPGJG7Ze73PT_Pquw&_nc_ss=70689&oh=00_AQP7I1T0TXVSIas_FqJR35TkkA-ktUyknJf0Heuw6FEcOw&oe=6AE05DCB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwHybNV1&_nc_oc=Adrx_By56ZdHV-KktwhUdneNLNWaQwdJXZiXbgOINTwaf31lwFkFtHKsZBffKKp4mK1uxHGtwpNYzUJvGrCLpofl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-Oh1JAPGJG7Ze73PT_Pquw&_nc_ss=70689&oh=00_AQP7I1T0TXVSIas_FqJR35TkkA-ktUyknJf0Heuw6FEcOw&oe=6AE05DCB",
+        "total_posts": 5508
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 725775,
       "valor_atual": 725779,
-      "hash_anterior": "63e7760f04e6d6b48ece40870440f7656d302f4caddb535c4e075d8bdcb48b41",
-      "hash_atual": "92d99b7bd6e8f88552d61227e6861e1391e2214f103194a109591417b01fad5e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1672,15 +1833,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwHybNV1&_nc_oc=Adrx_By56ZdHV-KktwhUdneNLNWaQwdJXZiXbgOINTwaf31lwFkFtHKsZBffKKp4mK1uxHGtwpNYzUJvGrCLpofl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3N8fgYQpCcZjz3FCSVpElQ&_nc_ss=70689&oh=00_AQN9KZ2mzo1Fm5iCfFW0_7cxiqhRfDkbJ-OXtDNZSvO7MQ&oe=6AE05DCB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwHybNV1&_nc_oc=Adrx_By56ZdHV-KktwhUdneNLNWaQwdJXZiXbgOINTwaf31lwFkFtHKsZBffKKp4mK1uxHGtwpNYzUJvGrCLpofl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3N8fgYQpCcZjz3FCSVpElQ&_nc_ss=70689&oh=00_AQN9KZ2mzo1Fm5iCfFW0_7cxiqhRfDkbJ-OXtDNZSvO7MQ&oe=6AE05DCB",
+        "total_posts": 5508
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 726234,
       "valor_atual": 725775,
-      "hash_anterior": "c0764d68e5ed4dc09cbbe9262bcb52105e3e25ac6ca36d1e210a2d564136e0ba",
-      "hash_atual": "63e7760f04e6d6b48ece40870440f7656d302f4caddb535c4e075d8bdcb48b41",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -459,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1707,15 +1869,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwHybNV1&_nc_oc=Adrx_By56ZdHV-KktwhUdneNLNWaQwdJXZiXbgOINTwaf31lwFkFtHKsZBffKKp4mK1uxHGtwpNYzUJvGrCLpofl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3N8fgYQpCcZjz3FCSVpElQ&_nc_ss=70689&oh=00_AQN9KZ2mzo1Fm5iCfFW0_7cxiqhRfDkbJ-OXtDNZSvO7MQ&oe=6AE05DCB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwHybNV1&_nc_oc=Adrx_By56ZdHV-KktwhUdneNLNWaQwdJXZiXbgOINTwaf31lwFkFtHKsZBffKKp4mK1uxHGtwpNYzUJvGrCLpofl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3N8fgYQpCcZjz3FCSVpElQ&_nc_ss=70689&oh=00_AQN9KZ2mzo1Fm5iCfFW0_7cxiqhRfDkbJ-OXtDNZSvO7MQ&oe=6AE05DCB",
+        "total_posts": 5508
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5507,
       "valor_atual": 5508,
-      "hash_anterior": "c0764d68e5ed4dc09cbbe9262bcb52105e3e25ac6ca36d1e210a2d564136e0ba",
-      "hash_atual": "63e7760f04e6d6b48ece40870440f7656d302f4caddb535c4e075d8bdcb48b41",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1726,7 +1889,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.507 para 5.508",
       "variacao_texto": "+1 post"
     },
@@ -1742,15 +1905,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DoVSqT3KIgm3XltQPR9pig&_nc_ss=70689&oh=00_AQO9FxkpvOX__nQI-ppbrzxDkUIwYJMvDwTNyNGOljE7QQ&oe=6ADF0C4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DoVSqT3KIgm3XltQPR9pig&_nc_ss=70689&oh=00_AQO9FxkpvOX__nQI-ppbrzxDkUIwYJMvDwTNyNGOljE7QQ&oe=6ADF0C4B",
+        "total_posts": 5507
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 726244,
       "valor_atual": 726234,
-      "hash_anterior": "fe6a901192ab0431be0d90244ff93db9da6f6d9800d43d0b273010ea939ac7e2",
-      "hash_atual": "c0764d68e5ed4dc09cbbe9262bcb52105e3e25ac6ca36d1e210a2d564136e0ba",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -10,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1777,15 +1941,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OpzrO4gAMu7HcksL0OtNhQ&_nc_ss=70689&oh=00_AQPKTF5E75QuJzo5cMnMNDIaanEjbp0XKEeHArJrtUsNKQ&oe=6ADF0C4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OpzrO4gAMu7HcksL0OtNhQ&_nc_ss=70689&oh=00_AQPKTF5E75QuJzo5cMnMNDIaanEjbp0XKEeHArJrtUsNKQ&oe=6ADF0C4B",
+        "total_posts": 5507
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 712045,
       "valor_atual": 726244,
-      "hash_anterior": "356925d59e322ae0ce31eca22f1a564ea71c8239379444b7536cfc701c32e184",
-      "hash_atual": "fe6a901192ab0431be0d90244ff93db9da6f6d9800d43d0b273010ea939ac7e2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14199,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1812,15 +1977,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OpzrO4gAMu7HcksL0OtNhQ&_nc_ss=70689&oh=00_AQPKTF5E75QuJzo5cMnMNDIaanEjbp0XKEeHArJrtUsNKQ&oe=6ADF0C4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OpzrO4gAMu7HcksL0OtNhQ&_nc_ss=70689&oh=00_AQPKTF5E75QuJzo5cMnMNDIaanEjbp0XKEeHArJrtUsNKQ&oe=6ADF0C4B",
+        "total_posts": 5507
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7591,
       "valor_atual": 7585,
-      "hash_anterior": "356925d59e322ae0ce31eca22f1a564ea71c8239379444b7536cfc701c32e184",
-      "hash_atual": "fe6a901192ab0431be0d90244ff93db9da6f6d9800d43d0b273010ea939ac7e2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1847,15 +2013,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OpzrO4gAMu7HcksL0OtNhQ&_nc_ss=70689&oh=00_AQPKTF5E75QuJzo5cMnMNDIaanEjbp0XKEeHArJrtUsNKQ&oe=6ADF0C4B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MzngIFmLdCIQ7kNvwFVqwTZ&_nc_oc=AdrbmD2Eofg3K0bgZTuh2a7lmpVChcXuij88lQWzwGaWJtAJ0Zh2SS-y59Ldu-zVX650VHGHosFc3PcRV0FiUS0T&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OpzrO4gAMu7HcksL0OtNhQ&_nc_ss=70689&oh=00_AQPKTF5E75QuJzo5cMnMNDIaanEjbp0XKEeHArJrtUsNKQ&oe=6ADF0C4B",
+        "total_posts": 5507
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5498,
       "valor_atual": 5507,
-      "hash_anterior": "356925d59e322ae0ce31eca22f1a564ea71c8239379444b7536cfc701c32e184",
-      "hash_atual": "fe6a901192ab0431be0d90244ff93db9da6f6d9800d43d0b273010ea939ac7e2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 9,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1866,7 +2033,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 9 posts",
+      "titulo": "Publicou 9 publicações",
       "descricao": "O total mudou de 5.498 para 5.507",
       "variacao_texto": "+9 posts"
     },
@@ -1882,15 +2049,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8kqGagsb0FUF9YNTnakJmg&_nc_ss=70689&oh=00_AQMjGY74u3E6tjYBKSGYad4Rxe4dRa-SBnLu6gma0PDKjw&oe=6AD8AD0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8kqGagsb0FUF9YNTnakJmg&_nc_ss=70689&oh=00_AQMjGY74u3E6tjYBKSGYad4Rxe4dRa-SBnLu6gma0PDKjw&oe=6AD8AD0B",
+        "total_posts": 5498
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 711627,
       "valor_atual": 712045,
-      "hash_anterior": "b5bc3e62b7daaa8b578bfb166e95c0d5460d78e98b64724603a9d1871c6b77b6",
-      "hash_atual": "356925d59e322ae0ce31eca22f1a564ea71c8239379444b7536cfc701c32e184",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 418,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1917,15 +2085,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xwe6hBf1nJLZifyYrgZNXw&_nc_ss=70689&oh=00_AQPMU-rWMrGcCpbZmpGvHlUkLiBGVgqGsl6rVGN7m5GXEA&oe=6AD83C8B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xwe6hBf1nJLZifyYrgZNXw&_nc_ss=70689&oh=00_AQPMU-rWMrGcCpbZmpGvHlUkLiBGVgqGsl6rVGN7m5GXEA&oe=6AD83C8B",
+        "total_posts": 5498
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 711622,
       "valor_atual": 711627,
-      "hash_anterior": "ed62955feaf9814894cfd9e0b633ebc36576e39a6ff0d6f258d02ad97d004659",
-      "hash_atual": "b5bc3e62b7daaa8b578bfb166e95c0d5460d78e98b64724603a9d1871c6b77b6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1952,15 +2121,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=b21mRtvqVf6ZTRe2_4lC1g&_nc_ss=70689&oh=00_AQPNgStVyYDCd0tkP76LN3rx-E-g6qRHdpsD8W3vhDxADQ&oe=6AD83C8B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=b21mRtvqVf6ZTRe2_4lC1g&_nc_ss=70689&oh=00_AQPNgStVyYDCd0tkP76LN3rx-E-g6qRHdpsD8W3vhDxADQ&oe=6AD83C8B",
+        "total_posts": 5498
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 709620,
       "valor_atual": 711622,
-      "hash_anterior": "0d618edbb1d773b8792ae42d14ed4ee6b311beb9a505b3ee6f9f2b658c539664",
-      "hash_atual": "ed62955feaf9814894cfd9e0b633ebc36576e39a6ff0d6f258d02ad97d004659",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2002,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1987,15 +2157,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=b21mRtvqVf6ZTRe2_4lC1g&_nc_ss=70689&oh=00_AQPNgStVyYDCd0tkP76LN3rx-E-g6qRHdpsD8W3vhDxADQ&oe=6AD83C8B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwGusABR&_nc_oc=Adp473gHWni78btyWQjtT_LI36yL_DdSSHBP5_PCueohIn__ydJLKJhV4O8DnICS_yFNaUTcc5YmRxtMrz-7TXNW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=b21mRtvqVf6ZTRe2_4lC1g&_nc_ss=70689&oh=00_AQPNgStVyYDCd0tkP76LN3rx-E-g6qRHdpsD8W3vhDxADQ&oe=6AD83C8B",
+        "total_posts": 5498
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5494,
       "valor_atual": 5498,
-      "hash_anterior": "0d618edbb1d773b8792ae42d14ed4ee6b311beb9a505b3ee6f9f2b658c539664",
-      "hash_atual": "ed62955feaf9814894cfd9e0b633ebc36576e39a6ff0d6f258d02ad97d004659",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2006,7 +2177,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 4 posts",
+      "titulo": "Publicou 4 publicações",
       "descricao": "O total mudou de 5.494 para 5.498",
       "variacao_texto": "+4 posts"
     },
@@ -2022,15 +2193,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB",
+        "total_posts": 5494
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 709447,
       "valor_atual": 709620,
-      "hash_anterior": "f6b8d97f9107e5468bc1296e180e574c730ec32c9a22fd91eb3f3be5887c925b",
-      "hash_atual": "0d618edbb1d773b8792ae42d14ed4ee6b311beb9a505b3ee6f9f2b658c539664",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 173,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2057,15 +2229,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VXWAEkboIVMQ7kNvwE2e760&_nc_oc=Adpx9vfkRK6NZeYYfPyXD9_1H3qiiZsYjgfgMcm6mjhtwM99wbzeBBRKsoIUJ9XK21uWLFdvvS2kvrNuajwOyGIh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mxbWz1cO_R_WHAqTyF1v-Q&_nc_ss=70689&oh=00_AQPjLUf9IW2KoG7RGm1VEPrjkyjabLzg-1KkGbXrZiLmuw&oe=6AD6B2CB",
+        "total_posts": 5494
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7592,
       "valor_atual": 7591,
-      "hash_anterior": "f6b8d97f9107e5468bc1296e180e574c730ec32c9a22fd91eb3f3be5887c925b",
-      "hash_atual": "0d618edbb1d773b8792ae42d14ed4ee6b311beb9a505b3ee6f9f2b658c539664",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2092,15 +2265,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwGa8ACl&_nc_oc=AdrNfhDohs2KZufUtaVpNNy1-DZY8uyOOFTxFgZCkL46duyJW51XogqvfK-LymBkEmJXwcQTaPN1IC1f_OF1N4D_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BF8nQtPPbBGPcDwhBDyPDA&_nc_ss=70689&oh=00_AQMSlebNHYKFKdfAQZA1yuaGtoHMPjZDd3WpnmLriV6TEw&oe=6AD60A0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwGa8ACl&_nc_oc=AdrNfhDohs2KZufUtaVpNNy1-DZY8uyOOFTxFgZCkL46duyJW51XogqvfK-LymBkEmJXwcQTaPN1IC1f_OF1N4D_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BF8nQtPPbBGPcDwhBDyPDA&_nc_ss=70689&oh=00_AQMSlebNHYKFKdfAQZA1yuaGtoHMPjZDd3WpnmLriV6TEw&oe=6AD60A0B",
+        "total_posts": 5494
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 708343,
       "valor_atual": 709447,
-      "hash_anterior": "971cdfebdc62c04787fa84b549188c60e3bad2a24226b4fcef33489da826b98c",
-      "hash_atual": "f6b8d97f9107e5468bc1296e180e574c730ec32c9a22fd91eb3f3be5887c925b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1104,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2127,15 +2301,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwGa8ACl&_nc_oc=AdrNfhDohs2KZufUtaVpNNy1-DZY8uyOOFTxFgZCkL46duyJW51XogqvfK-LymBkEmJXwcQTaPN1IC1f_OF1N4D_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BF8nQtPPbBGPcDwhBDyPDA&_nc_ss=70689&oh=00_AQMSlebNHYKFKdfAQZA1yuaGtoHMPjZDd3WpnmLriV6TEw&oe=6AD60A0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwGa8ACl&_nc_oc=AdrNfhDohs2KZufUtaVpNNy1-DZY8uyOOFTxFgZCkL46duyJW51XogqvfK-LymBkEmJXwcQTaPN1IC1f_OF1N4D_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BF8nQtPPbBGPcDwhBDyPDA&_nc_ss=70689&oh=00_AQMSlebNHYKFKdfAQZA1yuaGtoHMPjZDd3WpnmLriV6TEw&oe=6AD60A0B",
+        "total_posts": 5494
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5491,
       "valor_atual": 5494,
-      "hash_anterior": "971cdfebdc62c04787fa84b549188c60e3bad2a24226b4fcef33489da826b98c",
-      "hash_atual": "f6b8d97f9107e5468bc1296e180e574c730ec32c9a22fd91eb3f3be5887c925b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2146,7 +2321,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 5.491 para 5.494",
       "variacao_texto": "+3 posts"
     },
@@ -2162,15 +2337,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwF1OOd8&_nc_oc=Adp9LZCabUwzgD3vGv-C27VjSIzUq53w-ysX52kkTPyIUVvL4giqCJgG3ejKRX3fWdQ9lcuX5kKpWHnFeQhFBQWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kjuk8sOkWv2fDnhn3RoXmQ&_nc_ss=70689&oh=00_AQNAX4pSwkHb64tJ6E3t8S-J-ndDyw5ImjvNkuLOF2iPhg&oe=6AD5614B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwF1OOd8&_nc_oc=Adp9LZCabUwzgD3vGv-C27VjSIzUq53w-ysX52kkTPyIUVvL4giqCJgG3ejKRX3fWdQ9lcuX5kKpWHnFeQhFBQWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kjuk8sOkWv2fDnhn3RoXmQ&_nc_ss=70689&oh=00_AQNAX4pSwkHb64tJ6E3t8S-J-ndDyw5ImjvNkuLOF2iPhg&oe=6AD5614B",
+        "total_posts": 5491
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 706978,
       "valor_atual": 708343,
-      "hash_anterior": "e3775772461fff3333e7a64bba4c5768ef6d532f11ef181629e4db9b39a19bd4",
-      "hash_atual": "971cdfebdc62c04787fa84b549188c60e3bad2a24226b4fcef33489da826b98c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1365,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2197,15 +2373,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwF1OOd8&_nc_oc=Adp9LZCabUwzgD3vGv-C27VjSIzUq53w-ysX52kkTPyIUVvL4giqCJgG3ejKRX3fWdQ9lcuX5kKpWHnFeQhFBQWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kjuk8sOkWv2fDnhn3RoXmQ&_nc_ss=70689&oh=00_AQNAX4pSwkHb64tJ6E3t8S-J-ndDyw5ImjvNkuLOF2iPhg&oe=6AD5614B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwF1OOd8&_nc_oc=Adp9LZCabUwzgD3vGv-C27VjSIzUq53w-ysX52kkTPyIUVvL4giqCJgG3ejKRX3fWdQ9lcuX5kKpWHnFeQhFBQWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kjuk8sOkWv2fDnhn3RoXmQ&_nc_ss=70689&oh=00_AQNAX4pSwkHb64tJ6E3t8S-J-ndDyw5ImjvNkuLOF2iPhg&oe=6AD5614B",
+        "total_posts": 5491
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7590,
       "valor_atual": 7592,
-      "hash_anterior": "e3775772461fff3333e7a64bba4c5768ef6d532f11ef181629e4db9b39a19bd4",
-      "hash_atual": "971cdfebdc62c04787fa84b549188c60e3bad2a24226b4fcef33489da826b98c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2232,15 +2409,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwF1OOd8&_nc_oc=Adp9LZCabUwzgD3vGv-C27VjSIzUq53w-ysX52kkTPyIUVvL4giqCJgG3ejKRX3fWdQ9lcuX5kKpWHnFeQhFBQWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kjuk8sOkWv2fDnhn3RoXmQ&_nc_ss=70689&oh=00_AQNAX4pSwkHb64tJ6E3t8S-J-ndDyw5ImjvNkuLOF2iPhg&oe=6AD5614B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwF1OOd8&_nc_oc=Adp9LZCabUwzgD3vGv-C27VjSIzUq53w-ysX52kkTPyIUVvL4giqCJgG3ejKRX3fWdQ9lcuX5kKpWHnFeQhFBQWH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kjuk8sOkWv2fDnhn3RoXmQ&_nc_ss=70689&oh=00_AQNAX4pSwkHb64tJ6E3t8S-J-ndDyw5ImjvNkuLOF2iPhg&oe=6AD5614B",
+        "total_posts": 5491
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5487,
       "valor_atual": 5491,
-      "hash_anterior": "e3775772461fff3333e7a64bba4c5768ef6d532f11ef181629e4db9b39a19bd4",
-      "hash_atual": "971cdfebdc62c04787fa84b549188c60e3bad2a24226b4fcef33489da826b98c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2251,7 +2429,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 4 posts",
+      "titulo": "Publicou 4 publicações",
       "descricao": "O total mudou de 5.487 para 5.491",
       "variacao_texto": "+4 posts"
     },
@@ -2267,15 +2445,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O54V1kD16J20_kTkc9pVOw&_nc_ss=70689&oh=00_AQOWovY5u_xmKHtJrI7NMfuKy1Ve8mTWDpDJdx1WLPuP3g&oe=6AD4804B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O54V1kD16J20_kTkc9pVOw&_nc_ss=70689&oh=00_AQOWovY5u_xmKHtJrI7NMfuKy1Ve8mTWDpDJdx1WLPuP3g&oe=6AD4804B",
+        "total_posts": 5487
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 706937,
       "valor_atual": 706978,
-      "hash_anterior": "f6cb0a02a29ff706de818a8ea0d249abdc8160d61a985d17871d244d4b02ed01",
-      "hash_atual": "e3775772461fff3333e7a64bba4c5768ef6d532f11ef181629e4db9b39a19bd4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 41,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2302,15 +2481,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KVnUNkkPToonSMQR0ugjGQ&_nc_ss=70689&oh=00_AQMtK3GCh0jNv6xrWw2Z1hxdcpNzQwdunCfFitWesXBbhw&oe=6AD4480B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KVnUNkkPToonSMQR0ugjGQ&_nc_ss=70689&oh=00_AQMtK3GCh0jNv6xrWw2Z1hxdcpNzQwdunCfFitWesXBbhw&oe=6AD4480B",
+        "total_posts": 5487
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 706885,
       "valor_atual": 706937,
-      "hash_anterior": "5b6f3b37350de06f8c6398a9f535e1f60851c8858f16ce2dd9c92826e8b4737a",
-      "hash_atual": "f6cb0a02a29ff706de818a8ea0d249abdc8160d61a985d17871d244d4b02ed01",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 52,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2337,15 +2517,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=srRWUnw0mmTG7Z4_A1uPNA&_nc_ss=70689&oh=00_AQMGNbCDZoq1X3tw5WqvOu_r7-1iNONbLYvl_Krpu9ohSA&oe=6AD4480B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=srRWUnw0mmTG7Z4_A1uPNA&_nc_ss=70689&oh=00_AQMGNbCDZoq1X3tw5WqvOu_r7-1iNONbLYvl_Krpu9ohSA&oe=6AD4480B",
+        "total_posts": 5487
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 704332,
       "valor_atual": 706885,
-      "hash_anterior": "c27f82daaf6a347f039067a948af88faccda972842df00d6b46f937184f62bca",
-      "hash_atual": "5b6f3b37350de06f8c6398a9f535e1f60851c8858f16ce2dd9c92826e8b4737a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2553,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2372,15 +2553,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=srRWUnw0mmTG7Z4_A1uPNA&_nc_ss=70689&oh=00_AQMGNbCDZoq1X3tw5WqvOu_r7-1iNONbLYvl_Krpu9ohSA&oe=6AD4480B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=srRWUnw0mmTG7Z4_A1uPNA&_nc_ss=70689&oh=00_AQMGNbCDZoq1X3tw5WqvOu_r7-1iNONbLYvl_Krpu9ohSA&oe=6AD4480B",
+        "total_posts": 5487
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7588,
       "valor_atual": 7590,
-      "hash_anterior": "c27f82daaf6a347f039067a948af88faccda972842df00d6b46f937184f62bca",
-      "hash_atual": "5b6f3b37350de06f8c6398a9f535e1f60851c8858f16ce2dd9c92826e8b4737a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2407,15 +2589,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=srRWUnw0mmTG7Z4_A1uPNA&_nc_ss=70689&oh=00_AQMGNbCDZoq1X3tw5WqvOu_r7-1iNONbLYvl_Krpu9ohSA&oe=6AD4480B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lDSX-ixxQK8Q7kNvwEOOTb9&_nc_oc=AdpFu_sSFubYjbWcn2ko8uWnjbQ9glaGpAcy4a0JuFLkx9PLP1n1LeA9bPA3u0jgJh5FMwC3XJLa74peiVxy36z7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=srRWUnw0mmTG7Z4_A1uPNA&_nc_ss=70689&oh=00_AQMGNbCDZoq1X3tw5WqvOu_r7-1iNONbLYvl_Krpu9ohSA&oe=6AD4480B",
+        "total_posts": 5487
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5484,
       "valor_atual": 5487,
-      "hash_anterior": "c27f82daaf6a347f039067a948af88faccda972842df00d6b46f937184f62bca",
-      "hash_atual": "5b6f3b37350de06f8c6398a9f535e1f60851c8858f16ce2dd9c92826e8b4737a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2426,7 +2609,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 5.484 para 5.487",
       "variacao_texto": "+3 posts"
     },
@@ -2442,15 +2625,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A4F1HaSR0_9K8jpNfon72A&_nc_ss=70689&oh=00_AQPDWhIMrvF5gQVQ7E-oEi3ai2HoARDrBctFQmAXrx9J_Q&oe=6AD16CCB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A4F1HaSR0_9K8jpNfon72A&_nc_ss=70689&oh=00_AQPDWhIMrvF5gQVQ7E-oEi3ai2HoARDrBctFQmAXrx9J_Q&oe=6AD16CCB",
+        "total_posts": 5484
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 703570,
       "valor_atual": 704332,
-      "hash_anterior": "b5b4430b890ff5be46848caa002d279b22c1827a6969e2acd4b60d11a3fa39df",
-      "hash_atual": "c27f82daaf6a347f039067a948af88faccda972842df00d6b46f937184f62bca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 762,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2477,15 +2661,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A4F1HaSR0_9K8jpNfon72A&_nc_ss=70689&oh=00_AQPDWhIMrvF5gQVQ7E-oEi3ai2HoARDrBctFQmAXrx9J_Q&oe=6AD16CCB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A4F1HaSR0_9K8jpNfon72A&_nc_ss=70689&oh=00_AQPDWhIMrvF5gQVQ7E-oEi3ai2HoARDrBctFQmAXrx9J_Q&oe=6AD16CCB",
+        "total_posts": 5484
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5483,
       "valor_atual": 5484,
-      "hash_anterior": "b5b4430b890ff5be46848caa002d279b22c1827a6969e2acd4b60d11a3fa39df",
-      "hash_atual": "c27f82daaf6a347f039067a948af88faccda972842df00d6b46f937184f62bca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2496,7 +2681,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.483 para 5.484",
       "variacao_texto": "+1 post"
     },
@@ -2512,15 +2697,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=G4LhLhpXWHTpWzfFr525yg&_nc_ss=70689&oh=00_AQM87V0uGNr_tk3Uhik6_E20Nyrtz6SBVTbzF3Jn7FUdRw&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=G4LhLhpXWHTpWzfFr525yg&_nc_ss=70689&oh=00_AQM87V0uGNr_tk3Uhik6_E20Nyrtz6SBVTbzF3Jn7FUdRw&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 703513,
       "valor_atual": 703570,
-      "hash_anterior": "4d04184f00056c55d63286b8a7692aa013ace03d284104f9de1dd0a3848dde22",
-      "hash_atual": "b5b4430b890ff5be46848caa002d279b22c1827a6969e2acd4b60d11a3fa39df",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 57,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2547,15 +2733,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=72r2Wb_0UMYUztMVMBZD3A&_nc_ss=70689&oh=00_AQPNK-I7uP08H6tWXrWrfdWfmKM_gblXXtN6NGtraScMcA&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=72r2Wb_0UMYUztMVMBZD3A&_nc_ss=70689&oh=00_AQPNK-I7uP08H6tWXrWrfdWfmKM_gblXXtN6NGtraScMcA&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 703460,
       "valor_atual": 703513,
-      "hash_anterior": "7794594aad2654c4218c42944e1ef4d7cf28a73b3784fc291e7a5ac9b302b04b",
-      "hash_atual": "4d04184f00056c55d63286b8a7692aa013ace03d284104f9de1dd0a3848dde22",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 53,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2582,15 +2769,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=72r2Wb_0UMYUztMVMBZD3A&_nc_ss=70689&oh=00_AQPNK-I7uP08H6tWXrWrfdWfmKM_gblXXtN6NGtraScMcA&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=72r2Wb_0UMYUztMVMBZD3A&_nc_ss=70689&oh=00_AQPNK-I7uP08H6tWXrWrfdWfmKM_gblXXtN6NGtraScMcA&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7589,
       "valor_atual": 7588,
-      "hash_anterior": "7794594aad2654c4218c42944e1ef4d7cf28a73b3784fc291e7a5ac9b302b04b",
-      "hash_atual": "4d04184f00056c55d63286b8a7692aa013ace03d284104f9de1dd0a3848dde22",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2617,15 +2805,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZWWCG5C-wX-rnHiiD1k2EQ&_nc_ss=70689&oh=00_AQOYL3yzBVAaVOXauDc0E7Upq9WrVvT24DhIjq19fAqo1w&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZWWCG5C-wX-rnHiiD1k2EQ&_nc_ss=70689&oh=00_AQOYL3yzBVAaVOXauDc0E7Upq9WrVvT24DhIjq19fAqo1w&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 703394,
       "valor_atual": 703460,
-      "hash_anterior": "125e02e8f3fa24b06432a62c464cef2ec26b91033e3a9d44825a4c6113df5e33",
-      "hash_atual": "7794594aad2654c4218c42944e1ef4d7cf28a73b3784fc291e7a5ac9b302b04b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 66,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2652,15 +2841,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzmM5O1j0W1eHmF6P8MBMA&_nc_ss=70689&oh=00_AQOFRt03qqpIb0z3I30DwjvDzpWeG0wJqHI0qNwtNSDj-A&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzmM5O1j0W1eHmF6P8MBMA&_nc_ss=70689&oh=00_AQOFRt03qqpIb0z3I30DwjvDzpWeG0wJqHI0qNwtNSDj-A&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 702924,
       "valor_atual": 703394,
-      "hash_anterior": "6d740c62ef7c6740db234680dd395c80196e1361fface04c93bf3a32441df32d",
-      "hash_atual": "125e02e8f3fa24b06432a62c464cef2ec26b91033e3a9d44825a4c6113df5e33",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 470,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2687,15 +2877,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzmM5O1j0W1eHmF6P8MBMA&_nc_ss=70689&oh=00_AQOFRt03qqpIb0z3I30DwjvDzpWeG0wJqHI0qNwtNSDj-A&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzmM5O1j0W1eHmF6P8MBMA&_nc_ss=70689&oh=00_AQOFRt03qqpIb0z3I30DwjvDzpWeG0wJqHI0qNwtNSDj-A&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7588,
       "valor_atual": 7589,
-      "hash_anterior": "6d740c62ef7c6740db234680dd395c80196e1361fface04c93bf3a32441df32d",
-      "hash_atual": "125e02e8f3fa24b06432a62c464cef2ec26b91033e3a9d44825a4c6113df5e33",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2722,15 +2913,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzmM5O1j0W1eHmF6P8MBMA&_nc_ss=70689&oh=00_AQOFRt03qqpIb0z3I30DwjvDzpWeG0wJqHI0qNwtNSDj-A&oe=6AD0538B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHsiGQf&_nc_oc=AdpxK6-eAropEdbJiIKhYx7_LwXrdcWDEMlEbXExtt-beeNFjI1MOElbP821HV8JwoxY6gt8HepetGC2_yfxAmOA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EzmM5O1j0W1eHmF6P8MBMA&_nc_ss=70689&oh=00_AQOFRt03qqpIb0z3I30DwjvDzpWeG0wJqHI0qNwtNSDj-A&oe=6AD0538B",
+        "total_posts": 5483
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5482,
       "valor_atual": 5483,
-      "hash_anterior": "6d740c62ef7c6740db234680dd395c80196e1361fface04c93bf3a32441df32d",
-      "hash_atual": "125e02e8f3fa24b06432a62c464cef2ec26b91033e3a9d44825a4c6113df5e33",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2741,7 +2933,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.482 para 5.483",
       "variacao_texto": "+1 post"
     },
@@ -2757,15 +2949,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3kPqVumD91BeEjHixnM-Ug&_nc_ss=70689&oh=00_AQOR8mKI-jGh6ppgHLXzfqApe_lPwUJGE79uo7C9kR1Hpg&oe=6ACF728B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3kPqVumD91BeEjHixnM-Ug&_nc_ss=70689&oh=00_AQOR8mKI-jGh6ppgHLXzfqApe_lPwUJGE79uo7C9kR1Hpg&oe=6ACF728B",
+        "total_posts": 5482
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 702851,
       "valor_atual": 702924,
-      "hash_anterior": "0ba29a5c5183c541eb98bdabe4d938b2895df078e4125bc3527b33ffded8ac28",
-      "hash_atual": "6d740c62ef7c6740db234680dd395c80196e1361fface04c93bf3a32441df32d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 73,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2792,15 +2985,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0DtQghJQq4IkVQJ-nXcP4g&_nc_ss=70689&oh=00_AQOQlijVgXZe8hCLYZO2XttZpKLiEJGKued57G-U2kp06Q&oe=6ACF728B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0DtQghJQq4IkVQJ-nXcP4g&_nc_ss=70689&oh=00_AQOQlijVgXZe8hCLYZO2XttZpKLiEJGKued57G-U2kp06Q&oe=6ACF728B",
+        "total_posts": 5482
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 702040,
       "valor_atual": 702851,
-      "hash_anterior": "7654ecd6c243910909920819c2255ce571781a00dc04e4dc53ceb4385356dafc",
-      "hash_atual": "0ba29a5c5183c541eb98bdabe4d938b2895df078e4125bc3527b33ffded8ac28",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 811,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2827,15 +3021,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0DtQghJQq4IkVQJ-nXcP4g&_nc_ss=70689&oh=00_AQOQlijVgXZe8hCLYZO2XttZpKLiEJGKued57G-U2kp06Q&oe=6ACF728B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0DtQghJQq4IkVQJ-nXcP4g&_nc_ss=70689&oh=00_AQOQlijVgXZe8hCLYZO2XttZpKLiEJGKued57G-U2kp06Q&oe=6ACF728B",
+        "total_posts": 5482
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7590,
       "valor_atual": 7588,
-      "hash_anterior": "7654ecd6c243910909920819c2255ce571781a00dc04e4dc53ceb4385356dafc",
-      "hash_atual": "0ba29a5c5183c541eb98bdabe4d938b2895df078e4125bc3527b33ffded8ac28",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2862,15 +3057,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0DtQghJQq4IkVQJ-nXcP4g&_nc_ss=70689&oh=00_AQOQlijVgXZe8hCLYZO2XttZpKLiEJGKued57G-U2kp06Q&oe=6ACF728B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHo7V4X&_nc_oc=AdqydmoIuxfN50ijRY0GB7g5oAtlsKASZyP25KVAT5aC_sOvW7-JwivnpNkJqgTlfMvp_V5i1vHgRIhWy--cPgVG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0DtQghJQq4IkVQJ-nXcP4g&_nc_ss=70689&oh=00_AQOQlijVgXZe8hCLYZO2XttZpKLiEJGKued57G-U2kp06Q&oe=6ACF728B",
+        "total_posts": 5482
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5480,
       "valor_atual": 5482,
-      "hash_anterior": "7654ecd6c243910909920819c2255ce571781a00dc04e4dc53ceb4385356dafc",
-      "hash_atual": "0ba29a5c5183c541eb98bdabe4d938b2895df078e4125bc3527b33ffded8ac28",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2881,7 +3077,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 5.480 para 5.482",
       "variacao_texto": "+2 posts"
     },
@@ -2897,15 +3093,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHPbsXy&_nc_oc=Adr501-DwNaWG9c5Go2zHd3GZ989CzRh8BdbM9TUZcCsFX0FGkpoTQTmwgBHgbwT3wRm1H1If7U_jxMgTS8OVfqJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7n2qm985av9c9sss8oGeQg&_nc_ss=70689&oh=00_AQMyJrfyAsCL-Ok5YNMvtiC51JrOzIOtBAUuUVxWHbBG2w&oe=6ACEC9CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHPbsXy&_nc_oc=Adr501-DwNaWG9c5Go2zHd3GZ989CzRh8BdbM9TUZcCsFX0FGkpoTQTmwgBHgbwT3wRm1H1If7U_jxMgTS8OVfqJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7n2qm985av9c9sss8oGeQg&_nc_ss=70689&oh=00_AQMyJrfyAsCL-Ok5YNMvtiC51JrOzIOtBAUuUVxWHbBG2w&oe=6ACEC9CB",
+        "total_posts": 5480
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 701266,
       "valor_atual": 702040,
-      "hash_anterior": "ccb3cb748b2c11da0fbda1aa1561621de878d6dc7dc5ef247999a298398e6d4e",
-      "hash_atual": "7654ecd6c243910909920819c2255ce571781a00dc04e4dc53ceb4385356dafc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 774,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2932,15 +3129,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHPbsXy&_nc_oc=Adr501-DwNaWG9c5Go2zHd3GZ989CzRh8BdbM9TUZcCsFX0FGkpoTQTmwgBHgbwT3wRm1H1If7U_jxMgTS8OVfqJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7n2qm985av9c9sss8oGeQg&_nc_ss=70689&oh=00_AQMyJrfyAsCL-Ok5YNMvtiC51JrOzIOtBAUuUVxWHbBG2w&oe=6ACEC9CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sCc2_rTh6JsQ7kNvwHPbsXy&_nc_oc=Adr501-DwNaWG9c5Go2zHd3GZ989CzRh8BdbM9TUZcCsFX0FGkpoTQTmwgBHgbwT3wRm1H1If7U_jxMgTS8OVfqJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7n2qm985av9c9sss8oGeQg&_nc_ss=70689&oh=00_AQMyJrfyAsCL-Ok5YNMvtiC51JrOzIOtBAUuUVxWHbBG2w&oe=6ACEC9CB",
+        "total_posts": 5480
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5479,
       "valor_atual": 5480,
-      "hash_anterior": "ccb3cb748b2c11da0fbda1aa1561621de878d6dc7dc5ef247999a298398e6d4e",
-      "hash_atual": "7654ecd6c243910909920819c2255ce571781a00dc04e4dc53ceb4385356dafc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2951,7 +3149,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.479 para 5.480",
       "variacao_texto": "+1 post"
     },
@@ -2967,15 +3165,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwH6mfsG&_nc_oc=AdrR0poSHzyA-XYpkJjxbD-r6rFmeRsDc54y97Txy6-NUjaG85c-pHNuDl_7L8C0zzAENYJDvwyC_v4fTaUSASx5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L5hWtU4HiujVCIvNAhc9IA&_nc_ss=70689&oh=00_AQNtENwEFc6qISrH_78MP4V31zRI9nNgVJR_LeZQxfYZoA&oe=6ACDE8CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwH6mfsG&_nc_oc=AdrR0poSHzyA-XYpkJjxbD-r6rFmeRsDc54y97Txy6-NUjaG85c-pHNuDl_7L8C0zzAENYJDvwyC_v4fTaUSASx5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L5hWtU4HiujVCIvNAhc9IA&_nc_ss=70689&oh=00_AQNtENwEFc6qISrH_78MP4V31zRI9nNgVJR_LeZQxfYZoA&oe=6ACDE8CB",
+        "total_posts": 5479
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 700885,
       "valor_atual": 701266,
-      "hash_anterior": "11326c313b37abf485602aef66f4615344c41f84a59bb7a6f3f02dd2a2f9efd6",
-      "hash_atual": "ccb3cb748b2c11da0fbda1aa1561621de878d6dc7dc5ef247999a298398e6d4e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 381,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3002,15 +3201,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwH6mfsG&_nc_oc=AdrR0poSHzyA-XYpkJjxbD-r6rFmeRsDc54y97Txy6-NUjaG85c-pHNuDl_7L8C0zzAENYJDvwyC_v4fTaUSASx5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L5hWtU4HiujVCIvNAhc9IA&_nc_ss=70689&oh=00_AQNtENwEFc6qISrH_78MP4V31zRI9nNgVJR_LeZQxfYZoA&oe=6ACDE8CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwH6mfsG&_nc_oc=AdrR0poSHzyA-XYpkJjxbD-r6rFmeRsDc54y97Txy6-NUjaG85c-pHNuDl_7L8C0zzAENYJDvwyC_v4fTaUSASx5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L5hWtU4HiujVCIvNAhc9IA&_nc_ss=70689&oh=00_AQNtENwEFc6qISrH_78MP4V31zRI9nNgVJR_LeZQxfYZoA&oe=6ACDE8CB",
+        "total_posts": 5479
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7588,
       "valor_atual": 7590,
-      "hash_anterior": "11326c313b37abf485602aef66f4615344c41f84a59bb7a6f3f02dd2a2f9efd6",
-      "hash_atual": "ccb3cb748b2c11da0fbda1aa1561621de878d6dc7dc5ef247999a298398e6d4e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3037,15 +3237,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwH6mfsG&_nc_oc=AdrR0poSHzyA-XYpkJjxbD-r6rFmeRsDc54y97Txy6-NUjaG85c-pHNuDl_7L8C0zzAENYJDvwyC_v4fTaUSASx5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L5hWtU4HiujVCIvNAhc9IA&_nc_ss=70689&oh=00_AQNtENwEFc6qISrH_78MP4V31zRI9nNgVJR_LeZQxfYZoA&oe=6ACDE8CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwH6mfsG&_nc_oc=AdrR0poSHzyA-XYpkJjxbD-r6rFmeRsDc54y97Txy6-NUjaG85c-pHNuDl_7L8C0zzAENYJDvwyC_v4fTaUSASx5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L5hWtU4HiujVCIvNAhc9IA&_nc_ss=70689&oh=00_AQNtENwEFc6qISrH_78MP4V31zRI9nNgVJR_LeZQxfYZoA&oe=6ACDE8CB",
+        "total_posts": 5479
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5478,
       "valor_atual": 5479,
-      "hash_anterior": "11326c313b37abf485602aef66f4615344c41f84a59bb7a6f3f02dd2a2f9efd6",
-      "hash_atual": "ccb3cb748b2c11da0fbda1aa1561621de878d6dc7dc5ef247999a298398e6d4e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3056,7 +3257,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.478 para 5.479",
       "variacao_texto": "+1 post"
     },
@@ -3072,15 +3273,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFiQZiP&_nc_oc=Ado1bm-AF_0WfU19fx9zvqoIbE7bwJl-e8KeFvqpmlPu7CWC-5ymdSLxx99gZjT7pdvKzeVpdvpwNXLs4UAot1eY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ui8hluFrDo75tZHSos4XGA&_nc_ss=70689&oh=00_AQMwrcytRGGahivMz6vrIjaGrhRB1ZQ_6jsFAX0OAnMs8g&oe=6ACD400B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFiQZiP&_nc_oc=Ado1bm-AF_0WfU19fx9zvqoIbE7bwJl-e8KeFvqpmlPu7CWC-5ymdSLxx99gZjT7pdvKzeVpdvpwNXLs4UAot1eY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ui8hluFrDo75tZHSos4XGA&_nc_ss=70689&oh=00_AQMwrcytRGGahivMz6vrIjaGrhRB1ZQ_6jsFAX0OAnMs8g&oe=6ACD400B",
+        "total_posts": 5478
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 699932,
       "valor_atual": 700885,
-      "hash_anterior": "6108e0b6f737619d3e61c3da5f9f52f437a17dc2e4a33982c94880684860d200",
-      "hash_atual": "11326c313b37abf485602aef66f4615344c41f84a59bb7a6f3f02dd2a2f9efd6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 953,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3107,15 +3309,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFiQZiP&_nc_oc=Ado1bm-AF_0WfU19fx9zvqoIbE7bwJl-e8KeFvqpmlPu7CWC-5ymdSLxx99gZjT7pdvKzeVpdvpwNXLs4UAot1eY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ui8hluFrDo75tZHSos4XGA&_nc_ss=70689&oh=00_AQMwrcytRGGahivMz6vrIjaGrhRB1ZQ_6jsFAX0OAnMs8g&oe=6ACD400B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFiQZiP&_nc_oc=Ado1bm-AF_0WfU19fx9zvqoIbE7bwJl-e8KeFvqpmlPu7CWC-5ymdSLxx99gZjT7pdvKzeVpdvpwNXLs4UAot1eY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ui8hluFrDo75tZHSos4XGA&_nc_ss=70689&oh=00_AQMwrcytRGGahivMz6vrIjaGrhRB1ZQ_6jsFAX0OAnMs8g&oe=6ACD400B",
+        "total_posts": 5478
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5476,
       "valor_atual": 5478,
-      "hash_anterior": "6108e0b6f737619d3e61c3da5f9f52f437a17dc2e4a33982c94880684860d200",
-      "hash_atual": "11326c313b37abf485602aef66f4615344c41f84a59bb7a6f3f02dd2a2f9efd6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3126,7 +3329,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 5.476 para 5.478",
       "variacao_texto": "+2 posts"
     },
@@ -3142,15 +3345,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFZdCH8&_nc_oc=Adry12V3pinTiZx8HrK9P98Kb7OFDMYbvpn4AKZo-a7UNlKQNYCiJaiFJXuN07O5oBDxgSbGxDtlDHUy3mSgGSAu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Klf5hL_VfhWOgoWzA1yI7w&_nc_ss=70689&oh=00_AQMNUCs6hbbs79pCXlJqkn8BgJrQSV94uidMp-9wvhpSzg&oe=6ACC974B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFZdCH8&_nc_oc=Adry12V3pinTiZx8HrK9P98Kb7OFDMYbvpn4AKZo-a7UNlKQNYCiJaiFJXuN07O5oBDxgSbGxDtlDHUy3mSgGSAu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Klf5hL_VfhWOgoWzA1yI7w&_nc_ss=70689&oh=00_AQMNUCs6hbbs79pCXlJqkn8BgJrQSV94uidMp-9wvhpSzg&oe=6ACC974B",
+        "total_posts": 5476
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 699921,
       "valor_atual": 699932,
-      "hash_anterior": "f6eba564ad374f158123dbb580db1ab8f86f9fd3392dee3f34da041fb7b8db54",
-      "hash_atual": "6108e0b6f737619d3e61c3da5f9f52f437a17dc2e4a33982c94880684860d200",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3177,15 +3381,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFZdCH8&_nc_oc=Adry12V3pinTiZx8HrK9P98Kb7OFDMYbvpn4AKZo-a7UNlKQNYCiJaiFJXuN07O5oBDxgSbGxDtlDHUy3mSgGSAu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9V7npqciL1JqZqhwEESXg&_nc_ss=70689&oh=00_AQPY-0GJUTzghu7CXN5fSQYfZeQb8n7PBO6EgGA3HLlFmQ&oe=6ACC974B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFZdCH8&_nc_oc=Adry12V3pinTiZx8HrK9P98Kb7OFDMYbvpn4AKZo-a7UNlKQNYCiJaiFJXuN07O5oBDxgSbGxDtlDHUy3mSgGSAu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9V7npqciL1JqZqhwEESXg&_nc_ss=70689&oh=00_AQPY-0GJUTzghu7CXN5fSQYfZeQb8n7PBO6EgGA3HLlFmQ&oe=6ACC974B",
+        "total_posts": 5476
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 699554,
       "valor_atual": 699921,
-      "hash_anterior": "90c442d1eccf1543949b9c999dadb189e67c11d80f292f9654fdf2076336a788",
-      "hash_atual": "f6eba564ad374f158123dbb580db1ab8f86f9fd3392dee3f34da041fb7b8db54",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 367,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3212,15 +3417,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFZdCH8&_nc_oc=Adry12V3pinTiZx8HrK9P98Kb7OFDMYbvpn4AKZo-a7UNlKQNYCiJaiFJXuN07O5oBDxgSbGxDtlDHUy3mSgGSAu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9V7npqciL1JqZqhwEESXg&_nc_ss=70689&oh=00_AQPY-0GJUTzghu7CXN5fSQYfZeQb8n7PBO6EgGA3HLlFmQ&oe=6ACC974B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwFZdCH8&_nc_oc=Adry12V3pinTiZx8HrK9P98Kb7OFDMYbvpn4AKZo-a7UNlKQNYCiJaiFJXuN07O5oBDxgSbGxDtlDHUy3mSgGSAu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R9V7npqciL1JqZqhwEESXg&_nc_ss=70689&oh=00_AQPY-0GJUTzghu7CXN5fSQYfZeQb8n7PBO6EgGA3HLlFmQ&oe=6ACC974B",
+        "total_posts": 5476
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7587,
       "valor_atual": 7588,
-      "hash_anterior": "90c442d1eccf1543949b9c999dadb189e67c11d80f292f9654fdf2076336a788",
-      "hash_atual": "f6eba564ad374f158123dbb580db1ab8f86f9fd3392dee3f34da041fb7b8db54",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3247,15 +3453,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHv2jRM&_nc_oc=Adozk85YtYjVXwvgT_y2HP8ZyvQOmhr5uLI61x33sqXrLsiiLm71AF8b68Yek40cbxEzA4qh1mcoKYeyoTtd3OL6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0M_XMnN_0l6ZIgNt4aKbyg&_nc_ss=70689&oh=00_AQPVl5RVmKwuu91pjUJXHFdsneye8E0NsVR5XmPDlg94bw&oe=6ACC26CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHv2jRM&_nc_oc=Adozk85YtYjVXwvgT_y2HP8ZyvQOmhr5uLI61x33sqXrLsiiLm71AF8b68Yek40cbxEzA4qh1mcoKYeyoTtd3OL6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0M_XMnN_0l6ZIgNt4aKbyg&_nc_ss=70689&oh=00_AQPVl5RVmKwuu91pjUJXHFdsneye8E0NsVR5XmPDlg94bw&oe=6ACC26CB",
+        "total_posts": 5476
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 699537,
       "valor_atual": 699554,
-      "hash_anterior": "123c7868caa750dbed97efe24b611a28a4d6e0ac92d31765d8132ea03a0be453",
-      "hash_atual": "90c442d1eccf1543949b9c999dadb189e67c11d80f292f9654fdf2076336a788",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 17,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3282,15 +3489,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHv2jRM&_nc_oc=Adozk85YtYjVXwvgT_y2HP8ZyvQOmhr5uLI61x33sqXrLsiiLm71AF8b68Yek40cbxEzA4qh1mcoKYeyoTtd3OL6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Dv3ZDWFMeLVoMcRCd7Udaw&_nc_ss=70689&oh=00_AQNwMhsJXbZ34ovjRLe-vq7x09zVT8vtK-_9PVrzf4rQDQ&oe=6ACC26CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHv2jRM&_nc_oc=Adozk85YtYjVXwvgT_y2HP8ZyvQOmhr5uLI61x33sqXrLsiiLm71AF8b68Yek40cbxEzA4qh1mcoKYeyoTtd3OL6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Dv3ZDWFMeLVoMcRCd7Udaw&_nc_ss=70689&oh=00_AQNwMhsJXbZ34ovjRLe-vq7x09zVT8vtK-_9PVrzf4rQDQ&oe=6ACC26CB",
+        "total_posts": 5476
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 698590,
       "valor_atual": 699537,
-      "hash_anterior": "7393f4d27507292596427b614fe4b9bce66c8b82fd48a67415f3db525939e2ad",
-      "hash_atual": "123c7868caa750dbed97efe24b611a28a4d6e0ac92d31765d8132ea03a0be453",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 947,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3317,15 +3525,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHv2jRM&_nc_oc=Adozk85YtYjVXwvgT_y2HP8ZyvQOmhr5uLI61x33sqXrLsiiLm71AF8b68Yek40cbxEzA4qh1mcoKYeyoTtd3OL6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Dv3ZDWFMeLVoMcRCd7Udaw&_nc_ss=70689&oh=00_AQNwMhsJXbZ34ovjRLe-vq7x09zVT8vtK-_9PVrzf4rQDQ&oe=6ACC26CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHv2jRM&_nc_oc=Adozk85YtYjVXwvgT_y2HP8ZyvQOmhr5uLI61x33sqXrLsiiLm71AF8b68Yek40cbxEzA4qh1mcoKYeyoTtd3OL6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Dv3ZDWFMeLVoMcRCd7Udaw&_nc_ss=70689&oh=00_AQNwMhsJXbZ34ovjRLe-vq7x09zVT8vtK-_9PVrzf4rQDQ&oe=6ACC26CB",
+        "total_posts": 5476
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5475,
       "valor_atual": 5476,
-      "hash_anterior": "7393f4d27507292596427b614fe4b9bce66c8b82fd48a67415f3db525939e2ad",
-      "hash_atual": "123c7868caa750dbed97efe24b611a28a4d6e0ac92d31765d8132ea03a0be453",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3336,7 +3545,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.475 para 5.476",
       "variacao_texto": "+1 post"
     },
@@ -3352,15 +3561,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=emR_QiebUUIawNqyVjE_PA&_nc_ss=70689&oh=00_AQN4ZkGP3OM5p8MlUkz4b1glETKvW4NMjQieK59iVRJ9NA&oe=6ACB7E0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=emR_QiebUUIawNqyVjE_PA&_nc_ss=70689&oh=00_AQN4ZkGP3OM5p8MlUkz4b1glETKvW4NMjQieK59iVRJ9NA&oe=6ACB7E0B",
+        "total_posts": 5475
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 698219,
       "valor_atual": 698590,
-      "hash_anterior": "51c23da0e2c6d3cca3d6cb6b06333b50aca37b772b55c9b0562761e1224b4c6f",
-      "hash_atual": "7393f4d27507292596427b614fe4b9bce66c8b82fd48a67415f3db525939e2ad",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 371,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3387,15 +3597,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=emR_QiebUUIawNqyVjE_PA&_nc_ss=70689&oh=00_AQN4ZkGP3OM5p8MlUkz4b1glETKvW4NMjQieK59iVRJ9NA&oe=6ACB7E0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=emR_QiebUUIawNqyVjE_PA&_nc_ss=70689&oh=00_AQN4ZkGP3OM5p8MlUkz4b1glETKvW4NMjQieK59iVRJ9NA&oe=6ACB7E0B",
+        "total_posts": 5475
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5474,
       "valor_atual": 5475,
-      "hash_anterior": "51c23da0e2c6d3cca3d6cb6b06333b50aca37b772b55c9b0562761e1224b4c6f",
-      "hash_atual": "7393f4d27507292596427b614fe4b9bce66c8b82fd48a67415f3db525939e2ad",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3406,7 +3617,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.474 para 5.475",
       "variacao_texto": "+1 post"
     },
@@ -3422,15 +3633,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zyLRNxZqlbTbaWU1aQGwaQ&_nc_ss=70689&oh=00_AQM9Regx-4ySkh1gSRxvPC7pUdKNwOYoE0Fc1m_d9heqWg&oe=6ACB7E0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zyLRNxZqlbTbaWU1aQGwaQ&_nc_ss=70689&oh=00_AQM9Regx-4ySkh1gSRxvPC7pUdKNwOYoE0Fc1m_d9heqWg&oe=6ACB7E0B",
+        "total_posts": 5474
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 697987,
       "valor_atual": 698219,
-      "hash_anterior": "cdbfe597ba8ed78dced2a60184df1457d517ecd733e9bdae0868cba9ef454f20",
-      "hash_atual": "51c23da0e2c6d3cca3d6cb6b06333b50aca37b772b55c9b0562761e1224b4c6f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 232,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3457,15 +3669,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UcRdZN47Ckcw6lFjFbZs8w&_nc_ss=70689&oh=00_AQMjsqYPXCcs7wcOgyKOy-TVytZ7FlZYUNBoFYXtCnUuaw&oe=6ACB45CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UcRdZN47Ckcw6lFjFbZs8w&_nc_ss=70689&oh=00_AQMjsqYPXCcs7wcOgyKOy-TVytZ7FlZYUNBoFYXtCnUuaw&oe=6ACB45CB",
+        "total_posts": 5474
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 697668,
       "valor_atual": 697987,
-      "hash_anterior": "21ab25794a9efbe9b7f84356882e6bf0e49df7105a37156555186102fe9c3777",
-      "hash_atual": "cdbfe597ba8ed78dced2a60184df1457d517ecd733e9bdae0868cba9ef454f20",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 319,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3492,15 +3705,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YMa0u_bRXqN2LtJ9t4g4vw&_nc_ss=70689&oh=00_AQN0OyHo9RzHET-ipvgha83KP4AQZs6tDpC5qN3_BTkfzw&oe=6ACB45CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YMa0u_bRXqN2LtJ9t4g4vw&_nc_ss=70689&oh=00_AQN0OyHo9RzHET-ipvgha83KP4AQZs6tDpC5qN3_BTkfzw&oe=6ACB45CB",
+        "total_posts": 5474
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 697638,
       "valor_atual": 697668,
-      "hash_anterior": "9f8c008c963cc666094c0ff90a4176fb0d68418f20deecf71f80b9eefe1e61fa",
-      "hash_atual": "21ab25794a9efbe9b7f84356882e6bf0e49df7105a37156555186102fe9c3777",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 30,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3527,15 +3741,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YMa0u_bRXqN2LtJ9t4g4vw&_nc_ss=70689&oh=00_AQN0OyHo9RzHET-ipvgha83KP4AQZs6tDpC5qN3_BTkfzw&oe=6ACB45CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YMa0u_bRXqN2LtJ9t4g4vw&_nc_ss=70689&oh=00_AQN0OyHo9RzHET-ipvgha83KP4AQZs6tDpC5qN3_BTkfzw&oe=6ACB45CB",
+        "total_posts": 5474
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5473,
       "valor_atual": 5474,
-      "hash_anterior": "9f8c008c963cc666094c0ff90a4176fb0d68418f20deecf71f80b9eefe1e61fa",
-      "hash_atual": "21ab25794a9efbe9b7f84356882e6bf0e49df7105a37156555186102fe9c3777",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3546,7 +3761,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.473 para 5.474",
       "variacao_texto": "+1 post"
     },
@@ -3562,15 +3777,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=B1qWa3Ov3DqD2GvuubHpTA&_nc_ss=70689&oh=00_AQPfzrbiyMv3ComM9FbWs-V3khzs_ssYl_Oksztq9SCW4Q&oe=6ACB45CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=B1qWa3Ov3DqD2GvuubHpTA&_nc_ss=70689&oh=00_AQPfzrbiyMv3ComM9FbWs-V3khzs_ssYl_Oksztq9SCW4Q&oe=6ACB45CB",
+        "total_posts": 5473
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 696997,
       "valor_atual": 697638,
-      "hash_anterior": "f3f390379efc429a9f0e55e8f29d84ff11762fb33873ea2be2f8ee6872c1167a",
-      "hash_atual": "9f8c008c963cc666094c0ff90a4176fb0d68418f20deecf71f80b9eefe1e61fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 641,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3597,15 +3813,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=B1qWa3Ov3DqD2GvuubHpTA&_nc_ss=70689&oh=00_AQPfzrbiyMv3ComM9FbWs-V3khzs_ssYl_Oksztq9SCW4Q&oe=6ACB45CB"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwE7n9uY&_nc_oc=Adq42-jj6A-V9efsjncnzyqMXcTQylyEK72FO9b8rwXioSHvAy0JOAjzBq2E42DIhizgT1sdkJnmwNKFZlKZ-F5B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=B1qWa3Ov3DqD2GvuubHpTA&_nc_ss=70689&oh=00_AQPfzrbiyMv3ComM9FbWs-V3khzs_ssYl_Oksztq9SCW4Q&oe=6ACB45CB",
+        "total_posts": 5473
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5472,
       "valor_atual": 5473,
-      "hash_anterior": "f3f390379efc429a9f0e55e8f29d84ff11762fb33873ea2be2f8ee6872c1167a",
-      "hash_atual": "9f8c008c963cc666094c0ff90a4176fb0d68418f20deecf71f80b9eefe1e61fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3616,7 +3833,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.472 para 5.473",
       "variacao_texto": "+1 post"
     },
@@ -3632,15 +3849,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BAEBJLmpx3040sYOH71sXQ&_nc_ss=70689&oh=00_AQOeXP2dkSwb8_QgGwYh5IaRp_to6bevemYX_oF6UyAAtw&oe=6ACB0D8B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BAEBJLmpx3040sYOH71sXQ&_nc_ss=70689&oh=00_AQOeXP2dkSwb8_QgGwYh5IaRp_to6bevemYX_oF6UyAAtw&oe=6ACB0D8B",
+        "total_posts": 5472
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 696082,
       "valor_atual": 696997,
-      "hash_anterior": "8dac6fe7a4bb57ba3403e5c8d99d9406d3b31f0f73c10f8a440d230f22a75ca1",
-      "hash_atual": "f3f390379efc429a9f0e55e8f29d84ff11762fb33873ea2be2f8ee6872c1167a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 915,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3667,15 +3885,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BAEBJLmpx3040sYOH71sXQ&_nc_ss=70689&oh=00_AQOeXP2dkSwb8_QgGwYh5IaRp_to6bevemYX_oF6UyAAtw&oe=6ACB0D8B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BAEBJLmpx3040sYOH71sXQ&_nc_ss=70689&oh=00_AQOeXP2dkSwb8_QgGwYh5IaRp_to6bevemYX_oF6UyAAtw&oe=6ACB0D8B",
+        "total_posts": 5472
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 7586,
       "valor_atual": 7587,
-      "hash_anterior": "8dac6fe7a4bb57ba3403e5c8d99d9406d3b31f0f73c10f8a440d230f22a75ca1",
-      "hash_atual": "f3f390379efc429a9f0e55e8f29d84ff11762fb33873ea2be2f8ee6872c1167a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3702,15 +3921,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYqjQagZfFgs2E99rrE17g&_nc_ss=70689&oh=00_AQMiI8mwS_WOrlKA_ltBdXqq_L9z1gB8Q3o48EzTGCUxWw&oe=6ACAD54B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYqjQagZfFgs2E99rrE17g&_nc_ss=70689&oh=00_AQMiI8mwS_WOrlKA_ltBdXqq_L9z1gB8Q3o48EzTGCUxWw&oe=6ACAD54B",
+        "total_posts": 5472
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 693170,
       "valor_atual": 696082,
-      "hash_anterior": "2dc74f6e806a8b15f1312f57c773561fd8050c253eccf1127b64657563af3f80",
-      "hash_atual": "8dac6fe7a4bb57ba3403e5c8d99d9406d3b31f0f73c10f8a440d230f22a75ca1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2912,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3737,15 +3957,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYqjQagZfFgs2E99rrE17g&_nc_ss=70689&oh=00_AQMiI8mwS_WOrlKA_ltBdXqq_L9z1gB8Q3o48EzTGCUxWw&oe=6ACAD54B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rgAF5NF9EXgQ7kNvwHA712b&_nc_oc=AdonRUXx8Kp49PbEAOca-9cktlnLoyRWllSDUs5OcOmalLEiRuLflJzRsZAfpkyziDBBF2gVK7QHb8DE8LuuxwvQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYqjQagZfFgs2E99rrE17g&_nc_ss=70689&oh=00_AQMiI8mwS_WOrlKA_ltBdXqq_L9z1gB8Q3o48EzTGCUxWw&oe=6ACAD54B",
+        "total_posts": 5472
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5470,
       "valor_atual": 5472,
-      "hash_anterior": "2dc74f6e806a8b15f1312f57c773561fd8050c253eccf1127b64657563af3f80",
-      "hash_atual": "8dac6fe7a4bb57ba3403e5c8d99d9406d3b31f0f73c10f8a440d230f22a75ca1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3756,7 +3977,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 5.470 para 5.472",
       "variacao_texto": "+2 posts"
     },
@@ -3772,15 +3993,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8IoJ06E4W25TlqmBykpWMw&_nc_ss=70689&oh=00_AQMiK49aooa5OH_x6Aq4bYC9OrBhBsaFBmmb4a--md7XcQ&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8IoJ06E4W25TlqmBykpWMw&_nc_ss=70689&oh=00_AQMiK49aooa5OH_x6Aq4bYC9OrBhBsaFBmmb4a--md7XcQ&oe=6AC9F44B",
+        "total_posts": 5470
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 692839,
       "valor_atual": 693170,
-      "hash_anterior": "ef2105ce535dfc1acc167f129188f881868fa68f7b1cb66da9eadb886dd46647",
-      "hash_atual": "2dc74f6e806a8b15f1312f57c773561fd8050c253eccf1127b64657563af3f80",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 331,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3807,15 +4029,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8IoJ06E4W25TlqmBykpWMw&_nc_ss=70689&oh=00_AQMiK49aooa5OH_x6Aq4bYC9OrBhBsaFBmmb4a--md7XcQ&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8IoJ06E4W25TlqmBykpWMw&_nc_ss=70689&oh=00_AQMiK49aooa5OH_x6Aq4bYC9OrBhBsaFBmmb4a--md7XcQ&oe=6AC9F44B",
+        "total_posts": 5470
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5468,
       "valor_atual": 5470,
-      "hash_anterior": "ef2105ce535dfc1acc167f129188f881868fa68f7b1cb66da9eadb886dd46647",
-      "hash_atual": "2dc74f6e806a8b15f1312f57c773561fd8050c253eccf1127b64657563af3f80",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3826,7 +4049,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 5.468 para 5.470",
       "variacao_texto": "+2 posts"
     },
@@ -3842,15 +4065,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DLckB-6WD6NPT8tQ49vDHg&_nc_ss=70689&oh=00_AQM_WLmOumJVkchxE8Yky6q0MomDBfwudXn24N-b8Nzozg&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DLckB-6WD6NPT8tQ49vDHg&_nc_ss=70689&oh=00_AQM_WLmOumJVkchxE8Yky6q0MomDBfwudXn24N-b8Nzozg&oe=6AC9F44B",
+        "total_posts": 5468
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 692815,
       "valor_atual": 692839,
-      "hash_anterior": "16a6b9b90bd586a5a4e736399b4df36fde107deb03cad10f6b7f25d988087c15",
-      "hash_atual": "ef2105ce535dfc1acc167f129188f881868fa68f7b1cb66da9eadb886dd46647",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 24,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3877,15 +4101,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0XyMus-LyMaBFGYf2VSCKw&_nc_ss=70689&oh=00_AQPHnHTYmgk9CKT5eLN4QOA4or8zID7I05mmeH_USQjBtA&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0XyMus-LyMaBFGYf2VSCKw&_nc_ss=70689&oh=00_AQPHnHTYmgk9CKT5eLN4QOA4or8zID7I05mmeH_USQjBtA&oe=6AC9F44B",
+        "total_posts": 5468
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 692628,
       "valor_atual": 692815,
-      "hash_anterior": "d41c4b09149517defbfd957e90df51d71e14e53a4aa2bf7c6686cee6264936dc",
-      "hash_atual": "16a6b9b90bd586a5a4e736399b4df36fde107deb03cad10f6b7f25d988087c15",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 187,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3912,15 +4137,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0XyMus-LyMaBFGYf2VSCKw&_nc_ss=70689&oh=00_AQPHnHTYmgk9CKT5eLN4QOA4or8zID7I05mmeH_USQjBtA&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0XyMus-LyMaBFGYf2VSCKw&_nc_ss=70689&oh=00_AQPHnHTYmgk9CKT5eLN4QOA4or8zID7I05mmeH_USQjBtA&oe=6AC9F44B",
+        "total_posts": 5468
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5467,
       "valor_atual": 5468,
-      "hash_anterior": "d41c4b09149517defbfd957e90df51d71e14e53a4aa2bf7c6686cee6264936dc",
-      "hash_atual": "16a6b9b90bd586a5a4e736399b4df36fde107deb03cad10f6b7f25d988087c15",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3931,7 +4157,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 5.467 para 5.468",
       "variacao_texto": "+1 post"
     },
@@ -3947,15 +4173,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wg8MXEJZEOj6K0GD57STUQ&_nc_ss=70689&oh=00_AQN1e3xsSvn0sD9ilt22fIfkuWKy9xFHFWP2uBajEXwjFw&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wg8MXEJZEOj6K0GD57STUQ&_nc_ss=70689&oh=00_AQN1e3xsSvn0sD9ilt22fIfkuWKy9xFHFWP2uBajEXwjFw&oe=6AC9F44B",
+        "total_posts": 5467
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 687774,
       "valor_atual": 692628,
-      "hash_anterior": "aae50c2f4a6256e2a3d0b4e7b4115ec1885c4170995f8acccf4aed0a7161fbc4",
-      "hash_atual": "d41c4b09149517defbfd957e90df51d71e14e53a4aa2bf7c6686cee6264936dc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4854,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3982,15 +4209,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wg8MXEJZEOj6K0GD57STUQ&_nc_ss=70689&oh=00_AQN1e3xsSvn0sD9ilt22fIfkuWKy9xFHFWP2uBajEXwjFw&oe=6AC9F44B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwGTlI4S&_nc_oc=Adr-7dWczzqYLZG1f2pVEXIy6Ktfz4jm92bvuucK4MZamjWxJR7pwba1TNTxWzTb7rl6hGLZRkSeYt0rJ2Mk_m-L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wg8MXEJZEOj6K0GD57STUQ&_nc_ss=70689&oh=00_AQN1e3xsSvn0sD9ilt22fIfkuWKy9xFHFWP2uBajEXwjFw&oe=6AC9F44B",
+        "total_posts": 5467
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 5461,
       "valor_atual": 5467,
-      "hash_anterior": "aae50c2f4a6256e2a3d0b4e7b4115ec1885c4170995f8acccf4aed0a7161fbc4",
-      "hash_atual": "d41c4b09149517defbfd957e90df51d71e14e53a4aa2bf7c6686cee6264936dc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -4001,7 +4229,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 6 posts",
+      "titulo": "Publicou 6 publicações",
       "descricao": "O total mudou de 5.461 para 5.467",
       "variacao_texto": "+6 posts"
     },
@@ -4017,15 +4245,16 @@
         "id": "17841400544980416",
         "username": "erthalera",
         "nome": "Daniel Erthal / Artista / Venda",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwFaBlG6&_nc_oc=AdoFzG4hjp6UiU0iXTXsGFIrgW1pxdegJBjizffaUiFRnoHhz6kArhX3khLSR6adGnX1rzlY4jjvQrRXV0e6oVmI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XqWtnEai9R5lB9TfKE9G9w&_nc_ss=70689&oh=00_AQOmh1SbtZ2CIJy773E1hPf5BE04guBgpALopr7vrcKXuA&oe=6AC8DB0B"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/806280675_18630385567018167_7339114983232748867_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JanswaHWcQsQ7kNvwFaBlG6&_nc_oc=AdoFzG4hjp6UiU0iXTXsGFIrgW1pxdegJBjizffaUiFRnoHhz6kArhX3khLSR6adGnX1rzlY4jjvQrRXV0e6oVmI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XqWtnEai9R5lB9TfKE9G9w&_nc_ss=70689&oh=00_AQOmh1SbtZ2CIJy773E1hPf5BE04guBgpALopr7vrcKXuA&oe=6AC8DB0B",
+        "total_posts": 5461
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 686822,
       "valor_atual": 687774,
-      "hash_anterior": "d37a3afef29eb62c0a3a7d431b37c7640c4461581ea2e70a8c52b835283464e4",
-      "hash_atual": "aae50c2f4a6256e2a3d0b4e7b4115ec1885c4170995f8acccf4aed0a7161fbc4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 952,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4044,34 +4273,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:05.068806",
-    "captura_mais_recente": "2026-11-03T12:18:40.937576",
-    "tempo_total_segundos": 2571695,
-    "tempo_total_dias": 29.764988,
-    "tempo_total_texto": "29 dias, 18 horas, 21 minutos e 35 segundos",
+    "captura_mais_recente": "2026-11-19T16:26:12.114597",
+    "tempo_total_segundos": 3968947,
+    "tempo_total_dias": 45.936887,
+    "tempo_total_texto": "45 dias, 22 horas, 29 minutos e 7 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -5802,
+    "1_dias": {
+      "variacao": -2025,
       "direcao": "perdeu",
-      "quantidade": 5802,
-      "texto": "Perdeu 5802 seguidores",
+      "quantidade": 2025,
+      "texto": "Perdeu 2025 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:07:08.709062",
-      "captura_fim": "2026-11-03T12:18:40.937576",
-      "seguidores_inicio": 723831,
-      "seguidores_fim": 718029
+      "captura_inicio": "2026-11-03T12:18:40.937576",
+      "captura_fim": "2026-11-19T16:26:12.114597",
+      "seguidores_inicio": 718029,
+      "seguidores_fim": 716004
+    },
+    "7_dias": {
+      "variacao": -2025,
+      "direcao": "perdeu",
+      "quantidade": 2025,
+      "texto": "Perdeu 2025 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:18:40.937576",
+      "captura_fim": "2026-11-19T16:26:12.114597",
+      "seguidores_inicio": 718029,
+      "seguidores_fim": 716004
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 3959,
+      "direcao": "ganhou",
+      "quantidade": 3959,
+      "texto": "Ganhou 3959 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:24:22.955043",
+      "captura_fim": "2026-11-19T16:26:12.114597",
+      "seguidores_inicio": 712045,
+      "seguidores_fim": 716004
     },
     "90_dias": {
       "variacao": null,
@@ -4082,17 +4327,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 31207,
+      "variacao": 29182,
       "direcao": "ganhou",
-      "quantidade": 31207,
-      "texto": "Ganhou 31207 seguidores",
+      "quantidade": 29182,
+      "texto": "Ganhou 29182 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:05.068806",
-      "captura_mais_recente": "2026-11-03T12:18:40.937576",
-      "tempo_total_dias": 29.764998,
+      "captura_mais_recente": "2026-11-19T16:26:12.114597",
+      "tempo_total_dias": 45.936887,
       "seguidores_inicio": 686822,
-      "seguidores_fim": 718029
+      "seguidores_fim": 716004
     }
   }
 }

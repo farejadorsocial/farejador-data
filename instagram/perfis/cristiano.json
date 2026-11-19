@@ -8,7 +8,8 @@
       "id": "17841401692602711",
       "username": "cristiano",
       "nome": "Cristiano Ronaldo",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VsZqo5WFr-oQ7kNvwErb9aB&_nc_oc=AdpnEy8JwNtbAjF1ZT3RshyxvctijD8xndcLopyXABcrzyvDN_RwIIEypsMsMAN01oJ7Dov-PyYIwFKAO9GKhiJQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQRcNkmFmvg_x0qTIBrPHczoZO4SzX1Ggr7JqujBH0KGLQ&oe=6AEFBC1E"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OwmGEpzmgf8Q7kNvwG0x45t&_nc_oc=AdqQd8l_A-NmIijXHO3qDPgKCM6SQPwPpkap0971bwTe5gw6w_G1e3WJj5rR9fIaELgmRajMZ-EzBL1ylGIyw9CZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQvSIGa7hJ7OE4H1BTjPJYuGu13Ox-xNMMXoxplDS45lQ&oe=6B050C5E",
+      "total_posts": 4158
     },
     "biografia": [
       {
@@ -20,43 +21,49 @@
         "tipo": "inicial"
       }
     ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "atletas",
-        "valor_atual": "atleta",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"atletas\" para \"atleta\"",
-        "timestamp": "2026-10-05T20:54:00.924818",
-        "timestamp_anterior": "2026-10-05T20:39:59.925315",
-        "tempo_desde_anterior_segundos": 840
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "atleta",
-        "valor_atual": "atletas",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"atleta\" para \"atletas\"",
-        "timestamp": "2026-10-05T20:39:59.925315",
-        "timestamp_anterior": "2026-10-04T13:20:19.931037",
-        "tempo_desde_anterior_segundos": 112779
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "atleta",
-        "timestamp": "2026-10-04T13:20:19.931037",
-        "tipo": "inicial"
-      }
-    ],
     "links": [
+      {
+        "plataforma": "instagram",
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [
+          {
+            "url": "https://hrbl.me/CR7Pro2col"
+          },
+          {
+            "url": "http://perplexity.ai/ronaldo"
+          },
+          {
+            "url": "http://join.whoop.com/cr7"
+          },
+          {
+            "url": "https://youtube.com/@cristiano"
+          }
+        ],
+        "valor_atual": [
+          {
+            "url": "https://avacr7.com/pages/black-friday"
+          },
+          {
+            "url": "https://hrbl.me/CR7Pro2col"
+          },
+          {
+            "url": "http://perplexity.ai/ronaldo"
+          },
+          {
+            "url": "http://join.whoop.com/cr7"
+          },
+          {
+            "url": "https://youtube.com/@cristiano"
+          }
+        ],
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-11-19T16:20:01.803673",
+        "timestamp_anterior": "2026-10-04T13:20:19.931037",
+        "tempo_desde_anterior_segundos": 3985181
+      },
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -120,6 +127,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 679831161,
+        "valor_atual": 681075756,
+        "variacao": 1244595,
+        "direcao": "aumento",
+        "descricao": "+1244595 seguidores",
+        "timestamp": "2026-11-19T16:20:01.803673",
+        "timestamp_anterior": "2026-11-03T12:10:36.969331",
+        "tempo_desde_anterior_segundos": 1397364
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -388,11 +408,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 4153,
+        "valor_atual": 4158,
+        "variacao": 5,
+        "direcao": "aumento",
+        "descricao": "+5 publicações",
+        "timestamp": "2026-11-19T16:20:01.803673",
+        "timestamp_anterior": "2026-11-03T12:10:36.969331",
+        "tempo_desde_anterior_segundos": 1397364
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 4152,
         "valor_atual": 4153,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-11-03T12:10:36.969331",
         "timestamp_anterior": "2026-10-30T20:09:31.562319",
         "tempo_desde_anterior_segundos": 316865
@@ -405,7 +438,7 @@
         "valor_atual": 4152,
         "variacao": 5,
         "direcao": "aumento",
-        "descricao": "+5 posts",
+        "descricao": "+5 publicações",
         "timestamp": "2026-10-30T20:09:31.562319",
         "timestamp_anterior": "2026-10-24T10:59:27.524892",
         "tempo_desde_anterior_segundos": 551404
@@ -418,7 +451,7 @@
         "valor_atual": 4147,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-24T10:59:27.524892",
         "timestamp_anterior": "2026-10-21T17:35:37.094040",
         "tempo_desde_anterior_segundos": 235430
@@ -431,7 +464,7 @@
         "valor_atual": 4146,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-21T17:35:37.094040",
         "timestamp_anterior": "2026-10-16T23:23:14.371042",
         "tempo_desde_anterior_segundos": 411142
@@ -444,7 +477,7 @@
         "valor_atual": 4144,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-16T23:23:14.371042",
         "timestamp_anterior": "2026-10-15T00:22:53.947902",
         "tempo_desde_anterior_segundos": 169220
@@ -457,7 +490,7 @@
         "valor_atual": 4143,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-15T00:22:53.947902",
         "timestamp_anterior": "2026-10-13T16:03:21.717749",
         "tempo_desde_anterior_segundos": 116372
@@ -470,7 +503,7 @@
         "valor_atual": 4142,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-13T16:03:21.717749",
         "timestamp_anterior": "2026-10-09T22:20:22.832877",
         "tempo_desde_anterior_segundos": 322978
@@ -483,7 +516,7 @@
         "valor_atual": 4141,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-09T22:20:22.832877",
         "timestamp_anterior": "2026-10-06T19:02:28.784213",
         "tempo_desde_anterior_segundos": 271074
@@ -496,7 +529,7 @@
         "valor_atual": 4140,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T19:02:28.784213",
         "timestamp_anterior": "2026-10-05T18:29:14.009300",
         "tempo_desde_anterior_segundos": 88394
@@ -509,7 +542,7 @@
         "valor_atual": 4139,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-05T18:29:14.009300",
         "timestamp_anterior": "2026-10-04T13:20:19.931037",
         "tempo_desde_anterior_segundos": 104934
@@ -552,9 +585,155 @@
         "timestamp": "2026-10-04T13:20:19.931037",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "atleta",
+        "timestamp": "2026-10-04T13:20:19.931037",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:20:01.803673",
+      "timestamp_anterior": "2026-11-03T12:10:36.969331",
+      "timestamp_atual": "2026-11-19T16:20:01.803673",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 173560420,
+        "id": "17841401692602711",
+        "username": "cristiano",
+        "nome": "Cristiano Ronaldo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OwmGEpzmgf8Q7kNvwG0x45t&_nc_oc=AdqQd8l_A-NmIijXHO3qDPgKCM6SQPwPpkap0971bwTe5gw6w_G1e3WJj5rR9fIaELgmRajMZ-EzBL1ylGIyw9CZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQvSIGa7hJ7OE4H1BTjPJYuGu13Ox-xNMMXoxplDS45lQ&oe=6B050C5E",
+        "total_posts": 4158
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [
+        {
+          "url": "https://hrbl.me/CR7Pro2col"
+        },
+        {
+          "url": "http://perplexity.ai/ronaldo"
+        },
+        {
+          "url": "http://join.whoop.com/cr7"
+        },
+        {
+          "url": "https://youtube.com/@cristiano"
+        }
+      ],
+      "valor_atual": [
+        {
+          "url": "https://avacr7.com/pages/black-friday"
+        },
+        {
+          "url": "https://hrbl.me/CR7Pro2col"
+        },
+        {
+          "url": "http://perplexity.ai/ronaldo"
+        },
+        {
+          "url": "http://join.whoop.com/cr7"
+        },
+        {
+          "url": "https://youtube.com/@cristiano"
+        }
+      ],
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397364.834342,
+        "texto": "16 dias e 4 horas e 9 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397364.834342,
+        "texto": "16 dias e 4 horas e 9 minutos e 24 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:20:01.803673",
+      "timestamp_anterior": "2026-11-03T12:10:36.969331",
+      "timestamp_atual": "2026-11-19T16:20:01.803673",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 173560420,
+        "id": "17841401692602711",
+        "username": "cristiano",
+        "nome": "Cristiano Ronaldo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OwmGEpzmgf8Q7kNvwG0x45t&_nc_oc=AdqQd8l_A-NmIijXHO3qDPgKCM6SQPwPpkap0971bwTe5gw6w_G1e3WJj5rR9fIaELgmRajMZ-EzBL1ylGIyw9CZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQvSIGa7hJ7OE4H1BTjPJYuGu13Ox-xNMMXoxplDS45lQ&oe=6B050C5E",
+        "total_posts": 4158
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 679831161,
+      "valor_atual": 681075756,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 1244595,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397364.834342,
+        "texto": "16 dias e 4 horas e 9 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Ganhou 1.244.595 seguidores",
+      "descricao": "Os seguidores passaram de 679.831.161 para 681.075.756",
+      "variacao_texto": "+1.244.595 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:20:01.803673",
+      "timestamp_anterior": "2026-11-03T12:10:36.969331",
+      "timestamp_atual": "2026-11-19T16:20:01.803673",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 173560420,
+        "id": "17841401692602711",
+        "username": "cristiano",
+        "nome": "Cristiano Ronaldo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OwmGEpzmgf8Q7kNvwG0x45t&_nc_oc=AdqQd8l_A-NmIijXHO3qDPgKCM6SQPwPpkap0971bwTe5gw6w_G1e3WJj5rR9fIaELgmRajMZ-EzBL1ylGIyw9CZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQvSIGa7hJ7OE4H1BTjPJYuGu13Ox-xNMMXoxplDS45lQ&oe=6B050C5E",
+        "total_posts": 4158
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 4153,
+      "valor_atual": 4158,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 5,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397364.834342,
+        "texto": "16 dias e 4 horas e 9 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 5 publicações",
+      "descricao": "O total mudou de 4.153 para 4.158",
+      "variacao_texto": "+5 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:10:36.969331",
@@ -567,15 +746,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VsZqo5WFr-oQ7kNvwErb9aB&_nc_oc=AdpnEy8JwNtbAjF1ZT3RshyxvctijD8xndcLopyXABcrzyvDN_RwIIEypsMsMAN01oJ7Dov-PyYIwFKAO9GKhiJQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQRcNkmFmvg_x0qTIBrPHczoZO4SzX1Ggr7JqujBH0KGLQ&oe=6AEFBC1E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VsZqo5WFr-oQ7kNvwErb9aB&_nc_oc=AdpnEy8JwNtbAjF1ZT3RshyxvctijD8xndcLopyXABcrzyvDN_RwIIEypsMsMAN01oJ7Dov-PyYIwFKAO9GKhiJQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQRcNkmFmvg_x0qTIBrPHczoZO4SzX1Ggr7JqujBH0KGLQ&oe=6AEFBC1E",
+        "total_posts": 4153
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679822594,
       "valor_atual": 679831161,
-      "hash_anterior": "83c96f2d7bc3503eaf40d8e25a915e5a87d2ca5ec96cef9f66b9f2883be937d1",
-      "hash_atual": "5683649ae9c11b63d8ccf2016e5632d5d542bd6cebb92cfbf2dbe46341f33e89",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8567,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -602,15 +782,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VsZqo5WFr-oQ7kNvwErb9aB&_nc_oc=AdpnEy8JwNtbAjF1ZT3RshyxvctijD8xndcLopyXABcrzyvDN_RwIIEypsMsMAN01oJ7Dov-PyYIwFKAO9GKhiJQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQRcNkmFmvg_x0qTIBrPHczoZO4SzX1Ggr7JqujBH0KGLQ&oe=6AEFBC1E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VsZqo5WFr-oQ7kNvwErb9aB&_nc_oc=AdpnEy8JwNtbAjF1ZT3RshyxvctijD8xndcLopyXABcrzyvDN_RwIIEypsMsMAN01oJ7Dov-PyYIwFKAO9GKhiJQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQRcNkmFmvg_x0qTIBrPHczoZO4SzX1Ggr7JqujBH0KGLQ&oe=6AEFBC1E",
+        "total_posts": 4153
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4152,
       "valor_atual": 4153,
-      "hash_anterior": "83c96f2d7bc3503eaf40d8e25a915e5a87d2ca5ec96cef9f66b9f2883be937d1",
-      "hash_atual": "5683649ae9c11b63d8ccf2016e5632d5d542bd6cebb92cfbf2dbe46341f33e89",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -621,7 +802,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.152 para 4.153",
       "variacao_texto": "+1 post"
     },
@@ -637,15 +818,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YjSGq_4F5PwQ7kNvwG6YVhI&_nc_oc=AdpKBCGcpl8fvIMogoEdaKDzXV8sDz75w4H4YiFOe25k_z_VpSroLbDAXlj66Z4KEpwkxYmIyd2K_sNneQqLAn5Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQTfUU3J4PHsxYlI6LIqsoHAoJyLOAFWFUgsC8j9vAYLsw&oe=6AEAE69E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YjSGq_4F5PwQ7kNvwG6YVhI&_nc_oc=AdpKBCGcpl8fvIMogoEdaKDzXV8sDz75w4H4YiFOe25k_z_VpSroLbDAXlj66Z4KEpwkxYmIyd2K_sNneQqLAn5Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQTfUU3J4PHsxYlI6LIqsoHAoJyLOAFWFUgsC8j9vAYLsw&oe=6AEAE69E",
+        "total_posts": 4152
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679817315,
       "valor_atual": 679822594,
-      "hash_anterior": "a953a89609bccbee6a208b30e27c1c842fb369559aa2190fddfdc7848f02b9fe",
-      "hash_atual": "83c96f2d7bc3503eaf40d8e25a915e5a87d2ca5ec96cef9f66b9f2883be937d1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5279,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -672,15 +854,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YjSGq_4F5PwQ7kNvwG6YVhI&_nc_oc=AdpKBCGcpl8fvIMogoEdaKDzXV8sDz75w4H4YiFOe25k_z_VpSroLbDAXlj66Z4KEpwkxYmIyd2K_sNneQqLAn5Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQTfUU3J4PHsxYlI6LIqsoHAoJyLOAFWFUgsC8j9vAYLsw&oe=6AEAE69E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YjSGq_4F5PwQ7kNvwG6YVhI&_nc_oc=AdpKBCGcpl8fvIMogoEdaKDzXV8sDz75w4H4YiFOe25k_z_VpSroLbDAXlj66Z4KEpwkxYmIyd2K_sNneQqLAn5Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQTfUU3J4PHsxYlI6LIqsoHAoJyLOAFWFUgsC8j9vAYLsw&oe=6AEAE69E",
+        "total_posts": 4152
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4147,
       "valor_atual": 4152,
-      "hash_anterior": "a953a89609bccbee6a208b30e27c1c842fb369559aa2190fddfdc7848f02b9fe",
-      "hash_atual": "83c96f2d7bc3503eaf40d8e25a915e5a87d2ca5ec96cef9f66b9f2883be937d1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -691,7 +874,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 5 posts",
+      "titulo": "Publicou 5 publicações",
       "descricao": "O total mudou de 4.147 para 4.152",
       "variacao_texto": "+5 posts"
     },
@@ -707,15 +890,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vs1ieNTmc9MQ7kNvwE8MC2s&_nc_oc=Adob_KAUtqkVoiKH595UcFa6RylDg_V-gU8wQw6pnOx1Q24kdGGEwsoXXa58inMJLJZBmIH131ZEnQxHB12ASUMy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNiTPP1RCE7PmV4XneQF41i0eK5OI6Ql4a7G0BTSbfFpg&oe=6AE28D1E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vs1ieNTmc9MQ7kNvwE8MC2s&_nc_oc=Adob_KAUtqkVoiKH595UcFa6RylDg_V-gU8wQw6pnOx1Q24kdGGEwsoXXa58inMJLJZBmIH131ZEnQxHB12ASUMy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNiTPP1RCE7PmV4XneQF41i0eK5OI6Ql4a7G0BTSbfFpg&oe=6AE28D1E",
+        "total_posts": 4147
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679836142,
       "valor_atual": 679817315,
-      "hash_anterior": "89a30cefec6d20a710fcce0fc74a02331f5205fa4a07534c1bb5228423cb7522",
-      "hash_atual": "a953a89609bccbee6a208b30e27c1c842fb369559aa2190fddfdc7848f02b9fe",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -18827,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -742,15 +926,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vs1ieNTmc9MQ7kNvwE8MC2s&_nc_oc=Adob_KAUtqkVoiKH595UcFa6RylDg_V-gU8wQw6pnOx1Q24kdGGEwsoXXa58inMJLJZBmIH131ZEnQxHB12ASUMy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNiTPP1RCE7PmV4XneQF41i0eK5OI6Ql4a7G0BTSbfFpg&oe=6AE28D1E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vs1ieNTmc9MQ7kNvwE8MC2s&_nc_oc=Adob_KAUtqkVoiKH595UcFa6RylDg_V-gU8wQw6pnOx1Q24kdGGEwsoXXa58inMJLJZBmIH131ZEnQxHB12ASUMy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNiTPP1RCE7PmV4XneQF41i0eK5OI6Ql4a7G0BTSbfFpg&oe=6AE28D1E",
+        "total_posts": 4147
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4146,
       "valor_atual": 4147,
-      "hash_anterior": "89a30cefec6d20a710fcce0fc74a02331f5205fa4a07534c1bb5228423cb7522",
-      "hash_atual": "a953a89609bccbee6a208b30e27c1c842fb369559aa2190fddfdc7848f02b9fe",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -761,7 +946,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.146 para 4.147",
       "variacao_texto": "+1 post"
     },
@@ -777,15 +962,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwGk-azm&_nc_oc=AdogHzcjLToc5ROjjvBgcAF6BfbKyQ3iPcSEtismZZlRyAEsOC0_fHHrVuhNz17elZ4urkDLdzimYSiIFSeMl8C6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOMQJsuZ5iwYe9Zk0-XJsHHxQ7NBDi_DuvQWoAoBOvsUA&oe=6AE05A9E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwGk-azm&_nc_oc=AdogHzcjLToc5ROjjvBgcAF6BfbKyQ3iPcSEtismZZlRyAEsOC0_fHHrVuhNz17elZ4urkDLdzimYSiIFSeMl8C6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOMQJsuZ5iwYe9Zk0-XJsHHxQ7NBDi_DuvQWoAoBOvsUA&oe=6AE05A9E",
+        "total_posts": 4146
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679862997,
       "valor_atual": 679836142,
-      "hash_anterior": "1c0c2e5b26065f58db177292ac031bbb7c02c2aec6c69b0e243c38babaf67408",
-      "hash_atual": "89a30cefec6d20a710fcce0fc74a02331f5205fa4a07534c1bb5228423cb7522",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -26855,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -812,15 +998,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwHZpvZJ&_nc_oc=AdpCgTapzSPRTufEvPbg_xKTcw5H1qMVXaWZ7_7C3Ze2ty-mQb7ZHcyXoc5jShLT115Gz03qZP0apBM4wr0Ri8wY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMiw1y8REmuHZZu4aSPFQN9glkvRyoOwHKu5n6d-3jhoQ&oe=6ADF091E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwHZpvZJ&_nc_oc=AdpCgTapzSPRTufEvPbg_xKTcw5H1qMVXaWZ7_7C3Ze2ty-mQb7ZHcyXoc5jShLT115Gz03qZP0apBM4wr0Ri8wY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMiw1y8REmuHZZu4aSPFQN9glkvRyoOwHKu5n6d-3jhoQ&oe=6ADF091E",
+        "total_posts": 4146
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680073269,
       "valor_atual": 679862997,
-      "hash_anterior": "1ad244fe7348a656a7e49c0d491e9e48edfab1c692f2a9f82b97d1f456c18779",
-      "hash_atual": "1c0c2e5b26065f58db177292ac031bbb7c02c2aec6c69b0e243c38babaf67408",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -210272,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -847,15 +1034,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwHZpvZJ&_nc_oc=AdpCgTapzSPRTufEvPbg_xKTcw5H1qMVXaWZ7_7C3Ze2ty-mQb7ZHcyXoc5jShLT115Gz03qZP0apBM4wr0Ri8wY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMiw1y8REmuHZZu4aSPFQN9glkvRyoOwHKu5n6d-3jhoQ&oe=6ADF091E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwHZpvZJ&_nc_oc=AdpCgTapzSPRTufEvPbg_xKTcw5H1qMVXaWZ7_7C3Ze2ty-mQb7ZHcyXoc5jShLT115Gz03qZP0apBM4wr0Ri8wY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMiw1y8REmuHZZu4aSPFQN9glkvRyoOwHKu5n6d-3jhoQ&oe=6ADF091E",
+        "total_posts": 4146
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 636,
       "valor_atual": 638,
-      "hash_anterior": "1ad244fe7348a656a7e49c0d491e9e48edfab1c692f2a9f82b97d1f456c18779",
-      "hash_atual": "1c0c2e5b26065f58db177292ac031bbb7c02c2aec6c69b0e243c38babaf67408",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -882,15 +1070,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwHZpvZJ&_nc_oc=AdpCgTapzSPRTufEvPbg_xKTcw5H1qMVXaWZ7_7C3Ze2ty-mQb7ZHcyXoc5jShLT115Gz03qZP0apBM4wr0Ri8wY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMiw1y8REmuHZZu4aSPFQN9glkvRyoOwHKu5n6d-3jhoQ&oe=6ADF091E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aUnCHQVWq8EQ7kNvwHZpvZJ&_nc_oc=AdpCgTapzSPRTufEvPbg_xKTcw5H1qMVXaWZ7_7C3Ze2ty-mQb7ZHcyXoc5jShLT115Gz03qZP0apBM4wr0Ri8wY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMiw1y8REmuHZZu4aSPFQN9glkvRyoOwHKu5n6d-3jhoQ&oe=6ADF091E",
+        "total_posts": 4146
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4144,
       "valor_atual": 4146,
-      "hash_anterior": "1ad244fe7348a656a7e49c0d491e9e48edfab1c692f2a9f82b97d1f456c18779",
-      "hash_atual": "1c0c2e5b26065f58db177292ac031bbb7c02c2aec6c69b0e243c38babaf67408",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -901,7 +1090,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 4.144 para 4.146",
       "variacao_texto": "+2 posts"
     },
@@ -917,15 +1106,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNCX0ICOLrB5ov_zY9nGK3tyQXLDrrta05OVLcR1mWFGg&oe=6AD8A9DE"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNCX0ICOLrB5ov_zY9nGK3tyQXLDrrta05OVLcR1mWFGg&oe=6AD8A9DE",
+        "total_posts": 4144
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4143,
       "valor_atual": 4144,
-      "hash_anterior": "2d2e05c172689aa14ab79ebccfa79f17e5a8fa6cdd44fda486ada7271e777962",
-      "hash_atual": "1ad244fe7348a656a7e49c0d491e9e48edfab1c692f2a9f82b97d1f456c18779",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -936,7 +1126,7 @@
         "segundos": 34181.146178,
         "texto": "9 horas e 29 minutos e 41 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.143 para 4.144",
       "variacao_texto": "+1 post"
     },
@@ -952,15 +1142,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOog4-Tssv9pKag7tFUNidgC72M70M1O6QmrhhFzlB6GA&oe=6AD8395E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwE1e6_H&_nc_oc=Adq-wWDKG5F4IaLF-vX0WF9NLzCUD23SJzT2FS-MKFm0iBljAViF4HHhMJsJ2C3xLspbcnPfIoEObtTafalMIcEq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOog4-Tssv9pKag7tFUNidgC72M70M1O6QmrhhFzlB6GA&oe=6AD8395E",
+        "total_posts": 4143
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680083148,
       "valor_atual": 680073269,
-      "hash_anterior": "f2216b0e6341a7d0fa3c2cfb11c8beea2e778538e16f6e9f4eadda661437a53d",
-      "hash_atual": "2d2e05c172689aa14ab79ebccfa79f17e5a8fa6cdd44fda486ada7271e777962",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9879,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -987,15 +1178,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwEBxMHv&_nc_oc=Adru7gRnebbn6dg5iyw3WXgu5F9GTBIsR3J3g-QaBuJAsrkQvFYxpV_MYrCfvKCOgty9aqmsaLtNmGxoWa08dKk6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQO3U1STSy9PtAlM8tECHql2aAf8Huw1QmvZPxbCKJ3vQg&oe=6AD6AF9E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwEBxMHv&_nc_oc=Adru7gRnebbn6dg5iyw3WXgu5F9GTBIsR3J3g-QaBuJAsrkQvFYxpV_MYrCfvKCOgty9aqmsaLtNmGxoWa08dKk6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQO3U1STSy9PtAlM8tECHql2aAf8Huw1QmvZPxbCKJ3vQg&oe=6AD6AF9E",
+        "total_posts": 4143
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680113635,
       "valor_atual": 680083148,
-      "hash_anterior": "20d35ff959edfdab0be68793a6c8d26fc71d3d702c56ea0e406945f55cf8c7c3",
-      "hash_atual": "f2216b0e6341a7d0fa3c2cfb11c8beea2e778538e16f6e9f4eadda661437a53d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -30487,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1022,15 +1214,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwH2eR1l&_nc_oc=AdpBa_CufXKAMKd9UorZu_8Lt3gZb-3_a0PHLQG7k_O28nnyHCbh3wWqvG9cqaMIgzCUWibqDv4rPZt-aLmA0MRS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMNt3GjhwrmLsMYMkOjpFOYY1I3heQrwAHdNPDCPOGSLg&oe=6AD606DE"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwH2eR1l&_nc_oc=AdpBa_CufXKAMKd9UorZu_8Lt3gZb-3_a0PHLQG7k_O28nnyHCbh3wWqvG9cqaMIgzCUWibqDv4rPZt-aLmA0MRS&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMNt3GjhwrmLsMYMkOjpFOYY1I3heQrwAHdNPDCPOGSLg&oe=6AD606DE",
+        "total_posts": 4143
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4142,
       "valor_atual": 4143,
-      "hash_anterior": "a504387848ac61b26733d4c438f116af7d03cde327481efd5b942d2725558611",
-      "hash_atual": "20d35ff959edfdab0be68793a6c8d26fc71d3d702c56ea0e406945f55cf8c7c3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1041,7 +1234,7 @@
         "segundos": 43771.836016,
         "texto": "12 horas e 9 minutos e 31 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.142 para 4.143",
       "variacao_texto": "+1 post"
     },
@@ -1057,15 +1250,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwFoBHKk&_nc_oc=AdowotpE1_8KcGRSrmbpvmSL99GCM2INovhfVyApnWAlamyBiKEFVumPJ1GFVrKNVNKTRuX4OG7UuycA9vIscg3v&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMM6RTdu0D5C9O9iFGPMxswmOSpDX_TqVN_WxjTEJ4tUQ&oe=6AD55E1E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IpeMMrWGLPkQ7kNvwFoBHKk&_nc_oc=AdowotpE1_8KcGRSrmbpvmSL99GCM2INovhfVyApnWAlamyBiKEFVumPJ1GFVrKNVNKTRuX4OG7UuycA9vIscg3v&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMM6RTdu0D5C9O9iFGPMxswmOSpDX_TqVN_WxjTEJ4tUQ&oe=6AD55E1E",
+        "total_posts": 4142
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680155695,
       "valor_atual": 680113635,
-      "hash_anterior": "0c67205bdab9e45a79549f62731551f352ed9ccc82f11b8b83e343cfcc4020f7",
-      "hash_atual": "a504387848ac61b26733d4c438f116af7d03cde327481efd5b942d2725558611",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -42060,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1092,15 +1286,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bk44ZqlwLpEQ7kNvwFFBR6M&_nc_oc=Adqg8Ew3kfRtRZKXAlFUfZo4SBqqfaKwnddrBZ_jYVoRhjdE5C2Woyf8jiplOVwwpJUH0vTC_mqy5iWZ_WZZq9OW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOX1h1zrCTBrEsjhA9pDNHb6AHIZC6jYAjt8W7CpfugmA&oe=6AD444DE"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bk44ZqlwLpEQ7kNvwFFBR6M&_nc_oc=Adqg8Ew3kfRtRZKXAlFUfZo4SBqqfaKwnddrBZ_jYVoRhjdE5C2Woyf8jiplOVwwpJUH0vTC_mqy5iWZ_WZZq9OW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOX1h1zrCTBrEsjhA9pDNHb6AHIZC6jYAjt8W7CpfugmA&oe=6AD444DE",
+        "total_posts": 4142
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680209441,
       "valor_atual": 680155695,
-      "hash_anterior": "606ce7211f034e7b187f506d34cf00569e137ff893a0b90292b80c281306e649",
-      "hash_atual": "0c67205bdab9e45a79549f62731551f352ed9ccc82f11b8b83e343cfcc4020f7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -53746,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1127,15 +1322,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bk44ZqlwLpEQ7kNvwFFBR6M&_nc_oc=Adqg8Ew3kfRtRZKXAlFUfZo4SBqqfaKwnddrBZ_jYVoRhjdE5C2Woyf8jiplOVwwpJUH0vTC_mqy5iWZ_WZZq9OW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOX1h1zrCTBrEsjhA9pDNHb6AHIZC6jYAjt8W7CpfugmA&oe=6AD444DE"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bk44ZqlwLpEQ7kNvwFFBR6M&_nc_oc=Adqg8Ew3kfRtRZKXAlFUfZo4SBqqfaKwnddrBZ_jYVoRhjdE5C2Woyf8jiplOVwwpJUH0vTC_mqy5iWZ_WZZq9OW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOX1h1zrCTBrEsjhA9pDNHb6AHIZC6jYAjt8W7CpfugmA&oe=6AD444DE",
+        "total_posts": 4142
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 637,
       "valor_atual": 636,
-      "hash_anterior": "606ce7211f034e7b187f506d34cf00569e137ff893a0b90292b80c281306e649",
-      "hash_atual": "0c67205bdab9e45a79549f62731551f352ed9ccc82f11b8b83e343cfcc4020f7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1162,15 +1358,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bk44ZqlwLpEQ7kNvwFFBR6M&_nc_oc=Adqg8Ew3kfRtRZKXAlFUfZo4SBqqfaKwnddrBZ_jYVoRhjdE5C2Woyf8jiplOVwwpJUH0vTC_mqy5iWZ_WZZq9OW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOX1h1zrCTBrEsjhA9pDNHb6AHIZC6jYAjt8W7CpfugmA&oe=6AD444DE"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bk44ZqlwLpEQ7kNvwFFBR6M&_nc_oc=Adqg8Ew3kfRtRZKXAlFUfZo4SBqqfaKwnddrBZ_jYVoRhjdE5C2Woyf8jiplOVwwpJUH0vTC_mqy5iWZ_WZZq9OW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQOX1h1zrCTBrEsjhA9pDNHb6AHIZC6jYAjt8W7CpfugmA&oe=6AD444DE",
+        "total_posts": 4142
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4141,
       "valor_atual": 4142,
-      "hash_anterior": "606ce7211f034e7b187f506d34cf00569e137ff893a0b90292b80c281306e649",
-      "hash_atual": "0c67205bdab9e45a79549f62731551f352ed9ccc82f11b8b83e343cfcc4020f7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1181,7 +1378,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.141 para 4.142",
       "variacao_texto": "+1 post"
     },
@@ -1197,15 +1394,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwE0P3Hh&_nc_oc=Adpp-mRqKQM8oPxa7Wam8o9H2Nw8ESZ9Paw64OzN-KUMc547wTRpaJS1F3_6ASSkqgq_bCNqDGW3md2P9_ax7i_J&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMrt-bqCyn5fCuotR7ZYoMlHfDM5RIgglLmSYcs7oPygQ&oe=6AD0505E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwE0P3Hh&_nc_oc=Adpp-mRqKQM8oPxa7Wam8o9H2Nw8ESZ9Paw64OzN-KUMc547wTRpaJS1F3_6ASSkqgq_bCNqDGW3md2P9_ax7i_J&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMrt-bqCyn5fCuotR7ZYoMlHfDM5RIgglLmSYcs7oPygQ&oe=6AD0505E",
+        "total_posts": 4141
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680195303,
       "valor_atual": 680209441,
-      "hash_anterior": "5ddd9e5f1acbb95edfbc34fbc0a5a5b242224dee70763e6311b48d5a69d6d2d1",
-      "hash_atual": "606ce7211f034e7b187f506d34cf00569e137ff893a0b90292b80c281306e649",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14138,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1232,15 +1430,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwF8nA9E&_nc_oc=AdonOV9kjdDwuTsJmYBsXTeqplWu_FOkZQO1Ss0x0POnEglD06s65JlDaELNGgdMJKsiNTn_r38PFLhCAD5xFMjy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNP3KW5rSsY9IifmBxKOjntebrLPyZlYBiOu9ntL2hbpA&oe=6ACF6F5E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwF8nA9E&_nc_oc=AdonOV9kjdDwuTsJmYBsXTeqplWu_FOkZQO1Ss0x0POnEglD06s65JlDaELNGgdMJKsiNTn_r38PFLhCAD5xFMjy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNP3KW5rSsY9IifmBxKOjntebrLPyZlYBiOu9ntL2hbpA&oe=6ACF6F5E",
+        "total_posts": 4141
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 680134059,
       "valor_atual": 680195303,
-      "hash_anterior": "86ccb37c4e8eecd5c52243b23a4bddb502a1fa8b074694d412732d1e290c0dd8",
-      "hash_atual": "5ddd9e5f1acbb95edfbc34fbc0a5a5b242224dee70763e6311b48d5a69d6d2d1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 61244,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1267,15 +1466,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwF8nA9E&_nc_oc=AdonOV9kjdDwuTsJmYBsXTeqplWu_FOkZQO1Ss0x0POnEglD06s65JlDaELNGgdMJKsiNTn_r38PFLhCAD5xFMjy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNP3KW5rSsY9IifmBxKOjntebrLPyZlYBiOu9ntL2hbpA&oe=6ACF6F5E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwF8nA9E&_nc_oc=AdonOV9kjdDwuTsJmYBsXTeqplWu_FOkZQO1Ss0x0POnEglD06s65JlDaELNGgdMJKsiNTn_r38PFLhCAD5xFMjy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQNP3KW5rSsY9IifmBxKOjntebrLPyZlYBiOu9ntL2hbpA&oe=6ACF6F5E",
+        "total_posts": 4141
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4140,
       "valor_atual": 4141,
-      "hash_anterior": "86ccb37c4e8eecd5c52243b23a4bddb502a1fa8b074694d412732d1e290c0dd8",
-      "hash_atual": "5ddd9e5f1acbb95edfbc34fbc0a5a5b242224dee70763e6311b48d5a69d6d2d1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1286,7 +1486,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.140 para 4.141",
       "variacao_texto": "+1 post"
     },
@@ -1302,15 +1502,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwGldk1R&_nc_oc=Adr18wWjs6-Qi8eWEXh89c-J-JEwC5ICqrlly6O9aEFEdSKUyGmnLG9q66x8RTTswQC92VKSsPqgP7kv6bOtSq_2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMK9v8q_CykA5wbuxJfa7z20YveEZdD17ppNRVfhj9v3A&oe=6ACDE59E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8tGye093vgoQ7kNvwGldk1R&_nc_oc=Adr18wWjs6-Qi8eWEXh89c-J-JEwC5ICqrlly6O9aEFEdSKUyGmnLG9q66x8RTTswQC92VKSsPqgP7kv6bOtSq_2&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMK9v8q_CykA5wbuxJfa7z20YveEZdD17ppNRVfhj9v3A&oe=6ACDE59E",
+        "total_posts": 4140
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679902811,
       "valor_atual": 680134059,
-      "hash_anterior": "2b3851b72f84149a38701c52f61025e99d175fd641c0679a814beaaf04e915f4",
-      "hash_atual": "86ccb37c4e8eecd5c52243b23a4bddb502a1fa8b074694d412732d1e290c0dd8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 231248,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1337,15 +1538,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwFkDq-Y&_nc_oc=Adoyo7HWeDEmAZmCUDL3nojIZ-T4PLIuAgI45sGV7O_XQDzJWgjfNNGQAd-3aXsZnFfmgC9IGIsAk4rTstBeizj1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMI4VZ_IzGk2FVCukF7p39o6J-AWO7OnxxXXzt_IgknRw&oe=6ACC941E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwFkDq-Y&_nc_oc=Adoyo7HWeDEmAZmCUDL3nojIZ-T4PLIuAgI45sGV7O_XQDzJWgjfNNGQAd-3aXsZnFfmgC9IGIsAk4rTstBeizj1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQMI4VZ_IzGk2FVCukF7p39o6J-AWO7OnxxXXzt_IgknRw&oe=6ACC941E",
+        "total_posts": 4140
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679869458,
       "valor_atual": 679902811,
-      "hash_anterior": "cb863b3a86c15e7160f93d0cfd10b580ff3814e14e28bc70048a057bc6dd843a",
-      "hash_atual": "2b3851b72f84149a38701c52f61025e99d175fd641c0679a814beaaf04e915f4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 33353,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1372,15 +1574,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGxFjrY&_nc_oc=Adr8BEkDjVkyGPUvXKZ5vtuFuTtRJVqBHbyZgqqEC1hU48kf412XAwyckF9OqimQgWGz5bMkTdp1ok4KE_5SZGe-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPiZAf5Gb1ruafn27Ldy6hwztGYkVwETciUNxVwZXmGdg&oe=6ACB429E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGxFjrY&_nc_oc=Adr8BEkDjVkyGPUvXKZ5vtuFuTtRJVqBHbyZgqqEC1hU48kf412XAwyckF9OqimQgWGz5bMkTdp1ok4KE_5SZGe-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPiZAf5Gb1ruafn27Ldy6hwztGYkVwETciUNxVwZXmGdg&oe=6ACB429E",
+        "total_posts": 4140
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4139,
       "valor_atual": 4140,
-      "hash_anterior": "e75effa5d451daf5ac2fc3dca45091db81d03d85a4ba504eb57fd5f019e72568",
-      "hash_atual": "cb863b3a86c15e7160f93d0cfd10b580ff3814e14e28bc70048a057bc6dd843a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1391,7 +1594,7 @@
         "segundos": 15649.465351,
         "texto": "4 horas e 20 minutos e 49 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.139 para 4.140",
       "variacao_texto": "+1 post"
     },
@@ -1407,15 +1610,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZMj9-&_nc_oc=AdqEGTzR9BQUTgC-Jtli_mFJUMXBHl15ouYhBgXPrHYTOnI603LCuBtG0NVZmOUPH0bLzSzJHmF7Uomrp862503G&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPC_Kipu8UV452u8lft0ekXnFVvpbUyvfcwe9VX7vSTRA&oe=6ACB0A5E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZMj9-&_nc_oc=AdqEGTzR9BQUTgC-Jtli_mFJUMXBHl15ouYhBgXPrHYTOnI603LCuBtG0NVZmOUPH0bLzSzJHmF7Uomrp862503G&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPC_Kipu8UV452u8lft0ekXnFVvpbUyvfcwe9VX7vSTRA&oe=6ACB0A5E",
+        "total_posts": 4139
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679858181,
       "valor_atual": 679869458,
-      "hash_anterior": "ce03dcd93529fc7668b910691931b15276e728f4d5ffe8ec69130dc9b08f07bb",
-      "hash_atual": "e75effa5d451daf5ac2fc3dca45091db81d03d85a4ba504eb57fd5f019e72568",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11277,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1423,8 +1627,8 @@
         "texto": "17 horas e 47 minutos e 38 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 64058.394044,
-        "texto": "17 horas e 47 minutos e 38 segundos"
+        "segundos": 72745.309562,
+        "texto": "20 horas e 12 minutos e 25 segundos"
       },
       "titulo": "Ganhou 11.277 seguidores",
       "descricao": "Os seguidores passaram de 679.858.181 para 679.869.458",
@@ -1442,15 +1646,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZMj9-&_nc_oc=AdqEGTzR9BQUTgC-Jtli_mFJUMXBHl15ouYhBgXPrHYTOnI603LCuBtG0NVZmOUPH0bLzSzJHmF7Uomrp862503G&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPC_Kipu8UV452u8lft0ekXnFVvpbUyvfcwe9VX7vSTRA&oe=6ACB0A5E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZMj9-&_nc_oc=AdqEGTzR9BQUTgC-Jtli_mFJUMXBHl15ouYhBgXPrHYTOnI603LCuBtG0NVZmOUPH0bLzSzJHmF7Uomrp862503G&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPC_Kipu8UV452u8lft0ekXnFVvpbUyvfcwe9VX7vSTRA&oe=6ACB0A5E",
+        "total_posts": 4139
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 636,
       "valor_atual": 637,
-      "hash_anterior": "ce03dcd93529fc7668b910691931b15276e728f4d5ffe8ec69130dc9b08f07bb",
-      "hash_atual": "e75effa5d451daf5ac2fc3dca45091db81d03d85a4ba504eb57fd5f019e72568",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1467,74 +1672,6 @@
     },
     {
       "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:54:00.924818",
-      "timestamp_anterior": "2026-10-05T20:39:59.925315",
-      "timestamp_atual": "2026-10-05T20:54:00.924818",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "atleta",
-        "pk": 173560420,
-        "id": "17841401692602711",
-        "username": "cristiano",
-        "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZb1dj&_nc_oc=Adp2WwklCzg5FqAzHEtZKePtSKZpBJZpt-2yzZAQyEk2Deq4kvLbT19-Zxh62KCjT1jIjiCj6yHY3u-Z3wxtxS-E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPb407NsHgDdkLK0SM4Dy7ESOO1QjxI4nf1ehB44VDKJA&oe=6AC9F11E"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "atletas",
-      "valor_atual": "atleta",
-      "hash_anterior": "defdfc933813de5e816ecb3ef6098ec5c3290b23b5eb1fe82bb24d5071be50eb",
-      "hash_atual": "ce03dcd93529fc7668b910691931b15276e728f4d5ffe8ec69130dc9b08f07bb",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 840.999503,
-        "texto": "14 minutos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 840.999503,
-        "texto": "14 minutos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"atletas\" para \"atleta\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:39:59.925315",
-      "timestamp_anterior": "2026-10-05T18:29:14.009300",
-      "timestamp_atual": "2026-10-05T20:39:59.925315",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "atletas",
-        "pk": 173560420,
-        "id": "17841401692602711",
-        "username": "cristiano",
-        "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZb1dj&_nc_oc=Adp2WwklCzg5FqAzHEtZKePtSKZpBJZpt-2yzZAQyEk2Deq4kvLbT19-Zxh62KCjT1jIjiCj6yHY3u-Z3wxtxS-E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPb407NsHgDdkLK0SM4Dy7ESOO1QjxI4nf1ehB44VDKJA&oe=6AC9F11E"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "atleta",
-      "valor_atual": "atletas",
-      "hash_anterior": "ce03dcd93529fc7668b910691931b15276e728f4d5ffe8ec69130dc9b08f07bb",
-      "hash_atual": "defdfc933813de5e816ecb3ef6098ec5c3290b23b5eb1fe82bb24d5071be50eb",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 7845.916015,
-        "texto": "2 horas e 10 minutos e 45 segundos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 7845.916015,
-        "texto": "2 horas e 10 minutos e 45 segundos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"atleta\" para \"atletas\""
-    },
-    {
-      "plataforma": "instagram",
       "timestamp": "2026-10-05T18:29:14.009300",
       "timestamp_anterior": "2026-10-04T13:20:19.931037",
       "timestamp_atual": "2026-10-05T18:29:14.009300",
@@ -1545,15 +1682,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZb1dj&_nc_oc=Adp2WwklCzg5FqAzHEtZKePtSKZpBJZpt-2yzZAQyEk2Deq4kvLbT19-Zxh62KCjT1jIjiCj6yHY3u-Z3wxtxS-E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPb407NsHgDdkLK0SM4Dy7ESOO1QjxI4nf1ehB44VDKJA&oe=6AC9F11E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZb1dj&_nc_oc=Adp2WwklCzg5FqAzHEtZKePtSKZpBJZpt-2yzZAQyEk2Deq4kvLbT19-Zxh62KCjT1jIjiCj6yHY3u-Z3wxtxS-E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPb407NsHgDdkLK0SM4Dy7ESOO1QjxI4nf1ehB44VDKJA&oe=6AC9F11E",
+        "total_posts": 4139
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 679818800,
       "valor_atual": 679858181,
-      "hash_anterior": "4daee4a6b344999cdbf6efe0287144280f3c58894a2f185311df45d975b1ccec",
-      "hash_atual": "ce03dcd93529fc7668b910691931b15276e728f4d5ffe8ec69130dc9b08f07bb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 39381,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1580,15 +1718,16 @@
         "id": "17841401692602711",
         "username": "cristiano",
         "nome": "Cristiano Ronaldo",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZb1dj&_nc_oc=Adp2WwklCzg5FqAzHEtZKePtSKZpBJZpt-2yzZAQyEk2Deq4kvLbT19-Zxh62KCjT1jIjiCj6yHY3u-Z3wxtxS-E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPb407NsHgDdkLK0SM4Dy7ESOO1QjxI4nf1ehB44VDKJA&oe=6AC9F11E"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=9m0WH8YeioYQ7kNvwGZb1dj&_nc_oc=Adp2WwklCzg5FqAzHEtZKePtSKZpBJZpt-2yzZAQyEk2Deq4kvLbT19-Zxh62KCjT1jIjiCj6yHY3u-Z3wxtxS-E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&oh=00_AQPb407NsHgDdkLK0SM4Dy7ESOO1QjxI4nf1ehB44VDKJA&oe=6AC9F11E",
+        "total_posts": 4139
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4138,
       "valor_atual": 4139,
-      "hash_anterior": "4daee4a6b344999cdbf6efe0287144280f3c58894a2f185311df45d975b1ccec",
-      "hash_atual": "ce03dcd93529fc7668b910691931b15276e728f4d5ffe8ec69130dc9b08f07bb",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1599,7 +1738,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 4.138 para 4.139",
       "variacao_texto": "+1 post"
     }
@@ -1607,34 +1746,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T13:20:19.931037",
-    "captura_mais_recente": "2026-11-03T12:10:36.969331",
-    "tempo_total_segundos": 2587817,
-    "tempo_total_dias": 29.951586,
-    "tempo_total_texto": "29 dias, 22 horas, 50 minutos e 17 segundos",
+    "captura_mais_recente": "2026-11-19T16:20:01.803673",
+    "tempo_total_segundos": 3985181,
+    "tempo_total_dias": 46.12478,
+    "tempo_total_texto": "46 dias, 2 horas, 59 minutos e 41 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 13846,
+    "1_dias": {
+      "variacao": 1244595,
       "direcao": "ganhou",
-      "quantidade": 13846,
-      "texto": "Ganhou 13846 seguidores",
+      "quantidade": 1244595,
+      "texto": "Ganhou 1244595 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T10:59:27.524892",
-      "captura_fim": "2026-11-03T12:10:36.969331",
-      "seguidores_inicio": 679817315,
-      "seguidores_fim": 679831161
+      "captura_inicio": "2026-11-03T12:10:36.969331",
+      "captura_fim": "2026-11-19T16:20:01.803673",
+      "seguidores_inicio": 679831161,
+      "seguidores_fim": 681075756
+    },
+    "7_dias": {
+      "variacao": 1244595,
+      "direcao": "ganhou",
+      "quantidade": 1244595,
+      "texto": "Ganhou 1244595 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:10:36.969331",
+      "captura_fim": "2026-11-19T16:20:01.803673",
+      "seguidores_inicio": 679831161,
+      "seguidores_fim": 681075756
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 1002487,
+      "direcao": "ganhou",
+      "quantidade": 1002487,
+      "texto": "Ganhou 1002487 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T13:53:33.224864",
+      "captura_fim": "2026-11-19T16:20:01.803673",
+      "seguidores_inicio": 680073269,
+      "seguidores_fim": 681075756
     },
     "90_dias": {
       "variacao": null,
@@ -1645,17 +1800,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 12361,
+      "variacao": 1256956,
       "direcao": "ganhou",
-      "quantidade": 12361,
-      "texto": "Ganhou 12361 seguidores",
+      "quantidade": 1256956,
+      "texto": "Ganhou 1256956 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T13:20:19.931037",
-      "captura_mais_recente": "2026-11-03T12:10:36.969331",
-      "tempo_total_dias": 29.951586,
+      "captura_mais_recente": "2026-11-19T16:20:01.803673",
+      "tempo_total_dias": 46.12479,
       "seguidores_inicio": 679818800,
-      "seguidores_fim": 679831161
+      "seguidores_fim": 681075756
     }
   }
 }

@@ -8,9 +8,23 @@
       "id": "17841401190010098",
       "username": "luansantana",
       "nome": "Luan Santana",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=J9BXqjMFAOe6Orbn_Cy6tQ&_nc_ss=70689&oh=00_AQQzHgUPuOkmxjLsX53e6QkXVCe6clKD70NVSZvWz8oeDA&oe=6AEFCFAA"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Giwr0csRyIAQ7kNvwF_PkcX&_nc_oc=AdpjvBz-6e5BeQALuPWrE0BXO391mqUjfzQEUYgnO8i1ZhjQEaRYV6NR6XugSRrUrWhyDu2mNv-X3a4JqF-lWWnn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K2cK78Rd0EDxP7EwHQPg1g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlJux0fMF_7VQy8vs77e4i0jU5l8Ae1rnOCnh-DBjScw&oe=6B052188",
+      "total_posts": 2686
     },
     "biografia": [
+      {
+        "plataforma": "instagram",
+        "campo": "biografia",
+        "nome": "Biografia",
+        "valor_anterior": "Turnê Registro Histórico \nA maior turnê de um artista solo em 2026",
+        "valor_atual": "OLHA A MORAL ⤵️",
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Biografia alterada",
+        "timestamp": "2026-11-19T16:44:02.049875",
+        "timestamp_anterior": "2026-10-05T20:40:56.537143",
+        "tempo_desde_anterior_segundos": 3873785
+      },
       {
         "plataforma": "instagram",
         "campo": "biografia",
@@ -20,30 +34,31 @@
         "tipo": "inicial"
       }
     ],
-    "categoria": [
+    "links": [
       {
         "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "cantores",
-        "valor_atual": "cantor",
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [
+          {
+            "url": "http://registrohistorico.com.br"
+          }
+        ],
+        "valor_atual": [
+          {
+            "url": "https://luansantana.lnk.to/alemdoregistro"
+          },
+          {
+            "url": "http://registrohistorico.com.br"
+          }
+        ],
         "variacao": null,
         "direcao": null,
-        "descricao": "Categoria alterada de \"cantores\" para \"cantor\"",
-        "timestamp": "2026-10-05T20:54:57.208013",
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-11-19T16:44:02.049875",
         "timestamp_anterior": "2026-10-05T20:40:56.537143",
-        "tempo_desde_anterior_segundos": 840
+        "tempo_desde_anterior_segundos": 3873785
       },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "cantores",
-        "timestamp": "2026-10-05T20:40:56.537143",
-        "tipo": "inicial"
-      }
-    ],
-    "links": [
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -98,6 +113,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 36923846,
+        "valor_atual": 36912634,
+        "variacao": -11212,
+        "direcao": "reducao",
+        "descricao": "-11212 seguidores",
+        "timestamp": "2026-11-19T16:44:02.049875",
+        "timestamp_anterior": "2026-11-03T12:24:26.503657",
+        "tempo_desde_anterior_segundos": 1397975
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -944,6 +972,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 3589,
+        "valor_atual": 3683,
+        "variacao": 94,
+        "direcao": "aumento",
+        "descricao": "Seguiu +94",
+        "timestamp": "2026-11-19T16:44:02.049875",
+        "timestamp_anterior": "2026-11-03T12:11:19.702437",
+        "tempo_desde_anterior_segundos": 1398762
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 3588,
         "valor_atual": 3589,
         "variacao": 1,
@@ -1081,11 +1122,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 2677,
+        "valor_atual": 2686,
+        "variacao": 9,
+        "direcao": "aumento",
+        "descricao": "+9 publicações",
+        "timestamp": "2026-11-19T16:44:02.049875",
+        "timestamp_anterior": "2026-11-03T12:11:19.702437",
+        "tempo_desde_anterior_segundos": 1398762
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 2676,
         "valor_atual": 2677,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-11-03T12:11:19.702437",
         "timestamp_anterior": "2026-10-30T20:10:16.162697",
         "tempo_desde_anterior_segundos": 316863
@@ -1098,7 +1152,7 @@
         "valor_atual": 2676,
         "variacao": 4,
         "direcao": "aumento",
-        "descricao": "+4 posts",
+        "descricao": "+4 publicações",
         "timestamp": "2026-10-30T20:10:16.162697",
         "timestamp_anterior": "2026-10-22T19:22:40.988804",
         "tempo_desde_anterior_segundos": 694055
@@ -1111,7 +1165,7 @@
         "valor_atual": 2672,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-22T19:22:40.988804",
         "timestamp_anterior": "2026-10-21T17:36:20.580772",
         "tempo_desde_anterior_segundos": 92780
@@ -1124,7 +1178,7 @@
         "valor_atual": 2671,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-21T17:36:20.580772",
         "timestamp_anterior": "2026-10-16T13:54:15.073691",
         "tempo_desde_anterior_segundos": 445325
@@ -1137,7 +1191,7 @@
         "valor_atual": 2668,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-16T13:54:15.073691",
         "timestamp_anterior": "2026-10-14T12:05:57.442081",
         "tempo_desde_anterior_segundos": 179297
@@ -1150,7 +1204,7 @@
         "valor_atual": 2666,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-14T12:05:57.442081",
         "timestamp_anterior": "2026-10-13T15:55:59.928048",
         "tempo_desde_anterior_segundos": 72597
@@ -1163,7 +1217,7 @@
         "valor_atual": 2665,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-13T15:55:59.928048",
         "timestamp_anterior": "2026-10-11T11:03:58.122932",
         "tempo_desde_anterior_segundos": 190321
@@ -1176,7 +1230,7 @@
         "valor_atual": 2662,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-11T11:03:58.122932",
         "timestamp_anterior": "2026-10-09T22:21:28.972696",
         "tempo_desde_anterior_segundos": 132149
@@ -1189,7 +1243,7 @@
         "valor_atual": 2659,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-09T22:21:28.972696",
         "timestamp_anterior": "2026-10-08T18:26:58.178481",
         "tempo_desde_anterior_segundos": 100470
@@ -1202,7 +1256,7 @@
         "valor_atual": 2657,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-08T18:26:58.178481",
         "timestamp_anterior": "2026-10-05T20:40:56.537143",
         "tempo_desde_anterior_segundos": 251161
@@ -1245,9 +1299,208 @@
         "timestamp": "2026-10-05T20:40:56.537143",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "cantor",
+        "timestamp": "2026-10-05T20:40:56.537143",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:44:02.049875",
+      "timestamp_anterior": "2026-11-03T12:24:26.503657",
+      "timestamp_atual": "2026-11-19T16:44:02.049875",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 6311667,
+        "id": "17841401190010098",
+        "username": "luansantana",
+        "nome": "Luan Santana",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Giwr0csRyIAQ7kNvwF_PkcX&_nc_oc=AdpjvBz-6e5BeQALuPWrE0BXO391mqUjfzQEUYgnO8i1ZhjQEaRYV6NR6XugSRrUrWhyDu2mNv-X3a4JqF-lWWnn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K2cK78Rd0EDxP7EwHQPg1g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlJux0fMF_7VQy8vs77e4i0jU5l8Ae1rnOCnh-DBjScw&oe=6B052188",
+        "total_posts": 2686
+      },
+      "tipo": "biografia",
+      "campo": "biografia",
+      "nome_campo": "Biografia",
+      "valor_anterior": "Turnê Registro Histórico \nA maior turnê de um artista solo em 2026",
+      "valor_atual": "OLHA A MORAL ⤵️",
+      "hash_anterior": "2f9bbb1022e929960d68771752c0c00b370671757fac9ed297e513aa8372e450",
+      "hash_atual": "b7c28bbbb7199d097998d8bd90057ee52f1f8c2c1a8343b83bfe6e184b296215",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397975.546218,
+        "texto": "16 dias e 4 horas e 19 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397975.546218,
+        "texto": "16 dias e 4 horas e 19 minutos e 35 segundos"
+      },
+      "titulo": "Alterou a biografia",
+      "descricao": "A biografia do perfil foi modificada"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:44:02.049875",
+      "timestamp_anterior": "2026-11-03T12:24:26.503657",
+      "timestamp_atual": "2026-11-19T16:44:02.049875",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 6311667,
+        "id": "17841401190010098",
+        "username": "luansantana",
+        "nome": "Luan Santana",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Giwr0csRyIAQ7kNvwF_PkcX&_nc_oc=AdpjvBz-6e5BeQALuPWrE0BXO391mqUjfzQEUYgnO8i1ZhjQEaRYV6NR6XugSRrUrWhyDu2mNv-X3a4JqF-lWWnn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K2cK78Rd0EDxP7EwHQPg1g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlJux0fMF_7VQy8vs77e4i0jU5l8Ae1rnOCnh-DBjScw&oe=6B052188",
+        "total_posts": 2686
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [
+        {
+          "url": "http://registrohistorico.com.br"
+        }
+      ],
+      "valor_atual": [
+        {
+          "url": "https://luansantana.lnk.to/alemdoregistro"
+        },
+        {
+          "url": "http://registrohistorico.com.br"
+        }
+      ],
+      "hash_anterior": "2f9bbb1022e929960d68771752c0c00b370671757fac9ed297e513aa8372e450",
+      "hash_atual": "b7c28bbbb7199d097998d8bd90057ee52f1f8c2c1a8343b83bfe6e184b296215",
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397975.546218,
+        "texto": "16 dias e 4 horas e 19 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:44:02.049875",
+      "timestamp_anterior": "2026-11-03T12:24:26.503657",
+      "timestamp_atual": "2026-11-19T16:44:02.049875",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 6311667,
+        "id": "17841401190010098",
+        "username": "luansantana",
+        "nome": "Luan Santana",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Giwr0csRyIAQ7kNvwF_PkcX&_nc_oc=AdpjvBz-6e5BeQALuPWrE0BXO391mqUjfzQEUYgnO8i1ZhjQEaRYV6NR6XugSRrUrWhyDu2mNv-X3a4JqF-lWWnn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K2cK78Rd0EDxP7EwHQPg1g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlJux0fMF_7VQy8vs77e4i0jU5l8Ae1rnOCnh-DBjScw&oe=6B052188",
+        "total_posts": 2686
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 36923846,
+      "valor_atual": 36912634,
+      "hash_anterior": "2f9bbb1022e929960d68771752c0c00b370671757fac9ed297e513aa8372e450",
+      "hash_atual": "b7c28bbbb7199d097998d8bd90057ee52f1f8c2c1a8343b83bfe6e184b296215",
+      "variacao": -11212,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397975.546218,
+        "texto": "16 dias e 4 horas e 19 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 11.212 seguidores",
+      "descricao": "Os seguidores caíram de 36.923.846 para 36.912.634",
+      "variacao_texto": "-11.212 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:44:02.049875",
+      "timestamp_anterior": "2026-11-03T12:24:26.503657",
+      "timestamp_atual": "2026-11-19T16:44:02.049875",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 6311667,
+        "id": "17841401190010098",
+        "username": "luansantana",
+        "nome": "Luan Santana",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Giwr0csRyIAQ7kNvwF_PkcX&_nc_oc=AdpjvBz-6e5BeQALuPWrE0BXO391mqUjfzQEUYgnO8i1ZhjQEaRYV6NR6XugSRrUrWhyDu2mNv-X3a4JqF-lWWnn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K2cK78Rd0EDxP7EwHQPg1g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlJux0fMF_7VQy8vs77e4i0jU5l8Ae1rnOCnh-DBjScw&oe=6B052188",
+        "total_posts": 2686
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 3589,
+      "valor_atual": 3683,
+      "hash_anterior": "2f9bbb1022e929960d68771752c0c00b370671757fac9ed297e513aa8372e450",
+      "hash_atual": "b7c28bbbb7199d097998d8bd90057ee52f1f8c2c1a8343b83bfe6e184b296215",
+      "variacao": 94,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397975.546218,
+        "texto": "16 dias e 4 horas e 19 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 94 pessoas",
+      "descricao": "Estava seguindo 3.589 e passou a seguir 3.683",
+      "variacao_texto": "+94 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:44:02.049875",
+      "timestamp_anterior": "2026-11-03T12:24:26.503657",
+      "timestamp_atual": "2026-11-19T16:44:02.049875",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 6311667,
+        "id": "17841401190010098",
+        "username": "luansantana",
+        "nome": "Luan Santana",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Giwr0csRyIAQ7kNvwF_PkcX&_nc_oc=AdpjvBz-6e5BeQALuPWrE0BXO391mqUjfzQEUYgnO8i1ZhjQEaRYV6NR6XugSRrUrWhyDu2mNv-X3a4JqF-lWWnn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K2cK78Rd0EDxP7EwHQPg1g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlJux0fMF_7VQy8vs77e4i0jU5l8Ae1rnOCnh-DBjScw&oe=6B052188",
+        "total_posts": 2686
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 2677,
+      "valor_atual": 2686,
+      "hash_anterior": "2f9bbb1022e929960d68771752c0c00b370671757fac9ed297e513aa8372e450",
+      "hash_atual": "b7c28bbbb7199d097998d8bd90057ee52f1f8c2c1a8343b83bfe6e184b296215",
+      "variacao": 9,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397975.546218,
+        "texto": "16 dias e 4 horas e 19 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 9 publicações",
+      "descricao": "O total mudou de 2.677 para 2.686",
+      "variacao_texto": "+9 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:24:26.503657",
@@ -1260,15 +1513,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=J9BXqjMFAOe6Orbn_Cy6tQ&_nc_ss=70689&oh=00_AQQzHgUPuOkmxjLsX53e6QkXVCe6clKD70NVSZvWz8oeDA&oe=6AEFCFAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=J9BXqjMFAOe6Orbn_Cy6tQ&_nc_ss=70689&oh=00_AQQzHgUPuOkmxjLsX53e6QkXVCe6clKD70NVSZvWz8oeDA&oe=6AEFCFAA",
+        "total_posts": 2677
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923843,
       "valor_atual": 36923846,
-      "hash_anterior": "8d526d8fd4e1edcd7d6f9b848d14a5b8777956290dbb21f3a0ea7ec3d1627555",
-      "hash_atual": "59e5997ca201f8991feab605de544abd6563ec65c40196ae80d8b064d0945edb",
+      "hash_anterior": "d4e84627af9442a217e8e5b8bb47843073cbd6d4674df5ef7602d076d7cc4bb1",
+      "hash_atual": "2f9bbb1022e929960d68771752c0c00b370671757fac9ed297e513aa8372e450",
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1295,15 +1549,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IBf626yBvG_olCt6zVmzUw&_nc_ss=70689&oh=00_AQRp1km8tJZnbC7K7-rfMaoaZzPki4hFixxbBHLc6v_bhQ&oe=6AEFCFAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IBf626yBvG_olCt6zVmzUw&_nc_ss=70689&oh=00_AQRp1km8tJZnbC7K7-rfMaoaZzPki4hFixxbBHLc6v_bhQ&oe=6AEFCFAA",
+        "total_posts": 2677
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923842,
       "valor_atual": 36923843,
-      "hash_anterior": "801dbd5fb400dc43880fc703d89b74b44e7c7b59fab67d1f5e03ac931d14ed14",
-      "hash_atual": "8d526d8fd4e1edcd7d6f9b848d14a5b8777956290dbb21f3a0ea7ec3d1627555",
+      "hash_anterior": "b6cc6acad5c3363fe5e531e5e0ca73e796c21c2d676301e76072af4b06561084",
+      "hash_atual": "d4e84627af9442a217e8e5b8bb47843073cbd6d4674df5ef7602d076d7cc4bb1",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1330,15 +1585,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xtme3tAkAvuNagUnr0ktlA&_nc_ss=70689&oh=00_AQRKeuObMtAtlQkkZrikWN6VSwHFm3ArtybA9nxsLHpXdg&oe=6AEFCFAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xtme3tAkAvuNagUnr0ktlA&_nc_ss=70689&oh=00_AQRKeuObMtAtlQkkZrikWN6VSwHFm3ArtybA9nxsLHpXdg&oe=6AEFCFAA",
+        "total_posts": 2677
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923841,
       "valor_atual": 36923842,
-      "hash_anterior": "44bc4321765f5618cfe89a714130930ea5b8463b6c0945c42c09d6dba69c2be1",
-      "hash_atual": "801dbd5fb400dc43880fc703d89b74b44e7c7b59fab67d1f5e03ac931d14ed14",
+      "hash_anterior": "8c5d9823497602fe38fd55d79c34cf2b46f892dc88b1b96faf6b6623e3d4b0cf",
+      "hash_atual": "b6cc6acad5c3363fe5e531e5e0ca73e796c21c2d676301e76072af4b06561084",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1365,15 +1621,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L2hMGafwDFfPhMolr4NTMg&_nc_ss=70689&oh=00_AQQuRbBXRU1mfY541nG7D2N_1-PTrcHSjJ_ShqOMrsOVhw&oe=6AEFCFAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L2hMGafwDFfPhMolr4NTMg&_nc_ss=70689&oh=00_AQQuRbBXRU1mfY541nG7D2N_1-PTrcHSjJ_ShqOMrsOVhw&oe=6AEFCFAA",
+        "total_posts": 2677
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36931622,
       "valor_atual": 36923841,
-      "hash_anterior": "f2420eb4ab88044e05e6f8552acd582994679b9b063a123abef3589e80ea259c",
-      "hash_atual": "44bc4321765f5618cfe89a714130930ea5b8463b6c0945c42c09d6dba69c2be1",
+      "hash_anterior": "a1227b7c09184c6956cd98fb03e5eca658411148196cc7cb05125a93800b66e7",
+      "hash_atual": "8c5d9823497602fe38fd55d79c34cf2b46f892dc88b1b96faf6b6623e3d4b0cf",
       "variacao": -7781,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1400,15 +1657,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L2hMGafwDFfPhMolr4NTMg&_nc_ss=70689&oh=00_AQQuRbBXRU1mfY541nG7D2N_1-PTrcHSjJ_ShqOMrsOVhw&oe=6AEFCFAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L2hMGafwDFfPhMolr4NTMg&_nc_ss=70689&oh=00_AQQuRbBXRU1mfY541nG7D2N_1-PTrcHSjJ_ShqOMrsOVhw&oe=6AEFCFAA",
+        "total_posts": 2677
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3588,
       "valor_atual": 3589,
-      "hash_anterior": "f2420eb4ab88044e05e6f8552acd582994679b9b063a123abef3589e80ea259c",
-      "hash_atual": "44bc4321765f5618cfe89a714130930ea5b8463b6c0945c42c09d6dba69c2be1",
+      "hash_anterior": "a1227b7c09184c6956cd98fb03e5eca658411148196cc7cb05125a93800b66e7",
+      "hash_atual": "8c5d9823497602fe38fd55d79c34cf2b46f892dc88b1b96faf6b6623e3d4b0cf",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1435,15 +1693,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L2hMGafwDFfPhMolr4NTMg&_nc_ss=70689&oh=00_AQQuRbBXRU1mfY541nG7D2N_1-PTrcHSjJ_ShqOMrsOVhw&oe=6AEFCFAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GB65mSK03vhfQf1BAJ8Vn_VYsW9cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=80nX-nSEv6cQ7kNvwHQk-po&_nc_oc=Adpur-1OtRdoKkEDHXUhBwS05mUmr8zlVKcSAwgK3SBnWVXx550bstrjTCI7UAJ0m_ynbWVoX1gGXLi8-kAfB8QX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=L2hMGafwDFfPhMolr4NTMg&_nc_ss=70689&oh=00_AQQuRbBXRU1mfY541nG7D2N_1-PTrcHSjJ_ShqOMrsOVhw&oe=6AEFCFAA",
+        "total_posts": 2677
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2676,
       "valor_atual": 2677,
-      "hash_anterior": "f2420eb4ab88044e05e6f8552acd582994679b9b063a123abef3589e80ea259c",
-      "hash_atual": "44bc4321765f5618cfe89a714130930ea5b8463b6c0945c42c09d6dba69c2be1",
+      "hash_anterior": "a1227b7c09184c6956cd98fb03e5eca658411148196cc7cb05125a93800b66e7",
+      "hash_atual": "8c5d9823497602fe38fd55d79c34cf2b46f892dc88b1b96faf6b6623e3d4b0cf",
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1454,7 +1713,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.676 para 2.677",
       "variacao_texto": "+1 post"
     },
@@ -1470,15 +1729,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NfimBfApvp_NRQJGwJskTw&_nc_ss=70689&oh=00_AQTpj3SqQZMHXkHFi3FBYtOsOkExnBHxMwk3gktZU2R7dw&oe=6AEAFA2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NfimBfApvp_NRQJGwJskTw&_nc_ss=70689&oh=00_AQTpj3SqQZMHXkHFi3FBYtOsOkExnBHxMwk3gktZU2R7dw&oe=6AEAFA2A",
+        "total_posts": 2676
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36931616,
       "valor_atual": 36931622,
-      "hash_anterior": "23a46d0df94414e27ebf2a018f71c49b76fa20d25061dd8749474636f0bccced",
-      "hash_atual": "f2420eb4ab88044e05e6f8552acd582994679b9b063a123abef3589e80ea259c",
+      "hash_anterior": "249384ccc95e653b80d74d735e59fb62ec907c38989571f48a7c342afb11a18a",
+      "hash_atual": "a1227b7c09184c6956cd98fb03e5eca658411148196cc7cb05125a93800b66e7",
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1505,15 +1765,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSm-IcsfNmdHyFp3WAIF0g&_nc_ss=70689&oh=00_AQQ59mrzUTnbg-29H0AChyeSnHjxFXtgIwqcLdScYrgz-g&oe=6AEAFA2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSm-IcsfNmdHyFp3WAIF0g&_nc_ss=70689&oh=00_AQQ59mrzUTnbg-29H0AChyeSnHjxFXtgIwqcLdScYrgz-g&oe=6AEAFA2A",
+        "total_posts": 2676
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36945341,
       "valor_atual": 36931616,
-      "hash_anterior": "48a3145eb54ccdf6c752f3af4c3c1797d8e5b06c89c75340513044f0f16e9835",
-      "hash_atual": "23a46d0df94414e27ebf2a018f71c49b76fa20d25061dd8749474636f0bccced",
+      "hash_anterior": "4213133245169ba1acc487a24c9fa66c2c3228c8ac5a344ccc7608b52258cfc1",
+      "hash_atual": "249384ccc95e653b80d74d735e59fb62ec907c38989571f48a7c342afb11a18a",
       "variacao": -13725,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1540,15 +1801,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSm-IcsfNmdHyFp3WAIF0g&_nc_ss=70689&oh=00_AQQ59mrzUTnbg-29H0AChyeSnHjxFXtgIwqcLdScYrgz-g&oe=6AEAFA2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSm-IcsfNmdHyFp3WAIF0g&_nc_ss=70689&oh=00_AQQ59mrzUTnbg-29H0AChyeSnHjxFXtgIwqcLdScYrgz-g&oe=6AEAFA2A",
+        "total_posts": 2676
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3591,
       "valor_atual": 3588,
-      "hash_anterior": "48a3145eb54ccdf6c752f3af4c3c1797d8e5b06c89c75340513044f0f16e9835",
-      "hash_atual": "23a46d0df94414e27ebf2a018f71c49b76fa20d25061dd8749474636f0bccced",
+      "hash_anterior": "4213133245169ba1acc487a24c9fa66c2c3228c8ac5a344ccc7608b52258cfc1",
+      "hash_atual": "249384ccc95e653b80d74d735e59fb62ec907c38989571f48a7c342afb11a18a",
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1575,15 +1837,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSm-IcsfNmdHyFp3WAIF0g&_nc_ss=70689&oh=00_AQQ59mrzUTnbg-29H0AChyeSnHjxFXtgIwqcLdScYrgz-g&oe=6AEAFA2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DLEhEoVYjUAQ7kNvwE8spw0&_nc_oc=AdpMHcCtkBsDtNBkKTPDOwC7Om8K9pj_W3ruTpBzdFvqMLUcvU24Qnu1NR4amuT7Mh0-MaAKMjY6jZWeY95dSjsr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSm-IcsfNmdHyFp3WAIF0g&_nc_ss=70689&oh=00_AQQ59mrzUTnbg-29H0AChyeSnHjxFXtgIwqcLdScYrgz-g&oe=6AEAFA2A",
+        "total_posts": 2676
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2672,
       "valor_atual": 2676,
-      "hash_anterior": "48a3145eb54ccdf6c752f3af4c3c1797d8e5b06c89c75340513044f0f16e9835",
-      "hash_atual": "23a46d0df94414e27ebf2a018f71c49b76fa20d25061dd8749474636f0bccced",
+      "hash_anterior": "4213133245169ba1acc487a24c9fa66c2c3228c8ac5a344ccc7608b52258cfc1",
+      "hash_atual": "249384ccc95e653b80d74d735e59fb62ec907c38989571f48a7c342afb11a18a",
       "variacao": 4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1594,7 +1857,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 4 posts",
+      "titulo": "Publicou 4 publicações",
       "descricao": "O total mudou de 2.672 para 2.676",
       "variacao_texto": "+4 posts"
     },
@@ -1610,15 +1873,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8aqqyXOh9X9Je9YtQrsItA&_nc_ss=70689&oh=00_AQMz3VJ1iFq0ERvMpnCXXZKDtfLedMn-A1qyA0T8JYc2xw&oe=6AE2A0AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8aqqyXOh9X9Je9YtQrsItA&_nc_ss=70689&oh=00_AQMz3VJ1iFq0ERvMpnCXXZKDtfLedMn-A1qyA0T8JYc2xw&oe=6AE2A0AA",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36945336,
       "valor_atual": 36945341,
-      "hash_anterior": "b7feb799186abbc8eaa2978adfaabcf72409f0eb8ae5cc39aa7cb5fd7fd1bdb3",
-      "hash_atual": "48a3145eb54ccdf6c752f3af4c3c1797d8e5b06c89c75340513044f0f16e9835",
+      "hash_anterior": "a5f1633fde05873bc726eda055480c624afe2a67674b281da7f9c3abb439b2b2",
+      "hash_atual": "4213133245169ba1acc487a24c9fa66c2c3228c8ac5a344ccc7608b52258cfc1",
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1645,15 +1909,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N1iOXwmgHrMvwprhYdDQ4A&_nc_ss=70689&oh=00_AQPZhFlpu_8XlajRQcNfyyLAg98NhltK8zCD6kkYMln8aQ&oe=6AE2A0AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N1iOXwmgHrMvwprhYdDQ4A&_nc_ss=70689&oh=00_AQPZhFlpu_8XlajRQcNfyyLAg98NhltK8zCD6kkYMln8aQ&oe=6AE2A0AA",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36945333,
       "valor_atual": 36945336,
-      "hash_anterior": "052b4ad681d8a62526c5923fd61bc7974f5d8d2a3c3c12053be889f4949140af",
-      "hash_atual": "b7feb799186abbc8eaa2978adfaabcf72409f0eb8ae5cc39aa7cb5fd7fd1bdb3",
+      "hash_anterior": "45f21b395b78997323dd449bd4c0935c2e510f44e263838273f06f6582904cf0",
+      "hash_atual": "a5f1633fde05873bc726eda055480c624afe2a67674b281da7f9c3abb439b2b2",
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1680,15 +1945,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YH78zZlhq9ELFSPz1ZdNrQ&_nc_ss=70689&oh=00_AQMjbGPCOAibRX9t9BgtVxVhJ25GttiNgccU7k4xtk8oDA&oe=6AE2A0AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YH78zZlhq9ELFSPz1ZdNrQ&_nc_ss=70689&oh=00_AQMjbGPCOAibRX9t9BgtVxVhJ25GttiNgccU7k4xtk8oDA&oe=6AE2A0AA",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943593,
       "valor_atual": 36945333,
-      "hash_anterior": "6071c37db14b43b0297c68cfef68544293bf59ccf4ffa9675aca03ab9f51f267",
-      "hash_atual": "052b4ad681d8a62526c5923fd61bc7974f5d8d2a3c3c12053be889f4949140af",
+      "hash_anterior": "191e3ca79a20bb2887bc3232e15a7151325b8902e0f81d951cabbfcb444d088a",
+      "hash_atual": "45f21b395b78997323dd449bd4c0935c2e510f44e263838273f06f6582904cf0",
       "variacao": 1740,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1715,15 +1981,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YH78zZlhq9ELFSPz1ZdNrQ&_nc_ss=70689&oh=00_AQMjbGPCOAibRX9t9BgtVxVhJ25GttiNgccU7k4xtk8oDA&oe=6AE2A0AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwH3A9bf&_nc_oc=AdoxfgZ2NcaTAhWig96C-5PeysD8ZZEu3iE7aoyTD5sNUM9cZQ-kKw4rAELAqZdQWGhz33UFqPVYPYytQyjHdkbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YH78zZlhq9ELFSPz1ZdNrQ&_nc_ss=70689&oh=00_AQMjbGPCOAibRX9t9BgtVxVhJ25GttiNgccU7k4xtk8oDA&oe=6AE2A0AA",
+        "total_posts": 2672
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3590,
       "valor_atual": 3591,
-      "hash_anterior": "6071c37db14b43b0297c68cfef68544293bf59ccf4ffa9675aca03ab9f51f267",
-      "hash_atual": "052b4ad681d8a62526c5923fd61bc7974f5d8d2a3c3c12053be889f4949140af",
+      "hash_anterior": "191e3ca79a20bb2887bc3232e15a7151325b8902e0f81d951cabbfcb444d088a",
+      "hash_atual": "45f21b395b78997323dd449bd4c0935c2e510f44e263838273f06f6582904cf0",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1750,15 +2017,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGJD5QU&_nc_oc=AdqP5N_lvAdNrCUHJ2Ux3zOVOE6jsAu5IzWLhicO8sU0bvxDGmzKj-y2hze86TgPBVEU056tKdSP-A0bp5F1DZ73&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oavmeR1T0comgMOKcR5LiA&_nc_ss=70689&oh=00_AQO3LT8rMzUX00wS9uLRSlzo2g_oj2so4Z8YTseEPkTnPw&oe=6AE14F2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGJD5QU&_nc_oc=AdqP5N_lvAdNrCUHJ2Ux3zOVOE6jsAu5IzWLhicO8sU0bvxDGmzKj-y2hze86TgPBVEU056tKdSP-A0bp5F1DZ73&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oavmeR1T0comgMOKcR5LiA&_nc_ss=70689&oh=00_AQO3LT8rMzUX00wS9uLRSlzo2g_oj2so4Z8YTseEPkTnPw&oe=6AE14F2A",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943590,
       "valor_atual": 36943593,
-      "hash_anterior": "7024784675a61509e96bbdc508ac51650e4e6fe4b1bef22c56ad39e141c84fcb",
-      "hash_atual": "6071c37db14b43b0297c68cfef68544293bf59ccf4ffa9675aca03ab9f51f267",
+      "hash_anterior": "3f8a67218662e38ef6d72141b36deddc1692df91d8c378d483d5afbabbf5e06d",
+      "hash_atual": "191e3ca79a20bb2887bc3232e15a7151325b8902e0f81d951cabbfcb444d088a",
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1785,15 +2053,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGJD5QU&_nc_oc=AdqP5N_lvAdNrCUHJ2Ux3zOVOE6jsAu5IzWLhicO8sU0bvxDGmzKj-y2hze86TgPBVEU056tKdSP-A0bp5F1DZ73&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pf38_vGMV5Wq218PDYPaug&_nc_ss=70689&oh=00_AQOjsakbKWq77YSx1Zmq2Kog5fsLX8485QcT42h78LLf4A&oe=6AE14F2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGJD5QU&_nc_oc=AdqP5N_lvAdNrCUHJ2Ux3zOVOE6jsAu5IzWLhicO8sU0bvxDGmzKj-y2hze86TgPBVEU056tKdSP-A0bp5F1DZ73&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pf38_vGMV5Wq218PDYPaug&_nc_ss=70689&oh=00_AQOjsakbKWq77YSx1Zmq2Kog5fsLX8485QcT42h78LLf4A&oe=6AE14F2A",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943731,
       "valor_atual": 36943590,
-      "hash_anterior": "ebb5ab5958d891cd82bb9a838a40dc48143cd996603682d03d24e7b7cdb75c89",
-      "hash_atual": "7024784675a61509e96bbdc508ac51650e4e6fe4b1bef22c56ad39e141c84fcb",
+      "hash_anterior": "35f911f72ea86b1e7e587b660773ead0008e4b9e7bf6d3392a0b70464cd58afa",
+      "hash_atual": "3f8a67218662e38ef6d72141b36deddc1692df91d8c378d483d5afbabbf5e06d",
       "variacao": -141,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1820,15 +2089,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rHeWLw5Ml0yyK11UEXjoJw&_nc_ss=70689&oh=00_AQM1oxPvnT48lAQqNgVfJDhxc4xCcKfwNaTGxuTDeIvSKQ&oe=6AE06E2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rHeWLw5Ml0yyK11UEXjoJw&_nc_ss=70689&oh=00_AQM1oxPvnT48lAQqNgVfJDhxc4xCcKfwNaTGxuTDeIvSKQ&oe=6AE06E2A",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943686,
       "valor_atual": 36943731,
-      "hash_anterior": "f6bba4dcb6668b55298d6902b2eae8bd264b1b5c0c73aa462fca03478d2b848b",
-      "hash_atual": "ebb5ab5958d891cd82bb9a838a40dc48143cd996603682d03d24e7b7cdb75c89",
+      "hash_anterior": "fae16f58af800467619308d8b028894b67e3195f68ae01a397e6b76a589c1ee0",
+      "hash_atual": "35f911f72ea86b1e7e587b660773ead0008e4b9e7bf6d3392a0b70464cd58afa",
       "variacao": 45,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1855,15 +2125,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2OFNtjBAY4FWWXng1x3DtA&_nc_ss=70689&oh=00_AQNmEILbJ8U-1f--En8WfQSOMi8-W_TIoGGEEJvJBXFdtg&oe=6AE06E2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2OFNtjBAY4FWWXng1x3DtA&_nc_ss=70689&oh=00_AQNmEILbJ8U-1f--En8WfQSOMi8-W_TIoGGEEJvJBXFdtg&oe=6AE06E2A",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943673,
       "valor_atual": 36943686,
-      "hash_anterior": "755922e4b92ac818c1e369b2e07b081084534aeedeee4893d4ff4e41e5748032",
-      "hash_atual": "f6bba4dcb6668b55298d6902b2eae8bd264b1b5c0c73aa462fca03478d2b848b",
+      "hash_anterior": "8220a9cb44037ba5695469b2b76099b1cdd4c949f0b5b898647b6b9f90484134",
+      "hash_atual": "fae16f58af800467619308d8b028894b67e3195f68ae01a397e6b76a589c1ee0",
       "variacao": 13,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1890,15 +2161,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3p-sinua-NnHhsRUqF_ujQ&_nc_ss=70689&oh=00_AQP25-JzawzcRGgUaQv613iF2pDNXSuHfktagPV-moMiqw&oe=6AE06E2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3p-sinua-NnHhsRUqF_ujQ&_nc_ss=70689&oh=00_AQP25-JzawzcRGgUaQv613iF2pDNXSuHfktagPV-moMiqw&oe=6AE06E2A",
+        "total_posts": 2672
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943918,
       "valor_atual": 36943673,
-      "hash_anterior": "a8b82a55e3933f640262f177193c6802aac9542dbe8228eb5e3f455c85faba0f",
-      "hash_atual": "755922e4b92ac818c1e369b2e07b081084534aeedeee4893d4ff4e41e5748032",
+      "hash_anterior": "9393604b8f7409386ba81bddaa974527d6b14e9851122861ff3b4ea3c10d8070",
+      "hash_atual": "8220a9cb44037ba5695469b2b76099b1cdd4c949f0b5b898647b6b9f90484134",
       "variacao": -245,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1925,15 +2197,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3p-sinua-NnHhsRUqF_ujQ&_nc_ss=70689&oh=00_AQP25-JzawzcRGgUaQv613iF2pDNXSuHfktagPV-moMiqw&oe=6AE06E2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OvAU5hzbfk4Q7kNvwGuTBS2&_nc_oc=Adozd3KO_PpExsGSjq2bUS_pTOKqDLgws_4m-ZFPuqc_LlAaADy0_NWsDU5Kv7RoawytzPeraywWH477DFNqXDL-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3p-sinua-NnHhsRUqF_ujQ&_nc_ss=70689&oh=00_AQP25-JzawzcRGgUaQv613iF2pDNXSuHfktagPV-moMiqw&oe=6AE06E2A",
+        "total_posts": 2672
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2671,
       "valor_atual": 2672,
-      "hash_anterior": "a8b82a55e3933f640262f177193c6802aac9542dbe8228eb5e3f455c85faba0f",
-      "hash_atual": "755922e4b92ac818c1e369b2e07b081084534aeedeee4893d4ff4e41e5748032",
+      "hash_anterior": "9393604b8f7409386ba81bddaa974527d6b14e9851122861ff3b4ea3c10d8070",
+      "hash_atual": "8220a9cb44037ba5695469b2b76099b1cdd4c949f0b5b898647b6b9f90484134",
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1944,7 +2217,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.671 para 2.672",
       "variacao_texto": "+1 post"
     },
@@ -1960,15 +2233,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fTA3kGUcgpglH4WZFRZfzw&_nc_ss=70689&oh=00_AQO8L4FxN4xAQlbBfGlAPWjIw_5vi_NhmpaWwWQxsLhE5w&oe=6ADEE46A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fTA3kGUcgpglH4WZFRZfzw&_nc_ss=70689&oh=00_AQO8L4FxN4xAQlbBfGlAPWjIw_5vi_NhmpaWwWQxsLhE5w&oe=6ADEE46A",
+        "total_posts": 2671
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943907,
       "valor_atual": 36943918,
-      "hash_anterior": "ad22702c0c43924fba7aaaf7b2592df627b585d50128268104f0e7447b55d321",
-      "hash_atual": "a8b82a55e3933f640262f177193c6802aac9542dbe8228eb5e3f455c85faba0f",
+      "hash_anterior": "ac3dbd04effc0f8d69a40583585a94bb8194fe8456381b0eb9d83f6d9f0b5d7a",
+      "hash_atual": "9393604b8f7409386ba81bddaa974527d6b14e9851122861ff3b4ea3c10d8070",
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1995,15 +2269,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JX9gavxsiPmg_pfz92mIVg&_nc_ss=70689&oh=00_AQNZsyY16zGjHWKgTfOjNYdvyoryu7NoRCg_MSN9BjWhaw&oe=6ADEE46A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JX9gavxsiPmg_pfz92mIVg&_nc_ss=70689&oh=00_AQNZsyY16zGjHWKgTfOjNYdvyoryu7NoRCg_MSN9BjWhaw&oe=6ADEE46A",
+        "total_posts": 2671
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943898,
       "valor_atual": 36943907,
-      "hash_anterior": "cb51eeb007d3af84f2067176121bddc3e0a87cc15dd5123103554987810d9537",
-      "hash_atual": "ad22702c0c43924fba7aaaf7b2592df627b585d50128268104f0e7447b55d321",
+      "hash_anterior": "2e5632bc2ae959fa0e3c833f6a180c5221ccadca8fb88cb588da699cbbd7af43",
+      "hash_atual": "ac3dbd04effc0f8d69a40583585a94bb8194fe8456381b0eb9d83f6d9f0b5d7a",
       "variacao": 9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2030,15 +2305,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CDmTm9Kpcvp3piH8w_UqdA&_nc_ss=70689&oh=00_AQNxg5VN_YsdW89TTWeAkEpcYUN9zFNKPKet-VQhWkCS4Q&oe=6ADEE46A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CDmTm9Kpcvp3piH8w_UqdA&_nc_ss=70689&oh=00_AQNxg5VN_YsdW89TTWeAkEpcYUN9zFNKPKet-VQhWkCS4Q&oe=6ADEE46A",
+        "total_posts": 2671
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36943885,
       "valor_atual": 36943898,
-      "hash_anterior": "23c7d303d63ff1af1a3be3cc3a45fa903e5da96ec7764f4164f25c03796b42a9",
-      "hash_atual": "cb51eeb007d3af84f2067176121bddc3e0a87cc15dd5123103554987810d9537",
+      "hash_anterior": "262719d7ad00ab2d8a0e64c9c3878f64c9281620619e311a6e34f41e8d95fc4e",
+      "hash_atual": "2e5632bc2ae959fa0e3c833f6a180c5221ccadca8fb88cb588da699cbbd7af43",
       "variacao": 13,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2065,15 +2341,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CLt5Kusrbq0103K30zxsVQ&_nc_ss=70689&oh=00_AQNXY0hEbVS3U53p6sK45OJytszr2rNqnAF_un6y5e-yXg&oe=6ADEE46A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CLt5Kusrbq0103K30zxsVQ&_nc_ss=70689&oh=00_AQNXY0hEbVS3U53p6sK45OJytszr2rNqnAF_un6y5e-yXg&oe=6ADEE46A",
+        "total_posts": 2671
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36936510,
       "valor_atual": 36943885,
-      "hash_anterior": "4052ea0feb361b0d089249cfd8d96b5086ceca98b1ab90324a2dc030e004c916",
-      "hash_atual": "23c7d303d63ff1af1a3be3cc3a45fa903e5da96ec7764f4164f25c03796b42a9",
+      "hash_anterior": "7bcd9e274a7903f198b16179413e5c5a7db2e3cbb8d0339102d872fa66e26fb4",
+      "hash_atual": "262719d7ad00ab2d8a0e64c9c3878f64c9281620619e311a6e34f41e8d95fc4e",
       "variacao": 7375,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2100,15 +2377,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CLt5Kusrbq0103K30zxsVQ&_nc_ss=70689&oh=00_AQNXY0hEbVS3U53p6sK45OJytszr2rNqnAF_un6y5e-yXg&oe=6ADEE46A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CLt5Kusrbq0103K30zxsVQ&_nc_ss=70689&oh=00_AQNXY0hEbVS3U53p6sK45OJytszr2rNqnAF_un6y5e-yXg&oe=6ADEE46A",
+        "total_posts": 2671
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3594,
       "valor_atual": 3590,
-      "hash_anterior": "4052ea0feb361b0d089249cfd8d96b5086ceca98b1ab90324a2dc030e004c916",
-      "hash_atual": "23c7d303d63ff1af1a3be3cc3a45fa903e5da96ec7764f4164f25c03796b42a9",
+      "hash_anterior": "7bcd9e274a7903f198b16179413e5c5a7db2e3cbb8d0339102d872fa66e26fb4",
+      "hash_atual": "262719d7ad00ab2d8a0e64c9c3878f64c9281620619e311a6e34f41e8d95fc4e",
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2135,15 +2413,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CLt5Kusrbq0103K30zxsVQ&_nc_ss=70689&oh=00_AQNXY0hEbVS3U53p6sK45OJytszr2rNqnAF_un6y5e-yXg&oe=6ADEE46A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=dfKPKRH9BcQQ7kNvwFSLqwI&_nc_oc=AdpoPWUZuA5aQ7eUtx0LgR-fYjd9OzYJIU4LvsZm2dawqB6pTz5ZTyrce0p42sYyXOEu85rnKIGJ7BZiGe7sKZtL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CLt5Kusrbq0103K30zxsVQ&_nc_ss=70689&oh=00_AQNXY0hEbVS3U53p6sK45OJytszr2rNqnAF_un6y5e-yXg&oe=6ADEE46A",
+        "total_posts": 2671
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2668,
       "valor_atual": 2671,
-      "hash_anterior": "4052ea0feb361b0d089249cfd8d96b5086ceca98b1ab90324a2dc030e004c916",
-      "hash_atual": "23c7d303d63ff1af1a3be3cc3a45fa903e5da96ec7764f4164f25c03796b42a9",
+      "hash_anterior": "7bcd9e274a7903f198b16179413e5c5a7db2e3cbb8d0339102d872fa66e26fb4",
+      "hash_atual": "262719d7ad00ab2d8a0e64c9c3878f64c9281620619e311a6e34f41e8d95fc4e",
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2154,7 +2433,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 2.668 para 2.671",
       "variacao_texto": "+3 posts"
     },
@@ -2170,15 +2449,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XD48lIfY_4yF67FUytK7Dw&_nc_ss=70689&oh=00_AQMV9Ad24mn3cKqom4YLSII0YbiEU9rnS_Yxv6NJSpzrNQ&oe=6AD8BD6A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XD48lIfY_4yF67FUytK7Dw&_nc_ss=70689&oh=00_AQMV9Ad24mn3cKqom4YLSII0YbiEU9rnS_Yxv6NJSpzrNQ&oe=6AD8BD6A",
+        "total_posts": 2668
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36936496,
       "valor_atual": 36936510,
-      "hash_anterior": "39fe025f600b1c92c2505e0312009417099e1129d27e87b0be6ef6aeb0dc9fbc",
-      "hash_atual": "4052ea0feb361b0d089249cfd8d96b5086ceca98b1ab90324a2dc030e004c916",
+      "hash_anterior": "0470d1c504c08fd331399819014255dda45f46cb0a7524015254f2054f0644b0",
+      "hash_atual": "7bcd9e274a7903f198b16179413e5c5a7db2e3cbb8d0339102d872fa66e26fb4",
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2205,15 +2485,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=E9G3OVEZ57Wuu6q3hASrKw&_nc_ss=70689&oh=00_AQP0qirMa-OOUqcKXOlJFvDrVJ9u3Kwn-C-6mrQwV-PByQ&oe=6AD8BD6A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=E9G3OVEZ57Wuu6q3hASrKw&_nc_ss=70689&oh=00_AQP0qirMa-OOUqcKXOlJFvDrVJ9u3Kwn-C-6mrQwV-PByQ&oe=6AD8BD6A",
+        "total_posts": 2668
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36935137,
       "valor_atual": 36936496,
-      "hash_anterior": "72c1eb90fd58ad288e9bde39cfac3bbcdf336897893eeba5f0640fc1f40e13df",
-      "hash_atual": "39fe025f600b1c92c2505e0312009417099e1129d27e87b0be6ef6aeb0dc9fbc",
+      "hash_anterior": "e7859e9f73ec5f259f5ec2ba33a4455ec64629147d6f04ffc1d22c7a5a19917b",
+      "hash_atual": "0470d1c504c08fd331399819014255dda45f46cb0a7524015254f2054f0644b0",
       "variacao": 1359,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2240,15 +2521,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bB9j0gBJ6HJIG0pwpDrEBw&_nc_ss=70689&oh=00_AQMaep2TIt4rrHAwcqA4VbKZ1SSLliQaCRDHt7ZjN0w5mA&oe=6AD814AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bB9j0gBJ6HJIG0pwpDrEBw&_nc_ss=70689&oh=00_AQMaep2TIt4rrHAwcqA4VbKZ1SSLliQaCRDHt7ZjN0w5mA&oe=6AD814AA",
+        "total_posts": 2668
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36935133,
       "valor_atual": 36935137,
-      "hash_anterior": "e544100c0fc268cf1794af83b720c6282cfe4ad0f03514d35670bc566bba4672",
-      "hash_atual": "72c1eb90fd58ad288e9bde39cfac3bbcdf336897893eeba5f0640fc1f40e13df",
+      "hash_anterior": "16dcef4292009382c96cf07d2717eb91bf5dcca90ab5dd4c433cad20946efa6b",
+      "hash_atual": "e7859e9f73ec5f259f5ec2ba33a4455ec64629147d6f04ffc1d22c7a5a19917b",
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2275,15 +2557,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=v9qaJ_7YhF-nneSg8JCgLQ&_nc_ss=70689&oh=00_AQNO-Z6tbbXOJyBuCqgsOaYGBbdgZVgHgHdCPEq13M48vg&oe=6AD814AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=v9qaJ_7YhF-nneSg8JCgLQ&_nc_ss=70689&oh=00_AQNO-Z6tbbXOJyBuCqgsOaYGBbdgZVgHgHdCPEq13M48vg&oe=6AD814AA",
+        "total_posts": 2668
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36935130,
       "valor_atual": 36935133,
-      "hash_anterior": "63f10cb381af488a776389c1c0b9b42cfddef04fef749e48e0c663373d879fc5",
-      "hash_atual": "e544100c0fc268cf1794af83b720c6282cfe4ad0f03514d35670bc566bba4672",
+      "hash_anterior": "625879c76a9fe5cfb7f88ee46c1ba501a61e419d30c3f2f51d5b4903cda3f3d2",
+      "hash_atual": "16dcef4292009382c96cf07d2717eb91bf5dcca90ab5dd4c433cad20946efa6b",
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2310,15 +2593,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g6u8afJf1gggD5fZ5SqOQg&_nc_ss=70689&oh=00_AQMHdg2n7UH5vElZmP4poq6HwognkTh_2MYH6BQabXEB4w&oe=6AD814AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g6u8afJf1gggD5fZ5SqOQg&_nc_ss=70689&oh=00_AQMHdg2n7UH5vElZmP4poq6HwognkTh_2MYH6BQabXEB4w&oe=6AD814AA",
+        "total_posts": 2668
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36934212,
       "valor_atual": 36935130,
-      "hash_anterior": "d7d81a33ddcdfad29eb0b0614997151e6add2a532a39b748acc0d952bb0c54c2",
-      "hash_atual": "63f10cb381af488a776389c1c0b9b42cfddef04fef749e48e0c663373d879fc5",
+      "hash_anterior": "c545abeb6e89eb2a87d9ef4bc4f4ee5692b3fe1fccdccd8ebcbc657c0b388d81",
+      "hash_atual": "625879c76a9fe5cfb7f88ee46c1ba501a61e419d30c3f2f51d5b4903cda3f3d2",
       "variacao": 918,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2345,15 +2629,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g6u8afJf1gggD5fZ5SqOQg&_nc_ss=70689&oh=00_AQMHdg2n7UH5vElZmP4poq6HwognkTh_2MYH6BQabXEB4w&oe=6AD814AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g6u8afJf1gggD5fZ5SqOQg&_nc_ss=70689&oh=00_AQMHdg2n7UH5vElZmP4poq6HwognkTh_2MYH6BQabXEB4w&oe=6AD814AA",
+        "total_posts": 2668
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3593,
       "valor_atual": 3594,
-      "hash_anterior": "d7d81a33ddcdfad29eb0b0614997151e6add2a532a39b748acc0d952bb0c54c2",
-      "hash_atual": "63f10cb381af488a776389c1c0b9b42cfddef04fef749e48e0c663373d879fc5",
+      "hash_anterior": "c545abeb6e89eb2a87d9ef4bc4f4ee5692b3fe1fccdccd8ebcbc657c0b388d81",
+      "hash_atual": "625879c76a9fe5cfb7f88ee46c1ba501a61e419d30c3f2f51d5b4903cda3f3d2",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2380,15 +2665,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g6u8afJf1gggD5fZ5SqOQg&_nc_ss=70689&oh=00_AQMHdg2n7UH5vElZmP4poq6HwognkTh_2MYH6BQabXEB4w&oe=6AD814AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-5pcLfWrq8EQ7kNvwFCWn0u&_nc_oc=AdqlSylsMwJsX5IhqY7v5xptJpQnGV4_Jo1A8XV51Ud22QXmOTQVGXVSXDzHGFJSqS7d7NjJtVCzzEMXTwh78WKg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=g6u8afJf1gggD5fZ5SqOQg&_nc_ss=70689&oh=00_AQMHdg2n7UH5vElZmP4poq6HwognkTh_2MYH6BQabXEB4w&oe=6AD814AA",
+        "total_posts": 2668
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2666,
       "valor_atual": 2668,
-      "hash_anterior": "d7d81a33ddcdfad29eb0b0614997151e6add2a532a39b748acc0d952bb0c54c2",
-      "hash_atual": "63f10cb381af488a776389c1c0b9b42cfddef04fef749e48e0c663373d879fc5",
+      "hash_anterior": "c545abeb6e89eb2a87d9ef4bc4f4ee5692b3fe1fccdccd8ebcbc657c0b388d81",
+      "hash_atual": "625879c76a9fe5cfb7f88ee46c1ba501a61e419d30c3f2f51d5b4903cda3f3d2",
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2399,7 +2685,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.666 para 2.668",
       "variacao_texto": "+2 posts"
     },
@@ -2415,15 +2701,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwFNsm53&_nc_oc=AdpaY6Guba9QcsTPivvjJ5bSScFCWvAYXiWv5BookoLdKUvyhCQqA--DXjjUtUt7ZO35gyItxk-CoHpmoetO1ZkU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lAQKEk9YcjLWx8seZdoj1Q&_nc_ss=70689&oh=00_AQPtumaVrxDtQxWT6aLZVfq2qb-Nijj2rEB-jrwqZugsDA&oe=6AD6C32A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwFNsm53&_nc_oc=AdpaY6Guba9QcsTPivvjJ5bSScFCWvAYXiWv5BookoLdKUvyhCQqA--DXjjUtUt7ZO35gyItxk-CoHpmoetO1ZkU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lAQKEk9YcjLWx8seZdoj1Q&_nc_ss=70689&oh=00_AQPtumaVrxDtQxWT6aLZVfq2qb-Nijj2rEB-jrwqZugsDA&oe=6AD6C32A",
+        "total_posts": 2666
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36934878,
       "valor_atual": 36934212,
-      "hash_anterior": "9fc465ca7d31b44c1dcbaf7be6f729f59f1ffaaa2951d69ddda3ee36075564d1",
-      "hash_atual": "d7d81a33ddcdfad29eb0b0614997151e6add2a532a39b748acc0d952bb0c54c2",
+      "hash_anterior": "eefa2d14e43977073be2c34363602c82613b1a6bd8c4e074c7d41402cb943451",
+      "hash_atual": "c545abeb6e89eb2a87d9ef4bc4f4ee5692b3fe1fccdccd8ebcbc657c0b388d81",
       "variacao": -666,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2450,15 +2737,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwG9sr88&_nc_oc=Adoob77v41-IeqLptW-frBWVgFlyyJ9d2aAbxXOjQuTn7d67XUoguxtMO5g6Fgdw0reaVK2gJ24VVXXoNkfk5MuN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WCDI9SqtVqEGVSPLDRpfyw&_nc_ss=70689&oh=00_AQMNBAWiAmeCrkzq9-BQOHnTQL34_x8g6Zebqi2F5KMQhw&oe=6AD61A6A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwG9sr88&_nc_oc=Adoob77v41-IeqLptW-frBWVgFlyyJ9d2aAbxXOjQuTn7d67XUoguxtMO5g6Fgdw0reaVK2gJ24VVXXoNkfk5MuN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WCDI9SqtVqEGVSPLDRpfyw&_nc_ss=70689&oh=00_AQMNBAWiAmeCrkzq9-BQOHnTQL34_x8g6Zebqi2F5KMQhw&oe=6AD61A6A",
+        "total_posts": 2666
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36934886,
       "valor_atual": 36934878,
-      "hash_anterior": "85185f5a6c90b9a0914638e1c43b5506a75e195ca218884de11495d05a12b61f",
-      "hash_atual": "9fc465ca7d31b44c1dcbaf7be6f729f59f1ffaaa2951d69ddda3ee36075564d1",
+      "hash_anterior": "51cab7a23468c022b29a3a8b32c0ff716381799195f3abf43d42f0867bc6822b",
+      "hash_atual": "eefa2d14e43977073be2c34363602c82613b1a6bd8c4e074c7d41402cb943451",
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2485,15 +2773,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwG9sr88&_nc_oc=Adoob77v41-IeqLptW-frBWVgFlyyJ9d2aAbxXOjQuTn7d67XUoguxtMO5g6Fgdw0reaVK2gJ24VVXXoNkfk5MuN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RXdYnaO22680wYCvNFpV9g&_nc_ss=70689&oh=00_AQOQ10ju9lz4JaBa1UHyu2sonaTOExdWfAJAVdWP4QDRPg&oe=6AD61A6A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwG9sr88&_nc_oc=Adoob77v41-IeqLptW-frBWVgFlyyJ9d2aAbxXOjQuTn7d67XUoguxtMO5g6Fgdw0reaVK2gJ24VVXXoNkfk5MuN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RXdYnaO22680wYCvNFpV9g&_nc_ss=70689&oh=00_AQOQ10ju9lz4JaBa1UHyu2sonaTOExdWfAJAVdWP4QDRPg&oe=6AD61A6A",
+        "total_posts": 2666
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36933740,
       "valor_atual": 36934886,
-      "hash_anterior": "c0a12fa30c5eab27420225b78aacb5597c73ec0139656639e19d36ac0529e1ea",
-      "hash_atual": "85185f5a6c90b9a0914638e1c43b5506a75e195ca218884de11495d05a12b61f",
+      "hash_anterior": "5d20fc1b507830d716b85451d178934717d7957ac5e0b2528122d1c2b631c596",
+      "hash_atual": "51cab7a23468c022b29a3a8b32c0ff716381799195f3abf43d42f0867bc6822b",
       "variacao": 1146,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2520,15 +2809,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwHKWH15&_nc_oc=Adpg1rogGf2VSK3GCBVhAy-zHGW1fnnYuuZjJHG-swh9YnE-MmjjM6w_fCCWnQfDKC4EdiCnfywWsEEohRzl8Qh4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cM-uc7DkM4aaKpVqNWQcpQ&_nc_ss=70689&oh=00_AQPHFfDQpthflEg-bFCzEDDqP4YEwRkxrwPuzjdzXIxPIQ&oe=6AD571AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwHKWH15&_nc_oc=Adpg1rogGf2VSK3GCBVhAy-zHGW1fnnYuuZjJHG-swh9YnE-MmjjM6w_fCCWnQfDKC4EdiCnfywWsEEohRzl8Qh4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cM-uc7DkM4aaKpVqNWQcpQ&_nc_ss=70689&oh=00_AQPHFfDQpthflEg-bFCzEDDqP4YEwRkxrwPuzjdzXIxPIQ&oe=6AD571AA",
+        "total_posts": 2666
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36934356,
       "valor_atual": 36933740,
-      "hash_anterior": "8caab700c6c8850c2bfb3db5df11058ee0a7e7f885dc972a65c3585055877c4a",
-      "hash_atual": "c0a12fa30c5eab27420225b78aacb5597c73ec0139656639e19d36ac0529e1ea",
+      "hash_anterior": "42cfc1b908fd0141e2ceda12da32059c06eeeadf57d73a895e25885e5ad701da",
+      "hash_atual": "5d20fc1b507830d716b85451d178934717d7957ac5e0b2528122d1c2b631c596",
       "variacao": -616,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2555,15 +2845,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwHKWH15&_nc_oc=Adpg1rogGf2VSK3GCBVhAy-zHGW1fnnYuuZjJHG-swh9YnE-MmjjM6w_fCCWnQfDKC4EdiCnfywWsEEohRzl8Qh4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cM-uc7DkM4aaKpVqNWQcpQ&_nc_ss=70689&oh=00_AQPHFfDQpthflEg-bFCzEDDqP4YEwRkxrwPuzjdzXIxPIQ&oe=6AD571AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwHKWH15&_nc_oc=Adpg1rogGf2VSK3GCBVhAy-zHGW1fnnYuuZjJHG-swh9YnE-MmjjM6w_fCCWnQfDKC4EdiCnfywWsEEohRzl8Qh4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cM-uc7DkM4aaKpVqNWQcpQ&_nc_ss=70689&oh=00_AQPHFfDQpthflEg-bFCzEDDqP4YEwRkxrwPuzjdzXIxPIQ&oe=6AD571AA",
+        "total_posts": 2666
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2665,
       "valor_atual": 2666,
-      "hash_anterior": "8caab700c6c8850c2bfb3db5df11058ee0a7e7f885dc972a65c3585055877c4a",
-      "hash_atual": "c0a12fa30c5eab27420225b78aacb5597c73ec0139656639e19d36ac0529e1ea",
+      "hash_anterior": "42cfc1b908fd0141e2ceda12da32059c06eeeadf57d73a895e25885e5ad701da",
+      "hash_atual": "5d20fc1b507830d716b85451d178934717d7957ac5e0b2528122d1c2b631c596",
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2574,7 +2865,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.665 para 2.666",
       "variacao_texto": "+1 post"
     },
@@ -2590,15 +2881,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PgR2Be2de5mRsme4Uf_9Zg&_nc_ss=70689&oh=00_AQPSGLkWirpnZXS4Dh0gp9agpQEHt89Xrk05FJy-vJz74w&oe=6AD4586A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PgR2Be2de5mRsme4Uf_9Zg&_nc_ss=70689&oh=00_AQPSGLkWirpnZXS4Dh0gp9agpQEHt89Xrk05FJy-vJz74w&oe=6AD4586A",
+        "total_posts": 2665
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36934154,
       "valor_atual": 36934356,
-      "hash_anterior": "8ec254d87395c439203976f58f50644391df2ecb7a0fef4ef7e04aae3c56f6ce",
-      "hash_atual": "8caab700c6c8850c2bfb3db5df11058ee0a7e7f885dc972a65c3585055877c4a",
+      "hash_anterior": "94ec355e068d8302ecebdfa1d0edb4461838ccb1156eee58d835c206037ed07f",
+      "hash_atual": "42cfc1b908fd0141e2ceda12da32059c06eeeadf57d73a895e25885e5ad701da",
       "variacao": 202,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2625,15 +2917,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vo3NbJOUV3DsMATHzaJ27g&_nc_ss=70689&oh=00_AQPWyyeh_7QmB6s3gfr3fV_qBbyU3nsOKd7ZWxmg_Eiw3g&oe=6AD4586A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vo3NbJOUV3DsMATHzaJ27g&_nc_ss=70689&oh=00_AQPWyyeh_7QmB6s3gfr3fV_qBbyU3nsOKd7ZWxmg_Eiw3g&oe=6AD4586A",
+        "total_posts": 2665
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36933917,
       "valor_atual": 36934154,
-      "hash_anterior": "e301212722890d596e0062a7e3dcfb3605873dee9a38ec2fcde51186b8d33200",
-      "hash_atual": "8ec254d87395c439203976f58f50644391df2ecb7a0fef4ef7e04aae3c56f6ce",
+      "hash_anterior": "ff52b1dc94d05e291f5ae63a6a214b0aa502160e8f543c013c9e4a7f62ea81da",
+      "hash_atual": "94ec355e068d8302ecebdfa1d0edb4461838ccb1156eee58d835c206037ed07f",
       "variacao": 237,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2660,15 +2953,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_5snkkNWWJVzQbT0uPxhEQ&_nc_ss=70689&oh=00_AQNWoTwS6CGcXb9TKZrMJNUNCx3VByaGiUXlYnfBHrBpLg&oe=6AD4586A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_5snkkNWWJVzQbT0uPxhEQ&_nc_ss=70689&oh=00_AQNWoTwS6CGcXb9TKZrMJNUNCx3VByaGiUXlYnfBHrBpLg&oe=6AD4586A",
+        "total_posts": 2665
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920228,
       "valor_atual": 36933917,
-      "hash_anterior": "be091810c799ae7e7080c91c8889809571a8ed0d117496a305d94937ee31f508",
-      "hash_atual": "e301212722890d596e0062a7e3dcfb3605873dee9a38ec2fcde51186b8d33200",
+      "hash_anterior": "b9dd76ece13d57bb28e98608c0f00e4be2ff8d3d198eb3d02d89084b77707a9d",
+      "hash_atual": "ff52b1dc94d05e291f5ae63a6a214b0aa502160e8f543c013c9e4a7f62ea81da",
       "variacao": 13689,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2695,15 +2989,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_5snkkNWWJVzQbT0uPxhEQ&_nc_ss=70689&oh=00_AQNWoTwS6CGcXb9TKZrMJNUNCx3VByaGiUXlYnfBHrBpLg&oe=6AD4586A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7UN881dOtc4Q7kNvwEzWlw7&_nc_oc=AdoaOpTOXJzpFaVSr_68j3sjvSoAXgbFvyZOTUOxMfihWT4WKD4ttMczsAooQXqUc3sTDPFZMINZemaKtgCThMXQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_5snkkNWWJVzQbT0uPxhEQ&_nc_ss=70689&oh=00_AQNWoTwS6CGcXb9TKZrMJNUNCx3VByaGiUXlYnfBHrBpLg&oe=6AD4586A",
+        "total_posts": 2665
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2662,
       "valor_atual": 2665,
-      "hash_anterior": "be091810c799ae7e7080c91c8889809571a8ed0d117496a305d94937ee31f508",
-      "hash_atual": "e301212722890d596e0062a7e3dcfb3605873dee9a38ec2fcde51186b8d33200",
+      "hash_anterior": "b9dd76ece13d57bb28e98608c0f00e4be2ff8d3d198eb3d02d89084b77707a9d",
+      "hash_atual": "ff52b1dc94d05e291f5ae63a6a214b0aa502160e8f543c013c9e4a7f62ea81da",
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2714,7 +3009,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 2.662 para 2.665",
       "variacao_texto": "+3 posts"
     },
@@ -2730,15 +3025,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aN82h9nWIVqAUVECI-Hmiw&_nc_ss=70689&oh=00_AQPVdWvzId7O1wvAtJ-RdVeWOsyYJqAIzSWQmAL-HdJkHA&oe=6AD17D2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aN82h9nWIVqAUVECI-Hmiw&_nc_ss=70689&oh=00_AQPVdWvzId7O1wvAtJ-RdVeWOsyYJqAIzSWQmAL-HdJkHA&oe=6AD17D2A",
+        "total_posts": 2662
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918332,
       "valor_atual": 36920228,
-      "hash_anterior": "e032aeced888d84c270d02775665acbb5a07152430f31685b7375a3839f4fac8",
-      "hash_atual": "be091810c799ae7e7080c91c8889809571a8ed0d117496a305d94937ee31f508",
+      "hash_anterior": "85d4a79365cee2a82c0c60d0262e8c4784212d816a155d0bf486f813a27f7d9e",
+      "hash_atual": "b9dd76ece13d57bb28e98608c0f00e4be2ff8d3d198eb3d02d89084b77707a9d",
       "variacao": 1896,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2765,15 +3061,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aN82h9nWIVqAUVECI-Hmiw&_nc_ss=70689&oh=00_AQPVdWvzId7O1wvAtJ-RdVeWOsyYJqAIzSWQmAL-HdJkHA&oe=6AD17D2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aN82h9nWIVqAUVECI-Hmiw&_nc_ss=70689&oh=00_AQPVdWvzId7O1wvAtJ-RdVeWOsyYJqAIzSWQmAL-HdJkHA&oe=6AD17D2A",
+        "total_posts": 2662
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2659,
       "valor_atual": 2662,
-      "hash_anterior": "e032aeced888d84c270d02775665acbb5a07152430f31685b7375a3839f4fac8",
-      "hash_atual": "be091810c799ae7e7080c91c8889809571a8ed0d117496a305d94937ee31f508",
+      "hash_anterior": "85d4a79365cee2a82c0c60d0262e8c4784212d816a155d0bf486f813a27f7d9e",
+      "hash_atual": "b9dd76ece13d57bb28e98608c0f00e4be2ff8d3d198eb3d02d89084b77707a9d",
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2784,7 +3081,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 2.659 para 2.662",
       "variacao_texto": "+3 posts"
     },
@@ -2800,15 +3097,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PfrZNsYraW2uNT2IThTmng&_nc_ss=70689&oh=00_AQN0RoWTP_GvjNubZ4p-kLPUYyBkkgNrQqb4olV_1uVWvA&oe=6AD063EA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=PfrZNsYraW2uNT2IThTmng&_nc_ss=70689&oh=00_AQN0RoWTP_GvjNubZ4p-kLPUYyBkkgNrQqb4olV_1uVWvA&oe=6AD063EA",
+        "total_posts": 2659
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918252,
       "valor_atual": 36918332,
-      "hash_anterior": "66aed112abfc88c768cbd5ced6c58e466e8252b0724c3429fe236d2598e0d58a",
-      "hash_atual": "e032aeced888d84c270d02775665acbb5a07152430f31685b7375a3839f4fac8",
+      "hash_anterior": "5c70a92fb299821faf07546182bf26d824940771ffe819393415ba3af0654c0d",
+      "hash_atual": "85d4a79365cee2a82c0c60d0262e8c4784212d816a155d0bf486f813a27f7d9e",
       "variacao": 80,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2835,15 +3133,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tTYFosvV_zSC4w17Bs2E1g&_nc_ss=70689&oh=00_AQNZFT4bPpABPVjLrjlavL2vVl3XiMI92e4vE8QX8UBqkQ&oe=6AD063EA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tTYFosvV_zSC4w17Bs2E1g&_nc_ss=70689&oh=00_AQNZFT4bPpABPVjLrjlavL2vVl3XiMI92e4vE8QX8UBqkQ&oe=6AD063EA",
+        "total_posts": 2659
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918171,
       "valor_atual": 36918252,
-      "hash_anterior": "6313c667ba03feee93c1c09c57f467d5072409fb69636970e95d3338002f662d",
-      "hash_atual": "66aed112abfc88c768cbd5ced6c58e466e8252b0724c3429fe236d2598e0d58a",
+      "hash_anterior": "184f178497b22b582a224807af32be9d9e8e9051d0402f7fe7630ecc76048017",
+      "hash_atual": "5c70a92fb299821faf07546182bf26d824940771ffe819393415ba3af0654c0d",
       "variacao": 81,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2870,15 +3169,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rV1SzUVQWHI92koIipVs4Q&_nc_ss=70689&oh=00_AQOlTRt95jccGKL-QGy30PujPBHCbrVMl60107hVjAdniw&oe=6AD063EA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rV1SzUVQWHI92koIipVs4Q&_nc_ss=70689&oh=00_AQOlTRt95jccGKL-QGy30PujPBHCbrVMl60107hVjAdniw&oe=6AD063EA",
+        "total_posts": 2659
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918084,
       "valor_atual": 36918171,
-      "hash_anterior": "ab98ecf9cc2317282f3848fe7fca4427c2836218f152fab19605d314277ba2d0",
-      "hash_atual": "6313c667ba03feee93c1c09c57f467d5072409fb69636970e95d3338002f662d",
+      "hash_anterior": "929660d8083841072a87245f3457d05df5f3934fd78d8482dc1d9c0baedd98b9",
+      "hash_atual": "184f178497b22b582a224807af32be9d9e8e9051d0402f7fe7630ecc76048017",
       "variacao": 87,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2905,15 +3205,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VbpwfxR4SpfG2CENEuc0Pg&_nc_ss=70689&oh=00_AQNsh6zIFi3UAg0usrJ7SGvJLOkj5S7ML0SzoANshtW7Bg&oe=6AD02BAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VbpwfxR4SpfG2CENEuc0Pg&_nc_ss=70689&oh=00_AQNsh6zIFi3UAg0usrJ7SGvJLOkj5S7ML0SzoANshtW7Bg&oe=6AD02BAA",
+        "total_posts": 2659
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918884,
       "valor_atual": 36918084,
-      "hash_anterior": "140085739e874e3c3f0a074327f7b6cd1ff64e072a623da5c9a6ebde54e83ead",
-      "hash_atual": "ab98ecf9cc2317282f3848fe7fca4427c2836218f152fab19605d314277ba2d0",
+      "hash_anterior": "0d67efed8c1b3e55499f67febaae56b4f1b64df88a75f0b58402edc42d5edc14",
+      "hash_atual": "929660d8083841072a87245f3457d05df5f3934fd78d8482dc1d9c0baedd98b9",
       "variacao": -800,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2940,15 +3241,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VbpwfxR4SpfG2CENEuc0Pg&_nc_ss=70689&oh=00_AQNsh6zIFi3UAg0usrJ7SGvJLOkj5S7ML0SzoANshtW7Bg&oe=6AD02BAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwFxg4t_&_nc_oc=AdrjyKSO48nTDy7C66eMChmxw6_m6I3ad2HJs0Lo8Rqnie5QGEu1ZXfUqUisafRV-nTtE9MA_Ka1xyLI1UAiA3vW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VbpwfxR4SpfG2CENEuc0Pg&_nc_ss=70689&oh=00_AQNsh6zIFi3UAg0usrJ7SGvJLOkj5S7ML0SzoANshtW7Bg&oe=6AD02BAA",
+        "total_posts": 2659
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3592,
       "valor_atual": 3593,
-      "hash_anterior": "140085739e874e3c3f0a074327f7b6cd1ff64e072a623da5c9a6ebde54e83ead",
-      "hash_atual": "ab98ecf9cc2317282f3848fe7fca4427c2836218f152fab19605d314277ba2d0",
+      "hash_anterior": "0d67efed8c1b3e55499f67febaae56b4f1b64df88a75f0b58402edc42d5edc14",
+      "hash_atual": "929660d8083841072a87245f3457d05df5f3934fd78d8482dc1d9c0baedd98b9",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2975,15 +3277,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwHs3WJI&_nc_oc=AdqUv0xTdrHqcuGyst8BooiRN46WpeLfRF5kQhvwsKox4x8JCckLYL_yBwOylhVXYnJGhCCVQgF9h9fUfKBgH45W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YhU9txa2iWXky2EniqiPiw&_nc_ss=70689&oh=00_AQNZ8Tr6lLldfprOwzGu6LIPxk4-9fcbHLJfFKyciH2fIg&oe=6ACF82EA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pmD6qnQl1oUQ7kNvwHs3WJI&_nc_oc=AdqUv0xTdrHqcuGyst8BooiRN46WpeLfRF5kQhvwsKox4x8JCckLYL_yBwOylhVXYnJGhCCVQgF9h9fUfKBgH45W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YhU9txa2iWXky2EniqiPiw&_nc_ss=70689&oh=00_AQNZ8Tr6lLldfprOwzGu6LIPxk4-9fcbHLJfFKyciH2fIg&oe=6ACF82EA",
+        "total_posts": 2659
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918815,
       "valor_atual": 36918884,
-      "hash_anterior": "bf0cbd98748aa6105bce18b814770ff6756688d82ea336adea7bb00d2988a3aa",
-      "hash_atual": "140085739e874e3c3f0a074327f7b6cd1ff64e072a623da5c9a6ebde54e83ead",
+      "hash_anterior": "8c1407d0b049cd7788c51a97201c72cce7f35d5ce5a71c8350ffc5196df82d3a",
+      "hash_atual": "0d67efed8c1b3e55499f67febaae56b4f1b64df88a75f0b58402edc42d5edc14",
       "variacao": 69,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3010,15 +3313,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF59i1G&_nc_oc=AdrCMLn5cKvp4Byt_vy-8clO6HhK8EOoH12XWXeDjJJqEj-AsHtwmK-JLxQaigF72RCBfZHqBOqMaUcOSsZKqRD1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxhtFzgmTRSyC6dfKHdUhA&_nc_ss=70689&oh=00_AQPvL9NwwjLXP-uDnBNRwRKw7LG0kpxqcVrrEc2Kmx9LvQ&oe=6ACF4AAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF59i1G&_nc_oc=AdrCMLn5cKvp4Byt_vy-8clO6HhK8EOoH12XWXeDjJJqEj-AsHtwmK-JLxQaigF72RCBfZHqBOqMaUcOSsZKqRD1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxhtFzgmTRSyC6dfKHdUhA&_nc_ss=70689&oh=00_AQPvL9NwwjLXP-uDnBNRwRKw7LG0kpxqcVrrEc2Kmx9LvQ&oe=6ACF4AAA",
+        "total_posts": 2659
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918615,
       "valor_atual": 36918815,
-      "hash_anterior": "6f76ef2cb679a6e76a07f3a185f0ab0f5be939f51d2944f266a427d32905da34",
-      "hash_atual": "bf0cbd98748aa6105bce18b814770ff6756688d82ea336adea7bb00d2988a3aa",
+      "hash_anterior": "e568879f800c76b7a65b2b50b19c3857dd7087907c02e2a1330997bd73811370",
+      "hash_atual": "8c1407d0b049cd7788c51a97201c72cce7f35d5ce5a71c8350ffc5196df82d3a",
       "variacao": 200,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3045,15 +3349,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF59i1G&_nc_oc=AdrCMLn5cKvp4Byt_vy-8clO6HhK8EOoH12XWXeDjJJqEj-AsHtwmK-JLxQaigF72RCBfZHqBOqMaUcOSsZKqRD1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxhtFzgmTRSyC6dfKHdUhA&_nc_ss=70689&oh=00_AQPvL9NwwjLXP-uDnBNRwRKw7LG0kpxqcVrrEc2Kmx9LvQ&oe=6ACF4AAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF59i1G&_nc_oc=AdrCMLn5cKvp4Byt_vy-8clO6HhK8EOoH12XWXeDjJJqEj-AsHtwmK-JLxQaigF72RCBfZHqBOqMaUcOSsZKqRD1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxhtFzgmTRSyC6dfKHdUhA&_nc_ss=70689&oh=00_AQPvL9NwwjLXP-uDnBNRwRKw7LG0kpxqcVrrEc2Kmx9LvQ&oe=6ACF4AAA",
+        "total_posts": 2659
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3594,
       "valor_atual": 3592,
-      "hash_anterior": "6f76ef2cb679a6e76a07f3a185f0ab0f5be939f51d2944f266a427d32905da34",
-      "hash_atual": "bf0cbd98748aa6105bce18b814770ff6756688d82ea336adea7bb00d2988a3aa",
+      "hash_anterior": "e568879f800c76b7a65b2b50b19c3857dd7087907c02e2a1330997bd73811370",
+      "hash_atual": "8c1407d0b049cd7788c51a97201c72cce7f35d5ce5a71c8350ffc5196df82d3a",
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3080,15 +3385,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF59i1G&_nc_oc=AdrCMLn5cKvp4Byt_vy-8clO6HhK8EOoH12XWXeDjJJqEj-AsHtwmK-JLxQaigF72RCBfZHqBOqMaUcOSsZKqRD1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxhtFzgmTRSyC6dfKHdUhA&_nc_ss=70689&oh=00_AQPvL9NwwjLXP-uDnBNRwRKw7LG0kpxqcVrrEc2Kmx9LvQ&oe=6ACF4AAA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF59i1G&_nc_oc=AdrCMLn5cKvp4Byt_vy-8clO6HhK8EOoH12XWXeDjJJqEj-AsHtwmK-JLxQaigF72RCBfZHqBOqMaUcOSsZKqRD1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yxhtFzgmTRSyC6dfKHdUhA&_nc_ss=70689&oh=00_AQPvL9NwwjLXP-uDnBNRwRKw7LG0kpxqcVrrEc2Kmx9LvQ&oe=6ACF4AAA",
+        "total_posts": 2659
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2657,
       "valor_atual": 2659,
-      "hash_anterior": "6f76ef2cb679a6e76a07f3a185f0ab0f5be939f51d2944f266a427d32905da34",
-      "hash_atual": "bf0cbd98748aa6105bce18b814770ff6756688d82ea336adea7bb00d2988a3aa",
+      "hash_anterior": "e568879f800c76b7a65b2b50b19c3857dd7087907c02e2a1330997bd73811370",
+      "hash_atual": "8c1407d0b049cd7788c51a97201c72cce7f35d5ce5a71c8350ffc5196df82d3a",
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3099,7 +3405,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.657 para 2.659",
       "variacao_texto": "+2 posts"
     },
@@ -3115,15 +3421,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF-TzJ9&_nc_oc=AdqtdZ__By6MyiLdGMMAaCjr0AZjc-0Rr10z34sf5Y39UsfCRE2rGWn-FOZzP9FVZobOo7SmX195JeROoy1sl04o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8vFc72zap2SM-kZQx8vgxQ&_nc_ss=70689&oh=00_AQNYFrxhmNrN3z6D3oh9COqDqKwYKZJPuHK025f6IiKS0g&oe=6ACEA1EA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF-TzJ9&_nc_oc=AdqtdZ__By6MyiLdGMMAaCjr0AZjc-0Rr10z34sf5Y39UsfCRE2rGWn-FOZzP9FVZobOo7SmX195JeROoy1sl04o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8vFc72zap2SM-kZQx8vgxQ&_nc_ss=70689&oh=00_AQNYFrxhmNrN3z6D3oh9COqDqKwYKZJPuHK025f6IiKS0g&oe=6ACEA1EA",
+        "total_posts": 2657
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36918611,
       "valor_atual": 36918615,
-      "hash_anterior": "cbb96a121fcd8c2a84ce7e0654596e66a26595056531c03ce104f54f9c53287e",
-      "hash_atual": "6f76ef2cb679a6e76a07f3a185f0ab0f5be939f51d2944f266a427d32905da34",
+      "hash_anterior": "689710c411e274ac34780b085d20dc0f3d012fa420287c2ad43a5977ee71fcb7",
+      "hash_atual": "e568879f800c76b7a65b2b50b19c3857dd7087907c02e2a1330997bd73811370",
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3150,15 +3457,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF-TzJ9&_nc_oc=AdqtdZ__By6MyiLdGMMAaCjr0AZjc-0Rr10z34sf5Y39UsfCRE2rGWn-FOZzP9FVZobOo7SmX195JeROoy1sl04o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AkjxPCyKhmnp2UlKL2ICAw&_nc_ss=70689&oh=00_AQNtsq579HN6Sp0wg2V_e_DcqfXvdCSj4nfr1xAkxOvq2Q&oe=6ACEA1EA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwF-TzJ9&_nc_oc=AdqtdZ__By6MyiLdGMMAaCjr0AZjc-0Rr10z34sf5Y39UsfCRE2rGWn-FOZzP9FVZobOo7SmX195JeROoy1sl04o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=AkjxPCyKhmnp2UlKL2ICAw&_nc_ss=70689&oh=00_AQNtsq579HN6Sp0wg2V_e_DcqfXvdCSj4nfr1xAkxOvq2Q&oe=6ACEA1EA",
+        "total_posts": 2657
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36917925,
       "valor_atual": 36918611,
-      "hash_anterior": "156614b35cbf08048049fa246f8b8a631fbd7ee3a50a91eef3c6580785784bc4",
-      "hash_atual": "cbb96a121fcd8c2a84ce7e0654596e66a26595056531c03ce104f54f9c53287e",
+      "hash_anterior": "e87c8db01c73205b89abd961500f15c66f70f374d9b81967d5a5d77bda83b1df",
+      "hash_atual": "689710c411e274ac34780b085d20dc0f3d012fa420287c2ad43a5977ee71fcb7",
       "variacao": 686,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3185,15 +3493,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwHeZ34l&_nc_oc=AdoHJ2kCyEIbUtE0QW-4mxofYe51uoxIFO2KANsNdn_VSZt0PdSHM7gEugfu7TSvD5MXEJfSSkl5Y-G2fe4Rwb7j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JWAgXSUF7TYqDuZwQiGu5w&_nc_ss=70689&oh=00_AQP_kp3-nkEPTSAgDFBRwkh2HHTShx7t4qzBh_N-bMCK1A&oe=6ACDF92A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwHeZ34l&_nc_oc=AdoHJ2kCyEIbUtE0QW-4mxofYe51uoxIFO2KANsNdn_VSZt0PdSHM7gEugfu7TSvD5MXEJfSSkl5Y-G2fe4Rwb7j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JWAgXSUF7TYqDuZwQiGu5w&_nc_ss=70689&oh=00_AQP_kp3-nkEPTSAgDFBRwkh2HHTShx7t4qzBh_N-bMCK1A&oe=6ACDF92A",
+        "total_posts": 2657
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36917924,
       "valor_atual": 36917925,
-      "hash_anterior": "ebab2985cec09071fbac9ebd3bce0426ac5bd9bd9c71a3fd3ef41767bce80847",
-      "hash_atual": "156614b35cbf08048049fa246f8b8a631fbd7ee3a50a91eef3c6580785784bc4",
+      "hash_anterior": "b01915f8698febec26450dc4ccef2f5f6404daa1c52a05b1257527cd4c0f4d41",
+      "hash_atual": "e87c8db01c73205b89abd961500f15c66f70f374d9b81967d5a5d77bda83b1df",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3220,15 +3529,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwHeZ34l&_nc_oc=AdoHJ2kCyEIbUtE0QW-4mxofYe51uoxIFO2KANsNdn_VSZt0PdSHM7gEugfu7TSvD5MXEJfSSkl5Y-G2fe4Rwb7j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hk5CNAmSnkK8SyChe3VlbA&_nc_ss=70689&oh=00_AQNNKXzJSOWoaguRJOnIUNrXD7XPXoP0ynBZ9Uz6xRUyhg&oe=6ACDF92A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwHeZ34l&_nc_oc=AdoHJ2kCyEIbUtE0QW-4mxofYe51uoxIFO2KANsNdn_VSZt0PdSHM7gEugfu7TSvD5MXEJfSSkl5Y-G2fe4Rwb7j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hk5CNAmSnkK8SyChe3VlbA&_nc_ss=70689&oh=00_AQNNKXzJSOWoaguRJOnIUNrXD7XPXoP0ynBZ9Uz6xRUyhg&oe=6ACDF92A",
+        "total_posts": 2657
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36919184,
       "valor_atual": 36917924,
-      "hash_anterior": "760eaf935969b322967a2a3c4a43396444c28bc3735d7ee0610cf87eee74580f",
-      "hash_atual": "ebab2985cec09071fbac9ebd3bce0426ac5bd9bd9c71a3fd3ef41767bce80847",
+      "hash_anterior": "41cbe760fe5c457ac3c15a42052e41eb09f94ac97ebe8368f951c9d32fbf4915",
+      "hash_atual": "b01915f8698febec26450dc4ccef2f5f6404daa1c52a05b1257527cd4c0f4d41",
       "variacao": -1260,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3255,15 +3565,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwHeZ34l&_nc_oc=AdoHJ2kCyEIbUtE0QW-4mxofYe51uoxIFO2KANsNdn_VSZt0PdSHM7gEugfu7TSvD5MXEJfSSkl5Y-G2fe4Rwb7j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hk5CNAmSnkK8SyChe3VlbA&_nc_ss=70689&oh=00_AQNNKXzJSOWoaguRJOnIUNrXD7XPXoP0ynBZ9Uz6xRUyhg&oe=6ACDF92A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwHeZ34l&_nc_oc=AdoHJ2kCyEIbUtE0QW-4mxofYe51uoxIFO2KANsNdn_VSZt0PdSHM7gEugfu7TSvD5MXEJfSSkl5Y-G2fe4Rwb7j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hk5CNAmSnkK8SyChe3VlbA&_nc_ss=70689&oh=00_AQNNKXzJSOWoaguRJOnIUNrXD7XPXoP0ynBZ9Uz6xRUyhg&oe=6ACDF92A",
+        "total_posts": 2657
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2656,
       "valor_atual": 2657,
-      "hash_anterior": "760eaf935969b322967a2a3c4a43396444c28bc3735d7ee0610cf87eee74580f",
-      "hash_atual": "ebab2985cec09071fbac9ebd3bce0426ac5bd9bd9c71a3fd3ef41767bce80847",
+      "hash_anterior": "41cbe760fe5c457ac3c15a42052e41eb09f94ac97ebe8368f951c9d32fbf4915",
+      "hash_atual": "b01915f8698febec26450dc4ccef2f5f6404daa1c52a05b1257527cd4c0f4d41",
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3274,7 +3585,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.656 para 2.657",
       "variacao_texto": "+1 post"
     },
@@ -3290,15 +3601,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEYoyGe&_nc_oc=Adqx5K3iEN_eFNaLt11CWKnPFGE03H3mm295Vk8YdrAIu0rQN7eFxH1D9o3Fs2ambcfizDS56MOXW4K1gInjLyAc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7vsvcs_gFyd13_edOmNbZQ&_nc_ss=70689&oh=00_AQNbOjFxcO6Q0WAWphsmPdC0VXfTvW0mAXtYQWZFNbFh2Q&oe=6ACD506A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEYoyGe&_nc_oc=Adqx5K3iEN_eFNaLt11CWKnPFGE03H3mm295Vk8YdrAIu0rQN7eFxH1D9o3Fs2ambcfizDS56MOXW4K1gInjLyAc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7vsvcs_gFyd13_edOmNbZQ&_nc_ss=70689&oh=00_AQNbOjFxcO6Q0WAWphsmPdC0VXfTvW0mAXtYQWZFNbFh2Q&oe=6ACD506A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36919179,
       "valor_atual": 36919184,
-      "hash_anterior": "a26fe82deff715add5c9fb030f5b5dd818577c02d03d21f272ca72c1b0836cd1",
-      "hash_atual": "760eaf935969b322967a2a3c4a43396444c28bc3735d7ee0610cf87eee74580f",
+      "hash_anterior": "c495a9e26f8f2f12b49c06242c4c8520265a5c744ebe9d32f02939469885827a",
+      "hash_atual": "41cbe760fe5c457ac3c15a42052e41eb09f94ac97ebe8368f951c9d32fbf4915",
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3325,15 +3637,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEYoyGe&_nc_oc=Adqx5K3iEN_eFNaLt11CWKnPFGE03H3mm295Vk8YdrAIu0rQN7eFxH1D9o3Fs2ambcfizDS56MOXW4K1gInjLyAc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=M2RJaToF7SAohlrJU0Mfsg&_nc_ss=70689&oh=00_AQNNf_EDJ7BgYQ4tl0cg1j1vU_75cn1mx311her5T5US9g&oe=6ACD506A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEYoyGe&_nc_oc=Adqx5K3iEN_eFNaLt11CWKnPFGE03H3mm295Vk8YdrAIu0rQN7eFxH1D9o3Fs2ambcfizDS56MOXW4K1gInjLyAc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=M2RJaToF7SAohlrJU0Mfsg&_nc_ss=70689&oh=00_AQNNf_EDJ7BgYQ4tl0cg1j1vU_75cn1mx311her5T5US9g&oe=6ACD506A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36919075,
       "valor_atual": 36919179,
-      "hash_anterior": "43875098addfc7fa779b7d4890c94b5b9b59b0af92398595d75ee97ce8241362",
-      "hash_atual": "a26fe82deff715add5c9fb030f5b5dd818577c02d03d21f272ca72c1b0836cd1",
+      "hash_anterior": "561aebe5b501160df8c23662b04b1ca960435d34ed9bc442b175db25ddc6353b",
+      "hash_atual": "c495a9e26f8f2f12b49c06242c4c8520265a5c744ebe9d32f02939469885827a",
       "variacao": 104,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3360,15 +3673,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DvtJuUkgOTIHQcR0Gq-iqQ&_nc_ss=70689&oh=00_AQOrBJvod8EkXMmO-jFpIHda7oOIAyn8af6D2p5qFBLgEA&oe=6ACCA7AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DvtJuUkgOTIHQcR0Gq-iqQ&_nc_ss=70689&oh=00_AQOrBJvod8EkXMmO-jFpIHda7oOIAyn8af6D2p5qFBLgEA&oe=6ACCA7AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36919070,
       "valor_atual": 36919075,
-      "hash_anterior": "63de2d4a468c16f2c35820955b84ae91cd0d9fed5da89a6019ab6aef2f884839",
-      "hash_atual": "43875098addfc7fa779b7d4890c94b5b9b59b0af92398595d75ee97ce8241362",
+      "hash_anterior": "794dcde50555916800ec9b79eb146df59b03ba4f79f7b47dc5a1ff8fd1d56d4b",
+      "hash_atual": "561aebe5b501160df8c23662b04b1ca960435d34ed9bc442b175db25ddc6353b",
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3395,15 +3709,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=64O7dLgRb8J8GE5zHXY7cg&_nc_ss=70689&oh=00_AQNZaS2D3tEEEoKtiPEgtAcRTIuNAaGoLIFbXot_0s6AXQ&oe=6ACCA7AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=64O7dLgRb8J8GE5zHXY7cg&_nc_ss=70689&oh=00_AQNZaS2D3tEEEoKtiPEgtAcRTIuNAaGoLIFbXot_0s6AXQ&oe=6ACCA7AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36919056,
       "valor_atual": 36919070,
-      "hash_anterior": "11e61150445e36162b9a244fa8ee4288b666d7b4871fbaff089bfa75f3dd1aff",
-      "hash_atual": "63de2d4a468c16f2c35820955b84ae91cd0d9fed5da89a6019ab6aef2f884839",
+      "hash_anterior": "30eec1b9881d76f79f706dfc788694a6269ee395160dbc57c9696083024937da",
+      "hash_atual": "794dcde50555916800ec9b79eb146df59b03ba4f79f7b47dc5a1ff8fd1d56d4b",
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3430,15 +3745,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MXw5NLKX-MSUH5ea2X6fHg&_nc_ss=70689&oh=00_AQM6ETcmumdn0-OFPCPqeRQKc2FwtXen5gPjXfTyraZm5g&oe=6ACCA7AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MXw5NLKX-MSUH5ea2X6fHg&_nc_ss=70689&oh=00_AQM6ETcmumdn0-OFPCPqeRQKc2FwtXen5gPjXfTyraZm5g&oe=6ACCA7AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36919052,
       "valor_atual": 36919056,
-      "hash_anterior": "799b25db86ba6d325a911da2ec82710655d428b833f03a3bd68e30b09d212106",
-      "hash_atual": "11e61150445e36162b9a244fa8ee4288b666d7b4871fbaff089bfa75f3dd1aff",
+      "hash_anterior": "113f3607e9e17ed791bd3eaca30060f02df9c9fd6d85aca7995a76e369d86c9f",
+      "hash_atual": "30eec1b9881d76f79f706dfc788694a6269ee395160dbc57c9696083024937da",
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3465,15 +3781,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RLYipzdUlNfNkvpukTEYcQ&_nc_ss=70689&oh=00_AQN6f7PdvAe8rCNjpbKaDpzV0CFqoq8Fw0sP-bvxzQOTag&oe=6ACCA7AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RLYipzdUlNfNkvpukTEYcQ&_nc_ss=70689&oh=00_AQN6f7PdvAe8rCNjpbKaDpzV0CFqoq8Fw0sP-bvxzQOTag&oe=6ACCA7AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920918,
       "valor_atual": 36919052,
-      "hash_anterior": "5587fafdf2fd2f18524d7c41ee84f55df8260a9a0838101f4a542524e68e65e1",
-      "hash_atual": "799b25db86ba6d325a911da2ec82710655d428b833f03a3bd68e30b09d212106",
+      "hash_anterior": "e56386e7fc54afaa74427cb305db837defb1abff033ce99719d3c9275621d8ce",
+      "hash_atual": "113f3607e9e17ed791bd3eaca30060f02df9c9fd6d85aca7995a76e369d86c9f",
       "variacao": -1866,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3500,15 +3817,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RLYipzdUlNfNkvpukTEYcQ&_nc_ss=70689&oh=00_AQN6f7PdvAe8rCNjpbKaDpzV0CFqoq8Fw0sP-bvxzQOTag&oe=6ACCA7AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwEGuwh4&_nc_oc=AdrgE0Z9iSUvq7lB96kdGBSQAd7pZVh9DbwR5M6xy96vRQRdrjfyYLyYC4MNn8mzI0nhbT5cdu3voFfFqb4Egy2F&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RLYipzdUlNfNkvpukTEYcQ&_nc_ss=70689&oh=00_AQN6f7PdvAe8rCNjpbKaDpzV0CFqoq8Fw0sP-bvxzQOTag&oe=6ACCA7AA",
+        "total_posts": 2656
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3593,
       "valor_atual": 3594,
-      "hash_anterior": "5587fafdf2fd2f18524d7c41ee84f55df8260a9a0838101f4a542524e68e65e1",
-      "hash_atual": "799b25db86ba6d325a911da2ec82710655d428b833f03a3bd68e30b09d212106",
+      "hash_anterior": "e56386e7fc54afaa74427cb305db837defb1abff033ce99719d3c9275621d8ce",
+      "hash_atual": "113f3607e9e17ed791bd3eaca30060f02df9c9fd6d85aca7995a76e369d86c9f",
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3535,15 +3853,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gySUqn9hkTR8aenGpAcSxg&_nc_ss=70689&oh=00_AQMEIdiEQd2u5l1a3WI2stt2oAh17m1Etkm3Im9d1iQGDA&oe=6ACC372A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gySUqn9hkTR8aenGpAcSxg&_nc_ss=70689&oh=00_AQMEIdiEQd2u5l1a3WI2stt2oAh17m1Etkm3Im9d1iQGDA&oe=6ACC372A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920912,
       "valor_atual": 36920918,
-      "hash_anterior": "e5df6dedbd94ee704e36b63898908c537d29be89b95aeaa1869b89cce570434e",
-      "hash_atual": "5587fafdf2fd2f18524d7c41ee84f55df8260a9a0838101f4a542524e68e65e1",
+      "hash_anterior": "531d8ddc312f4a88ceb06d7081fae14857c7449e26d1e9e6ad59e8fc735f414b",
+      "hash_atual": "e56386e7fc54afaa74427cb305db837defb1abff033ce99719d3c9275621d8ce",
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3570,15 +3889,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ikXasWkR9JIX5-vc3B_BJA&_nc_ss=70689&oh=00_AQO1uAlqv6BpeAHfKc79RANvl7YbjdEWDlkJCuUeQgd5jQ&oe=6ACC372A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ikXasWkR9JIX5-vc3B_BJA&_nc_ss=70689&oh=00_AQO1uAlqv6BpeAHfKc79RANvl7YbjdEWDlkJCuUeQgd5jQ&oe=6ACC372A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920904,
       "valor_atual": 36920912,
-      "hash_anterior": "9d0c3fedba1786079fd42f0dc359206eb3cf067c0dd8985b392fefb3b896130d",
-      "hash_atual": "e5df6dedbd94ee704e36b63898908c537d29be89b95aeaa1869b89cce570434e",
+      "hash_anterior": "8b941a23c9d174ad2649f8d17e59ddb54746c79598717885bd343a276a868b66",
+      "hash_atual": "531d8ddc312f4a88ceb06d7081fae14857c7449e26d1e9e6ad59e8fc735f414b",
       "variacao": 8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3605,15 +3925,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TPMI2H4qrnSDCKV2IfGvcA&_nc_ss=70689&oh=00_AQObKU7bojAiRtLi37A5B-RT3oFnC7OrR-b_oZKqDFSuJA&oe=6ACC372A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TPMI2H4qrnSDCKV2IfGvcA&_nc_ss=70689&oh=00_AQObKU7bojAiRtLi37A5B-RT3oFnC7OrR-b_oZKqDFSuJA&oe=6ACC372A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920905,
       "valor_atual": 36920904,
-      "hash_anterior": "9e9e5837a19edeb8a9b300edb139d125d7621dfa8677fd4ed3e4b33dd3bc83f2",
-      "hash_atual": "9d0c3fedba1786079fd42f0dc359206eb3cf067c0dd8985b392fefb3b896130d",
+      "hash_anterior": "9e04cc6ce841f31b3096fd94cbaf72d3a93b8ca5c74f4289206d61146e3fe2de",
+      "hash_atual": "8b941a23c9d174ad2649f8d17e59ddb54746c79598717885bd343a276a868b66",
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3640,15 +3961,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q8PUP4yebDvzJgIonG_5lg&_nc_ss=70689&oh=00_AQPPpCzWgVHFkdocmLlBdueHpufpbHzomPYJ0jvEwXFIAQ&oe=6ACC372A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwFjNWPo&_nc_oc=AdqlfV38RlAWumsBhM8hrCGD3wpUCku1Y7uuy-LReK734vfd99foKfl5-wGqY2pTxcnMxjNOT1BkSB0sPU1rS5VJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q8PUP4yebDvzJgIonG_5lg&_nc_ss=70689&oh=00_AQPPpCzWgVHFkdocmLlBdueHpufpbHzomPYJ0jvEwXFIAQ&oe=6ACC372A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36921299,
       "valor_atual": 36920905,
-      "hash_anterior": "e35f3892c29b85166e0e5c0024c9f25333e36452090d708bc4a72bddd1b00379",
-      "hash_atual": "9e9e5837a19edeb8a9b300edb139d125d7621dfa8677fd4ed3e4b33dd3bc83f2",
+      "hash_anterior": "3b312833d43ce643c1b154a5af2c120cad14a926eca173b4dea98d8e9728773a",
+      "hash_atual": "9e04cc6ce841f31b3096fd94cbaf72d3a93b8ca5c74f4289206d61146e3fe2de",
       "variacao": -394,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3675,15 +3997,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwErm2ff&_nc_oc=AdrXyu4asN68T55BNMVuD0yT73yBBmNYtE3XTl1wjysnQgsBJ4gLQcafc8jrIzslE4ila6u2hdj9F4rKhx19jsQM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C9WrMBuhAeaqSvtz5lYZ3A&_nc_ss=70689&oh=00_AQPr1EDy72ulZSbO_Sze-JHZyObbLTIVoS1NxVR2CG9jOg&oe=6ACB8E6A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LRZHCDVc5sMQ7kNvwErm2ff&_nc_oc=AdrXyu4asN68T55BNMVuD0yT73yBBmNYtE3XTl1wjysnQgsBJ4gLQcafc8jrIzslE4ila6u2hdj9F4rKhx19jsQM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C9WrMBuhAeaqSvtz5lYZ3A&_nc_ss=70689&oh=00_AQPr1EDy72ulZSbO_Sze-JHZyObbLTIVoS1NxVR2CG9jOg&oe=6ACB8E6A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36921164,
       "valor_atual": 36921299,
-      "hash_anterior": "5fda936e2f903f96fb0de55d344e6d4f581ac7cebdc996332b0628345c0af9d6",
-      "hash_atual": "e35f3892c29b85166e0e5c0024c9f25333e36452090d708bc4a72bddd1b00379",
+      "hash_anterior": "3efebd869a235574def39543a604ce194a5993d081959b9062eb39202046879e",
+      "hash_atual": "3b312833d43ce643c1b154a5af2c120cad14a926eca173b4dea98d8e9728773a",
       "variacao": 135,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3710,15 +4033,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GGdh0xSbx3IHLu3CbHUOcw&_nc_ss=70689&oh=00_AQOPqksZymH_0h0mjjqf-yqqGaDNxuZUC5X9BAGXGQiRlA&oe=6ACB562A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GGdh0xSbx3IHLu3CbHUOcw&_nc_ss=70689&oh=00_AQOPqksZymH_0h0mjjqf-yqqGaDNxuZUC5X9BAGXGQiRlA&oe=6ACB562A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36921067,
       "valor_atual": 36921164,
-      "hash_anterior": "55a0b98f72e98af093cd6bae50c3ea93bd020d47e5d06b1e55f5b713fac4eb06",
-      "hash_atual": "5fda936e2f903f96fb0de55d344e6d4f581ac7cebdc996332b0628345c0af9d6",
+      "hash_anterior": "a123c18e2dc9dd0b3d2d6bebcb49e5ebc8495b37cfa2080d013d9706244ba6d6",
+      "hash_atual": "3efebd869a235574def39543a604ce194a5993d081959b9062eb39202046879e",
       "variacao": 97,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3745,15 +4069,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EP_O7plz24n_9H-DOjVcCA&_nc_ss=70689&oh=00_AQMZTzf5UV4QTUdnPxtE_AHwP5EJ6hsFwc5iT7nMyxRhCw&oe=6ACB562A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EP_O7plz24n_9H-DOjVcCA&_nc_ss=70689&oh=00_AQMZTzf5UV4QTUdnPxtE_AHwP5EJ6hsFwc5iT7nMyxRhCw&oe=6ACB562A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920885,
       "valor_atual": 36921067,
-      "hash_anterior": "d44d5372b9bb872afc7c9d67db77209c5eee0bfffcf07b79d7d3b3edf611877a",
-      "hash_atual": "55a0b98f72e98af093cd6bae50c3ea93bd020d47e5d06b1e55f5b713fac4eb06",
+      "hash_anterior": "df199cb81006227c177720206d3928dad19eddd2321251677889fd545669c39e",
+      "hash_atual": "a123c18e2dc9dd0b3d2d6bebcb49e5ebc8495b37cfa2080d013d9706244ba6d6",
       "variacao": 182,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3780,15 +4105,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fcESSMUP_VqyEqBFzU5asg&_nc_ss=70689&oh=00_AQNY9IqMXRYInHuhJGIgPtcf9ids3gvdTeVfGC5yLsUnkA&oe=6ACB562A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fcESSMUP_VqyEqBFzU5asg&_nc_ss=70689&oh=00_AQNY9IqMXRYInHuhJGIgPtcf9ids3gvdTeVfGC5yLsUnkA&oe=6ACB562A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920882,
       "valor_atual": 36920885,
-      "hash_anterior": "36c9e575ad61f3efa44b466efeba60846233f9d6088b27e67b5e5612cd1ffde6",
-      "hash_atual": "d44d5372b9bb872afc7c9d67db77209c5eee0bfffcf07b79d7d3b3edf611877a",
+      "hash_anterior": "972dc3e8b81695d5cc5fdf5a6cbbd3900c7793c44ab55083094dda9b111c20ba",
+      "hash_atual": "df199cb81006227c177720206d3928dad19eddd2321251677889fd545669c39e",
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3815,15 +4141,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zyr32GxAZHhpUTJiE4uUqw&_nc_ss=70689&oh=00_AQOVh7yiKu4R4k7S7EssBW4Nm4PGkPtOb77rZqjAY1YFlw&oe=6ACB562A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zyr32GxAZHhpUTJiE4uUqw&_nc_ss=70689&oh=00_AQOVh7yiKu4R4k7S7EssBW4Nm4PGkPtOb77rZqjAY1YFlw&oe=6ACB562A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920870,
       "valor_atual": 36920882,
-      "hash_anterior": "b2278a754a29c70f9678b6d4497cfb07586157e85c78f181c280d8e21954c109",
-      "hash_atual": "36c9e575ad61f3efa44b466efeba60846233f9d6088b27e67b5e5612cd1ffde6",
+      "hash_anterior": "31838824dfbfe834677dcf3a311fc457ea7136a723dff4517efbc3ec88b206d9",
+      "hash_atual": "972dc3e8b81695d5cc5fdf5a6cbbd3900c7793c44ab55083094dda9b111c20ba",
       "variacao": 12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3850,15 +4177,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6CMUyjmqMWeNyM57CqnfYA&_nc_ss=70689&oh=00_AQMKvhSYYpnVbkaiBAxKnxV4GtOxnpxFuhYuPfx52QpKLQ&oe=6ACB562A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6CMUyjmqMWeNyM57CqnfYA&_nc_ss=70689&oh=00_AQMKvhSYYpnVbkaiBAxKnxV4GtOxnpxFuhYuPfx52QpKLQ&oe=6ACB562A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920864,
       "valor_atual": 36920870,
-      "hash_anterior": "5ed3afea532a6a7ddedf2b05159b584a34589490a3815f777fd9139aa23c00a4",
-      "hash_atual": "b2278a754a29c70f9678b6d4497cfb07586157e85c78f181c280d8e21954c109",
+      "hash_anterior": "dd7d97c39ef3a3edda0efa0a2ed424aca8c6586ea94add68e89845adaef53af2",
+      "hash_atual": "31838824dfbfe834677dcf3a311fc457ea7136a723dff4517efbc3ec88b206d9",
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3885,15 +4213,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=y81ZTUmRZ8BwPO5OauUAqA&_nc_ss=70689&oh=00_AQOnPHc1OXECIZrag98OsGSueRazhDxgvfTD-sQD8rpcCw&oe=6ACB562A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwHOro98&_nc_oc=Adp7x2N_YHAmMRW-zzxQnQUBYOjjuMX0PCJEhey2MJihixNvnCx2xNfhllkRVcW3MRV69Oaiv2Nwh4mReytL9mEp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=y81ZTUmRZ8BwPO5OauUAqA&_nc_ss=70689&oh=00_AQOnPHc1OXECIZrag98OsGSueRazhDxgvfTD-sQD8rpcCw&oe=6ACB562A",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920862,
       "valor_atual": 36920864,
-      "hash_anterior": "432a17c8c115eea0ceaa8d5667c98802018d80ba66889e1f1547234478f3c342",
-      "hash_atual": "5ed3afea532a6a7ddedf2b05159b584a34589490a3815f777fd9139aa23c00a4",
+      "hash_anterior": "b62ce61a6a460418a713461c419f6930029f291874abc8e70831bd714e06539c",
+      "hash_atual": "dd7d97c39ef3a3edda0efa0a2ed424aca8c6586ea94add68e89845adaef53af2",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3920,15 +4249,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jWx9HZsXFGzfvwejyIziSA&_nc_ss=70689&oh=00_AQMw3la_vcL9cosLTF0Abx2eAAiK56A9tjo4BdPwBexDgg&oe=6ACB1DEA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=jWx9HZsXFGzfvwejyIziSA&_nc_ss=70689&oh=00_AQMw3la_vcL9cosLTF0Abx2eAAiK56A9tjo4BdPwBexDgg&oe=6ACB1DEA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36920868,
       "valor_atual": 36920862,
-      "hash_anterior": "1a28eef0dfb67e41d798fbc734b7e2f4bf8037d2ee0b3cdc853d872f50998fbe",
-      "hash_atual": "432a17c8c115eea0ceaa8d5667c98802018d80ba66889e1f1547234478f3c342",
+      "hash_anterior": "c07894c9293eae6f0313e5eb4c9cd2b09c6b10c34817fa991317a116268aec78",
+      "hash_atual": "b62ce61a6a460418a713461c419f6930029f291874abc8e70831bd714e06539c",
       "variacao": -6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3955,15 +4285,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9Etez2E1dWfcelppSdr_Ag&_nc_ss=70689&oh=00_AQMi4k9KNrDzkHFoWTlDbwO7l-wc4ZvFVL-OI82zCb50Vg&oe=6ACB1DEA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9Etez2E1dWfcelppSdr_Ag&_nc_ss=70689&oh=00_AQMi4k9KNrDzkHFoWTlDbwO7l-wc4ZvFVL-OI82zCb50Vg&oe=6ACB1DEA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923226,
       "valor_atual": 36920868,
-      "hash_anterior": "efe55661cecc38034fc6d92c8f157312df728c7bc621de647495f962f53c5f3b",
-      "hash_atual": "1a28eef0dfb67e41d798fbc734b7e2f4bf8037d2ee0b3cdc853d872f50998fbe",
+      "hash_anterior": "24bd1a42d94ffc487abb34f38496890fbe6f4cb5352a8a523f2284a96569f1a5",
+      "hash_atual": "c07894c9293eae6f0313e5eb4c9cd2b09c6b10c34817fa991317a116268aec78",
       "variacao": -2358,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3990,15 +4321,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9Etez2E1dWfcelppSdr_Ag&_nc_ss=70689&oh=00_AQMi4k9KNrDzkHFoWTlDbwO7l-wc4ZvFVL-OI82zCb50Vg&oe=6ACB1DEA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9Etez2E1dWfcelppSdr_Ag&_nc_ss=70689&oh=00_AQMi4k9KNrDzkHFoWTlDbwO7l-wc4ZvFVL-OI82zCb50Vg&oe=6ACB1DEA",
+        "total_posts": 2656
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3594,
       "valor_atual": 3593,
-      "hash_anterior": "efe55661cecc38034fc6d92c8f157312df728c7bc621de647495f962f53c5f3b",
-      "hash_atual": "1a28eef0dfb67e41d798fbc734b7e2f4bf8037d2ee0b3cdc853d872f50998fbe",
+      "hash_anterior": "24bd1a42d94ffc487abb34f38496890fbe6f4cb5352a8a523f2284a96569f1a5",
+      "hash_atual": "c07894c9293eae6f0313e5eb4c9cd2b09c6b10c34817fa991317a116268aec78",
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4025,15 +4357,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uoMh2yeDrPZolZG0dDMR8g&_nc_ss=70689&oh=00_AQNQZNVmoc2L5cuLO4rsq3fch4YXjDxwWLt9okkWHHToYA&oe=6ACAE5AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGxUNPt&_nc_oc=AdotPHxDkq89wnOYqYYwqBO6LOelYt4Tz7oFW_jjaQKOntdGbNX_F0gz0-n-ZfdNmbmm_gioSDc4NBBp0oa4esNh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uoMh2yeDrPZolZG0dDMR8g&_nc_ss=70689&oh=00_AQNQZNVmoc2L5cuLO4rsq3fch4YXjDxwWLt9okkWHHToYA&oe=6ACAE5AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923478,
       "valor_atual": 36923226,
-      "hash_anterior": "0517f09234d5cb5f6f18f46089bc1df5e98170fae513c6bc6c3ff8766b9c50c4",
-      "hash_atual": "efe55661cecc38034fc6d92c8f157312df728c7bc621de647495f962f53c5f3b",
+      "hash_anterior": "835f0f845f7a350f64f97e10e8cfd33c2e54dce2e931f6801537923dade54dfa",
+      "hash_atual": "24bd1a42d94ffc487abb34f38496890fbe6f4cb5352a8a523f2284a96569f1a5",
       "variacao": -252,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4060,15 +4393,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3BRzc1FpN-mZVoiyAJXGCQ&_nc_ss=70689&oh=00_AQO7Vvt-Fg63v-R2TRfvgxTV1xX5v60yP-nUA_4zQLkjsw&oe=6ACA04AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3BRzc1FpN-mZVoiyAJXGCQ&_nc_ss=70689&oh=00_AQO7Vvt-Fg63v-R2TRfvgxTV1xX5v60yP-nUA_4zQLkjsw&oe=6ACA04AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923481,
       "valor_atual": 36923478,
-      "hash_anterior": "2e9e7f9b9d1e34c47337ae39115afe93119ed67cdfeb17f650922e5fa2b12aa3",
-      "hash_atual": "0517f09234d5cb5f6f18f46089bc1df5e98170fae513c6bc6c3ff8766b9c50c4",
+      "hash_anterior": "864d091a8f3bb7cc27508c90eabc4caa52429b75231e3150258752549c64a52d",
+      "hash_atual": "835f0f845f7a350f64f97e10e8cfd33c2e54dce2e931f6801537923dade54dfa",
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4095,49 +4429,16 @@
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rawStXapZIRbRaUIuN8_2A&_nc_ss=70689&oh=00_AQN8tyIxNH6-zPpMZ-GzH7p9CuKnLDJ-VwsKJCT-OUxmOw&oe=6ACA04AA"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "cantores",
-      "valor_atual": "cantor",
-      "hash_anterior": "72ed3e78ce2e164cbc3a77cf182ccedb85361946d4457a4384f7ec267f03a1a8",
-      "hash_atual": "2e9e7f9b9d1e34c47337ae39115afe93119ed67cdfeb17f650922e5fa2b12aa3",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 638.092365,
-        "texto": "10 minutos e 38 segundos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 638.092365,
-        "texto": "10 minutos e 38 segundos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"cantores\" para \"cantor\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:54:57.208013",
-      "timestamp_anterior": "2026-10-05T20:44:19.115648",
-      "timestamp_atual": "2026-10-05T20:54:57.208013",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "cantor",
-        "pk": 6311667,
-        "id": "17841401190010098",
-        "username": "luansantana",
-        "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rawStXapZIRbRaUIuN8_2A&_nc_ss=70689&oh=00_AQN8tyIxNH6-zPpMZ-GzH7p9CuKnLDJ-VwsKJCT-OUxmOw&oe=6ACA04AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rawStXapZIRbRaUIuN8_2A&_nc_ss=70689&oh=00_AQN8tyIxNH6-zPpMZ-GzH7p9CuKnLDJ-VwsKJCT-OUxmOw&oe=6ACA04AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923445,
       "valor_atual": 36923481,
-      "hash_anterior": "72ed3e78ce2e164cbc3a77cf182ccedb85361946d4457a4384f7ec267f03a1a8",
-      "hash_atual": "2e9e7f9b9d1e34c47337ae39115afe93119ed67cdfeb17f650922e5fa2b12aa3",
+      "hash_anterior": "42777691a5957fed687564e9e6a5321c927844e9fa5be753138f9e6e1a164099",
+      "hash_atual": "864d091a8f3bb7cc27508c90eabc4caa52429b75231e3150258752549c64a52d",
       "variacao": 36,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4145,8 +4446,8 @@
         "texto": "10 minutos e 38 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 0.0,
-        "texto": "0 segundos"
+        "segundos": 638.092365,
+        "texto": "10 minutos e 38 segundos"
       },
       "titulo": "Ganhou 36 seguidores",
       "descricao": "Os seguidores passaram de 36.923.445 para 36.923.481",
@@ -4159,20 +4460,21 @@
       "timestamp_atual": "2026-10-05T20:44:19.115648",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "cantores",
+        "categoria": "cantor",
         "pk": 6311667,
         "id": "17841401190010098",
         "username": "luansantana",
         "nome": "Luan Santana",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SjMH-sP0TKEhZ3rZh3g7XA&_nc_ss=70689&oh=00_AQM0WULqsegHZ4wYAfbjiZzTecyoBu982EJQ81e9sF4eKw&oe=6ACA04AA"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/580499742_18574330711039668_6660737369271899551_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WfUkoIEVY8MQ7kNvwGHMQth&_nc_oc=AdoXMZX9zad3RTktwmTHhXnwaZo0tUJS66Tgm0qRmZi24rpQxeCwlvFG-y4YuR0W50tpQazbPEdfxHj0sN7leA6p&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SjMH-sP0TKEhZ3rZh3g7XA&_nc_ss=70689&oh=00_AQM0WULqsegHZ4wYAfbjiZzTecyoBu982EJQ81e9sF4eKw&oe=6ACA04AA",
+        "total_posts": 2656
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36923443,
       "valor_atual": 36923445,
-      "hash_anterior": "54509a0cc00b6631efe9f86a0cba97d4826e3bea4e807b4cfc02174f848f70ab",
-      "hash_atual": "72ed3e78ce2e164cbc3a77cf182ccedb85361946d4457a4384f7ec267f03a1a8",
+      "hash_anterior": "602797055d1ecb66ff02a3bf5a3f542c0582b1ff3ac1917c5bccb88899ba6b65",
+      "hash_atual": "42777691a5957fed687564e9e6a5321c927844e9fa5be753138f9e6e1a164099",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4191,34 +4493,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:56.537143",
-    "captura_mais_recente": "2026-11-03T12:24:26.503657",
-    "tempo_total_segundos": 2475809,
-    "tempo_total_dias": 28.655197,
-    "tempo_total_texto": "28 dias, 15 horas, 43 minutos e 29 segundos",
+    "captura_mais_recente": "2026-11-19T16:44:02.049875",
+    "tempo_total_segundos": 3873785,
+    "tempo_total_dias": 44.835475,
+    "tempo_total_texto": "44 dias, 20 horas, 3 minutos e 5 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -21495,
+    "1_dias": {
+      "variacao": -11212,
       "direcao": "perdeu",
-      "quantidade": 21495,
-      "texto": "Perdeu 21495 seguidores",
+      "quantidade": 11212,
+      "texto": "Perdeu 11212 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:06:38.780052",
-      "captura_fim": "2026-11-03T12:24:26.503657",
-      "seguidores_inicio": 36945341,
-      "seguidores_fim": 36923846
+      "captura_inicio": "2026-11-03T12:24:26.503657",
+      "captura_fim": "2026-11-19T16:44:02.049875",
+      "seguidores_inicio": 36923846,
+      "seguidores_fim": 36912634
+    },
+    "7_dias": {
+      "variacao": -11212,
+      "direcao": "perdeu",
+      "quantidade": 11212,
+      "texto": "Perdeu 11212 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:24:26.503657",
+      "captura_fim": "2026-11-19T16:44:02.049875",
+      "seguidores_inicio": 36923846,
+      "seguidores_fim": 36912634
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -23876,
+      "direcao": "perdeu",
+      "quantidade": 23876,
+      "texto": "Perdeu 23876 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:27:05.913379",
+      "captura_fim": "2026-11-19T16:44:02.049875",
+      "seguidores_inicio": 36936510,
+      "seguidores_fim": 36912634
     },
     "90_dias": {
       "variacao": null,
@@ -4229,17 +4547,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 403,
-      "direcao": "ganhou",
-      "quantidade": 403,
-      "texto": "Ganhou 403 seguidores",
+      "variacao": -10809,
+      "direcao": "perdeu",
+      "quantidade": 10809,
+      "texto": "Perdeu 10809 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:56.537143",
-      "captura_mais_recente": "2026-11-03T12:24:26.503657",
-      "tempo_total_dias": 28.655208,
+      "captura_mais_recente": "2026-11-19T16:44:02.049875",
+      "tempo_total_dias": 44.83548,
       "seguidores_inicio": 36923443,
-      "seguidores_fim": 36923846
+      "seguidores_fim": 36912634
     }
   }
 }

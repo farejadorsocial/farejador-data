@@ -8,7 +8,8 @@
       "id": "17841400270240212",
       "username": "ivetesangalo",
       "nome": "Veveta",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iZ2mtWLicn1Y4w4TBy3JUA&_nc_ss=70689&oh=00_AQTHbI64P3kCfQhr9kyO4inFGM4lQLMmstNoMoADP-_Vxw&oe=6AEFE4FF"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwEmchGq&_nc_oc=AdoS5MqixjAgGNbJhzpH7tsLSC-VoEx56GJ0vGmRQyTDWjdS_sKJBwsLGYLckLj451FAyPZ2uG2-4ggjHX4snzhd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tj3qhTSRd9mqmPbjh45iHw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSY9F1OfN8euyFfEeiPGfizB4JudPZ6IIkvIM8pripstg&oe=6B0516D6",
+      "total_posts": 9546
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "Mais informações: ⬇️",
-        "timestamp": "2026-10-05T20:40:39.485671",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "cantoras",
-        "valor_atual": "cantora",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"cantoras\" para \"cantora\"",
-        "timestamp": "2026-10-05T20:54:38.470245",
-        "timestamp_anterior": "2026-10-05T20:40:39.485671",
-        "tempo_desde_anterior_segundos": 838
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "cantoras",
         "timestamp": "2026-10-05T20:40:39.485671",
         "tipo": "inicial"
       }
@@ -98,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 36122122,
+        "valor_atual": 36092361,
+        "variacao": -29761,
+        "direcao": "reducao",
+        "descricao": "-29761 seguidores",
+        "timestamp": "2026-11-19T16:33:26.916928",
+        "timestamp_anterior": "2026-11-03T12:24:15.567438",
+        "tempo_desde_anterior_segundos": 1397351
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -970,6 +961,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 5308,
+        "valor_atual": 5336,
+        "variacao": 28,
+        "direcao": "aumento",
+        "descricao": "Seguiu +28",
+        "timestamp": "2026-11-19T16:33:26.916928",
+        "timestamp_anterior": "2026-11-03T12:11:06.808662",
+        "tempo_desde_anterior_segundos": 1398140
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 5309,
         "valor_atual": 5308,
         "variacao": -1,
@@ -1133,11 +1137,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 9528,
+        "valor_atual": 9546,
+        "variacao": 18,
+        "direcao": "aumento",
+        "descricao": "+18 publicações",
+        "timestamp": "2026-11-19T16:33:26.916928",
+        "timestamp_anterior": "2026-11-03T12:11:06.808662",
+        "tempo_desde_anterior_segundos": 1398140
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 9526,
         "valor_atual": 9528,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-11-03T12:11:06.808662",
         "timestamp_anterior": "2026-10-30T20:10:00.113742",
         "tempo_desde_anterior_segundos": 316866
@@ -1150,7 +1167,7 @@
         "valor_atual": 9526,
         "variacao": -1,
         "direcao": "reducao",
-        "descricao": "-1 posts",
+        "descricao": "-1 publicações",
         "timestamp": "2026-10-30T20:10:00.113742",
         "timestamp_anterior": "2026-10-22T19:22:26.964493",
         "tempo_desde_anterior_segundos": 694053
@@ -1163,7 +1180,7 @@
         "valor_atual": 9527,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-22T19:22:26.964493",
         "timestamp_anterior": "2026-10-21T17:36:05.788173",
         "tempo_desde_anterior_segundos": 92781
@@ -1176,7 +1193,7 @@
         "valor_atual": 9526,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-21T17:36:05.788173",
         "timestamp_anterior": "2026-10-16T13:54:02.958811",
         "tempo_desde_anterior_segundos": 445322
@@ -1189,7 +1206,7 @@
         "valor_atual": 9525,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-16T13:54:02.958811",
         "timestamp_anterior": "2026-10-15T00:23:23.416606",
         "tempo_desde_anterior_segundos": 135039
@@ -1202,7 +1219,7 @@
         "valor_atual": 9523,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-15T00:23:23.416606",
         "timestamp_anterior": "2026-10-14T12:15:41.407295",
         "tempo_desde_anterior_segundos": 43662
@@ -1215,7 +1232,7 @@
         "valor_atual": 9522,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-14T12:15:41.407295",
         "timestamp_anterior": "2026-10-13T16:05:40.250974",
         "tempo_desde_anterior_segundos": 72601
@@ -1228,7 +1245,7 @@
         "valor_atual": 9520,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-13T16:05:40.250974",
         "timestamp_anterior": "2026-10-11T11:13:44.089702",
         "tempo_desde_anterior_segundos": 190316
@@ -1241,7 +1258,7 @@
         "valor_atual": 9519,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-11T11:13:44.089702",
         "timestamp_anterior": "2026-10-05T20:40:39.485671",
         "tempo_desde_anterior_segundos": 484384
@@ -1284,9 +1301,127 @@
         "timestamp": "2026-10-05T20:40:39.485671",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "cantora",
+        "timestamp": "2026-10-05T20:40:39.485671",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:33:26.916928",
+      "timestamp_anterior": "2026-11-03T12:24:15.567438",
+      "timestamp_atual": "2026-11-19T16:33:26.916928",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 13577008,
+        "id": "17841400270240212",
+        "username": "ivetesangalo",
+        "nome": "Veveta",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwEmchGq&_nc_oc=AdoS5MqixjAgGNbJhzpH7tsLSC-VoEx56GJ0vGmRQyTDWjdS_sKJBwsLGYLckLj451FAyPZ2uG2-4ggjHX4snzhd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tj3qhTSRd9mqmPbjh45iHw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSY9F1OfN8euyFfEeiPGfizB4JudPZ6IIkvIM8pripstg&oe=6B0516D6",
+        "total_posts": 9546
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 36122122,
+      "valor_atual": 36092361,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -29761,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397351.34949,
+        "texto": "16 dias e 4 horas e 9 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397351.34949,
+        "texto": "16 dias e 4 horas e 9 minutos e 11 segundos"
+      },
+      "titulo": "Perdeu 29.761 seguidores",
+      "descricao": "Os seguidores caíram de 36.122.122 para 36.092.361",
+      "variacao_texto": "-29.761 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:33:26.916928",
+      "timestamp_anterior": "2026-11-03T12:24:15.567438",
+      "timestamp_atual": "2026-11-19T16:33:26.916928",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 13577008,
+        "id": "17841400270240212",
+        "username": "ivetesangalo",
+        "nome": "Veveta",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwEmchGq&_nc_oc=AdoS5MqixjAgGNbJhzpH7tsLSC-VoEx56GJ0vGmRQyTDWjdS_sKJBwsLGYLckLj451FAyPZ2uG2-4ggjHX4snzhd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tj3qhTSRd9mqmPbjh45iHw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSY9F1OfN8euyFfEeiPGfizB4JudPZ6IIkvIM8pripstg&oe=6B0516D6",
+        "total_posts": 9546
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 5308,
+      "valor_atual": 5336,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 28,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397351.34949,
+        "texto": "16 dias e 4 horas e 9 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 28 pessoas",
+      "descricao": "Estava seguindo 5.308 e passou a seguir 5.336",
+      "variacao_texto": "+28 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:33:26.916928",
+      "timestamp_anterior": "2026-11-03T12:24:15.567438",
+      "timestamp_atual": "2026-11-19T16:33:26.916928",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 13577008,
+        "id": "17841400270240212",
+        "username": "ivetesangalo",
+        "nome": "Veveta",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwEmchGq&_nc_oc=AdoS5MqixjAgGNbJhzpH7tsLSC-VoEx56GJ0vGmRQyTDWjdS_sKJBwsLGYLckLj451FAyPZ2uG2-4ggjHX4snzhd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tj3qhTSRd9mqmPbjh45iHw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSY9F1OfN8euyFfEeiPGfizB4JudPZ6IIkvIM8pripstg&oe=6B0516D6",
+        "total_posts": 9546
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 9528,
+      "valor_atual": 9546,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 18,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397351.34949,
+        "texto": "16 dias e 4 horas e 9 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 18 publicações",
+      "descricao": "O total mudou de 9.528 para 9.546",
+      "variacao_texto": "+18 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:24:15.567438",
@@ -1299,15 +1434,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iZ2mtWLicn1Y4w4TBy3JUA&_nc_ss=70689&oh=00_AQTHbI64P3kCfQhr9kyO4inFGM4lQLMmstNoMoADP-_Vxw&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iZ2mtWLicn1Y4w4TBy3JUA&_nc_ss=70689&oh=00_AQTHbI64P3kCfQhr9kyO4inFGM4lQLMmstNoMoADP-_Vxw&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36122133,
       "valor_atual": 36122122,
-      "hash_anterior": "ec1129f46284354e58aff74951ad0a0773d022db4071b2f8f697e8621f225144",
-      "hash_atual": "3f85daf2c74ba2a1be12207c5e669d7d38aa4aebab646e346e940300b6099910",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1334,15 +1470,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pq-Jdd5YPkbrQ93yJpB_rg&_nc_ss=70689&oh=00_AQSK5X59pne6LRIlyVYp--B9iL11su2arOesTi9X52Z3tA&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pq-Jdd5YPkbrQ93yJpB_rg&_nc_ss=70689&oh=00_AQSK5X59pne6LRIlyVYp--B9iL11su2arOesTi9X52Z3tA&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36122142,
       "valor_atual": 36122133,
-      "hash_anterior": "7a03b22b875f89867f8b304258ecc0dc5ac4ad27b721771779451f00ba34be46",
-      "hash_atual": "ec1129f46284354e58aff74951ad0a0773d022db4071b2f8f697e8621f225144",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1369,15 +1506,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RfEnH_WX7ZtPrqe7izfo9w&_nc_ss=70689&oh=00_AQSdW5dxv8Q2ZtV5ZVCJvBOtPcSVvXrV_8kFMsBqgNQe7A&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=RfEnH_WX7ZtPrqe7izfo9w&_nc_ss=70689&oh=00_AQSdW5dxv8Q2ZtV5ZVCJvBOtPcSVvXrV_8kFMsBqgNQe7A&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36122145,
       "valor_atual": 36122142,
-      "hash_anterior": "6b6cafed3e6f3323add5edf6b3303693ad78e4503348cc03330d5d22484c19b0",
-      "hash_atual": "7a03b22b875f89867f8b304258ecc0dc5ac4ad27b721771779451f00ba34be46",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1404,15 +1542,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfWGqsTPanm8z7tU_Koaow&_nc_ss=70689&oh=00_AQQvmS78FS27z4ZboC1hnlJ9y_Eo7TiNl4guHH8qj4OSWA&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfWGqsTPanm8z7tU_Koaow&_nc_ss=70689&oh=00_AQQvmS78FS27z4ZboC1hnlJ9y_Eo7TiNl4guHH8qj4OSWA&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36122150,
       "valor_atual": 36122145,
-      "hash_anterior": "1880dbcf142ca276f69e0cc5a47503aa4e40c23a0d7bd6be59ebb8a3dd76710d",
-      "hash_atual": "6b6cafed3e6f3323add5edf6b3303693ad78e4503348cc03330d5d22484c19b0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1439,15 +1578,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fOIbDtpaDnRI2JkLjL7hA&_nc_ss=70689&oh=00_AQTGqi5m_8jRV_uqH__6Wut03TQa43nCnuCb2ZaTzykcPw&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fOIbDtpaDnRI2JkLjL7hA&_nc_ss=70689&oh=00_AQTGqi5m_8jRV_uqH__6Wut03TQa43nCnuCb2ZaTzykcPw&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36137948,
       "valor_atual": 36122150,
-      "hash_anterior": "210e1570fc03b5bf2b8e620448789ab2e27b2c95a02f7a31b73485d2e9102b99",
-      "hash_atual": "1880dbcf142ca276f69e0cc5a47503aa4e40c23a0d7bd6be59ebb8a3dd76710d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -15798,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1474,15 +1614,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fOIbDtpaDnRI2JkLjL7hA&_nc_ss=70689&oh=00_AQTGqi5m_8jRV_uqH__6Wut03TQa43nCnuCb2ZaTzykcPw&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fOIbDtpaDnRI2JkLjL7hA&_nc_ss=70689&oh=00_AQTGqi5m_8jRV_uqH__6Wut03TQa43nCnuCb2ZaTzykcPw&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5309,
       "valor_atual": 5308,
-      "hash_anterior": "210e1570fc03b5bf2b8e620448789ab2e27b2c95a02f7a31b73485d2e9102b99",
-      "hash_atual": "1880dbcf142ca276f69e0cc5a47503aa4e40c23a0d7bd6be59ebb8a3dd76710d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1509,15 +1650,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fOIbDtpaDnRI2JkLjL7hA&_nc_ss=70689&oh=00_AQTGqi5m_8jRV_uqH__6Wut03TQa43nCnuCb2ZaTzykcPw&oe=6AEFE4FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFa4zS7xZMaAijBCAEpUApE4c0UabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nDitb1TtWKUQ7kNvwEXvR3s&_nc_oc=AdpTyl_LxzOBmsyBmf9l4FutioGgcn3Pzb5eIhkt_3BQeg2eV-KFSzj1j-xCTaUihFqGcuKNoq980s_eFWRE_s3n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fOIbDtpaDnRI2JkLjL7hA&_nc_ss=70689&oh=00_AQTGqi5m_8jRV_uqH__6Wut03TQa43nCnuCb2ZaTzykcPw&oe=6AEFE4FF",
+        "total_posts": 9528
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9526,
       "valor_atual": 9528,
-      "hash_anterior": "210e1570fc03b5bf2b8e620448789ab2e27b2c95a02f7a31b73485d2e9102b99",
-      "hash_atual": "1880dbcf142ca276f69e0cc5a47503aa4e40c23a0d7bd6be59ebb8a3dd76710d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1528,7 +1670,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 9.526 para 9.528",
       "variacao_texto": "+2 posts"
     },
@@ -1544,15 +1686,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bb8zfvnV5zsRX6eIoBm7pw&_nc_ss=70689&oh=00_AQQ6mYSuKUfOb_ycsTsigI7mI0C8GfGn7ZiEYl1MYsPqGw&oe=6AEB0F7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bb8zfvnV5zsRX6eIoBm7pw&_nc_ss=70689&oh=00_AQQ6mYSuKUfOb_ycsTsigI7mI0C8GfGn7ZiEYl1MYsPqGw&oe=6AEB0F7F",
+        "total_posts": 9526
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36137956,
       "valor_atual": 36137948,
-      "hash_anterior": "082ac0de9d00e2aed6c7b2b214e531f0c201682e808c27638657455c05a29425",
-      "hash_atual": "210e1570fc03b5bf2b8e620448789ab2e27b2c95a02f7a31b73485d2e9102b99",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1579,15 +1722,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7ivLNb67aDA1BmxHfRMtA&_nc_ss=70689&oh=00_AQR2Lrqbvh1f3UtwxVE111Mp6aE_2Wr_xsNd58u5g8XxTw&oe=6AEB0F7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7ivLNb67aDA1BmxHfRMtA&_nc_ss=70689&oh=00_AQR2Lrqbvh1f3UtwxVE111Mp6aE_2Wr_xsNd58u5g8XxTw&oe=6AEB0F7F",
+        "total_posts": 9526
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36175351,
       "valor_atual": 36137956,
-      "hash_anterior": "f4fdba9c83761dd052da665a756572385f4df13aafc658857f32de99d2f7bc80",
-      "hash_atual": "082ac0de9d00e2aed6c7b2b214e531f0c201682e808c27638657455c05a29425",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -37395,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1614,15 +1758,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7ivLNb67aDA1BmxHfRMtA&_nc_ss=70689&oh=00_AQR2Lrqbvh1f3UtwxVE111Mp6aE_2Wr_xsNd58u5g8XxTw&oe=6AEB0F7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7ivLNb67aDA1BmxHfRMtA&_nc_ss=70689&oh=00_AQR2Lrqbvh1f3UtwxVE111Mp6aE_2Wr_xsNd58u5g8XxTw&oe=6AEB0F7F",
+        "total_posts": 9526
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5303,
       "valor_atual": 5309,
-      "hash_anterior": "f4fdba9c83761dd052da665a756572385f4df13aafc658857f32de99d2f7bc80",
-      "hash_atual": "082ac0de9d00e2aed6c7b2b214e531f0c201682e808c27638657455c05a29425",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1649,15 +1794,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7ivLNb67aDA1BmxHfRMtA&_nc_ss=70689&oh=00_AQR2Lrqbvh1f3UtwxVE111Mp6aE_2Wr_xsNd58u5g8XxTw&oe=6AEB0F7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1RaTf5NHSygQ7kNvwFkYSo7&_nc_oc=AdqueCfBrRqtsdc63kzG0IToHraH21VwWwNLTU4xynNyQAZL6dYMxJ3368vzwJtoVcO89gDXxkYIYLOpxrMlnsDl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7ivLNb67aDA1BmxHfRMtA&_nc_ss=70689&oh=00_AQR2Lrqbvh1f3UtwxVE111Mp6aE_2Wr_xsNd58u5g8XxTw&oe=6AEB0F7F",
+        "total_posts": 9526
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9527,
       "valor_atual": 9526,
-      "hash_anterior": "f4fdba9c83761dd052da665a756572385f4df13aafc658857f32de99d2f7bc80",
-      "hash_atual": "082ac0de9d00e2aed6c7b2b214e531f0c201682e808c27638657455c05a29425",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1668,7 +1814,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 1 post",
+      "titulo": "Removeu 1 publicação",
       "descricao": "O total mudou de 9.527 para 9.526",
       "variacao_texto": "-1 post"
     },
@@ -1684,15 +1830,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwFgi4R6&_nc_oc=AdovyWtx3dAZmn4PcwVhPADCH4A4_vNGov1D00H0YEt8JJayd56gqEE61kZIUIqcwqf30x_1UAHlMkkgEz2GDRxU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=82ilA7bXMIZ4SPHXMSOkSQ&_nc_ss=70689&oh=00_AQMI-f_j65AbE1JBK7U4x9w9rGTwNN5lY9_ySdqUAcoMhg&oe=6AE27DBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwFgi4R6&_nc_oc=AdovyWtx3dAZmn4PcwVhPADCH4A4_vNGov1D00H0YEt8JJayd56gqEE61kZIUIqcwqf30x_1UAHlMkkgEz2GDRxU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=82ilA7bXMIZ4SPHXMSOkSQ&_nc_ss=70689&oh=00_AQMI-f_j65AbE1JBK7U4x9w9rGTwNN5lY9_ySdqUAcoMhg&oe=6AE27DBF",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36175357,
       "valor_atual": 36175351,
-      "hash_anterior": "bd401bf92cf48ee905bc1babc1f5f8e5ce30cede5e3451a92eecd475442c5c9f",
-      "hash_atual": "f4fdba9c83761dd052da665a756572385f4df13aafc658857f32de99d2f7bc80",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1719,15 +1866,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwFgi4R6&_nc_oc=AdovyWtx3dAZmn4PcwVhPADCH4A4_vNGov1D00H0YEt8JJayd56gqEE61kZIUIqcwqf30x_1UAHlMkkgEz2GDRxU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7us21jWQlTpIoWguejJGyw&_nc_ss=70689&oh=00_AQNRxSm8ZBb8I8rzBd-KVfOCiq9EyeMhxT1Ln6CAje3i-w&oe=6AE27DBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwFgi4R6&_nc_oc=AdovyWtx3dAZmn4PcwVhPADCH4A4_vNGov1D00H0YEt8JJayd56gqEE61kZIUIqcwqf30x_1UAHlMkkgEz2GDRxU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7us21jWQlTpIoWguejJGyw&_nc_ss=70689&oh=00_AQNRxSm8ZBb8I8rzBd-KVfOCiq9EyeMhxT1Ln6CAje3i-w&oe=6AE27DBF",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36175370,
       "valor_atual": 36175357,
-      "hash_anterior": "6b6f882dfa97a720ae4b5af16141ef9d963048b2a80e981a652f1e5f6c71e232",
-      "hash_atual": "bd401bf92cf48ee905bc1babc1f5f8e5ce30cede5e3451a92eecd475442c5c9f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -13,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1754,15 +1902,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwFgi4R6&_nc_oc=AdovyWtx3dAZmn4PcwVhPADCH4A4_vNGov1D00H0YEt8JJayd56gqEE61kZIUIqcwqf30x_1UAHlMkkgEz2GDRxU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CJeTsS2fB3_MY8g3WEZvhQ&_nc_ss=70689&oh=00_AQMublcc8aSkqknfBgen69A4Vs52G1W0oyy6KsfCJe1btw&oe=6AE27DBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwFgi4R6&_nc_oc=AdovyWtx3dAZmn4PcwVhPADCH4A4_vNGov1D00H0YEt8JJayd56gqEE61kZIUIqcwqf30x_1UAHlMkkgEz2GDRxU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CJeTsS2fB3_MY8g3WEZvhQ&_nc_ss=70689&oh=00_AQMublcc8aSkqknfBgen69A4Vs52G1W0oyy6KsfCJe1btw&oe=6AE27DBF",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36175664,
       "valor_atual": 36175370,
-      "hash_anterior": "de1d0ad179a8ed976d6193258568bfd7ed81e94f19f6f58eaf7e3c3d4e91bb9d",
-      "hash_atual": "6b6f882dfa97a720ae4b5af16141ef9d963048b2a80e981a652f1e5f6c71e232",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -294,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1789,15 +1938,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwGeNG79&_nc_oc=AdqHd-DL2x_HXRfgmkj6Pn0voRapneGu2jQGbrmQzUDCtFQoxzWRqx5Gx-v4w60SiYAUaOINFxl_yg0bbrXvy_ub&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FJ0NzoqnMq6CfGygPz91IQ&_nc_ss=70689&oh=00_AQNTcfBzh9goBPIbkKfURoN8eGMd8BRvJb058XsNcY68tA&oe=6AE12C3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwGeNG79&_nc_oc=AdqHd-DL2x_HXRfgmkj6Pn0voRapneGu2jQGbrmQzUDCtFQoxzWRqx5Gx-v4w60SiYAUaOINFxl_yg0bbrXvy_ub&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FJ0NzoqnMq6CfGygPz91IQ&_nc_ss=70689&oh=00_AQNTcfBzh9goBPIbkKfURoN8eGMd8BRvJb058XsNcY68tA&oe=6AE12C3F",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36175666,
       "valor_atual": 36175664,
-      "hash_anterior": "a37405dc3b1aa8096b3d6145b9b82b7ec422e0512bb401ba149d5cac01d32fff",
-      "hash_atual": "de1d0ad179a8ed976d6193258568bfd7ed81e94f19f6f58eaf7e3c3d4e91bb9d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1824,15 +1974,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwGeNG79&_nc_oc=AdqHd-DL2x_HXRfgmkj6Pn0voRapneGu2jQGbrmQzUDCtFQoxzWRqx5Gx-v4w60SiYAUaOINFxl_yg0bbrXvy_ub&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hSfnGhe08q7E4UfKTUyYyA&_nc_ss=70689&oh=00_AQMkwezWGugo4eyWrxrYIx6XEijKVCfiFDX2qg5vlz_JEA&oe=6AE12C3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fhx3Hgn9Ba4Q7kNvwGeNG79&_nc_oc=AdqHd-DL2x_HXRfgmkj6Pn0voRapneGu2jQGbrmQzUDCtFQoxzWRqx5Gx-v4w60SiYAUaOINFxl_yg0bbrXvy_ub&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hSfnGhe08q7E4UfKTUyYyA&_nc_ss=70689&oh=00_AQMkwezWGugo4eyWrxrYIx6XEijKVCfiFDX2qg5vlz_JEA&oe=6AE12C3F",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36177090,
       "valor_atual": 36175666,
-      "hash_anterior": "7f9587ea74453e3e44f2f03142d9b767408d00484cf52e9a4dcf56aaca07a68b",
-      "hash_atual": "a37405dc3b1aa8096b3d6145b9b82b7ec422e0512bb401ba149d5cac01d32fff",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1424,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1859,15 +2010,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5TMBiH80NFoSTDG0PbETCg&_nc_ss=70689&oh=00_AQP6PLvDa5bHgv-RT2Yt6dtBxBW19u3-Y9p1zIHndgzKBQ&oe=6AE04B3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5TMBiH80NFoSTDG0PbETCg&_nc_ss=70689&oh=00_AQP6PLvDa5bHgv-RT2Yt6dtBxBW19u3-Y9p1zIHndgzKBQ&oe=6AE04B3F",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36177084,
       "valor_atual": 36177090,
-      "hash_anterior": "bde7a147311815e48e3d35380e9475308746adddaad873f4c93dc664c8d9779b",
-      "hash_atual": "7f9587ea74453e3e44f2f03142d9b767408d00484cf52e9a4dcf56aaca07a68b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1894,15 +2046,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qWes6h4dZovFYCtGYKk4Qw&_nc_ss=70689&oh=00_AQPuXsxd6MEszzDZ76SnOhKyEfsdfSe5_kFa3PQJWu4Aqw&oe=6AE04B3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qWes6h4dZovFYCtGYKk4Qw&_nc_ss=70689&oh=00_AQPuXsxd6MEszzDZ76SnOhKyEfsdfSe5_kFa3PQJWu4Aqw&oe=6AE04B3F",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36177070,
       "valor_atual": 36177084,
-      "hash_anterior": "0abee4ba862b875ea8e2a90cf89de4fce5c11294fdf9bab72c34f9e31bd5f6a3",
-      "hash_atual": "bde7a147311815e48e3d35380e9475308746adddaad873f4c93dc664c8d9779b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1929,15 +2082,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T5J4LGY3FEzDe28yAQ3Ebw&_nc_ss=70689&oh=00_AQMHROXGEULZ7Jn_KOCnmhW2oRyHgTDSqrKg7MwetDFMiQ&oe=6AE04B3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T5J4LGY3FEzDe28yAQ3Ebw&_nc_ss=70689&oh=00_AQMHROXGEULZ7Jn_KOCnmhW2oRyHgTDSqrKg7MwetDFMiQ&oe=6AE04B3F",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36177068,
       "valor_atual": 36177070,
-      "hash_anterior": "59a8fb016abff78a8b660a2b3f5f50c392594490ba1cd6fe6ab4f6222fe8be16",
-      "hash_atual": "0abee4ba862b875ea8e2a90cf89de4fce5c11294fdf9bab72c34f9e31bd5f6a3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1964,15 +2118,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4ZzBu7JQ3kvJJsI-cGnX8g&_nc_ss=70689&oh=00_AQM0gMgneFHK7-VMWNbnmKZrfT2gWu9laAHTU1wh_V7mog&oe=6AE04B3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4ZzBu7JQ3kvJJsI-cGnX8g&_nc_ss=70689&oh=00_AQM0gMgneFHK7-VMWNbnmKZrfT2gWu9laAHTU1wh_V7mog&oe=6AE04B3F",
+        "total_posts": 9527
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36179889,
       "valor_atual": 36177068,
-      "hash_anterior": "b07719fac7941adfd5747732ad83cd81d9def3ab5908f6074975d43a21b07b5d",
-      "hash_atual": "59a8fb016abff78a8b660a2b3f5f50c392594490ba1cd6fe6ab4f6222fe8be16",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2821,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1999,15 +2154,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4ZzBu7JQ3kvJJsI-cGnX8g&_nc_ss=70689&oh=00_AQM0gMgneFHK7-VMWNbnmKZrfT2gWu9laAHTU1wh_V7mog&oe=6AE04B3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwE6LuhB&_nc_oc=AdqtR25MD8Iafvf324EKMRX4ogdQH9a1jDVnAMykK4blrFOP6VCCD_gtfWkziznV6UV1wesX94TL3jV7bGE-hghK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4ZzBu7JQ3kvJJsI-cGnX8g&_nc_ss=70689&oh=00_AQM0gMgneFHK7-VMWNbnmKZrfT2gWu9laAHTU1wh_V7mog&oe=6AE04B3F",
+        "total_posts": 9527
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9526,
       "valor_atual": 9527,
-      "hash_anterior": "b07719fac7941adfd5747732ad83cd81d9def3ab5908f6074975d43a21b07b5d",
-      "hash_atual": "59a8fb016abff78a8b660a2b3f5f50c392594490ba1cd6fe6ab4f6222fe8be16",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2018,7 +2174,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 9.526 para 9.527",
       "variacao_texto": "+1 post"
     },
@@ -2034,15 +2190,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=abE8KIbQP3PR6unJIXUwbA&_nc_ss=70689&oh=00_AQNP6U98YQ30x4AAK6ckD1gAxZyQPobGzFze9wNbFljS5A&oe=6ADEF9BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=abE8KIbQP3PR6unJIXUwbA&_nc_ss=70689&oh=00_AQNP6U98YQ30x4AAK6ckD1gAxZyQPobGzFze9wNbFljS5A&oe=6ADEF9BF",
+        "total_posts": 9526
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36179884,
       "valor_atual": 36179889,
-      "hash_anterior": "f735a1d1e7afdae710034bec16a53e709179db41f4433bf4ff2102609325db26",
-      "hash_atual": "b07719fac7941adfd5747732ad83cd81d9def3ab5908f6074975d43a21b07b5d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2069,15 +2226,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JwvFIvOhPBnn8AbqNumFDA&_nc_ss=70689&oh=00_AQPeQvOCw9siRDd7ddgo8F9mUzeSGQ3tF410iQZuTVa4fA&oe=6ADEF9BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JwvFIvOhPBnn8AbqNumFDA&_nc_ss=70689&oh=00_AQPeQvOCw9siRDd7ddgo8F9mUzeSGQ3tF410iQZuTVa4fA&oe=6ADEF9BF",
+        "total_posts": 9526
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36179877,
       "valor_atual": 36179884,
-      "hash_anterior": "6028f9a39390ee3461653d58eae02808d11a893cd2233171f42c547f867feb1b",
-      "hash_atual": "f735a1d1e7afdae710034bec16a53e709179db41f4433bf4ff2102609325db26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2104,15 +2262,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6nPeyk4qGL6cfesOOBEtFw&_nc_ss=70689&oh=00_AQM3oj9xyX2Yc3k1CSbjVfSJkFR2hQ_UizjkHkcg-UKWxw&oe=6ADEF9BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6nPeyk4qGL6cfesOOBEtFw&_nc_ss=70689&oh=00_AQM3oj9xyX2Yc3k1CSbjVfSJkFR2hQ_UizjkHkcg-UKWxw&oe=6ADEF9BF",
+        "total_posts": 9526
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36179865,
       "valor_atual": 36179877,
-      "hash_anterior": "1f57b8e41c729d94990657ac67dff0244127ce34153ec93bd3010c949d15ba1a",
-      "hash_atual": "6028f9a39390ee3461653d58eae02808d11a893cd2233171f42c547f867feb1b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2139,15 +2298,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SDAP820bA3axYzCbZF8kHA&_nc_ss=70689&oh=00_AQPN2l8VMj-9VM0-3DSggqrxTybqmQnBG4GbODLf6-xgEg&oe=6ADEF9BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SDAP820bA3axYzCbZF8kHA&_nc_ss=70689&oh=00_AQPN2l8VMj-9VM0-3DSggqrxTybqmQnBG4GbODLf6-xgEg&oe=6ADEF9BF",
+        "total_posts": 9526
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36187222,
       "valor_atual": 36179865,
-      "hash_anterior": "b8c8e0dae2e21cd7dcc8844292f9b0420a7aa9e2c2d1e7f36e5703f0884f1003",
-      "hash_atual": "1f57b8e41c729d94990657ac67dff0244127ce34153ec93bd3010c949d15ba1a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7357,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2174,15 +2334,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SDAP820bA3axYzCbZF8kHA&_nc_ss=70689&oh=00_AQPN2l8VMj-9VM0-3DSggqrxTybqmQnBG4GbODLf6-xgEg&oe=6ADEF9BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SDAP820bA3axYzCbZF8kHA&_nc_ss=70689&oh=00_AQPN2l8VMj-9VM0-3DSggqrxTybqmQnBG4GbODLf6-xgEg&oe=6ADEF9BF",
+        "total_posts": 9526
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5308,
       "valor_atual": 5303,
-      "hash_anterior": "b8c8e0dae2e21cd7dcc8844292f9b0420a7aa9e2c2d1e7f36e5703f0884f1003",
-      "hash_atual": "1f57b8e41c729d94990657ac67dff0244127ce34153ec93bd3010c949d15ba1a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2209,15 +2370,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SDAP820bA3axYzCbZF8kHA&_nc_ss=70689&oh=00_AQPN2l8VMj-9VM0-3DSggqrxTybqmQnBG4GbODLf6-xgEg&oe=6ADEF9BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=D-GZnojJsdAQ7kNvwGHJq8B&_nc_oc=AdoFb5wLmVoYbmY2LsKiPnY7BErgHs60iITng9lzrM-8_J00N5kgtQdAizppGyxQCgaJCnRfMtCDYJI2JCNGeaMC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SDAP820bA3axYzCbZF8kHA&_nc_ss=70689&oh=00_AQPN2l8VMj-9VM0-3DSggqrxTybqmQnBG4GbODLf6-xgEg&oe=6ADEF9BF",
+        "total_posts": 9526
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9525,
       "valor_atual": 9526,
-      "hash_anterior": "b8c8e0dae2e21cd7dcc8844292f9b0420a7aa9e2c2d1e7f36e5703f0884f1003",
-      "hash_atual": "1f57b8e41c729d94990657ac67dff0244127ce34153ec93bd3010c949d15ba1a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2228,7 +2390,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 9.525 para 9.526",
       "variacao_texto": "+1 post"
     },
@@ -2244,15 +2406,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sU0znVSbZSoQ7kNvwGHlDPP&_nc_oc=AdqjUBAd93_I-KK5ESLmkip76t44iBAV1ei5pkRmi1vbFo6GTpmcLFAoe9oIHeQaNsGLYcpKUjAujPLLqMfq5WXk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iSoJK56gjKB6hASU4QrAzA&_nc_ss=70689&oh=00_AQOJlE8JO3qhYK6AMDyOBxgRNAuGsM2_RQePP5lBnudoJw&oe=6AD89A7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sU0znVSbZSoQ7kNvwGHlDPP&_nc_oc=AdqjUBAd93_I-KK5ESLmkip76t44iBAV1ei5pkRmi1vbFo6GTpmcLFAoe9oIHeQaNsGLYcpKUjAujPLLqMfq5WXk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iSoJK56gjKB6hASU4QrAzA&_nc_ss=70689&oh=00_AQOJlE8JO3qhYK6AMDyOBxgRNAuGsM2_RQePP5lBnudoJw&oe=6AD89A7F",
+        "total_posts": 9525
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36187226,
       "valor_atual": 36187222,
-      "hash_anterior": "e0871a0229940631e2a3aca54da52b00d146120182efad56332a9dd41f4e9326",
-      "hash_atual": "b8c8e0dae2e21cd7dcc8844292f9b0420a7aa9e2c2d1e7f36e5703f0884f1003",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2279,15 +2442,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sU0znVSbZSoQ7kNvwGHlDPP&_nc_oc=AdqjUBAd93_I-KK5ESLmkip76t44iBAV1ei5pkRmi1vbFo6GTpmcLFAoe9oIHeQaNsGLYcpKUjAujPLLqMfq5WXk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wU8-k5kg5bPiSs_gojJhiw&_nc_ss=70689&oh=00_AQM7vtRdSqQKRgN4c6NqckNtFwPGSznYD7Kam56rzpGlAg&oe=6AD89A7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sU0znVSbZSoQ7kNvwGHlDPP&_nc_oc=AdqjUBAd93_I-KK5ESLmkip76t44iBAV1ei5pkRmi1vbFo6GTpmcLFAoe9oIHeQaNsGLYcpKUjAujPLLqMfq5WXk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wU8-k5kg5bPiSs_gojJhiw&_nc_ss=70689&oh=00_AQM7vtRdSqQKRgN4c6NqckNtFwPGSznYD7Kam56rzpGlAg&oe=6AD89A7F",
+        "total_posts": 9525
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36187286,
       "valor_atual": 36187226,
-      "hash_anterior": "7720477b0734a09485d9bea898010b11eb6391a5c54da488464221fd912be260",
-      "hash_atual": "e0871a0229940631e2a3aca54da52b00d146120182efad56332a9dd41f4e9326",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -60,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2314,15 +2478,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lgJn4a0t7RaGarCUI11p-A&_nc_ss=70689&oh=00_AQPl3jTOlFpW4uUVGgmtYFVwmO7wBTujpoxLyEV9bRsmDQ&oe=6AD829FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lgJn4a0t7RaGarCUI11p-A&_nc_ss=70689&oh=00_AQPl3jTOlFpW4uUVGgmtYFVwmO7wBTujpoxLyEV9bRsmDQ&oe=6AD829FF",
+        "total_posts": 9525
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36187287,
       "valor_atual": 36187286,
-      "hash_anterior": "997734a693a06f56011e593d3c85be4b4fe1ed762299b85b47e93c4b79c90e3f",
-      "hash_atual": "7720477b0734a09485d9bea898010b11eb6391a5c54da488464221fd912be260",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2349,15 +2514,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=E0HmKjxqwB7s35KKqzN7yw&_nc_ss=70689&oh=00_AQOtJU3igvUbE1L_V8JBS6ajbNA7N6TXSuMWVAwMd1TGag&oe=6AD829FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=E0HmKjxqwB7s35KKqzN7yw&_nc_ss=70689&oh=00_AQOtJU3igvUbE1L_V8JBS6ajbNA7N6TXSuMWVAwMd1TGag&oe=6AD829FF",
+        "total_posts": 9525
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36187290,
       "valor_atual": 36187287,
-      "hash_anterior": "3a21728064b032d0c71a06296969071f3e8c2759984947c8cef30d1e01d92693",
-      "hash_atual": "997734a693a06f56011e593d3c85be4b4fe1ed762299b85b47e93c4b79c90e3f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2384,15 +2550,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_0V6jOnbGYOuhabU7uTtxA&_nc_ss=70689&oh=00_AQPhtl8dd3WOfWbGFe86cmsP1MAqPCB61u9wGLWZcRJiBQ&oe=6AD829FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_0V6jOnbGYOuhabU7uTtxA&_nc_ss=70689&oh=00_AQPhtl8dd3WOfWbGFe86cmsP1MAqPCB61u9wGLWZcRJiBQ&oe=6AD829FF",
+        "total_posts": 9525
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36189903,
       "valor_atual": 36187290,
-      "hash_anterior": "763b9fe6d58227b2db3d9980d954d1ef66470398e95c9f9c39808af7385f0361",
-      "hash_atual": "3a21728064b032d0c71a06296969071f3e8c2759984947c8cef30d1e01d92693",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2613,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2419,15 +2586,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_0V6jOnbGYOuhabU7uTtxA&_nc_ss=70689&oh=00_AQPhtl8dd3WOfWbGFe86cmsP1MAqPCB61u9wGLWZcRJiBQ&oe=6AD829FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_0V6jOnbGYOuhabU7uTtxA&_nc_ss=70689&oh=00_AQPhtl8dd3WOfWbGFe86cmsP1MAqPCB61u9wGLWZcRJiBQ&oe=6AD829FF",
+        "total_posts": 9525
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5309,
       "valor_atual": 5308,
-      "hash_anterior": "763b9fe6d58227b2db3d9980d954d1ef66470398e95c9f9c39808af7385f0361",
-      "hash_atual": "3a21728064b032d0c71a06296969071f3e8c2759984947c8cef30d1e01d92693",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2454,15 +2622,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_0V6jOnbGYOuhabU7uTtxA&_nc_ss=70689&oh=00_AQPhtl8dd3WOfWbGFe86cmsP1MAqPCB61u9wGLWZcRJiBQ&oe=6AD829FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFn44N-&_nc_oc=AdoDmhjQ02W8aWmdef_tgzt6agiCgcEorqTwk-qgFeUgeDgboXJslq0G4VMcV8aQbUukdvhgbVfRf8fIdx4HAb_7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_0V6jOnbGYOuhabU7uTtxA&_nc_ss=70689&oh=00_AQPhtl8dd3WOfWbGFe86cmsP1MAqPCB61u9wGLWZcRJiBQ&oe=6AD829FF",
+        "total_posts": 9525
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9523,
       "valor_atual": 9525,
-      "hash_anterior": "763b9fe6d58227b2db3d9980d954d1ef66470398e95c9f9c39808af7385f0361",
-      "hash_atual": "3a21728064b032d0c71a06296969071f3e8c2759984947c8cef30d1e01d92693",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2473,7 +2642,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 9.523 para 9.525",
       "variacao_texto": "+2 posts"
     },
@@ -2489,15 +2658,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwGGCDOc&_nc_oc=AdrMX0DUEepdRgqWCCD9oWgRAOHn1QdMI_xiS75soE8c3yH5MO_4BHC_IQXS8eBqfS5VJZx7SYqXR2kH3asJJi6x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TMo04HbU-PxSBlEgttghzQ&_nc_ss=70689&oh=00_AQNr7cNN1UtnmHTaViyjcz4SGxceZ4p36nlz8Y9rsrtf4g&oe=6AD6D87F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwGGCDOc&_nc_oc=AdrMX0DUEepdRgqWCCD9oWgRAOHn1QdMI_xiS75soE8c3yH5MO_4BHC_IQXS8eBqfS5VJZx7SYqXR2kH3asJJi6x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TMo04HbU-PxSBlEgttghzQ&_nc_ss=70689&oh=00_AQNr7cNN1UtnmHTaViyjcz4SGxceZ4p36nlz8Y9rsrtf4g&oe=6AD6D87F",
+        "total_posts": 9523
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36190932,
       "valor_atual": 36189903,
-      "hash_anterior": "e28125992fe24632de2077dc9ac3141c32262a47ae85e938785d0f7b7295efcc",
-      "hash_atual": "763b9fe6d58227b2db3d9980d954d1ef66470398e95c9f9c39808af7385f0361",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1029,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2524,15 +2694,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fIXtNbHJfgoZ926ZdbgaRQ&_nc_ss=70689&oh=00_AQPcrIO--qAixs9abOVGs7wbJGv09QFS0fblObsic6lV4Q&oe=6AD62FBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fIXtNbHJfgoZ926ZdbgaRQ&_nc_ss=70689&oh=00_AQPcrIO--qAixs9abOVGs7wbJGv09QFS0fblObsic6lV4Q&oe=6AD62FBF",
+        "total_posts": 9523
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36190934,
       "valor_atual": 36190932,
-      "hash_anterior": "ccf940ca45e87681b2a8b0ba104de691b249611304ff6043125c636b2789bfc4",
-      "hash_atual": "e28125992fe24632de2077dc9ac3141c32262a47ae85e938785d0f7b7295efcc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2559,15 +2730,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2dhXenC04Yw1e7NxDIQCRQ&_nc_ss=70689&oh=00_AQMSjGdh_6tceGUqaZlJo2F5DqONCJYCSMhoXS2AntVEkw&oe=6AD62FBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2dhXenC04Yw1e7NxDIQCRQ&_nc_ss=70689&oh=00_AQMSjGdh_6tceGUqaZlJo2F5DqONCJYCSMhoXS2AntVEkw&oe=6AD62FBF",
+        "total_posts": 9523
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36191869,
       "valor_atual": 36190934,
-      "hash_anterior": "4f62a9fc9dcaaa9c5dc15abb3d986d0215aa3aa99c8ce4c90aed2d19b3a54dfe",
-      "hash_atual": "ccf940ca45e87681b2a8b0ba104de691b249611304ff6043125c636b2789bfc4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -935,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2594,15 +2766,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2dhXenC04Yw1e7NxDIQCRQ&_nc_ss=70689&oh=00_AQMSjGdh_6tceGUqaZlJo2F5DqONCJYCSMhoXS2AntVEkw&oe=6AD62FBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2dhXenC04Yw1e7NxDIQCRQ&_nc_ss=70689&oh=00_AQMSjGdh_6tceGUqaZlJo2F5DqONCJYCSMhoXS2AntVEkw&oe=6AD62FBF",
+        "total_posts": 9523
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5307,
       "valor_atual": 5309,
-      "hash_anterior": "4f62a9fc9dcaaa9c5dc15abb3d986d0215aa3aa99c8ce4c90aed2d19b3a54dfe",
-      "hash_atual": "ccf940ca45e87681b2a8b0ba104de691b249611304ff6043125c636b2789bfc4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2629,15 +2802,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2dhXenC04Yw1e7NxDIQCRQ&_nc_ss=70689&oh=00_AQMSjGdh_6tceGUqaZlJo2F5DqONCJYCSMhoXS2AntVEkw&oe=6AD62FBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFmVbXg&_nc_oc=AdqOTXq6fRpyDq-TU1TJkCR0__epTGlpCyOXTuNvJLSaoPROXiv6vCGqi8fxEvyPsa7AHr_2iZwD_8uW4VDQpN91&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2dhXenC04Yw1e7NxDIQCRQ&_nc_ss=70689&oh=00_AQMSjGdh_6tceGUqaZlJo2F5DqONCJYCSMhoXS2AntVEkw&oe=6AD62FBF",
+        "total_posts": 9523
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9522,
       "valor_atual": 9523,
-      "hash_anterior": "4f62a9fc9dcaaa9c5dc15abb3d986d0215aa3aa99c8ce4c90aed2d19b3a54dfe",
-      "hash_atual": "ccf940ca45e87681b2a8b0ba104de691b249611304ff6043125c636b2789bfc4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2648,7 +2822,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 9.522 para 9.523",
       "variacao_texto": "+1 post"
     },
@@ -2664,15 +2838,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFCu3KP&_nc_oc=AdrK94GKXKm_WdKkcEXRkvXlrBiYRT-JfQHMSuVpAIKFqRFJmWrssApwGYxsPi1vo-VH5rFBML22rR0LKMlWk6VM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S2J68oNrFXANcfS-0E2UAQ&_nc_ss=70689&oh=00_AQNN7CJkzHl9RA-totZPIkNdySGtfnf0vuX6OtvdMxJdKQ&oe=6AD586FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFCu3KP&_nc_oc=AdrK94GKXKm_WdKkcEXRkvXlrBiYRT-JfQHMSuVpAIKFqRFJmWrssApwGYxsPi1vo-VH5rFBML22rR0LKMlWk6VM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S2J68oNrFXANcfS-0E2UAQ&_nc_ss=70689&oh=00_AQNN7CJkzHl9RA-totZPIkNdySGtfnf0vuX6OtvdMxJdKQ&oe=6AD586FF",
+        "total_posts": 9522
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36192295,
       "valor_atual": 36191869,
-      "hash_anterior": "4163f2eb764172801872819a8c10a50683343aee1cc9bd9fd8bd8b381adc7c24",
-      "hash_atual": "4f62a9fc9dcaaa9c5dc15abb3d986d0215aa3aa99c8ce4c90aed2d19b3a54dfe",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -426,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2699,15 +2874,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFCu3KP&_nc_oc=AdrK94GKXKm_WdKkcEXRkvXlrBiYRT-JfQHMSuVpAIKFqRFJmWrssApwGYxsPi1vo-VH5rFBML22rR0LKMlWk6VM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S2J68oNrFXANcfS-0E2UAQ&_nc_ss=70689&oh=00_AQNN7CJkzHl9RA-totZPIkNdySGtfnf0vuX6OtvdMxJdKQ&oe=6AD586FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFCu3KP&_nc_oc=AdrK94GKXKm_WdKkcEXRkvXlrBiYRT-JfQHMSuVpAIKFqRFJmWrssApwGYxsPi1vo-VH5rFBML22rR0LKMlWk6VM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S2J68oNrFXANcfS-0E2UAQ&_nc_ss=70689&oh=00_AQNN7CJkzHl9RA-totZPIkNdySGtfnf0vuX6OtvdMxJdKQ&oe=6AD586FF",
+        "total_posts": 9522
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5308,
       "valor_atual": 5307,
-      "hash_anterior": "4163f2eb764172801872819a8c10a50683343aee1cc9bd9fd8bd8b381adc7c24",
-      "hash_atual": "4f62a9fc9dcaaa9c5dc15abb3d986d0215aa3aa99c8ce4c90aed2d19b3a54dfe",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2734,15 +2910,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFCu3KP&_nc_oc=AdrK94GKXKm_WdKkcEXRkvXlrBiYRT-JfQHMSuVpAIKFqRFJmWrssApwGYxsPi1vo-VH5rFBML22rR0LKMlWk6VM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S2J68oNrFXANcfS-0E2UAQ&_nc_ss=70689&oh=00_AQNN7CJkzHl9RA-totZPIkNdySGtfnf0vuX6OtvdMxJdKQ&oe=6AD586FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=H6RrCzze4fkQ7kNvwFCu3KP&_nc_oc=AdrK94GKXKm_WdKkcEXRkvXlrBiYRT-JfQHMSuVpAIKFqRFJmWrssApwGYxsPi1vo-VH5rFBML22rR0LKMlWk6VM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S2J68oNrFXANcfS-0E2UAQ&_nc_ss=70689&oh=00_AQNN7CJkzHl9RA-totZPIkNdySGtfnf0vuX6OtvdMxJdKQ&oe=6AD586FF",
+        "total_posts": 9522
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9520,
       "valor_atual": 9522,
-      "hash_anterior": "4163f2eb764172801872819a8c10a50683343aee1cc9bd9fd8bd8b381adc7c24",
-      "hash_atual": "4f62a9fc9dcaaa9c5dc15abb3d986d0215aa3aa99c8ce4c90aed2d19b3a54dfe",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2753,7 +2930,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 9.520 para 9.522",
       "variacao_texto": "+2 posts"
     },
@@ -2769,15 +2946,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwFHACSO&_nc_oc=Adp10ZJ-8KpMVaBkW7ZE_ZrlTfoYh93VjF24VEZjtnqkurP5nCV6j54TztWBTXWn3Q9jFw8CePogZBfKBVUCsNRM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KOiScJjyV7HJbOIP1XkS8A&_nc_ss=70689&oh=00_AQPU1sQQji4pKtpKdnpfMTCF2dxLCgH9FVhMuORMsAf80g&oe=6AD46DBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwFHACSO&_nc_oc=Adp10ZJ-8KpMVaBkW7ZE_ZrlTfoYh93VjF24VEZjtnqkurP5nCV6j54TztWBTXWn3Q9jFw8CePogZBfKBVUCsNRM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KOiScJjyV7HJbOIP1XkS8A&_nc_ss=70689&oh=00_AQPU1sQQji4pKtpKdnpfMTCF2dxLCgH9FVhMuORMsAf80g&oe=6AD46DBF",
+        "total_posts": 9520
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36194711,
       "valor_atual": 36192295,
-      "hash_anterior": "228c2b51c326c0ca8f001524803ed5747308d50b19b0cb614b6689d1159fa8a7",
-      "hash_atual": "4163f2eb764172801872819a8c10a50683343aee1cc9bd9fd8bd8b381adc7c24",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2416,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2804,15 +2982,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwFHACSO&_nc_oc=Adp10ZJ-8KpMVaBkW7ZE_ZrlTfoYh93VjF24VEZjtnqkurP5nCV6j54TztWBTXWn3Q9jFw8CePogZBfKBVUCsNRM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KOiScJjyV7HJbOIP1XkS8A&_nc_ss=70689&oh=00_AQPU1sQQji4pKtpKdnpfMTCF2dxLCgH9FVhMuORMsAf80g&oe=6AD46DBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwFHACSO&_nc_oc=Adp10ZJ-8KpMVaBkW7ZE_ZrlTfoYh93VjF24VEZjtnqkurP5nCV6j54TztWBTXWn3Q9jFw8CePogZBfKBVUCsNRM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KOiScJjyV7HJbOIP1XkS8A&_nc_ss=70689&oh=00_AQPU1sQQji4pKtpKdnpfMTCF2dxLCgH9FVhMuORMsAf80g&oe=6AD46DBF",
+        "total_posts": 9520
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5309,
       "valor_atual": 5308,
-      "hash_anterior": "228c2b51c326c0ca8f001524803ed5747308d50b19b0cb614b6689d1159fa8a7",
-      "hash_atual": "4163f2eb764172801872819a8c10a50683343aee1cc9bd9fd8bd8b381adc7c24",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2839,15 +3018,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwFHACSO&_nc_oc=Adp10ZJ-8KpMVaBkW7ZE_ZrlTfoYh93VjF24VEZjtnqkurP5nCV6j54TztWBTXWn3Q9jFw8CePogZBfKBVUCsNRM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KOiScJjyV7HJbOIP1XkS8A&_nc_ss=70689&oh=00_AQPU1sQQji4pKtpKdnpfMTCF2dxLCgH9FVhMuORMsAf80g&oe=6AD46DBF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwFHACSO&_nc_oc=Adp10ZJ-8KpMVaBkW7ZE_ZrlTfoYh93VjF24VEZjtnqkurP5nCV6j54TztWBTXWn3Q9jFw8CePogZBfKBVUCsNRM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KOiScJjyV7HJbOIP1XkS8A&_nc_ss=70689&oh=00_AQPU1sQQji4pKtpKdnpfMTCF2dxLCgH9FVhMuORMsAf80g&oe=6AD46DBF",
+        "total_posts": 9520
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9519,
       "valor_atual": 9520,
-      "hash_anterior": "228c2b51c326c0ca8f001524803ed5747308d50b19b0cb614b6689d1159fa8a7",
-      "hash_atual": "4163f2eb764172801872819a8c10a50683343aee1cc9bd9fd8bd8b381adc7c24",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2858,7 +3038,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 9.519 para 9.520",
       "variacao_texto": "+1 post"
     },
@@ -2874,15 +3054,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwHBaiJs&_nc_oc=AdoUyvYnAIeRf2PYjw4V9MC8QaLCOnc40ZsJztGAI_KIw_hQjB3jgc2UbxfeJFG0B18meP2CMXJtAbVAhF87TthN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=czkLBlAoWLBc2rT4MhGtpg&_nc_ss=70689&oh=00_AQNpZVwL3wqJcl_2ewiO4nVABkozo7Ped2NpmIZBglVDiQ&oe=6AD15A3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwHBaiJs&_nc_oc=AdoUyvYnAIeRf2PYjw4V9MC8QaLCOnc40ZsJztGAI_KIw_hQjB3jgc2UbxfeJFG0B18meP2CMXJtAbVAhF87TthN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=czkLBlAoWLBc2rT4MhGtpg&_nc_ss=70689&oh=00_AQNpZVwL3wqJcl_2ewiO4nVABkozo7Ped2NpmIZBglVDiQ&oe=6AD15A3F",
+        "total_posts": 9519
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36195182,
       "valor_atual": 36194711,
-      "hash_anterior": "f771d128a7353515aa76ee4b8816a4b81ff5d3ae07fda8c4749a24bc83e31c92",
-      "hash_atual": "228c2b51c326c0ca8f001524803ed5747308d50b19b0cb614b6689d1159fa8a7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -471,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2909,15 +3090,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwHBaiJs&_nc_oc=AdoUyvYnAIeRf2PYjw4V9MC8QaLCOnc40ZsJztGAI_KIw_hQjB3jgc2UbxfeJFG0B18meP2CMXJtAbVAhF87TthN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=czkLBlAoWLBc2rT4MhGtpg&_nc_ss=70689&oh=00_AQNpZVwL3wqJcl_2ewiO4nVABkozo7Ped2NpmIZBglVDiQ&oe=6AD15A3F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rMboaBWUBkwQ7kNvwHBaiJs&_nc_oc=AdoUyvYnAIeRf2PYjw4V9MC8QaLCOnc40ZsJztGAI_KIw_hQjB3jgc2UbxfeJFG0B18meP2CMXJtAbVAhF87TthN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=czkLBlAoWLBc2rT4MhGtpg&_nc_ss=70689&oh=00_AQNpZVwL3wqJcl_2ewiO4nVABkozo7Ped2NpmIZBglVDiQ&oe=6AD15A3F",
+        "total_posts": 9519
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 9517,
       "valor_atual": 9519,
-      "hash_anterior": "f771d128a7353515aa76ee4b8816a4b81ff5d3ae07fda8c4749a24bc83e31c92",
-      "hash_atual": "228c2b51c326c0ca8f001524803ed5747308d50b19b0cb614b6689d1159fa8a7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2928,7 +3110,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 9.517 para 9.519",
       "variacao_texto": "+2 posts"
     },
@@ -2944,15 +3126,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MPOnnGvojl8zgfvLU53ZCw&_nc_ss=70689&oh=00_AQMEuAmFuEUROccMGARSUnXtYHhzrTFX94kyy2u8JUPBZQ&oe=6AD0793F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MPOnnGvojl8zgfvLU53ZCw&_nc_ss=70689&oh=00_AQMEuAmFuEUROccMGARSUnXtYHhzrTFX94kyy2u8JUPBZQ&oe=6AD0793F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36195213,
       "valor_atual": 36195182,
-      "hash_anterior": "4108ea6be09910ad8ee58ee6694bb5b91e06d661401148bdd6766c7c51f32cd8",
-      "hash_atual": "f771d128a7353515aa76ee4b8816a4b81ff5d3ae07fda8c4749a24bc83e31c92",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -31,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2979,15 +3162,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XF84M0sRg6q2RLZ5qGj_og&_nc_ss=70689&oh=00_AQOTG5tKJ435wIXzAa7dR_q4FW3945HTLwlfQsGAzkRDVw&oe=6AD040FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XF84M0sRg6q2RLZ5qGj_og&_nc_ss=70689&oh=00_AQOTG5tKJ435wIXzAa7dR_q4FW3945HTLwlfQsGAzkRDVw&oe=6AD040FF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36195151,
       "valor_atual": 36195213,
-      "hash_anterior": "5b81a7c9438a38b360203db18b87f10a6d9fc7d59503d044b2274ce0375df562",
-      "hash_atual": "4108ea6be09910ad8ee58ee6694bb5b91e06d661401148bdd6766c7c51f32cd8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 62,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3014,15 +3198,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iEnivFC86bP0p3j4l4RTwQ&_nc_ss=70689&oh=00_AQMqkvhjGcmHcmplSjTo2-ekwpqosiRdnA3aOiB8bfur8A&oe=6AD040FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iEnivFC86bP0p3j4l4RTwQ&_nc_ss=70689&oh=00_AQMqkvhjGcmHcmplSjTo2-ekwpqosiRdnA3aOiB8bfur8A&oe=6AD040FF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36195816,
       "valor_atual": 36195151,
-      "hash_anterior": "9306359ef11b43085bafcea9efc5a82b0c7215f19f316b21e64fc530ae4f1646",
-      "hash_atual": "5b81a7c9438a38b360203db18b87f10a6d9fc7d59503d044b2274ce0375df562",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -665,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3049,15 +3234,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iEnivFC86bP0p3j4l4RTwQ&_nc_ss=70689&oh=00_AQMqkvhjGcmHcmplSjTo2-ekwpqosiRdnA3aOiB8bfur8A&oe=6AD040FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwF5Uj-j&_nc_oc=AdoNsRjoUqWx0S-2qwmUUviSj5pimbpCl9g8BX4KeW68lrW9muOfJ-WHNGEH2hI3ij-k5Fli-aV9ozqG0JnPHIKz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iEnivFC86bP0p3j4l4RTwQ&_nc_ss=70689&oh=00_AQMqkvhjGcmHcmplSjTo2-ekwpqosiRdnA3aOiB8bfur8A&oe=6AD040FF",
+        "total_posts": 9517
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5308,
       "valor_atual": 5309,
-      "hash_anterior": "9306359ef11b43085bafcea9efc5a82b0c7215f19f316b21e64fc530ae4f1646",
-      "hash_atual": "5b81a7c9438a38b360203db18b87f10a6d9fc7d59503d044b2274ce0375df562",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3084,15 +3270,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHgPu3V&_nc_oc=AdoAPSduriXsk5xW6PT3jY173EDD1X8UnLhlrMqKYWDAqkoIcabA68pKce2s64aSqphQ3IGqvwcL_cRtu427e6Sb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rpj7BPU2WIuHr2miJt5mGw&_nc_ss=70689&oh=00_AQNZ--sW6O05fxiIk0ySsPrNXJM_1uWJQl9m0oYb7f9qrw&oe=6ACF5FFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHgPu3V&_nc_oc=AdoAPSduriXsk5xW6PT3jY173EDD1X8UnLhlrMqKYWDAqkoIcabA68pKce2s64aSqphQ3IGqvwcL_cRtu427e6Sb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rpj7BPU2WIuHr2miJt5mGw&_nc_ss=70689&oh=00_AQNZ--sW6O05fxiIk0ySsPrNXJM_1uWJQl9m0oYb7f9qrw&oe=6ACF5FFF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36195811,
       "valor_atual": 36195816,
-      "hash_anterior": "baefba6217793dd903437ef324597ed551fa90cb43576724ea5db7678d60d1bd",
-      "hash_atual": "9306359ef11b43085bafcea9efc5a82b0c7215f19f316b21e64fc530ae4f1646",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3119,15 +3306,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHgPu3V&_nc_oc=AdoAPSduriXsk5xW6PT3jY173EDD1X8UnLhlrMqKYWDAqkoIcabA68pKce2s64aSqphQ3IGqvwcL_cRtu427e6Sb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mISvsGR4QDLfR-DeRhIC_g&_nc_ss=70689&oh=00_AQPGcqsxhdPysVZtnYDLU6G8ldIMa90RH1prQ1ou1Cio0w&oe=6ACF5FFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHgPu3V&_nc_oc=AdoAPSduriXsk5xW6PT3jY173EDD1X8UnLhlrMqKYWDAqkoIcabA68pKce2s64aSqphQ3IGqvwcL_cRtu427e6Sb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mISvsGR4QDLfR-DeRhIC_g&_nc_ss=70689&oh=00_AQPGcqsxhdPysVZtnYDLU6G8ldIMa90RH1prQ1ou1Cio0w&oe=6ACF5FFF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36196200,
       "valor_atual": 36195811,
-      "hash_anterior": "f2d1ba18c215e139b9b24865fbcdacb4640ed854a2a9ab045446b25c0875a081",
-      "hash_atual": "baefba6217793dd903437ef324597ed551fa90cb43576724ea5db7678d60d1bd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -389,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3154,15 +3342,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHKxlvY&_nc_oc=AdqWyngoEcZYG_32dCHHl2fXLB42d33U6Di41UozDR2i9U64cWPSi89kXjmUzKXnFdhuJA1LqJmIeIXMFBFsuaJz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bM3q1o7XGjsGOAxPCRkxEA&_nc_ss=70689&oh=00_AQNHge97bzyUPvKU3w_7MOGufVXiOWl9gkjh_p9yLZfx-Q&oe=6ACEB73F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHKxlvY&_nc_oc=AdqWyngoEcZYG_32dCHHl2fXLB42d33U6Di41UozDR2i9U64cWPSi89kXjmUzKXnFdhuJA1LqJmIeIXMFBFsuaJz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bM3q1o7XGjsGOAxPCRkxEA&_nc_ss=70689&oh=00_AQNHge97bzyUPvKU3w_7MOGufVXiOWl9gkjh_p9yLZfx-Q&oe=6ACEB73F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36196203,
       "valor_atual": 36196200,
-      "hash_anterior": "a68f806121ba737771704cc39900f395a81a38e327ccaa9eadd695f16d60ca26",
-      "hash_atual": "f2d1ba18c215e139b9b24865fbcdacb4640ed854a2a9ab045446b25c0875a081",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3189,15 +3378,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHKxlvY&_nc_oc=AdqWyngoEcZYG_32dCHHl2fXLB42d33U6Di41UozDR2i9U64cWPSi89kXjmUzKXnFdhuJA1LqJmIeIXMFBFsuaJz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fEjm5M2eDYqSffH7ffu_cQ&_nc_ss=70689&oh=00_AQNxhwGchohnAosSdRRxb9ShQ089DMtJqzePDhMb8T7GTA&oe=6ACEB73F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwHKxlvY&_nc_oc=AdqWyngoEcZYG_32dCHHl2fXLB42d33U6Di41UozDR2i9U64cWPSi89kXjmUzKXnFdhuJA1LqJmIeIXMFBFsuaJz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fEjm5M2eDYqSffH7ffu_cQ&_nc_ss=70689&oh=00_AQNxhwGchohnAosSdRRxb9ShQ089DMtJqzePDhMb8T7GTA&oe=6ACEB73F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36196610,
       "valor_atual": 36196203,
-      "hash_anterior": "a647b334708fd84e99b86f7ecce51af4204e9cf476ccc00647059c2404196a06",
-      "hash_atual": "a68f806121ba737771704cc39900f395a81a38e327ccaa9eadd695f16d60ca26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -407,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3224,15 +3414,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwGOv5Xm&_nc_oc=Adp4dBlvYF0IxLuopuOhXzQKWsQpe5noI1Cj5G5aWiwh6BSvTF8NbXWRefpg8judPyZME5WtgQMrUQ4vTsNEkGxH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=btHpmsb0r5RVcjhyqlShPg&_nc_ss=70689&oh=00_AQPMYHAAbOtoCgkQRPzInZXQxwt_DI-T6H54h5EKJWIoQQ&oe=6ACDD63F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwGOv5Xm&_nc_oc=Adp4dBlvYF0IxLuopuOhXzQKWsQpe5noI1Cj5G5aWiwh6BSvTF8NbXWRefpg8judPyZME5WtgQMrUQ4vTsNEkGxH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=btHpmsb0r5RVcjhyqlShPg&_nc_ss=70689&oh=00_AQPMYHAAbOtoCgkQRPzInZXQxwt_DI-T6H54h5EKJWIoQQ&oe=6ACDD63F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36196607,
       "valor_atual": 36196610,
-      "hash_anterior": "9b61c1269a0ec0a9eae101cc2b1412110d7b5b76310c41072d882461892a7882",
-      "hash_atual": "a647b334708fd84e99b86f7ecce51af4204e9cf476ccc00647059c2404196a06",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3259,15 +3450,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwGOv5Xm&_nc_oc=Adp4dBlvYF0IxLuopuOhXzQKWsQpe5noI1Cj5G5aWiwh6BSvTF8NbXWRefpg8judPyZME5WtgQMrUQ4vTsNEkGxH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Iotybo0c5YQewJulmuNu1w&_nc_ss=70689&oh=00_AQP1yly8Uet9vbRffIIJhcnnZ2XX9eU1AcoqmC8wNR4eDQ&oe=6ACDD63F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwGOv5Xm&_nc_oc=Adp4dBlvYF0IxLuopuOhXzQKWsQpe5noI1Cj5G5aWiwh6BSvTF8NbXWRefpg8judPyZME5WtgQMrUQ4vTsNEkGxH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Iotybo0c5YQewJulmuNu1w&_nc_ss=70689&oh=00_AQP1yly8Uet9vbRffIIJhcnnZ2XX9eU1AcoqmC8wNR4eDQ&oe=6ACDD63F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197896,
       "valor_atual": 36196607,
-      "hash_anterior": "33ea014f0108c0e8757f0c4e15f4d98da9d1f95f266760558e7569d4e1b686b0",
-      "hash_atual": "9b61c1269a0ec0a9eae101cc2b1412110d7b5b76310c41072d882461892a7882",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1289,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3294,15 +3486,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwGOv5Xm&_nc_oc=Adp4dBlvYF0IxLuopuOhXzQKWsQpe5noI1Cj5G5aWiwh6BSvTF8NbXWRefpg8judPyZME5WtgQMrUQ4vTsNEkGxH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Iotybo0c5YQewJulmuNu1w&_nc_ss=70689&oh=00_AQP1yly8Uet9vbRffIIJhcnnZ2XX9eU1AcoqmC8wNR4eDQ&oe=6ACDD63F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwGOv5Xm&_nc_oc=Adp4dBlvYF0IxLuopuOhXzQKWsQpe5noI1Cj5G5aWiwh6BSvTF8NbXWRefpg8judPyZME5WtgQMrUQ4vTsNEkGxH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Iotybo0c5YQewJulmuNu1w&_nc_ss=70689&oh=00_AQP1yly8Uet9vbRffIIJhcnnZ2XX9eU1AcoqmC8wNR4eDQ&oe=6ACDD63F",
+        "total_posts": 9517
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5307,
       "valor_atual": 5308,
-      "hash_anterior": "33ea014f0108c0e8757f0c4e15f4d98da9d1f95f266760558e7569d4e1b686b0",
-      "hash_atual": "9b61c1269a0ec0a9eae101cc2b1412110d7b5b76310c41072d882461892a7882",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3329,15 +3522,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwEPWlWG&_nc_oc=AdqcolBOFAqr9BPewyAqotpiHrmp1GaX7IDfqy-NxPhR1S9choPPDmC1zUMl2_GOT57OAsRFSzDCjL_tmYxLwDqh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9vr4E8Q4LDuxBjSmnk2o3g&_nc_ss=70689&oh=00_AQMg1b0nMBjFl9fkUwZotUrgriq__q8iU5ttHyXtC_WMTA&oe=6ACD65BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwEPWlWG&_nc_oc=AdqcolBOFAqr9BPewyAqotpiHrmp1GaX7IDfqy-NxPhR1S9choPPDmC1zUMl2_GOT57OAsRFSzDCjL_tmYxLwDqh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9vr4E8Q4LDuxBjSmnk2o3g&_nc_ss=70689&oh=00_AQMg1b0nMBjFl9fkUwZotUrgriq__q8iU5ttHyXtC_WMTA&oe=6ACD65BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197885,
       "valor_atual": 36197896,
-      "hash_anterior": "11f2c54587585d135d209b338c93084310db01751d969b8050985ddfc43691a9",
-      "hash_atual": "33ea014f0108c0e8757f0c4e15f4d98da9d1f95f266760558e7569d4e1b686b0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3364,15 +3558,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwEPWlWG&_nc_oc=AdqcolBOFAqr9BPewyAqotpiHrmp1GaX7IDfqy-NxPhR1S9choPPDmC1zUMl2_GOT57OAsRFSzDCjL_tmYxLwDqh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kG9HHabkFt1jsKGRLALONg&_nc_ss=70689&oh=00_AQNUvxvUaowF1L4Q9bRADtWaLA0OLyVyDlovVrIEzSJ-uA&oe=6ACD65BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwEPWlWG&_nc_oc=AdqcolBOFAqr9BPewyAqotpiHrmp1GaX7IDfqy-NxPhR1S9choPPDmC1zUMl2_GOT57OAsRFSzDCjL_tmYxLwDqh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kG9HHabkFt1jsKGRLALONg&_nc_ss=70689&oh=00_AQNUvxvUaowF1L4Q9bRADtWaLA0OLyVyDlovVrIEzSJ-uA&oe=6ACD65BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197886,
       "valor_atual": 36197885,
-      "hash_anterior": "ffb053b8aa7fb037e338d40ae96cf08ac983f24fdffb5282c94ea052da92757f",
-      "hash_atual": "11f2c54587585d135d209b338c93084310db01751d969b8050985ddfc43691a9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3399,15 +3594,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwEPWlWG&_nc_oc=AdqcolBOFAqr9BPewyAqotpiHrmp1GaX7IDfqy-NxPhR1S9choPPDmC1zUMl2_GOT57OAsRFSzDCjL_tmYxLwDqh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cnMhN4o_o_31ZRtmbC8ZsQ&_nc_ss=70689&oh=00_AQOpXpxW_-sjW16kF2g8q8pwELg1nqWskh-_Qkn0clxfXQ&oe=6ACD65BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MAaY7yX1apYQ7kNvwEPWlWG&_nc_oc=AdqcolBOFAqr9BPewyAqotpiHrmp1GaX7IDfqy-NxPhR1S9choPPDmC1zUMl2_GOT57OAsRFSzDCjL_tmYxLwDqh&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cnMhN4o_o_31ZRtmbC8ZsQ&_nc_ss=70689&oh=00_AQOpXpxW_-sjW16kF2g8q8pwELg1nqWskh-_Qkn0clxfXQ&oe=6ACD65BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197807,
       "valor_atual": 36197886,
-      "hash_anterior": "abede2d52a0a8cc7db3a850b8ecc52825bb1cad0205e7bbb17d2aca1186f9954",
-      "hash_atual": "ffb053b8aa7fb037e338d40ae96cf08ac983f24fdffb5282c94ea052da92757f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 79,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3434,15 +3630,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wS_5lvEdfBCN0FoklLn4oQ&_nc_ss=70689&oh=00_AQOG0sfcUoUFM7SJmpXAP2rx0HIrj5hMK4Zj75csvNx-rw&oe=6ACC84BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wS_5lvEdfBCN0FoklLn4oQ&_nc_ss=70689&oh=00_AQOG0sfcUoUFM7SJmpXAP2rx0HIrj5hMK4Zj75csvNx-rw&oe=6ACC84BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197806,
       "valor_atual": 36197807,
-      "hash_anterior": "49b104a00985bb457f47a63e8afb70845a487edd0c05e6994cb04e61c59ff7a5",
-      "hash_atual": "abede2d52a0a8cc7db3a850b8ecc52825bb1cad0205e7bbb17d2aca1186f9954",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3469,15 +3666,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=78iooa6kPau6jF4w1VyWyg&_nc_ss=70689&oh=00_AQMMbLEQmUe9x82F37ZqrWZuCHgI7Zp3J7TL-386nMLrrw&oe=6ACC84BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=78iooa6kPau6jF4w1VyWyg&_nc_ss=70689&oh=00_AQMMbLEQmUe9x82F37ZqrWZuCHgI7Zp3J7TL-386nMLrrw&oe=6ACC84BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197808,
       "valor_atual": 36197806,
-      "hash_anterior": "f002f0a3b1a38a891cb790ae2675c6aeeabe3e86bbb15d52cd67db28fda60c68",
-      "hash_atual": "49b104a00985bb457f47a63e8afb70845a487edd0c05e6994cb04e61c59ff7a5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3504,15 +3702,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1UlczgGD4106H6QDgcU75A&_nc_ss=70689&oh=00_AQO2LwPOJcz-P1fF-4g7aaw9Zn2lMtLGGIUeM2OVUobVQA&oe=6ACC84BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1UlczgGD4106H6QDgcU75A&_nc_ss=70689&oh=00_AQO2LwPOJcz-P1fF-4g7aaw9Zn2lMtLGGIUeM2OVUobVQA&oe=6ACC84BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36197802,
       "valor_atual": 36197808,
-      "hash_anterior": "55c1b41719fa321cd5856fb18947c90e95f70f549681ed98cf2e639498e3ade9",
-      "hash_atual": "f002f0a3b1a38a891cb790ae2675c6aeeabe3e86bbb15d52cd67db28fda60c68",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3539,15 +3738,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KLjFC0nCbdJsmLn71SnWYQ&_nc_ss=70689&oh=00_AQNragtfZNYtpTssQHHh4kyzv19iSt3xC0RjPmE_sIvgVA&oe=6ACC84BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KLjFC0nCbdJsmLn71SnWYQ&_nc_ss=70689&oh=00_AQNragtfZNYtpTssQHHh4kyzv19iSt3xC0RjPmE_sIvgVA&oe=6ACC84BF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198954,
       "valor_atual": 36197802,
-      "hash_anterior": "8965ac081e1cf45a044d5c33e44d143afe67e666c8f41d477c82e0d032232dc1",
-      "hash_atual": "55c1b41719fa321cd5856fb18947c90e95f70f549681ed98cf2e639498e3ade9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1152,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3574,15 +3774,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KLjFC0nCbdJsmLn71SnWYQ&_nc_ss=70689&oh=00_AQNragtfZNYtpTssQHHh4kyzv19iSt3xC0RjPmE_sIvgVA&oe=6ACC84BF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwE2KfTS&_nc_oc=AdrCNmblus51esCa93aAmW9EtJcotrg0ifw41LDjW-plW_0I93UJfK_46e94RaAeh98heyzlSWbKtvows2FI7xBd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KLjFC0nCbdJsmLn71SnWYQ&_nc_ss=70689&oh=00_AQNragtfZNYtpTssQHHh4kyzv19iSt3xC0RjPmE_sIvgVA&oe=6ACC84BF",
+        "total_posts": 9517
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5309,
       "valor_atual": 5307,
-      "hash_anterior": "8965ac081e1cf45a044d5c33e44d143afe67e666c8f41d477c82e0d032232dc1",
-      "hash_atual": "55c1b41719fa321cd5856fb18947c90e95f70f549681ed98cf2e639498e3ade9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3609,15 +3810,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=H78Q3PCEJGNRySsmn60D7w&_nc_ss=70689&oh=00_AQPNSue8HNT4jcLCew5P0b4H0oMIUr9vNlc9ZRLHjmCnYg&oe=6ACC4C7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=H78Q3PCEJGNRySsmn60D7w&_nc_ss=70689&oh=00_AQPNSue8HNT4jcLCew5P0b4H0oMIUr9vNlc9ZRLHjmCnYg&oe=6ACC4C7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198962,
       "valor_atual": 36198954,
-      "hash_anterior": "e136930a3a98bc1c312355910732343d60fdf05263ab3fbb299bc94e03a58c7e",
-      "hash_atual": "8965ac081e1cf45a044d5c33e44d143afe67e666c8f41d477c82e0d032232dc1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3644,15 +3846,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y-ghJBW2pj4zg2c4Uyvhsg&_nc_ss=70689&oh=00_AQMBHIBTfYSUxIm8_7ijvlj600JfRpJ-D9ihGc4HxETcyg&oe=6ACC4C7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y-ghJBW2pj4zg2c4Uyvhsg&_nc_ss=70689&oh=00_AQMBHIBTfYSUxIm8_7ijvlj600JfRpJ-D9ihGc4HxETcyg&oe=6ACC4C7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198958,
       "valor_atual": 36198962,
-      "hash_anterior": "69832d33edfd0da1ac2aead242871ea064d09d80281aa5083a3e425f5c717dc2",
-      "hash_atual": "e136930a3a98bc1c312355910732343d60fdf05263ab3fbb299bc94e03a58c7e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3679,15 +3882,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zV5LAPwI7XNLAyHwA0jqSQ&_nc_ss=70689&oh=00_AQN8ZwbtOBnFm2BNFrkFmNL9FWB-FdZao71rAdqcW7Yetw&oe=6ACC4C7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zV5LAPwI7XNLAyHwA0jqSQ&_nc_ss=70689&oh=00_AQN8ZwbtOBnFm2BNFrkFmNL9FWB-FdZao71rAdqcW7Yetw&oe=6ACC4C7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198956,
       "valor_atual": 36198958,
-      "hash_anterior": "5230870bc0034254c50e25b7c28599a3c77efed646db1a44de2b6be3299fd4b2",
-      "hash_atual": "69832d33edfd0da1ac2aead242871ea064d09d80281aa5083a3e425f5c717dc2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3714,15 +3918,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bVYuEcKhPqs2PGneFYH4Qw&_nc_ss=70689&oh=00_AQOC_Jq5AH4Fy-j46Lw3hCr5CSkedI3hBfmMGwh-KBvTGw&oe=6ACC4C7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFt7YC-&_nc_oc=Adp9mK8av-u0r6rwb6R5JjUsErpka_NroE9bXZuU6KhAmW5zilH_U_vIhJ-acWeFFyj7pe02o4dS1eehdSVYaqBu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bVYuEcKhPqs2PGneFYH4Qw&_nc_ss=70689&oh=00_AQOC_Jq5AH4Fy-j46Lw3hCr5CSkedI3hBfmMGwh-KBvTGw&oe=6ACC4C7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36199097,
       "valor_atual": 36198956,
-      "hash_anterior": "6120d916274a48f3bee54670752d16e10d387f4f8dceb65ed66d1570dbb9f6d8",
-      "hash_atual": "5230870bc0034254c50e25b7c28599a3c77efed646db1a44de2b6be3299fd4b2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -141,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3749,15 +3954,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=s3x9oJb3eiswT0hxC9AJ-w&_nc_ss=70689&oh=00_AQPRb7KITMC1PomQ2zfrE8ZcZHDf9-9J3gGgHVqFZarP2Q&oe=6ACB6B7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=s3x9oJb3eiswT0hxC9AJ-w&_nc_ss=70689&oh=00_AQPRb7KITMC1PomQ2zfrE8ZcZHDf9-9J3gGgHVqFZarP2Q&oe=6ACB6B7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198994,
       "valor_atual": 36199097,
-      "hash_anterior": "06821f689c3f8704488c3f3e8b5dd29d7d4400ab87758c3e6604fb77b9dbab91",
-      "hash_atual": "6120d916274a48f3bee54670752d16e10d387f4f8dceb65ed66d1570dbb9f6d8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 103,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3784,15 +3990,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ucQLH41SUjV7Z-dSfQL6dQ&_nc_ss=70689&oh=00_AQOFgvhXwaF_bXn6EpQlibFia0IlJL5O4wsOSszDJn3izA&oe=6ACB6B7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ucQLH41SUjV7Z-dSfQL6dQ&_nc_ss=70689&oh=00_AQOFgvhXwaF_bXn6EpQlibFia0IlJL5O4wsOSszDJn3izA&oe=6ACB6B7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198942,
       "valor_atual": 36198994,
-      "hash_anterior": "43d75f8bd50e4260d96d2395d4d45a165dee29578f4f045a4df6e6b1c79eaa4c",
-      "hash_atual": "06821f689c3f8704488c3f3e8b5dd29d7d4400ab87758c3e6604fb77b9dbab91",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 52,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3819,15 +4026,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oxs6zkkjGtxmU2xshVndgQ&_nc_ss=70689&oh=00_AQNGQSSlt5PL0FneOKWsUMjQtfxjT7xnIvGwWb_Dk83T3Q&oe=6ACB6B7F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oxs6zkkjGtxmU2xshVndgQ&_nc_ss=70689&oh=00_AQNGQSSlt5PL0FneOKWsUMjQtfxjT7xnIvGwWb_Dk83T3Q&oe=6ACB6B7F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198872,
       "valor_atual": 36198942,
-      "hash_anterior": "312a0f709b7ba0c905ba9925bb72b21fc67eb9f97c3f9b2636af09c194ac0f91",
-      "hash_atual": "43d75f8bd50e4260d96d2395d4d45a165dee29578f4f045a4df6e6b1c79eaa4c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 70,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3854,15 +4062,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=o0fzzrL4vQ2GcN2b928gqQ&_nc_ss=70689&oh=00_AQPSkyd9ocwFl_QbAZpy9lh1ro5m0uKGhWt39f9DKYm0TQ&oe=6ACB333F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=o0fzzrL4vQ2GcN2b928gqQ&_nc_ss=70689&oh=00_AQPSkyd9ocwFl_QbAZpy9lh1ro5m0uKGhWt39f9DKYm0TQ&oe=6ACB333F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198865,
       "valor_atual": 36198872,
-      "hash_anterior": "b4bb6a7c57f6801acd6687f81a5740f37678bd7070178c417c47907feded5085",
-      "hash_atual": "312a0f709b7ba0c905ba9925bb72b21fc67eb9f97c3f9b2636af09c194ac0f91",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3889,15 +4098,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dzdoWBSkNPmhTNNXQ8sNLA&_nc_ss=70689&oh=00_AQPPVuJeYvbQFHuWegE5_sECt1h0_3k8nL3EbPFuqAFecA&oe=6ACB333F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dzdoWBSkNPmhTNNXQ8sNLA&_nc_ss=70689&oh=00_AQPPVuJeYvbQFHuWegE5_sECt1h0_3k8nL3EbPFuqAFecA&oe=6ACB333F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198864,
       "valor_atual": 36198865,
-      "hash_anterior": "881e671d5bcfcacd214ef9fbdc767566a2713fe187f5c55c7e1f067f5b523f84",
-      "hash_atual": "b4bb6a7c57f6801acd6687f81a5740f37678bd7070178c417c47907feded5085",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3924,15 +4134,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2AfP2DAEVl4TaW6IFsCI6g&_nc_ss=70689&oh=00_AQPYVvi4jXpVfTxpkU6hKzYX3keQnZobsBVVEhOD03aufw&oe=6ACB333F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2AfP2DAEVl4TaW6IFsCI6g&_nc_ss=70689&oh=00_AQPYVvi4jXpVfTxpkU6hKzYX3keQnZobsBVVEhOD03aufw&oe=6ACB333F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198866,
       "valor_atual": 36198864,
-      "hash_anterior": "5b5e5857ba7d2ce0d6324945a3ad4fee09084d4c82dfd37033831ceb815c0d7f",
-      "hash_atual": "881e671d5bcfcacd214ef9fbdc767566a2713fe187f5c55c7e1f067f5b523f84",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3959,15 +4170,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mPZ35o6ArMdfUWjiHJGfxg&_nc_ss=70689&oh=00_AQO6FBmqnBR5rhUTiUt9VzB29-s7b2XzPbUguU3m6S3moQ&oe=6ACB333F"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwG5t0S5&_nc_oc=Adr0E7ktKn36eFS8mAi7HWjut5Lqs87N1XOOI5HiXtEsFWgK3T4Ouj_qVqrJsEjHYLJfoCvRl5Hi3d8rP1mFlDdW&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=mPZ35o6ArMdfUWjiHJGfxg&_nc_ss=70689&oh=00_AQO6FBmqnBR5rhUTiUt9VzB29-s7b2XzPbUguU3m6S3moQ&oe=6ACB333F",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198802,
       "valor_atual": 36198866,
-      "hash_anterior": "f3bdd8e8083526620e24e91886509455bf29c3cb3cad283976075f5540684120",
-      "hash_atual": "5b5e5857ba7d2ce0d6324945a3ad4fee09084d4c82dfd37033831ceb815c0d7f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 64,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3994,15 +4206,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X262Zss0a7iU-Sns-SKl1Q&_nc_ss=70689&oh=00_AQNo7gY5AdaHfV_0sbI4D9_4WO8Iu3wLANsqMzMuQNnXlQ&oe=6ACAFAFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X262Zss0a7iU-Sns-SKl1Q&_nc_ss=70689&oh=00_AQNo7gY5AdaHfV_0sbI4D9_4WO8Iu3wLANsqMzMuQNnXlQ&oe=6ACAFAFF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198804,
       "valor_atual": 36198802,
-      "hash_anterior": "07f6c469aadc9827c52786003a95761a869910757d8875d83ffc26494d2ab23e",
-      "hash_atual": "f3bdd8e8083526620e24e91886509455bf29c3cb3cad283976075f5540684120",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4029,15 +4242,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=le3kPmHrJfQVlwwuk2vZTw&_nc_ss=70689&oh=00_AQMjRXBK0frppYJlAAPuMPoYtCa71Ih2nqsLaOsP6xlRkg&oe=6ACAFAFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=le3kPmHrJfQVlwwuk2vZTw&_nc_ss=70689&oh=00_AQMjRXBK0frppYJlAAPuMPoYtCa71Ih2nqsLaOsP6xlRkg&oe=6ACAFAFF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36198768,
       "valor_atual": 36198804,
-      "hash_anterior": "faaa3a71ff091c2c3502aff885a22e375671ce202263fd7eae1fe82d4e31a156",
-      "hash_atual": "07f6c469aadc9827c52786003a95761a869910757d8875d83ffc26494d2ab23e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 36,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4064,15 +4278,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WBLas8TqYUSD7UwELmcs-A&_nc_ss=70689&oh=00_AQNeJj3vuBww_iIxQXPVnHZz1DWb02rbElnhw1aQUQYCsg&oe=6ACAFAFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WBLas8TqYUSD7UwELmcs-A&_nc_ss=70689&oh=00_AQNeJj3vuBww_iIxQXPVnHZz1DWb02rbElnhw1aQUQYCsg&oe=6ACAFAFF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36200768,
       "valor_atual": 36198768,
-      "hash_anterior": "d34a87f669d06bab5e60a2fd01dba0990f31ca17ec61bec7632549e230794167",
-      "hash_atual": "faaa3a71ff091c2c3502aff885a22e375671ce202263fd7eae1fe82d4e31a156",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2000,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4099,15 +4314,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WBLas8TqYUSD7UwELmcs-A&_nc_ss=70689&oh=00_AQNeJj3vuBww_iIxQXPVnHZz1DWb02rbElnhw1aQUQYCsg&oe=6ACAFAFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WBLas8TqYUSD7UwELmcs-A&_nc_ss=70689&oh=00_AQNeJj3vuBww_iIxQXPVnHZz1DWb02rbElnhw1aQUQYCsg&oe=6ACAFAFF",
+        "total_posts": 9517
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 5307,
       "valor_atual": 5309,
-      "hash_anterior": "d34a87f669d06bab5e60a2fd01dba0990f31ca17ec61bec7632549e230794167",
-      "hash_atual": "faaa3a71ff091c2c3502aff885a22e375671ce202263fd7eae1fe82d4e31a156",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4134,15 +4350,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wUP-lgcwD__QSvXdLx0P-g&_nc_ss=70689&oh=00_AQMfxG-3mOTjvcKHZ0mzxO_YwYgdBqqXsw0hhvrF_fREfA&oe=6ACAFAFF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwExAPQ6&_nc_oc=AdqCM38aR9IarG4u2F3oQiel09_oG2WG-ytkS8k4KIxMY-fYkukCp3CIDTHQ-I_SuVwfq-8LY2QtRy8GqLwoe85L&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wUP-lgcwD__QSvXdLx0P-g&_nc_ss=70689&oh=00_AQMfxG-3mOTjvcKHZ0mzxO_YwYgdBqqXsw0hhvrF_fREfA&oe=6ACAFAFF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36201506,
       "valor_atual": 36200768,
-      "hash_anterior": "5720d373a9f38fe5c550aadcb4bcf8ef98cbf18f0bb0f71dcf358971e1f6c0db",
-      "hash_atual": "d34a87f669d06bab5e60a2fd01dba0990f31ca17ec61bec7632549e230794167",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -738,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4169,15 +4386,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZqylX8Emves-Fs4Q1mA1fQ&_nc_ss=70689&oh=00_AQOvFCItZKaqC7C4yoLFOvsgmRNmZaY4RqytSqwWasyGBw&oe=6ACA19FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZqylX8Emves-Fs4Q1mA1fQ&_nc_ss=70689&oh=00_AQOvFCItZKaqC7C4yoLFOvsgmRNmZaY4RqytSqwWasyGBw&oe=6ACA19FF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36201508,
       "valor_atual": 36201506,
-      "hash_anterior": "e419f524e8fc2ccd384877abd94b1aa127e5eb0df86f3c069de89915096c6a18",
-      "hash_atual": "5720d373a9f38fe5c550aadcb4bcf8ef98cbf18f0bb0f71dcf358971e1f6c0db",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4204,49 +4422,16 @@
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bE8fg0D797YCVnVqQKWVHg&_nc_ss=70689&oh=00_AQO_8OyjLIPNkQNBiEeKYmviXpGxckjGXu1XO382w_IVEA&oe=6ACA19FF"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "cantoras",
-      "valor_atual": "cantora",
-      "hash_anterior": "6094f2ba08b3a78d57eff7cfd25cdc89c4638355a2f11ac015180ca0cf8c46ec",
-      "hash_atual": "e419f524e8fc2ccd384877abd94b1aa127e5eb0df86f3c069de89915096c6a18",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 481.221499,
-        "texto": "8 minutos e 1 segundo"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 481.221499,
-        "texto": "8 minutos e 1 segundo"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"cantoras\" para \"cantora\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:54:38.470245",
-      "timestamp_anterior": "2026-10-05T20:46:37.248746",
-      "timestamp_atual": "2026-10-05T20:54:38.470245",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "cantora",
-        "pk": 13577008,
-        "id": "17841400270240212",
-        "username": "ivetesangalo",
-        "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bE8fg0D797YCVnVqQKWVHg&_nc_ss=70689&oh=00_AQO_8OyjLIPNkQNBiEeKYmviXpGxckjGXu1XO382w_IVEA&oe=6ACA19FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bE8fg0D797YCVnVqQKWVHg&_nc_ss=70689&oh=00_AQO_8OyjLIPNkQNBiEeKYmviXpGxckjGXu1XO382w_IVEA&oe=6ACA19FF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36201517,
       "valor_atual": 36201508,
-      "hash_anterior": "6094f2ba08b3a78d57eff7cfd25cdc89c4638355a2f11ac015180ca0cf8c46ec",
-      "hash_atual": "e419f524e8fc2ccd384877abd94b1aa127e5eb0df86f3c069de89915096c6a18",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4254,8 +4439,8 @@
         "texto": "8 minutos e 1 segundo"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 0.0,
-        "texto": "0 segundos"
+        "segundos": 481.221499,
+        "texto": "8 minutos e 1 segundo"
       },
       "titulo": "Perdeu 9 seguidores",
       "descricao": "Os seguidores caíram de 36.201.517 para 36.201.508",
@@ -4268,20 +4453,21 @@
       "timestamp_atual": "2026-10-05T20:46:37.248746",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "cantoras",
+        "categoria": "cantora",
         "pk": 13577008,
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Sia992fksVWMmra_YJY0ig&_nc_ss=70689&oh=00_AQPYmfBDYnXBgF4fSLCuHHdPY1PKY2022ZLOFgWfcvCBGQ&oe=6ACA19FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Sia992fksVWMmra_YJY0ig&_nc_ss=70689&oh=00_AQPYmfBDYnXBgF4fSLCuHHdPY1PKY2022ZLOFgWfcvCBGQ&oe=6ACA19FF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36201528,
       "valor_atual": 36201517,
-      "hash_anterior": "e064f21ebde6d6dde99e8c05fc021248515d7435a9684b302cde42b0458ca236",
-      "hash_atual": "6094f2ba08b3a78d57eff7cfd25cdc89c4638355a2f11ac015180ca0cf8c46ec",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4303,20 +4489,21 @@
       "timestamp_atual": "2026-10-05T20:43:39.266049",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "cantoras",
+        "categoria": "cantora",
         "pk": 13577008,
         "id": "17841400270240212",
         "username": "ivetesangalo",
         "nome": "Veveta",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dfoiQwRxt1s0IY_PfVLWWg&_nc_ss=70689&oh=00_AQMtdTH7h3U0B1KVsGfe9YqgDcxw1xEgF8T1egi09X0MKQ&oe=6ACA19FF"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/785234006_18630719887009009_1893045905167373386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=g8e_xcNQmEkQ7kNvwFlcrYW&_nc_oc=AdrS_M7KffatVNGOV5ykvjTkh9h3zBJAGM8OPqfR-dygVRcYMVzep_UbfaZ3fz57mzZg5JILEo256oRbvUfXVaGH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dfoiQwRxt1s0IY_PfVLWWg&_nc_ss=70689&oh=00_AQMtdTH7h3U0B1KVsGfe9YqgDcxw1xEgF8T1egi09X0MKQ&oe=6ACA19FF",
+        "total_posts": 9517
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 36201533,
       "valor_atual": 36201528,
-      "hash_anterior": "8a410d3ae6cf48776409a03e442f2b4d9d49943cc2114d7db4a032c95458772d",
-      "hash_atual": "e064f21ebde6d6dde99e8c05fc021248515d7435a9684b302cde42b0458ca236",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -4335,34 +4522,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:39.485671",
-    "captura_mais_recente": "2026-11-03T12:24:15.567438",
-    "tempo_total_segundos": 2475816,
-    "tempo_total_dias": 28.655278,
-    "tempo_total_texto": "28 dias, 15 horas, 43 minutos e 36 segundos",
+    "captura_mais_recente": "2026-11-19T16:33:26.916928",
+    "tempo_total_segundos": 3873167,
+    "tempo_total_dias": 44.828322,
+    "tempo_total_texto": "44 dias, 19 horas, 52 minutos e 47 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -53229,
+    "1_dias": {
+      "variacao": -29761,
       "direcao": "perdeu",
-      "quantidade": 53229,
-      "texto": "Perdeu 53229 seguidores",
+      "quantidade": 29761,
+      "texto": "Perdeu 29761 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:06:24.830126",
-      "captura_fim": "2026-11-03T12:24:15.567438",
-      "seguidores_inicio": 36175351,
-      "seguidores_fim": 36122122
+      "captura_inicio": "2026-11-03T12:24:15.567438",
+      "captura_fim": "2026-11-19T16:33:26.916928",
+      "seguidores_inicio": 36122122,
+      "seguidores_fim": 36092361
+    },
+    "7_dias": {
+      "variacao": -29761,
+      "direcao": "perdeu",
+      "quantidade": 29761,
+      "texto": "Perdeu 29761 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:24:15.567438",
+      "captura_fim": "2026-11-19T16:33:26.916928",
+      "seguidores_inicio": 36122122,
+      "seguidores_fim": 36092361
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -94861,
+      "direcao": "perdeu",
+      "quantidade": 94861,
+      "texto": "Perdeu 94861 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:26:54.414795",
+      "captura_fim": "2026-11-19T16:33:26.916928",
+      "seguidores_inicio": 36187222,
+      "seguidores_fim": 36092361
     },
     "90_dias": {
       "variacao": null,
@@ -4373,17 +4576,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -79411,
+      "variacao": -109172,
       "direcao": "perdeu",
-      "quantidade": 79411,
-      "texto": "Perdeu 79411 seguidores",
+      "quantidade": 109172,
+      "texto": "Perdeu 109172 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:39.485671",
-      "captura_mais_recente": "2026-11-03T12:24:15.567438",
-      "tempo_total_dias": 28.655279,
+      "captura_mais_recente": "2026-11-19T16:33:26.916928",
+      "tempo_total_dias": 44.828327,
       "seguidores_inicio": 36201533,
-      "seguidores_fim": 36122122
+      "seguidores_fim": 36092361
     }
   }
 }

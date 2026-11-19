@@ -8,7 +8,8 @@
       "id": "17841400961178070",
       "username": "mccabelinho",
       "nome": "",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4jc-IpZbvgfD43InwaBtrQ&_nc_ss=70689&oh=00_AQRpDmyHx6VQC2ad0WQY7opfDVOECyG71NbAYT38ngdo5w&oe=6AEFB747"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4jc-IpZbvgfD43InwaBtrQ&_nc_ss=70689&oh=00_AQRpDmyHx6VQC2ad0WQY7opfDVOECyG71NbAYT38ngdo5w&oe=6AEFB747",
+      "total_posts": 61
     },
     "biografia": [
       {
@@ -16,29 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "",
-        "timestamp": "2026-10-05T20:42:27.840564",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "cantores",
-        "valor_atual": "cantor",
-        "variacao": null,
-        "direcao": null,
-        "descricao": "Categoria alterada de \"cantores\" para \"cantor\"",
-        "timestamp": "2026-10-05T20:56:09.812724",
-        "timestamp_anterior": "2026-10-05T20:42:27.840564",
-        "tempo_desde_anterior_segundos": 821
-      },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "cantores",
         "timestamp": "2026-10-05T20:42:27.840564",
         "tipo": "inicial"
       }
@@ -1055,7 +1033,7 @@
         "valor_atual": 61,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-30T20:11:14.933958",
         "timestamp_anterior": "2026-10-22T19:23:36.509215",
         "tempo_desde_anterior_segundos": 694058
@@ -1068,7 +1046,7 @@
         "valor_atual": 60,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-22T19:23:36.509215",
         "timestamp_anterior": "2026-10-21T17:37:16.056037",
         "tempo_desde_anterior_segundos": 92780
@@ -1081,7 +1059,7 @@
         "valor_atual": 58,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-21T17:37:16.056037",
         "timestamp_anterior": "2026-10-07T13:03:22.184012",
         "tempo_desde_anterior_segundos": 1226033
@@ -1094,7 +1072,7 @@
         "valor_atual": 57,
         "variacao": -1,
         "direcao": "reducao",
-        "descricao": "-1 posts",
+        "descricao": "-1 publicações",
         "timestamp": "2026-10-07T13:03:22.184012",
         "timestamp_anterior": "2026-10-06T20:43:33.291934",
         "tempo_desde_anterior_segundos": 58788
@@ -1107,7 +1085,7 @@
         "valor_atual": 58,
         "variacao": -2,
         "direcao": "reducao",
-        "descricao": "-2 posts",
+        "descricao": "-2 publicações",
         "timestamp": "2026-10-06T20:43:33.291934",
         "timestamp_anterior": "2026-10-05T20:42:27.840564",
         "tempo_desde_anterior_segundos": 86465
@@ -1150,6 +1128,16 @@
         "timestamp": "2026-10-05T20:42:27.840564",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "cantor",
+        "timestamp": "2026-10-05T20:42:27.840564",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
@@ -1165,15 +1153,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4jc-IpZbvgfD43InwaBtrQ&_nc_ss=70689&oh=00_AQRpDmyHx6VQC2ad0WQY7opfDVOECyG71NbAYT38ngdo5w&oe=6AEFB747"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4jc-IpZbvgfD43InwaBtrQ&_nc_ss=70689&oh=00_AQRpDmyHx6VQC2ad0WQY7opfDVOECyG71NbAYT38ngdo5w&oe=6AEFB747",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12376689,
       "valor_atual": 12376686,
-      "hash_anterior": "e776eea873c73f2f8c9576e5aa17612e044b85aecadc1c8345a0b51017a69a64",
-      "hash_atual": "b86954f268c1958ad6c134a3cd44c8f74ae4ce404f5d8a370dfb9683b45d19c6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1200,15 +1189,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rTeA1Bstul4im_Mif892bA&_nc_ss=70689&oh=00_AQQMpvXtAdFPkMIs-FfanQshAVsjynub3LcrddG4cLSSDA&oe=6AEFB747"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rTeA1Bstul4im_Mif892bA&_nc_ss=70689&oh=00_AQQMpvXtAdFPkMIs-FfanQshAVsjynub3LcrddG4cLSSDA&oe=6AEFB747",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12376692,
       "valor_atual": 12376689,
-      "hash_anterior": "031fb8e8b9b1fc14892914e3b6bb359b6a0dc7b15416557ba16a712f0f96a633",
-      "hash_atual": "e776eea873c73f2f8c9576e5aa17612e044b85aecadc1c8345a0b51017a69a64",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1235,15 +1225,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3yil87T6Ci7lThkIl6Dpeg&_nc_ss=70689&oh=00_AQQriBlmYdlBGk6iOUtJLA9CHxl98QTVmNLTSoAH37PGng&oe=6AEFB747"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3yil87T6Ci7lThkIl6Dpeg&_nc_ss=70689&oh=00_AQQriBlmYdlBGk6iOUtJLA9CHxl98QTVmNLTSoAH37PGng&oe=6AEFB747",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12376697,
       "valor_atual": 12376692,
-      "hash_anterior": "9934e9c9111dbd9ff496a4bb572ee055711d5f3991d03270aa9721d437083221",
-      "hash_atual": "031fb8e8b9b1fc14892914e3b6bb359b6a0dc7b15416557ba16a712f0f96a633",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1270,15 +1261,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-mja8q1g-kWOQYoHLSODLA&_nc_ss=70689&oh=00_AQSN5P1Y543L6TvBxXfopa_l791-BrmPLiNL1_IzS3w9ig&oe=6AEFB747"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-mja8q1g-kWOQYoHLSODLA&_nc_ss=70689&oh=00_AQSN5P1Y543L6TvBxXfopa_l791-BrmPLiNL1_IzS3w9ig&oe=6AEFB747",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12376696,
       "valor_atual": 12376697,
-      "hash_anterior": "3d3a3a5027960f36097fa1357210b096aa8fc8daedf434a6d82ddfbe95005b10",
-      "hash_atual": "9934e9c9111dbd9ff496a4bb572ee055711d5f3991d03270aa9721d437083221",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1305,15 +1297,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nP95CHDZLgXCY2lqtxklHA&_nc_ss=70689&oh=00_AQR1wEQrq_CLowmVNy5Z92wArOtL4EwgXQ82hUkuivHgyw&oe=6AEFB747"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nP95CHDZLgXCY2lqtxklHA&_nc_ss=70689&oh=00_AQR1wEQrq_CLowmVNy5Z92wArOtL4EwgXQ82hUkuivHgyw&oe=6AEFB747",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12389080,
       "valor_atual": 12376696,
-      "hash_anterior": "0c03fa2fe5f18dac90a9815126a8538f9e942c23913c6b37e1a6b537ec935929",
-      "hash_atual": "3d3a3a5027960f36097fa1357210b096aa8fc8daedf434a6d82ddfbe95005b10",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -12384,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1340,15 +1333,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nP95CHDZLgXCY2lqtxklHA&_nc_ss=70689&oh=00_AQR1wEQrq_CLowmVNy5Z92wArOtL4EwgXQ82hUkuivHgyw&oe=6AEFB747"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNnP-jFok76FVDNCAFEft7RhSylwbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=MSgXDIxS0WMQ7kNvwGmoL7-&_nc_oc=AdoxQFnYw0XrTTSnvwfB9_Bb_7ULi7PPavnaqbE-SELeUmDniE8VkoLyTZleTy8T9nacuZEdbVcwYt3h8eug7FoM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nP95CHDZLgXCY2lqtxklHA&_nc_ss=70689&oh=00_AQR1wEQrq_CLowmVNy5Z92wArOtL4EwgXQ82hUkuivHgyw&oe=6AEFB747",
+        "total_posts": 61
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 222,
       "valor_atual": 233,
-      "hash_anterior": "0c03fa2fe5f18dac90a9815126a8538f9e942c23913c6b37e1a6b537ec935929",
-      "hash_atual": "3d3a3a5027960f36097fa1357210b096aa8fc8daedf434a6d82ddfbe95005b10",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1375,15 +1369,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JuD0GvKFYd1AdZo58lh6Yg&_nc_ss=70689&oh=00_AQRaqmW5x27q4AG0nIf13nTRL1goZbNGLaBoNroewC6wYQ&oe=6AEAE1C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JuD0GvKFYd1AdZo58lh6Yg&_nc_ss=70689&oh=00_AQRaqmW5x27q4AG0nIf13nTRL1goZbNGLaBoNroewC6wYQ&oe=6AEAE1C7",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12389091,
       "valor_atual": 12389080,
-      "hash_anterior": "8c1089acca67ad5f292d84a3fd96d7f17e20eea4fefaeaf6b2f8cd2e28c4a658",
-      "hash_atual": "0c03fa2fe5f18dac90a9815126a8538f9e942c23913c6b37e1a6b537ec935929",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1410,15 +1405,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ef823wiZbhidm9_Uhr_Iyw&_nc_ss=70689&oh=00_AQTL7HDhqPix_Xgxnu028gNrFOOiJB9tLXtwm878L5ckLw&oe=6AEAE1C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ef823wiZbhidm9_Uhr_Iyw&_nc_ss=70689&oh=00_AQTL7HDhqPix_Xgxnu028gNrFOOiJB9tLXtwm878L5ckLw&oe=6AEAE1C7",
+        "total_posts": 61
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12408475,
       "valor_atual": 12389091,
-      "hash_anterior": "7ec46556faa4f211fefa6aa6920ec606b7c320b53363f54b243d40cfb67b9c26",
-      "hash_atual": "8c1089acca67ad5f292d84a3fd96d7f17e20eea4fefaeaf6b2f8cd2e28c4a658",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -19384,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1445,15 +1441,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ef823wiZbhidm9_Uhr_Iyw&_nc_ss=70689&oh=00_AQTL7HDhqPix_Xgxnu028gNrFOOiJB9tLXtwm878L5ckLw&oe=6AEAE1C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ef823wiZbhidm9_Uhr_Iyw&_nc_ss=70689&oh=00_AQTL7HDhqPix_Xgxnu028gNrFOOiJB9tLXtwm878L5ckLw&oe=6AEAE1C7",
+        "total_posts": 61
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 216,
       "valor_atual": 222,
-      "hash_anterior": "7ec46556faa4f211fefa6aa6920ec606b7c320b53363f54b243d40cfb67b9c26",
-      "hash_atual": "8c1089acca67ad5f292d84a3fd96d7f17e20eea4fefaeaf6b2f8cd2e28c4a658",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1480,15 +1477,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ef823wiZbhidm9_Uhr_Iyw&_nc_ss=70689&oh=00_AQTL7HDhqPix_Xgxnu028gNrFOOiJB9tLXtwm878L5ckLw&oe=6AEAE1C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=F9P6OPOlTlkQ7kNvwGFwk1z&_nc_oc=AdqRhGOwHBLfo8calACocnSZ9-ZKMY1Fpyrb-oFETrFWP9rplVbeRPE_CwJE_NoTAnrTjTvZGJO8EfsJIClquyK9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ef823wiZbhidm9_Uhr_Iyw&_nc_ss=70689&oh=00_AQTL7HDhqPix_Xgxnu028gNrFOOiJB9tLXtwm878L5ckLw&oe=6AEAE1C7",
+        "total_posts": 61
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 60,
       "valor_atual": 61,
-      "hash_anterior": "7ec46556faa4f211fefa6aa6920ec606b7c320b53363f54b243d40cfb67b9c26",
-      "hash_atual": "8c1089acca67ad5f292d84a3fd96d7f17e20eea4fefaeaf6b2f8cd2e28c4a658",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1499,7 +1497,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 60 para 61",
       "variacao_texto": "+1 post"
     },
@@ -1515,15 +1513,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwHEXf9e&_nc_oc=AdobLTDi0Vhx7DQqpabFSiBvF7AhK8Axqca9cqPseb1F4aHWKNfzsmf9q47h8Po-2jASDmlJXhSrphJj6ujfLr0A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ch-tr7tfQglXnLa1U4oD-A&_nc_ss=70689&oh=00_AQO505UQcNHX_NTo6oosn8htzr-U_j3S99nMq5a2I_RCEw&oe=6AE28847"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwHEXf9e&_nc_oc=AdobLTDi0Vhx7DQqpabFSiBvF7AhK8Axqca9cqPseb1F4aHWKNfzsmf9q47h8Po-2jASDmlJXhSrphJj6ujfLr0A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ch-tr7tfQglXnLa1U4oD-A&_nc_ss=70689&oh=00_AQO505UQcNHX_NTo6oosn8htzr-U_j3S99nMq5a2I_RCEw&oe=6AE28847",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12408427,
       "valor_atual": 12408475,
-      "hash_anterior": "f413b28620ce91a1087f32f408ff8de7187a81edb4f26794a0619b67e0f9314c",
-      "hash_atual": "7ec46556faa4f211fefa6aa6920ec606b7c320b53363f54b243d40cfb67b9c26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 48,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1550,15 +1549,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwHEXf9e&_nc_oc=AdobLTDi0Vhx7DQqpabFSiBvF7AhK8Axqca9cqPseb1F4aHWKNfzsmf9q47h8Po-2jASDmlJXhSrphJj6ujfLr0A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gnUX8kcMB08f_UAi-x8eRw&_nc_ss=70689&oh=00_AQOaR1SFvSP0e49-QPxHhAUTXSKrjzS29ifCJ61BkHtOBA&oe=6AE28847"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwHEXf9e&_nc_oc=AdobLTDi0Vhx7DQqpabFSiBvF7AhK8Axqca9cqPseb1F4aHWKNfzsmf9q47h8Po-2jASDmlJXhSrphJj6ujfLr0A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gnUX8kcMB08f_UAi-x8eRw&_nc_ss=70689&oh=00_AQOaR1SFvSP0e49-QPxHhAUTXSKrjzS29ifCJ61BkHtOBA&oe=6AE28847",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12361184,
       "valor_atual": 12408427,
-      "hash_anterior": "ff4a770826d816ac0d8b5102b5a988d6519e399bdffa962c8b38f73b79622c32",
-      "hash_atual": "f413b28620ce91a1087f32f408ff8de7187a81edb4f26794a0619b67e0f9314c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 47243,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1585,15 +1585,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwHEXf9e&_nc_oc=AdobLTDi0Vhx7DQqpabFSiBvF7AhK8Axqca9cqPseb1F4aHWKNfzsmf9q47h8Po-2jASDmlJXhSrphJj6ujfLr0A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gnUX8kcMB08f_UAi-x8eRw&_nc_ss=70689&oh=00_AQOaR1SFvSP0e49-QPxHhAUTXSKrjzS29ifCJ61BkHtOBA&oe=6AE28847"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwHEXf9e&_nc_oc=AdobLTDi0Vhx7DQqpabFSiBvF7AhK8Axqca9cqPseb1F4aHWKNfzsmf9q47h8Po-2jASDmlJXhSrphJj6ujfLr0A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gnUX8kcMB08f_UAi-x8eRw&_nc_ss=70689&oh=00_AQOaR1SFvSP0e49-QPxHhAUTXSKrjzS29ifCJ61BkHtOBA&oe=6AE28847",
+        "total_posts": 60
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 215,
       "valor_atual": 216,
-      "hash_anterior": "ff4a770826d816ac0d8b5102b5a988d6519e399bdffa962c8b38f73b79622c32",
-      "hash_atual": "f413b28620ce91a1087f32f408ff8de7187a81edb4f26794a0619b67e0f9314c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1620,15 +1621,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwFvMdVO&_nc_oc=Adrfa1GxsYEgFs8Vl1P4HLxl9vhGyJuK56lkJM5nuL1PUpKfn2G8JHxYJaH86f7Dy3M_ARNBjkKUFvxMZqL274q_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IGlZ_4M8cAeG0YL1wXtUZQ&_nc_ss=70689&oh=00_AQOaYXulEpXhT9PpLTLXLx5WW6CfTFPYzkfvdYA-G4J1bA&oe=6AE136C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwFvMdVO&_nc_oc=Adrfa1GxsYEgFs8Vl1P4HLxl9vhGyJuK56lkJM5nuL1PUpKfn2G8JHxYJaH86f7Dy3M_ARNBjkKUFvxMZqL274q_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IGlZ_4M8cAeG0YL1wXtUZQ&_nc_ss=70689&oh=00_AQOaYXulEpXhT9PpLTLXLx5WW6CfTFPYzkfvdYA-G4J1bA&oe=6AE136C7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12360927,
       "valor_atual": 12361184,
-      "hash_anterior": "4caea8deb7880e869c113a629e13f1fa8f56c8b65c14c1e24ca62d99c8bc9431",
-      "hash_atual": "ff4a770826d816ac0d8b5102b5a988d6519e399bdffa962c8b38f73b79622c32",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 257,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1655,15 +1657,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwFvMdVO&_nc_oc=Adrfa1GxsYEgFs8Vl1P4HLxl9vhGyJuK56lkJM5nuL1PUpKfn2G8JHxYJaH86f7Dy3M_ARNBjkKUFvxMZqL274q_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6xRY48c33RrdY59YkLwU9g&_nc_ss=70689&oh=00_AQMAAked5nNMv0UHSZFTrIHd55oss4kv8F1Xp6MxjXXaxA&oe=6AE136C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwFvMdVO&_nc_oc=Adrfa1GxsYEgFs8Vl1P4HLxl9vhGyJuK56lkJM5nuL1PUpKfn2G8JHxYJaH86f7Dy3M_ARNBjkKUFvxMZqL274q_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6xRY48c33RrdY59YkLwU9g&_nc_ss=70689&oh=00_AQMAAked5nNMv0UHSZFTrIHd55oss4kv8F1Xp6MxjXXaxA&oe=6AE136C7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12281948,
       "valor_atual": 12360927,
-      "hash_anterior": "1a12b21769794743f9eda0878d2e44f8916e9b9e2f8d56815b47f712377b750c",
-      "hash_atual": "4caea8deb7880e869c113a629e13f1fa8f56c8b65c14c1e24ca62d99c8bc9431",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 78979,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1690,15 +1693,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwFvMdVO&_nc_oc=Adrfa1GxsYEgFs8Vl1P4HLxl9vhGyJuK56lkJM5nuL1PUpKfn2G8JHxYJaH86f7Dy3M_ARNBjkKUFvxMZqL274q_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6xRY48c33RrdY59YkLwU9g&_nc_ss=70689&oh=00_AQMAAked5nNMv0UHSZFTrIHd55oss4kv8F1Xp6MxjXXaxA&oe=6AE136C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwFvMdVO&_nc_oc=Adrfa1GxsYEgFs8Vl1P4HLxl9vhGyJuK56lkJM5nuL1PUpKfn2G8JHxYJaH86f7Dy3M_ARNBjkKUFvxMZqL274q_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6xRY48c33RrdY59YkLwU9g&_nc_ss=70689&oh=00_AQMAAked5nNMv0UHSZFTrIHd55oss4kv8F1Xp6MxjXXaxA&oe=6AE136C7",
+        "total_posts": 60
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 212,
       "valor_atual": 215,
-      "hash_anterior": "1a12b21769794743f9eda0878d2e44f8916e9b9e2f8d56815b47f712377b750c",
-      "hash_atual": "4caea8deb7880e869c113a629e13f1fa8f56c8b65c14c1e24ca62d99c8bc9431",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1725,15 +1729,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UkSBVOiTj95-ZB7ehcJshg&_nc_ss=70689&oh=00_AQMDVEde5pS-ntVUgZTFelfOODA_bmT8lp-njD6YzOe6ZQ&oe=6AE055C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UkSBVOiTj95-ZB7ehcJshg&_nc_ss=70689&oh=00_AQMDVEde5pS-ntVUgZTFelfOODA_bmT8lp-njD6YzOe6ZQ&oe=6AE055C7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12279196,
       "valor_atual": 12281948,
-      "hash_anterior": "fb1f05c749237e187e65e9354a28bf3a7f1d6183592462ad9af86d78308733d4",
-      "hash_atual": "1a12b21769794743f9eda0878d2e44f8916e9b9e2f8d56815b47f712377b750c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2752,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1760,15 +1765,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12193783,
       "valor_atual": 12279196,
-      "hash_anterior": "ed0a45b18716db955ebfed5c0793f5d20b60b8abf07026b6cbac9ddd18269f3d",
-      "hash_atual": "fb1f05c749237e187e65e9354a28bf3a7f1d6183592462ad9af86d78308733d4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 85413,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1795,15 +1801,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7",
+        "total_posts": 60
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 203,
       "valor_atual": 212,
-      "hash_anterior": "ed0a45b18716db955ebfed5c0793f5d20b60b8abf07026b6cbac9ddd18269f3d",
-      "hash_atual": "fb1f05c749237e187e65e9354a28bf3a7f1d6183592462ad9af86d78308733d4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1830,15 +1837,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=JrhQGucbb-cQ7kNvwG7fOcc&_nc_oc=AdpegeL9mp_QDFsOurOpS-HGtUq28UeGitE0Z2E_Hks4T2jGMnFJldfRYxRcDj5Wz8e1Sqv6jm6z6w8mfUVSvzo6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=2uBOV3ig7NpN2CpXBnG3DA&_nc_ss=70689&oh=00_AQM_Re7pyLDfiq6nL91iswjgppBxAv8mOmSeJZ4887aQiA&oe=6AE055C7",
+        "total_posts": 60
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 58,
       "valor_atual": 60,
-      "hash_anterior": "ed0a45b18716db955ebfed5c0793f5d20b60b8abf07026b6cbac9ddd18269f3d",
-      "hash_atual": "fb1f05c749237e187e65e9354a28bf3a7f1d6183592462ad9af86d78308733d4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1849,7 +1857,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 58 para 60",
       "variacao_texto": "+2 posts"
     },
@@ -1865,15 +1873,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4j9efmWLowsoPX9xi17EMg&_nc_ss=70689&oh=00_AQMRjt9PTIh8YD_T8_UvAitMUnBK1gklH1KuoDMraNsr4Q&oe=6ADF0447"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4j9efmWLowsoPX9xi17EMg&_nc_ss=70689&oh=00_AQMRjt9PTIh8YD_T8_UvAitMUnBK1gklH1KuoDMraNsr4Q&oe=6ADF0447",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12193780,
       "valor_atual": 12193783,
-      "hash_anterior": "44cbff3a30174669459456988ce663e0895435828fcec40213a15391188d6b4f",
-      "hash_atual": "ed0a45b18716db955ebfed5c0793f5d20b60b8abf07026b6cbac9ddd18269f3d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1900,15 +1909,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=h4NS8gl_4gqJEHXWBHM85Q&_nc_ss=70689&oh=00_AQNYevoK4JGJXx_yzDzK5CZWNaI3Ql4_ttwZAlyjA2UTWw&oe=6ADF0447"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=h4NS8gl_4gqJEHXWBHM85Q&_nc_ss=70689&oh=00_AQNYevoK4JGJXx_yzDzK5CZWNaI3Ql4_ttwZAlyjA2UTWw&oe=6ADF0447",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12193781,
       "valor_atual": 12193780,
-      "hash_anterior": "8ea1cc3c760b9aaa6f8d0c8e85a4b9b0a9d22e93c39e5cbe95a929b3e490724c",
-      "hash_atual": "44cbff3a30174669459456988ce663e0895435828fcec40213a15391188d6b4f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1935,15 +1945,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j13yo3kQL-fQt57DZhN0Xg&_nc_ss=70689&oh=00_AQPUw_H9qtcf8dQZweM1cf7guWruWX8oKFXhDPPrba1lbw&oe=6ADF0447"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j13yo3kQL-fQt57DZhN0Xg&_nc_ss=70689&oh=00_AQPUw_H9qtcf8dQZweM1cf7guWruWX8oKFXhDPPrba1lbw&oe=6ADF0447",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12193790,
       "valor_atual": 12193781,
-      "hash_anterior": "334511f22d0af712bf56f2b9ebe7da92b17c27901279c0291705505b41470dd3",
-      "hash_atual": "8ea1cc3c760b9aaa6f8d0c8e85a4b9b0a9d22e93c39e5cbe95a929b3e490724c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1970,15 +1981,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VxZjPn8rnkKo4SN-X4Ibuw&_nc_ss=70689&oh=00_AQOO1OApz1I9fuX8tRPzQOjpUWWdeEfVS-6depcm-bY5Zw&oe=6ADF0447"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VxZjPn8rnkKo4SN-X4Ibuw&_nc_ss=70689&oh=00_AQOO1OApz1I9fuX8tRPzQOjpUWWdeEfVS-6depcm-bY5Zw&oe=6ADF0447",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12231546,
       "valor_atual": 12193790,
-      "hash_anterior": "5f5b2237f747e05061f2ea4198c7dbdc6ff721e49d2448964505a4317d4f0c27",
-      "hash_atual": "334511f22d0af712bf56f2b9ebe7da92b17c27901279c0291705505b41470dd3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -37756,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2005,15 +2017,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VxZjPn8rnkKo4SN-X4Ibuw&_nc_ss=70689&oh=00_AQOO1OApz1I9fuX8tRPzQOjpUWWdeEfVS-6depcm-bY5Zw&oe=6ADF0447"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VxZjPn8rnkKo4SN-X4Ibuw&_nc_ss=70689&oh=00_AQOO1OApz1I9fuX8tRPzQOjpUWWdeEfVS-6depcm-bY5Zw&oe=6ADF0447",
+        "total_posts": 58
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 201,
       "valor_atual": 203,
-      "hash_anterior": "5f5b2237f747e05061f2ea4198c7dbdc6ff721e49d2448964505a4317d4f0c27",
-      "hash_atual": "334511f22d0af712bf56f2b9ebe7da92b17c27901279c0291705505b41470dd3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2040,15 +2053,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VxZjPn8rnkKo4SN-X4Ibuw&_nc_ss=70689&oh=00_AQOO1OApz1I9fuX8tRPzQOjpUWWdeEfVS-6depcm-bY5Zw&oe=6ADF0447"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=S6VPm0ODDikQ7kNvwFXB8Qb&_nc_oc=AdpRhijquIyXvcHIoMvwjSyLr-K0CmiQBJRqf0yVof0aGtebMXlw6ZeAzAFMm94I2tTaV3JnVMOwB1Q3eVAHrvZz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VxZjPn8rnkKo4SN-X4Ibuw&_nc_ss=70689&oh=00_AQOO1OApz1I9fuX8tRPzQOjpUWWdeEfVS-6depcm-bY5Zw&oe=6ADF0447",
+        "total_posts": 58
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 57,
       "valor_atual": 58,
-      "hash_anterior": "5f5b2237f747e05061f2ea4198c7dbdc6ff721e49d2448964505a4317d4f0c27",
-      "hash_atual": "334511f22d0af712bf56f2b9ebe7da92b17c27901279c0291705505b41470dd3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2059,7 +2073,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 57 para 58",
       "variacao_texto": "+1 post"
     },
@@ -2075,15 +2089,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=GQ2GY-644vsQ7kNvwGvHJCk&_nc_oc=AdpGe56-owWyNgb3m0kOtWJXZFaPqEBU1KSEdEjAEDHITAwUALmDsxNWAs1J69IXRNi0_w_kDoTDI-j_ASBxFlh8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8IGts9RBGayVKRgjTHhlTQ&_nc_ss=70689&oh=00_AQPU3rALjuRtHYOPcG5LSdG9O51PgaIr3lsdR-qhdORtAg&oe=6AD8A507"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=GQ2GY-644vsQ7kNvwGvHJCk&_nc_oc=AdpGe56-owWyNgb3m0kOtWJXZFaPqEBU1KSEdEjAEDHITAwUALmDsxNWAs1J69IXRNi0_w_kDoTDI-j_ASBxFlh8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8IGts9RBGayVKRgjTHhlTQ&_nc_ss=70689&oh=00_AQPU3rALjuRtHYOPcG5LSdG9O51PgaIr3lsdR-qhdORtAg&oe=6AD8A507",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12231555,
       "valor_atual": 12231546,
-      "hash_anterior": "ffbcb82fe6852e9d8f17129c73124c4458bf3e5f6cbc77638c74d956b1fdfa8d",
-      "hash_atual": "5f5b2237f747e05061f2ea4198c7dbdc6ff721e49d2448964505a4317d4f0c27",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2110,15 +2125,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=GQ2GY-644vsQ7kNvwGvHJCk&_nc_oc=AdpGe56-owWyNgb3m0kOtWJXZFaPqEBU1KSEdEjAEDHITAwUALmDsxNWAs1J69IXRNi0_w_kDoTDI-j_ASBxFlh8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=r5FoqQ3pj4T5xg1-LInaUg&_nc_ss=70689&oh=00_AQP-js0MVxxGgMqyGa6fenrS26JUtDaRWZBhA-SQcyJtEQ&oe=6AD8A507"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=GQ2GY-644vsQ7kNvwGvHJCk&_nc_oc=AdpGe56-owWyNgb3m0kOtWJXZFaPqEBU1KSEdEjAEDHITAwUALmDsxNWAs1J69IXRNi0_w_kDoTDI-j_ASBxFlh8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=r5FoqQ3pj4T5xg1-LInaUg&_nc_ss=70689&oh=00_AQP-js0MVxxGgMqyGa6fenrS26JUtDaRWZBhA-SQcyJtEQ&oe=6AD8A507",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12232257,
       "valor_atual": 12231555,
-      "hash_anterior": "f79744f157e99742a292d4e8d985856772ec6c0d15f7569c205d1f48008789ce",
-      "hash_atual": "ffbcb82fe6852e9d8f17129c73124c4458bf3e5f6cbc77638c74d956b1fdfa8d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -702,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2145,15 +2161,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=GQ2GY-644vsQ7kNvwGvHJCk&_nc_oc=AdpGe56-owWyNgb3m0kOtWJXZFaPqEBU1KSEdEjAEDHITAwUALmDsxNWAs1J69IXRNi0_w_kDoTDI-j_ASBxFlh8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=r5FoqQ3pj4T5xg1-LInaUg&_nc_ss=70689&oh=00_AQP-js0MVxxGgMqyGa6fenrS26JUtDaRWZBhA-SQcyJtEQ&oe=6AD8A507"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=GQ2GY-644vsQ7kNvwGvHJCk&_nc_oc=AdpGe56-owWyNgb3m0kOtWJXZFaPqEBU1KSEdEjAEDHITAwUALmDsxNWAs1J69IXRNi0_w_kDoTDI-j_ASBxFlh8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=r5FoqQ3pj4T5xg1-LInaUg&_nc_ss=70689&oh=00_AQP-js0MVxxGgMqyGa6fenrS26JUtDaRWZBhA-SQcyJtEQ&oe=6AD8A507",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 200,
       "valor_atual": 201,
-      "hash_anterior": "f79744f157e99742a292d4e8d985856772ec6c0d15f7569c205d1f48008789ce",
-      "hash_atual": "ffbcb82fe6852e9d8f17129c73124c4458bf3e5f6cbc77638c74d956b1fdfa8d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2180,15 +2197,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bawv63F1So4TMZ3GwYHovA&_nc_ss=70689&oh=00_AQP1177Vqg-3sIIaws-9tPlM-yMn0i9BR5gTKXzlALlZKg&oe=6AD83487"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=bawv63F1So4TMZ3GwYHovA&_nc_ss=70689&oh=00_AQP1177Vqg-3sIIaws-9tPlM-yMn0i9BR5gTKXzlALlZKg&oe=6AD83487",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12232261,
       "valor_atual": 12232257,
-      "hash_anterior": "5dbe228c2ba742684764ef579695d5d6bfcbbf507313455cb05129932b89e10b",
-      "hash_atual": "f79744f157e99742a292d4e8d985856772ec6c0d15f7569c205d1f48008789ce",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2215,15 +2233,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LmZMF2gYTbFg-cfVWGD8-w&_nc_ss=70689&oh=00_AQN4TlLu9-APi5Pjeav0ASSgmAPL1TH78XXGgIbkjCnimQ&oe=6AD83487"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LmZMF2gYTbFg-cfVWGD8-w&_nc_ss=70689&oh=00_AQN4TlLu9-APi5Pjeav0ASSgmAPL1TH78XXGgIbkjCnimQ&oe=6AD83487",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12234525,
       "valor_atual": 12232261,
-      "hash_anterior": "035788d138852e7812ebb9dd49ad0d58da10d876166c9169339522a6e114670d",
-      "hash_atual": "5dbe228c2ba742684764ef579695d5d6bfcbbf507313455cb05129932b89e10b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2264,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2250,15 +2269,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LmZMF2gYTbFg-cfVWGD8-w&_nc_ss=70689&oh=00_AQN4TlLu9-APi5Pjeav0ASSgmAPL1TH78XXGgIbkjCnimQ&oe=6AD83487"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwEROnWS&_nc_oc=Adqn6ejBL-rim_q9avxzhStua3AWDBEcKlhvBTgFCWLhSOqgvBSLORjtzfweCLbsufHi7E66TGu4-Vy0MBHDc2ZZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LmZMF2gYTbFg-cfVWGD8-w&_nc_ss=70689&oh=00_AQN4TlLu9-APi5Pjeav0ASSgmAPL1TH78XXGgIbkjCnimQ&oe=6AD83487",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 197,
       "valor_atual": 200,
-      "hash_anterior": "035788d138852e7812ebb9dd49ad0d58da10d876166c9169339522a6e114670d",
-      "hash_atual": "5dbe228c2ba742684764ef579695d5d6bfcbbf507313455cb05129932b89e10b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2285,15 +2305,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFtN5SB&_nc_oc=AdotGM2Zw0FkZhAjJjWxa3-Hr1xZdnc7IkTvKnmOCBYqfk4Hm--zaPABbs05aG2rXQk3DyNHTsa0oFJQtFlqbrB6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Coy9HrTwRNVZUnslvNYbzg&_nc_ss=70689&oh=00_AQPq3YwciPuSHRKu2p-pmBAG3dpA9PgkKboucQN3un_RaQ&oe=6AD6AAC7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFtN5SB&_nc_oc=AdotGM2Zw0FkZhAjJjWxa3-Hr1xZdnc7IkTvKnmOCBYqfk4Hm--zaPABbs05aG2rXQk3DyNHTsa0oFJQtFlqbrB6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Coy9HrTwRNVZUnslvNYbzg&_nc_ss=70689&oh=00_AQPq3YwciPuSHRKu2p-pmBAG3dpA9PgkKboucQN3un_RaQ&oe=6AD6AAC7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12236040,
       "valor_atual": 12234525,
-      "hash_anterior": "68bc84d363c714287bc46f2f0d953dfe2c3e80fcf337924822b89051c02fff60",
-      "hash_atual": "035788d138852e7812ebb9dd49ad0d58da10d876166c9169339522a6e114670d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1515,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2320,15 +2341,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFtN5SB&_nc_oc=AdotGM2Zw0FkZhAjJjWxa3-Hr1xZdnc7IkTvKnmOCBYqfk4Hm--zaPABbs05aG2rXQk3DyNHTsa0oFJQtFlqbrB6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Coy9HrTwRNVZUnslvNYbzg&_nc_ss=70689&oh=00_AQPq3YwciPuSHRKu2p-pmBAG3dpA9PgkKboucQN3un_RaQ&oe=6AD6AAC7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFtN5SB&_nc_oc=AdotGM2Zw0FkZhAjJjWxa3-Hr1xZdnc7IkTvKnmOCBYqfk4Hm--zaPABbs05aG2rXQk3DyNHTsa0oFJQtFlqbrB6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Coy9HrTwRNVZUnslvNYbzg&_nc_ss=70689&oh=00_AQPq3YwciPuSHRKu2p-pmBAG3dpA9PgkKboucQN3un_RaQ&oe=6AD6AAC7",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 196,
       "valor_atual": 197,
-      "hash_anterior": "68bc84d363c714287bc46f2f0d953dfe2c3e80fcf337924822b89051c02fff60",
-      "hash_atual": "035788d138852e7812ebb9dd49ad0d58da10d876166c9169339522a6e114670d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2355,15 +2377,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFoh-qs&_nc_oc=Adp-1CDqV334YaJTCEO-BJ0bb4A0LuP7WnHL4XQ8Irhbqbt10T4-mTpmJ6Av33tpW0fsyACi8VTjhNKnImuX-psj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ShF5QZQY5H05KgQsCmSiqA&_nc_ss=70689&oh=00_AQPewldBGVjZd_cZylJ3QIux5V3Dz_tSUAjLT8YVRZQRvA&oe=6AD60207"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwFoh-qs&_nc_oc=Adp-1CDqV334YaJTCEO-BJ0bb4A0LuP7WnHL4XQ8Irhbqbt10T4-mTpmJ6Av33tpW0fsyACi8VTjhNKnImuX-psj&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ShF5QZQY5H05KgQsCmSiqA&_nc_ss=70689&oh=00_AQPewldBGVjZd_cZylJ3QIux5V3Dz_tSUAjLT8YVRZQRvA&oe=6AD60207",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12237725,
       "valor_atual": 12236040,
-      "hash_anterior": "3d93a688d0c9780ca83315520744170f0e3e5b023f90387bfab242dfa5697620",
-      "hash_atual": "68bc84d363c714287bc46f2f0d953dfe2c3e80fcf337924822b89051c02fff60",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1685,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2390,15 +2413,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE-q5D_&_nc_oc=AdqE6Fmq045aclfX60RGph4l2PWNr7g0_CUhFzqSpa-4oMyTSbL1jgZokJBwZb-YaJSFPDCIF-P8MH3cScJLKbfQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xKx9fK2KteJE3b7OV2uTpw&_nc_ss=70689&oh=00_AQN4_tsWHbBhPVgLlT687MC5Gf1h3tGFD3ob1pyCBVnLxw&oe=6AD55947"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE-q5D_&_nc_oc=AdqE6Fmq045aclfX60RGph4l2PWNr7g0_CUhFzqSpa-4oMyTSbL1jgZokJBwZb-YaJSFPDCIF-P8MH3cScJLKbfQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xKx9fK2KteJE3b7OV2uTpw&_nc_ss=70689&oh=00_AQN4_tsWHbBhPVgLlT687MC5Gf1h3tGFD3ob1pyCBVnLxw&oe=6AD55947",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12240701,
       "valor_atual": 12237725,
-      "hash_anterior": "f0156f5a83066587e83a04cb886581bc111ee3eed1ccc4227562ed8c29115477",
-      "hash_atual": "3d93a688d0c9780ca83315520744170f0e3e5b023f90387bfab242dfa5697620",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2976,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2425,15 +2449,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z3ySNJUE-0Sq1fG25Irygg&_nc_ss=70689&oh=00_AQPLiW9yROUmVEt6R8vxfZ2wSL4aalO3OFDjhbiTC-dpAQ&oe=6AD47847"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Z3ySNJUE-0Sq1fG25Irygg&_nc_ss=70689&oh=00_AQPLiW9yROUmVEt6R8vxfZ2wSL4aalO3OFDjhbiTC-dpAQ&oe=6AD47847",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12240756,
       "valor_atual": 12240701,
-      "hash_anterior": "c27afb8288cfa113f247f1f70b4783cabb32479e81b4af99fe313a807f7bc0ba",
-      "hash_atual": "f0156f5a83066587e83a04cb886581bc111ee3eed1ccc4227562ed8c29115477",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -55,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2460,15 +2485,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oKUwb6RLI4oct1GCHsqb_Q&_nc_ss=70689&oh=00_AQOGcFi9Qtw7yjSzPAhii0-VPWfkL0cLaMxMi-HdQBmK-g&oe=6AD47847"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oKUwb6RLI4oct1GCHsqb_Q&_nc_ss=70689&oh=00_AQOGcFi9Qtw7yjSzPAhii0-VPWfkL0cLaMxMi-HdQBmK-g&oe=6AD47847",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12240809,
       "valor_atual": 12240756,
-      "hash_anterior": "285c535bf4bb9c833fb622faf7223110e7f0c1ac5ecaafdddc0e1a81964ca23f",
-      "hash_atual": "c27afb8288cfa113f247f1f70b4783cabb32479e81b4af99fe313a807f7bc0ba",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -53,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2495,15 +2521,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oKUwb6RLI4oct1GCHsqb_Q&_nc_ss=70689&oh=00_AQOGcFi9Qtw7yjSzPAhii0-VPWfkL0cLaMxMi-HdQBmK-g&oe=6AD47847"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oKUwb6RLI4oct1GCHsqb_Q&_nc_ss=70689&oh=00_AQOGcFi9Qtw7yjSzPAhii0-VPWfkL0cLaMxMi-HdQBmK-g&oe=6AD47847",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 195,
       "valor_atual": 196,
-      "hash_anterior": "285c535bf4bb9c833fb622faf7223110e7f0c1ac5ecaafdddc0e1a81964ca23f",
-      "hash_atual": "c27afb8288cfa113f247f1f70b4783cabb32479e81b4af99fe313a807f7bc0ba",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2530,15 +2557,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eJnv9-o7zGalu7ThSsVtnA&_nc_ss=70689&oh=00_AQMGCnVa7qw7iK7vk8Pg-mPupYONWs8DBhbh9TLoysIbpA&oe=6AD44007"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eJnv9-o7zGalu7ThSsVtnA&_nc_ss=70689&oh=00_AQMGCnVa7qw7iK7vk8Pg-mPupYONWs8DBhbh9TLoysIbpA&oe=6AD44007",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12251180,
       "valor_atual": 12240809,
-      "hash_anterior": "f8e988801e7d839fa7bff08e75d326f0433ba25d350a56b7bcaefebbabb335e6",
-      "hash_atual": "285c535bf4bb9c833fb622faf7223110e7f0c1ac5ecaafdddc0e1a81964ca23f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -10371,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2565,15 +2593,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eJnv9-o7zGalu7ThSsVtnA&_nc_ss=70689&oh=00_AQMGCnVa7qw7iK7vk8Pg-mPupYONWs8DBhbh9TLoysIbpA&oe=6AD44007"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=Mj0MAFyBKRcQ7kNvwE7FJQS&_nc_oc=AdpJNhH11Mqb-RMKplJXe2EE7T-QcfK45FvrDJYbOpT-rAyBv3XP2S4Ek3hA4GGVL3WVBP8EtYDSw2MoYf1FaYa5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eJnv9-o7zGalu7ThSsVtnA&_nc_ss=70689&oh=00_AQMGCnVa7qw7iK7vk8Pg-mPupYONWs8DBhbh9TLoysIbpA&oe=6AD44007",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 196,
       "valor_atual": 195,
-      "hash_anterior": "f8e988801e7d839fa7bff08e75d326f0433ba25d350a56b7bcaefebbabb335e6",
-      "hash_atual": "285c535bf4bb9c833fb622faf7223110e7f0c1ac5ecaafdddc0e1a81964ca23f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2600,15 +2629,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=nwL5H809vZIQ7kNvwEp5bzl&_nc_oc=AdoV4EqshKEgO2z1zDRI9zzZysuCRQGXE338lmATIEwxKThXWVYcHWHy4cvwxd_PyRDqFxFi7ZGeeQiVBluWuAPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=q66NtePv3coVcH-AYjLsvQ&_nc_ss=70689&oh=00_AQMtKoM94JMR61XM6SMYZcsVZBFz8r6P-LQarBQnPSMbIQ&oe=6AD164C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=nwL5H809vZIQ7kNvwEp5bzl&_nc_oc=AdoV4EqshKEgO2z1zDRI9zzZysuCRQGXE338lmATIEwxKThXWVYcHWHy4cvwxd_PyRDqFxFi7ZGeeQiVBluWuAPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=q66NtePv3coVcH-AYjLsvQ&_nc_ss=70689&oh=00_AQMtKoM94JMR61XM6SMYZcsVZBFz8r6P-LQarBQnPSMbIQ&oe=6AD164C7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12252011,
       "valor_atual": 12251180,
-      "hash_anterior": "724020123b97684a8b8f1cefb10890ff6f5b904b86159121491cc68284803d32",
-      "hash_atual": "f8e988801e7d839fa7bff08e75d326f0433ba25d350a56b7bcaefebbabb335e6",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -831,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2635,15 +2665,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=nwL5H809vZIQ7kNvwEp5bzl&_nc_oc=AdoV4EqshKEgO2z1zDRI9zzZysuCRQGXE338lmATIEwxKThXWVYcHWHy4cvwxd_PyRDqFxFi7ZGeeQiVBluWuAPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=03AN2gP-uCrzEre4nDUAdA&_nc_ss=70689&oh=00_AQPlOwqRV_WrTqKKX6OpXatByqD--TLaho8L2pbQOqWf8Q&oe=6AD083C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=nwL5H809vZIQ7kNvwEp5bzl&_nc_oc=AdoV4EqshKEgO2z1zDRI9zzZysuCRQGXE338lmATIEwxKThXWVYcHWHy4cvwxd_PyRDqFxFi7ZGeeQiVBluWuAPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=03AN2gP-uCrzEre4nDUAdA&_nc_ss=70689&oh=00_AQPlOwqRV_WrTqKKX6OpXatByqD--TLaho8L2pbQOqWf8Q&oe=6AD083C7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12251991,
       "valor_atual": 12252011,
-      "hash_anterior": "a2a64d76e7fc4c1d0f81414355038f947b0d0b0e9f3a917e1d9180dec8bc3c58",
-      "hash_atual": "724020123b97684a8b8f1cefb10890ff6f5b904b86159121491cc68284803d32",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 20,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2670,15 +2701,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=nwL5H809vZIQ7kNvwEp5bzl&_nc_oc=AdoV4EqshKEgO2z1zDRI9zzZysuCRQGXE338lmATIEwxKThXWVYcHWHy4cvwxd_PyRDqFxFi7ZGeeQiVBluWuAPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xKVVWvCl3lxPTkgURnQbqg&_nc_ss=70689&oh=00_AQM8G2bY-h6EOQmG0MJmOpj6aGLlkV_fFp8-9o3isMrtTQ&oe=6AD04B87"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=nwL5H809vZIQ7kNvwEp5bzl&_nc_oc=AdoV4EqshKEgO2z1zDRI9zzZysuCRQGXE338lmATIEwxKThXWVYcHWHy4cvwxd_PyRDqFxFi7ZGeeQiVBluWuAPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xKVVWvCl3lxPTkgURnQbqg&_nc_ss=70689&oh=00_AQM8G2bY-h6EOQmG0MJmOpj6aGLlkV_fFp8-9o3isMrtTQ&oe=6AD04B87",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12252060,
       "valor_atual": 12251991,
-      "hash_anterior": "106357d65c85d771ff120b56c4faf7e5b70be4d0b8ed6a867f904bb59cbe0a99",
-      "hash_atual": "a2a64d76e7fc4c1d0f81414355038f947b0d0b0e9f3a917e1d9180dec8bc3c58",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -69,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2705,15 +2737,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFXGk8f&_nc_oc=AdqVkz9ykyp7GCEh5Nxfj7UsPGYzSaW4l-MVeS80G5OlJUqzU4_Sm2eyonA1a2JOuKPQr8daqJbp5DGDN_BQxaH4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qFP_He0nnjy0goPStVXYLg&_nc_ss=70689&oh=00_AQMyiZLrBat1q-zjA3mJ2ORRal_R7XlfX7hMoPHTULgiFQ&oe=6AD04B87"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFXGk8f&_nc_oc=AdqVkz9ykyp7GCEh5Nxfj7UsPGYzSaW4l-MVeS80G5OlJUqzU4_Sm2eyonA1a2JOuKPQr8daqJbp5DGDN_BQxaH4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=qFP_He0nnjy0goPStVXYLg&_nc_ss=70689&oh=00_AQMyiZLrBat1q-zjA3mJ2ORRal_R7XlfX7hMoPHTULgiFQ&oe=6AD04B87",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12252109,
       "valor_atual": 12252060,
-      "hash_anterior": "8e4a039f32a36674e0d6be341123c9d595d6fa7991553139c6a58357893d3b7d",
-      "hash_atual": "106357d65c85d771ff120b56c4faf7e5b70be4d0b8ed6a867f904bb59cbe0a99",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -49,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2740,15 +2773,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFXGk8f&_nc_oc=AdqVkz9ykyp7GCEh5Nxfj7UsPGYzSaW4l-MVeS80G5OlJUqzU4_Sm2eyonA1a2JOuKPQr8daqJbp5DGDN_BQxaH4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mri3TZZPpgvwLJIQl5hZNA&_nc_ss=70689&oh=00_AQOhER4pi9OYEvNBc6ndQILK1dgqEYVdpTEV0Iz0tOjAxA&oe=6AD04B87"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFXGk8f&_nc_oc=AdqVkz9ykyp7GCEh5Nxfj7UsPGYzSaW4l-MVeS80G5OlJUqzU4_Sm2eyonA1a2JOuKPQr8daqJbp5DGDN_BQxaH4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mri3TZZPpgvwLJIQl5hZNA&_nc_ss=70689&oh=00_AQOhER4pi9OYEvNBc6ndQILK1dgqEYVdpTEV0Iz0tOjAxA&oe=6AD04B87",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12253468,
       "valor_atual": 12252109,
-      "hash_anterior": "7f9c0223d3b03c243f863c78b938b7785bbedf0a9cde52cd478c033616f4db2a",
-      "hash_atual": "8e4a039f32a36674e0d6be341123c9d595d6fa7991553139c6a58357893d3b7d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1359,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2775,15 +2809,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFXGk8f&_nc_oc=AdqVkz9ykyp7GCEh5Nxfj7UsPGYzSaW4l-MVeS80G5OlJUqzU4_Sm2eyonA1a2JOuKPQr8daqJbp5DGDN_BQxaH4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mri3TZZPpgvwLJIQl5hZNA&_nc_ss=70689&oh=00_AQOhER4pi9OYEvNBc6ndQILK1dgqEYVdpTEV0Iz0tOjAxA&oe=6AD04B87"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFXGk8f&_nc_oc=AdqVkz9ykyp7GCEh5Nxfj7UsPGYzSaW4l-MVeS80G5OlJUqzU4_Sm2eyonA1a2JOuKPQr8daqJbp5DGDN_BQxaH4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Mri3TZZPpgvwLJIQl5hZNA&_nc_ss=70689&oh=00_AQOhER4pi9OYEvNBc6ndQILK1dgqEYVdpTEV0Iz0tOjAxA&oe=6AD04B87",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 195,
       "valor_atual": 196,
-      "hash_anterior": "7f9c0223d3b03c243f863c78b938b7785bbedf0a9cde52cd478c033616f4db2a",
-      "hash_atual": "8e4a039f32a36674e0d6be341123c9d595d6fa7991553139c6a58357893d3b7d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2810,15 +2845,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEurHwa&_nc_oc=Adr-gTBntQ-UUwUQ-6UQVQDSI77IpeZFXHeo3KopbvdcUloFhqnXbrMfKCBq1OJWy9bw6T0PoWMRzKXiWa0ZOlsk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=blIPO1ahu78clIlXnFg7gA&_nc_ss=70689&oh=00_AQMNLcDl8ZZWO6zNdGvn4IcMVwLPjV7RXof7yLyN3ymwfg&oe=6ACF6A87"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEurHwa&_nc_oc=Adr-gTBntQ-UUwUQ-6UQVQDSI77IpeZFXHeo3KopbvdcUloFhqnXbrMfKCBq1OJWy9bw6T0PoWMRzKXiWa0ZOlsk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=blIPO1ahu78clIlXnFg7gA&_nc_ss=70689&oh=00_AQMNLcDl8ZZWO6zNdGvn4IcMVwLPjV7RXof7yLyN3ymwfg&oe=6ACF6A87",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12253572,
       "valor_atual": 12253468,
-      "hash_anterior": "81c7dd42d7a97ed9c0a61eca2bb29eaedc596e85971a63c63785b8cf99b86f08",
-      "hash_atual": "7f9c0223d3b03c243f863c78b938b7785bbedf0a9cde52cd478c033616f4db2a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -104,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2845,15 +2881,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEurHwa&_nc_oc=Adr-gTBntQ-UUwUQ-6UQVQDSI77IpeZFXHeo3KopbvdcUloFhqnXbrMfKCBq1OJWy9bw6T0PoWMRzKXiWa0ZOlsk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DY7xIoLSECbYlCogKujypQ&_nc_ss=70689&oh=00_AQP--9YDXy2YSrbJ5uGvAuDu2qdIWyBOWf4HvbqcXxwWoQ&oe=6ACF6A87"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEurHwa&_nc_oc=Adr-gTBntQ-UUwUQ-6UQVQDSI77IpeZFXHeo3KopbvdcUloFhqnXbrMfKCBq1OJWy9bw6T0PoWMRzKXiWa0ZOlsk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DY7xIoLSECbYlCogKujypQ&_nc_ss=70689&oh=00_AQP--9YDXy2YSrbJ5uGvAuDu2qdIWyBOWf4HvbqcXxwWoQ&oe=6ACF6A87",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12254145,
       "valor_atual": 12253572,
-      "hash_anterior": "bc7b9d400d05c43861305b8503662cea05ba144efabbc908f725a84ad49235a0",
-      "hash_atual": "81c7dd42d7a97ed9c0a61eca2bb29eaedc596e85971a63c63785b8cf99b86f08",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -573,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2880,15 +2917,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFfUBi8&_nc_oc=AdrIJszBHywpA_rxCnPbHCxJKWsjbAWl-MMUBlSIxqJifLzi_05Ri7P46FaI26RSll5S4SxOhytJELWOzCNJROkE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wynEqBIoPgml8lLBp1SktQ&_nc_ss=70689&oh=00_AQMfyR-XbDFdvReR7X0pVHH3b4s0mPPCwZM3n12l4HLyFg&oe=6ACEC1C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFfUBi8&_nc_oc=AdrIJszBHywpA_rxCnPbHCxJKWsjbAWl-MMUBlSIxqJifLzi_05Ri7P46FaI26RSll5S4SxOhytJELWOzCNJROkE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wynEqBIoPgml8lLBp1SktQ&_nc_ss=70689&oh=00_AQMfyR-XbDFdvReR7X0pVHH3b4s0mPPCwZM3n12l4HLyFg&oe=6ACEC1C7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12254150,
       "valor_atual": 12254145,
-      "hash_anterior": "3b0556536898007d6df4a56912e170a46c4b6589e242457a1db080c089d18ef2",
-      "hash_atual": "bc7b9d400d05c43861305b8503662cea05ba144efabbc908f725a84ad49235a0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2915,15 +2953,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFfUBi8&_nc_oc=AdrIJszBHywpA_rxCnPbHCxJKWsjbAWl-MMUBlSIxqJifLzi_05Ri7P46FaI26RSll5S4SxOhytJELWOzCNJROkE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cFJGDXgfMbki3VCypir1IQ&_nc_ss=70689&oh=00_AQMEPQ_7ByfMG3yXnr15xsqZy5KmeMIRXgeIvZtuQ2MqPQ&oe=6ACEC1C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwFfUBi8&_nc_oc=AdrIJszBHywpA_rxCnPbHCxJKWsjbAWl-MMUBlSIxqJifLzi_05Ri7P46FaI26RSll5S4SxOhytJELWOzCNJROkE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cFJGDXgfMbki3VCypir1IQ&_nc_ss=70689&oh=00_AQMEPQ_7ByfMG3yXnr15xsqZy5KmeMIRXgeIvZtuQ2MqPQ&oe=6ACEC1C7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12255297,
       "valor_atual": 12254150,
-      "hash_anterior": "87226cffb784b6dd71795866ef7a1963dc6f901d8946a240190cd3bb1f05d80e",
-      "hash_atual": "3b0556536898007d6df4a56912e170a46c4b6589e242457a1db080c089d18ef2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1147,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2950,15 +2989,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEdFmNX&_nc_oc=AdpyrRSQDkvdAd_JEKfezr6Qh3vzjOhhpX-JwHZk66FM6cWN0_xP16V0-ZYmHrWVmqywb9-y7xGCToDZQxH_s4es&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=feFe__RbJkq3Kpp_79VJQA&_nc_ss=70689&oh=00_AQNxUHS10mscmqJ-45Zu4ywUnq63EftYe0feBo7d_ikVjg&oe=6ACDE0C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEdFmNX&_nc_oc=AdpyrRSQDkvdAd_JEKfezr6Qh3vzjOhhpX-JwHZk66FM6cWN0_xP16V0-ZYmHrWVmqywb9-y7xGCToDZQxH_s4es&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=feFe__RbJkq3Kpp_79VJQA&_nc_ss=70689&oh=00_AQNxUHS10mscmqJ-45Zu4ywUnq63EftYe0feBo7d_ikVjg&oe=6ACDE0C7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12255293,
       "valor_atual": 12255297,
-      "hash_anterior": "cc15beddfde05c155c55b634266b262eaef8c1d30f5aa74b75f7f19d0591e2c2",
-      "hash_atual": "87226cffb784b6dd71795866ef7a1963dc6f901d8946a240190cd3bb1f05d80e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2985,15 +3025,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEdFmNX&_nc_oc=AdpyrRSQDkvdAd_JEKfezr6Qh3vzjOhhpX-JwHZk66FM6cWN0_xP16V0-ZYmHrWVmqywb9-y7xGCToDZQxH_s4es&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vua6SYjSYIW678Um7JOXoQ&_nc_ss=70689&oh=00_AQPtG7fATRUWT08Z3ASizB1YOUN5lHIDaKvEaGxH513H-A&oe=6ACDE0C7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwEdFmNX&_nc_oc=AdpyrRSQDkvdAd_JEKfezr6Qh3vzjOhhpX-JwHZk66FM6cWN0_xP16V0-ZYmHrWVmqywb9-y7xGCToDZQxH_s4es&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vua6SYjSYIW678Um7JOXoQ&_nc_ss=70689&oh=00_AQPtG7fATRUWT08Z3ASizB1YOUN5lHIDaKvEaGxH513H-A&oe=6ACDE0C7",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12258252,
       "valor_atual": 12255293,
-      "hash_anterior": "3e64b09fab6ed426cc068b0374bbce7a65fa9cc0e2c2c9120e7b229c3adebc1e",
-      "hash_atual": "cc15beddfde05c155c55b634266b262eaef8c1d30f5aa74b75f7f19d0591e2c2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2959,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3020,15 +3061,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwGtznkJ&_nc_oc=Adru-LKryouhPtJE7lOwc4ldMldXsIQSQzbKaFMqRaB_R2EHtcXlnIz_qwg73OJ7zNtjws3n3udk15GnTqvzNHsz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TXHUFbuUwVrTMnt9jb3Cxw&_nc_ss=70689&oh=00_AQNFoVwfc_wrKjcOptj79EWTGynPV8KAK90b_GQHFqxgMQ&oe=6ACD7047"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwGtznkJ&_nc_oc=Adru-LKryouhPtJE7lOwc4ldMldXsIQSQzbKaFMqRaB_R2EHtcXlnIz_qwg73OJ7zNtjws3n3udk15GnTqvzNHsz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TXHUFbuUwVrTMnt9jb3Cxw&_nc_ss=70689&oh=00_AQNFoVwfc_wrKjcOptj79EWTGynPV8KAK90b_GQHFqxgMQ&oe=6ACD7047",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12258255,
       "valor_atual": 12258252,
-      "hash_anterior": "bb2bf99d0e4d8574a6e4c86424440bed73fcfd99c2f3c92916fef17da0c97922",
-      "hash_atual": "3e64b09fab6ed426cc068b0374bbce7a65fa9cc0e2c2c9120e7b229c3adebc1e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3055,15 +3097,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwGtznkJ&_nc_oc=Adru-LKryouhPtJE7lOwc4ldMldXsIQSQzbKaFMqRaB_R2EHtcXlnIz_qwg73OJ7zNtjws3n3udk15GnTqvzNHsz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rszJd7Bl7rpNS75YgSxJEQ&_nc_ss=70689&oh=00_AQPOMjiF9rMGpjl20bShFR7MfBJranmcLhvWNXo_N9wooQ&oe=6ACD7047"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwGtznkJ&_nc_oc=Adru-LKryouhPtJE7lOwc4ldMldXsIQSQzbKaFMqRaB_R2EHtcXlnIz_qwg73OJ7zNtjws3n3udk15GnTqvzNHsz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rszJd7Bl7rpNS75YgSxJEQ&_nc_ss=70689&oh=00_AQPOMjiF9rMGpjl20bShFR7MfBJranmcLhvWNXo_N9wooQ&oe=6ACD7047",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12259286,
       "valor_atual": 12258255,
-      "hash_anterior": "28e3ebbb329956bf29e7ce1a87585ccae2b1532abdacf6b9fd3df4e0dcc95608",
-      "hash_atual": "bb2bf99d0e4d8574a6e4c86424440bed73fcfd99c2f3c92916fef17da0c97922",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1031,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3090,15 +3133,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0uNCRwFsCB1ds3eN7GIVdQ&_nc_ss=70689&oh=00_AQMYHROhRIiqDK0VDd8K29NBbVIoRBWmIV17hIOeA_K1cQ&oe=6ACC8F47"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0uNCRwFsCB1ds3eN7GIVdQ&_nc_ss=70689&oh=00_AQMYHROhRIiqDK0VDd8K29NBbVIoRBWmIV17hIOeA_K1cQ&oe=6ACC8F47",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12259281,
       "valor_atual": 12259286,
-      "hash_anterior": "184e02b7c6458c99b002eb54aeb28803f6e1a7bdc00122dee8ad9e32fecb4aec",
-      "hash_atual": "28e3ebbb329956bf29e7ce1a87585ccae2b1532abdacf6b9fd3df4e0dcc95608",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3125,15 +3169,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YnkG7-9yggvXvi_by5tbbg&_nc_ss=70689&oh=00_AQMas1nKrbFUE-7vDnuJr6BQyAeO5B9n2MZBjjHBA4CGEQ&oe=6ACC8F47"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YnkG7-9yggvXvi_by5tbbg&_nc_ss=70689&oh=00_AQMas1nKrbFUE-7vDnuJr6BQyAeO5B9n2MZBjjHBA4CGEQ&oe=6ACC8F47",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12259272,
       "valor_atual": 12259281,
-      "hash_anterior": "812ad9ab1028721c856caca19bbe8d383f8a641a4c52cb39e9a14b82f75f45ca",
-      "hash_atual": "184e02b7c6458c99b002eb54aeb28803f6e1a7bdc00122dee8ad9e32fecb4aec",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3160,15 +3205,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CoCAqbM56Ekv_bbdJKADRQ&_nc_ss=70689&oh=00_AQM0nn0XFy0QiVQ4jF_YzZJv7j0KhgwXhOShaJGiJQUenw&oe=6ACC8F47"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CoCAqbM56Ekv_bbdJKADRQ&_nc_ss=70689&oh=00_AQM0nn0XFy0QiVQ4jF_YzZJv7j0KhgwXhOShaJGiJQUenw&oe=6ACC8F47",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12259277,
       "valor_atual": 12259272,
-      "hash_anterior": "21f6a51601f12039eea81a9526b63ee1c0cc394bce19f4d8d48b4e73421d748e",
-      "hash_atual": "812ad9ab1028721c856caca19bbe8d383f8a641a4c52cb39e9a14b82f75f45ca",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3195,15 +3241,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IIVrHUdo8zAme4ovOSTsQ&_nc_ss=70689&oh=00_AQObZvPo-iCtXzt75BvMBMhk8I3DEKBRmdBUgJg-odTlzQ&oe=6ACC8F47"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IIVrHUdo8zAme4ovOSTsQ&_nc_ss=70689&oh=00_AQObZvPo-iCtXzt75BvMBMhk8I3DEKBRmdBUgJg-odTlzQ&oe=6ACC8F47",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12260328,
       "valor_atual": 12259277,
-      "hash_anterior": "1bd09c11408da8c6227a99ea5c9723ae7652fe47914a2d61d5367e65c44c6b6e",
-      "hash_atual": "21f6a51601f12039eea81a9526b63ee1c0cc394bce19f4d8d48b4e73421d748e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1051,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3230,15 +3277,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IIVrHUdo8zAme4ovOSTsQ&_nc_ss=70689&oh=00_AQObZvPo-iCtXzt75BvMBMhk8I3DEKBRmdBUgJg-odTlzQ&oe=6ACC8F47"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=gza5PsTeVyMQ7kNvwE-Dz0N&_nc_oc=AdrG1ZWBiKAxb-7rj4pbm8xzL16zuT-74sp-IdMBKDnGuOnIKYMoiUpO3pQ4Fyz-LqP5fUUN1XSmUG56kBOf4VYN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IIVrHUdo8zAme4ovOSTsQ&_nc_ss=70689&oh=00_AQObZvPo-iCtXzt75BvMBMhk8I3DEKBRmdBUgJg-odTlzQ&oe=6ACC8F47",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 191,
       "valor_atual": 195,
-      "hash_anterior": "1bd09c11408da8c6227a99ea5c9723ae7652fe47914a2d61d5367e65c44c6b6e",
-      "hash_atual": "21f6a51601f12039eea81a9526b63ee1c0cc394bce19f4d8d48b4e73421d748e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3265,15 +3313,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=D6q4DH4qloKo5oHVV50TqQ&_nc_ss=70689&oh=00_AQN8mnE4-ysFft0YEJVfkkiw1B9vJQPwvppHPjlMTzMBFA&oe=6ACC5707"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=D6q4DH4qloKo5oHVV50TqQ&_nc_ss=70689&oh=00_AQN8mnE4-ysFft0YEJVfkkiw1B9vJQPwvppHPjlMTzMBFA&oe=6ACC5707",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12260327,
       "valor_atual": 12260328,
-      "hash_anterior": "58f66ccb6504cae2bd305024fc635c2b9e5a6f64bdd46ce1f56ea5c5854e4dc9",
-      "hash_atual": "1bd09c11408da8c6227a99ea5c9723ae7652fe47914a2d61d5367e65c44c6b6e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3300,15 +3349,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=88snaZUsjCQw1u1GKXIijA&_nc_ss=70689&oh=00_AQPOn0XKI9sqMTTxwBTd7zGr8rbAcYOFo0L_zsmgJENtWQ&oe=6ACC5707"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=88snaZUsjCQw1u1GKXIijA&_nc_ss=70689&oh=00_AQPOn0XKI9sqMTTxwBTd7zGr8rbAcYOFo0L_zsmgJENtWQ&oe=6ACC5707",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12260328,
       "valor_atual": 12260327,
-      "hash_anterior": "1bd09c11408da8c6227a99ea5c9723ae7652fe47914a2d61d5367e65c44c6b6e",
-      "hash_atual": "58f66ccb6504cae2bd305024fc635c2b9e5a6f64bdd46ce1f56ea5c5854e4dc9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3335,15 +3385,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0tvNscUflZb6vtMoSywRXw&_nc_ss=70689&oh=00_AQNIUzNIqRv_qouLrIGaNvts1GvH3EdmPaZG13xTbsBSzg&oe=6ACC5707"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0tvNscUflZb6vtMoSywRXw&_nc_ss=70689&oh=00_AQNIUzNIqRv_qouLrIGaNvts1GvH3EdmPaZG13xTbsBSzg&oe=6ACC5707",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12260329,
       "valor_atual": 12260328,
-      "hash_anterior": "0a44821c36ea4ff8b8bcfbde82949f08bce72ec63ec15e786da42d5abeb06c9a",
-      "hash_atual": "1bd09c11408da8c6227a99ea5c9723ae7652fe47914a2d61d5367e65c44c6b6e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3370,15 +3421,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YEcU1Hp_fp9dR9Kkydboqw&_nc_ss=70689&oh=00_AQO2SNTATw592PGu9ZLIcLava7AjSYlZWengWtcXuKVD2w&oe=6ACC5707"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YEcU1Hp_fp9dR9Kkydboqw&_nc_ss=70689&oh=00_AQO2SNTATw592PGu9ZLIcLava7AjSYlZWengWtcXuKVD2w&oe=6ACC5707",
+        "total_posts": 57
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261263,
       "valor_atual": 12260329,
-      "hash_anterior": "fdbc8846e90fa912b024efb7e8d3128f9d2eda8aa542179446253f5ec27a6aaa",
-      "hash_atual": "0a44821c36ea4ff8b8bcfbde82949f08bce72ec63ec15e786da42d5abeb06c9a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -934,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3405,15 +3457,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YEcU1Hp_fp9dR9Kkydboqw&_nc_ss=70689&oh=00_AQO2SNTATw592PGu9ZLIcLava7AjSYlZWengWtcXuKVD2w&oe=6ACC5707"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YEcU1Hp_fp9dR9Kkydboqw&_nc_ss=70689&oh=00_AQO2SNTATw592PGu9ZLIcLava7AjSYlZWengWtcXuKVD2w&oe=6ACC5707",
+        "total_posts": 57
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 188,
       "valor_atual": 191,
-      "hash_anterior": "fdbc8846e90fa912b024efb7e8d3128f9d2eda8aa542179446253f5ec27a6aaa",
-      "hash_atual": "0a44821c36ea4ff8b8bcfbde82949f08bce72ec63ec15e786da42d5abeb06c9a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3440,15 +3493,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YEcU1Hp_fp9dR9Kkydboqw&_nc_ss=70689&oh=00_AQO2SNTATw592PGu9ZLIcLava7AjSYlZWengWtcXuKVD2w&oe=6ACC5707"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwG8GOBC&_nc_oc=AdoRtiEYlI4o9_TB93jTVrnVTb-txjh1OSq54C0dGIRg3T1HjtpaRdqRGp9cvpH7IctxLopSHe-QFfxRoiGuvYhe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YEcU1Hp_fp9dR9Kkydboqw&_nc_ss=70689&oh=00_AQO2SNTATw592PGu9ZLIcLava7AjSYlZWengWtcXuKVD2w&oe=6ACC5707",
+        "total_posts": 57
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 58,
       "valor_atual": 57,
-      "hash_anterior": "fdbc8846e90fa912b024efb7e8d3128f9d2eda8aa542179446253f5ec27a6aaa",
-      "hash_atual": "0a44821c36ea4ff8b8bcfbde82949f08bce72ec63ec15e786da42d5abeb06c9a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3459,7 +3513,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 1 post",
+      "titulo": "Removeu 1 publicação",
       "descricao": "O total mudou de 58 para 57",
       "variacao_texto": "-1 post"
     },
@@ -3475,15 +3529,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=l7FWajnPSzGxA7l3MKPsYA&_nc_ss=70689&oh=00_AQNcoN1HxsJKzaTC1k5rSAUgU0w57kcHKz1e0To2bb_jQQ&oe=6ACB7607"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=l7FWajnPSzGxA7l3MKPsYA&_nc_ss=70689&oh=00_AQNcoN1HxsJKzaTC1k5rSAUgU0w57kcHKz1e0To2bb_jQQ&oe=6ACB7607",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261383,
       "valor_atual": 12261263,
-      "hash_anterior": "c75c565885532aa36102708e06775c355e757ff0f0ff8108bc922165818891cc",
-      "hash_atual": "fdbc8846e90fa912b024efb7e8d3128f9d2eda8aa542179446253f5ec27a6aaa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -120,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3510,15 +3565,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x4w_huVtnfWsz4yMuKO9Sw&_nc_ss=70689&oh=00_AQPKRfVoIJZ9aVOKvrAAyOhKEBR3JyS12x6RN3mkEz_lwA&oe=6ACB7607"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=x4w_huVtnfWsz4yMuKO9Sw&_nc_ss=70689&oh=00_AQPKRfVoIJZ9aVOKvrAAyOhKEBR3JyS12x6RN3mkEz_lwA&oe=6ACB7607",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261436,
       "valor_atual": 12261383,
-      "hash_anterior": "4ff5c47312a292338b3d4b25347571e302032203d90a0b320fe62e039f44ad9f",
-      "hash_atual": "c75c565885532aa36102708e06775c355e757ff0f0ff8108bc922165818891cc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -53,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3545,15 +3601,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=m_hJhEcCw7wHdujqqvmtIQ&_nc_ss=70689&oh=00_AQMmH_kmr-U1tjic6Du-bzK3-cMbQN-KKgpJTYnIoSTRtA&oe=6ACB7607"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=m_hJhEcCw7wHdujqqvmtIQ&_nc_ss=70689&oh=00_AQMmH_kmr-U1tjic6Du-bzK3-cMbQN-KKgpJTYnIoSTRtA&oe=6ACB7607",
+        "total_posts": 58
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261501,
       "valor_atual": 12261436,
-      "hash_anterior": "4a73822de2174c184e3f4aab665ec399aff43cf9c104c9c0073ac6d8573d153c",
-      "hash_atual": "4ff5c47312a292338b3d4b25347571e302032203d90a0b320fe62e039f44ad9f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -65,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3580,15 +3637,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=m_hJhEcCw7wHdujqqvmtIQ&_nc_ss=70689&oh=00_AQMmH_kmr-U1tjic6Du-bzK3-cMbQN-KKgpJTYnIoSTRtA&oe=6ACB7607"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=m_hJhEcCw7wHdujqqvmtIQ&_nc_ss=70689&oh=00_AQMmH_kmr-U1tjic6Du-bzK3-cMbQN-KKgpJTYnIoSTRtA&oe=6ACB7607",
+        "total_posts": 58
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 60,
       "valor_atual": 58,
-      "hash_anterior": "4a73822de2174c184e3f4aab665ec399aff43cf9c104c9c0073ac6d8573d153c",
-      "hash_atual": "4ff5c47312a292338b3d4b25347571e302032203d90a0b320fe62e039f44ad9f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3599,7 +3657,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 2 posts",
+      "titulo": "Removeu 2 publicações",
       "descricao": "O total mudou de 60 para 58",
       "variacao_texto": "-2 posts"
     },
@@ -3615,15 +3673,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TsljfQ11lJ8K9tyAG3sRBQ&_nc_ss=70689&oh=00_AQOdN-ONSHXudhRW-fEI7GEDTDn8LzXLgmC0Q_VdarYbKA&oe=6ACB3DC7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TsljfQ11lJ8K9tyAG3sRBQ&_nc_ss=70689&oh=00_AQOdN-ONSHXudhRW-fEI7GEDTDn8LzXLgmC0Q_VdarYbKA&oe=6ACB3DC7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261493,
       "valor_atual": 12261501,
-      "hash_anterior": "9856d3705564d45c40a15c3b581a8582ac22d716ce55ef995e2b9f83cc029c35",
-      "hash_atual": "4a73822de2174c184e3f4aab665ec399aff43cf9c104c9c0073ac6d8573d153c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3650,15 +3709,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eC2rz-K7Jjb2PtWkrSsTwQ&_nc_ss=70689&oh=00_AQOCqJ-Ph3rjiKdElOAIF7OGnL4pJhBb3kRNZ2qOuNItHw&oe=6ACB3DC7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eC2rz-K7Jjb2PtWkrSsTwQ&_nc_ss=70689&oh=00_AQOCqJ-Ph3rjiKdElOAIF7OGnL4pJhBb3kRNZ2qOuNItHw&oe=6ACB3DC7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261487,
       "valor_atual": 12261493,
-      "hash_anterior": "ec12367a9fe6d4ae4ee8928de893fefb6a9ec52ed0c88d04aa5f330f49051e34",
-      "hash_atual": "9856d3705564d45c40a15c3b581a8582ac22d716ce55ef995e2b9f83cc029c35",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3685,15 +3745,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eXm0nILlezGAEuPVYkkt8Q&_nc_ss=70689&oh=00_AQOkHPpxcsFki2XTQiK7hmWD1tA4PqRQNdMnNNZJ-VnojA&oe=6ACB3DC7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwEe6MfN&_nc_oc=AdoglbL5FN2KfLjjHaqjUHqUZokBL2ZnPHXQD6bPaA1wDG9bn9vZn2wu4vScMHO6qv3H_Oau6zC67CPHSw8wZyRV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eXm0nILlezGAEuPVYkkt8Q&_nc_ss=70689&oh=00_AQOkHPpxcsFki2XTQiK7hmWD1tA4PqRQNdMnNNZJ-VnojA&oe=6ACB3DC7",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12261622,
       "valor_atual": 12261487,
-      "hash_anterior": "96ef6ce3b1f75bebdb098a23d0cdb1aad2fbb370cd255cd97ffd35ffbee8b72c",
-      "hash_atual": "ec12367a9fe6d4ae4ee8928de893fefb6a9ec52ed0c88d04aa5f330f49051e34",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -135,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3720,15 +3781,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwHrO_op&_nc_oc=AdpPyhfunwKFND3O92QhdHRCMwtcZfOj_JwD6RRrn8W2Gk2fq1e3U_HGFzdrpTMH2-IXfxFGw3nFEy3rNAgGnQWD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N4HS4TdgHOqSXn5cJ1f4mQ&_nc_ss=70689&oh=00_AQN8OZaZNBI6y0r8XhRo06pTESQtkEOayD3SnsfRGi0Kbw&oe=6ACB0587"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwHrO_op&_nc_oc=AdpPyhfunwKFND3O92QhdHRCMwtcZfOj_JwD6RRrn8W2Gk2fq1e3U_HGFzdrpTMH2-IXfxFGw3nFEy3rNAgGnQWD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N4HS4TdgHOqSXn5cJ1f4mQ&_nc_ss=70689&oh=00_AQN8OZaZNBI6y0r8XhRo06pTESQtkEOayD3SnsfRGi0Kbw&oe=6ACB0587",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12263900,
       "valor_atual": 12261622,
-      "hash_anterior": "afbd59013bd4bd189e3b03ca7aa5fde6cf29683e537cf3d07f65106f30827c63",
-      "hash_atual": "96ef6ce3b1f75bebdb098a23d0cdb1aad2fbb370cd255cd97ffd35ffbee8b72c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2278,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3755,49 +3817,16 @@
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwGLZpMH&_nc_oc=AdqW5P4LBsugzshmTmmL4YTWOcHhuKel7tkHduUY5TTAHOZKQViKIxRQgTDsSMpc6CbcBOgfrXPkSbUS5BxvobFU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zGBjEQzHgVY6DOr7_bJjDw&_nc_ss=70689&oh=00_AQMcY64_YU8HUgjG7a6AgEPKNa6SvO-RCz0r0ZwJ8kXLDQ&oe=6ACA2487"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "cantores",
-      "valor_atual": "cantor",
-      "hash_anterior": "fc621c06b936453a0282e14c84b33b753d69fd7696218203c5af10eb08282cb9",
-      "hash_atual": "afbd59013bd4bd189e3b03ca7aa5fde6cf29683e537cf3d07f65106f30827c63",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 621.951812,
-        "texto": "10 minutos e 21 segundos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 621.951812,
-        "texto": "10 minutos e 21 segundos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"cantores\" para \"cantor\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-05T20:56:09.812724",
-      "timestamp_anterior": "2026-10-05T20:45:47.860912",
-      "timestamp_atual": "2026-10-05T20:56:09.812724",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "cantor",
-        "pk": 516512039,
-        "id": "17841400961178070",
-        "username": "mccabelinho",
-        "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwGLZpMH&_nc_oc=AdqW5P4LBsugzshmTmmL4YTWOcHhuKel7tkHduUY5TTAHOZKQViKIxRQgTDsSMpc6CbcBOgfrXPkSbUS5BxvobFU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zGBjEQzHgVY6DOr7_bJjDw&_nc_ss=70689&oh=00_AQMcY64_YU8HUgjG7a6AgEPKNa6SvO-RCz0r0ZwJ8kXLDQ&oe=6ACA2487"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwGLZpMH&_nc_oc=AdqW5P4LBsugzshmTmmL4YTWOcHhuKel7tkHduUY5TTAHOZKQViKIxRQgTDsSMpc6CbcBOgfrXPkSbUS5BxvobFU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zGBjEQzHgVY6DOr7_bJjDw&_nc_ss=70689&oh=00_AQMcY64_YU8HUgjG7a6AgEPKNa6SvO-RCz0r0ZwJ8kXLDQ&oe=6ACA2487",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12263916,
       "valor_atual": 12263900,
-      "hash_anterior": "fc621c06b936453a0282e14c84b33b753d69fd7696218203c5af10eb08282cb9",
-      "hash_atual": "afbd59013bd4bd189e3b03ca7aa5fde6cf29683e537cf3d07f65106f30827c63",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -16,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3805,8 +3834,8 @@
         "texto": "10 minutos e 21 segundos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 0.0,
-        "texto": "0 segundos"
+        "segundos": 621.951812,
+        "texto": "10 minutos e 21 segundos"
       },
       "titulo": "Perdeu 16 seguidores",
       "descricao": "Os seguidores caíram de 12.263.916 para 12.263.900",
@@ -3819,20 +3848,21 @@
       "timestamp_atual": "2026-10-05T20:45:47.860912",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "cantores",
+        "categoria": "cantor",
         "pk": 516512039,
         "id": "17841400961178070",
         "username": "mccabelinho",
         "nome": "",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwGLZpMH&_nc_oc=AdqW5P4LBsugzshmTmmL4YTWOcHhuKel7tkHduUY5TTAHOZKQViKIxRQgTDsSMpc6CbcBOgfrXPkSbUS5BxvobFU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ElqlP-CYQz-MWPggyHuMSw&_nc_ss=70689&oh=00_AQPtZwCvHZi5duhKzsEz0pWXiR06i5JBR1897mHoxsUkgw&oe=6ACA2487"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/838782937_18633786577032040_8082073889308876625_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=_eYcG-W_QC0Q7kNvwGLZpMH&_nc_oc=AdqW5P4LBsugzshmTmmL4YTWOcHhuKel7tkHduUY5TTAHOZKQViKIxRQgTDsSMpc6CbcBOgfrXPkSbUS5BxvobFU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ElqlP-CYQz-MWPggyHuMSw&_nc_ss=70689&oh=00_AQPtZwCvHZi5duhKzsEz0pWXiR06i5JBR1897mHoxsUkgw&oe=6ACA2487",
+        "total_posts": 60
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 12263927,
       "valor_atual": 12263916,
-      "hash_anterior": "96316bed007c04d143f37b868ab7050198c4adf6b13f632bdbaa9dc7c5401fcc",
-      "hash_atual": "fc621c06b936453a0282e14c84b33b753d69fd7696218203c5af10eb08282cb9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3860,6 +3890,18 @@
     "tem_dados": true
   },
   "crescimento_seguidores": {
+    "1_dias": {
+      "variacao": -12394,
+      "direcao": "perdeu",
+      "quantidade": 12394,
+      "texto": "Perdeu 12394 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-30T20:14:33.535703",
+      "captura_fim": "2026-11-03T12:25:22.440275",
+      "seguidores_inicio": 12389080,
+      "seguidores_fim": 12376686
+    },
     "7_dias": {
       "variacao": -31789,
       "direcao": "perdeu",

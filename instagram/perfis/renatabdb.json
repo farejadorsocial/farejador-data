@@ -8,7 +8,8 @@
       "id": "17841400972000105",
       "username": "renatabdb",
       "nome": "Renata Del Bianco",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T7-PRyky2x_50jf-3-DPzw&_nc_ss=70689&oh=00_AQRDZboIRPA1_2_D3KMJTJm1XhQsx8K9A1aEruob-eBrvg&oe=6AEFCD35"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8LbocUM7iesQ7kNvwFkCy_C&_nc_oc=AdrOFulc77kDleKJr_2W59rdvmw55hUXua_WTk5HbCpBWegS7JG4QmRtAUgqNo5aFi2yHPglML6ZiPWmZCbOs-lk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypDYo5tV40z8wKOCc2Wo8A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSDaxjChR_LtbNUyn-Ko0JJD7gXuw6XfjQG4_UhxbVG1w&oe=6B05214C",
+      "total_posts": 2280
     },
     "biografia": [
       {
@@ -20,17 +21,24 @@
         "tipo": "inicial"
       }
     ],
-    "categoria": [
+    "links": [
       {
         "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "fazenda 2026",
-        "timestamp": "2026-10-05T19:14:19.137329",
-        "tipo": "inicial"
-      }
-    ],
-    "links": [
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [],
+        "valor_atual": [
+          {
+            "url": "https://record.r7.com/a-fazenda/a-fazenda-18/"
+          }
+        ],
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-11-19T16:26:43.032743",
+        "timestamp_anterior": "2026-10-30T20:12:13.273000",
+        "tempo_desde_anterior_segundos": 1714469
+      },
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -123,6 +131,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 149476,
+        "valor_atual": 150896,
+        "variacao": 1420,
+        "direcao": "aumento",
+        "descricao": "+1420 seguidores",
+        "timestamp": "2026-11-19T16:26:43.032743",
+        "timestamp_anterior": "2026-11-03T12:20:04.887770",
+        "tempo_desde_anterior_segundos": 1397198
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -742,11 +763,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 2253,
+        "valor_atual": 2280,
+        "variacao": 27,
+        "direcao": "aumento",
+        "descricao": "+27 publicações",
+        "timestamp": "2026-11-19T16:26:43.032743",
+        "timestamp_anterior": "2026-11-03T12:13:34.528928",
+        "tempo_desde_anterior_segundos": 1397588
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 2248,
         "valor_atual": 2253,
         "variacao": 5,
         "direcao": "aumento",
-        "descricao": "+5 posts",
+        "descricao": "+5 publicações",
         "timestamp": "2026-11-03T12:13:34.528928",
         "timestamp_anterior": "2026-10-30T20:12:13.273000",
         "tempo_desde_anterior_segundos": 316881
@@ -759,7 +793,7 @@
         "valor_atual": 2248,
         "variacao": 8,
         "direcao": "aumento",
-        "descricao": "+8 posts",
+        "descricao": "+8 publicações",
         "timestamp": "2026-10-30T20:12:13.273000",
         "timestamp_anterior": "2026-10-24T11:02:04.915697",
         "tempo_desde_anterior_segundos": 551408
@@ -772,7 +806,7 @@
         "valor_atual": 2240,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-24T11:02:04.915697",
         "timestamp_anterior": "2026-10-22T19:24:31.512597",
         "tempo_desde_anterior_segundos": 142653
@@ -785,7 +819,7 @@
         "valor_atual": 2239,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-22T19:24:31.512597",
         "timestamp_anterior": "2026-10-21T17:38:10.013494",
         "tempo_desde_anterior_segundos": 92781
@@ -798,7 +832,7 @@
         "valor_atual": 2236,
         "variacao": 9,
         "direcao": "aumento",
-        "descricao": "+9 posts",
+        "descricao": "+9 publicações",
         "timestamp": "2026-10-21T17:38:10.013494",
         "timestamp_anterior": "2026-10-16T23:25:46.677561",
         "tempo_desde_anterior_segundos": 411143
@@ -811,7 +845,7 @@
         "valor_atual": 2227,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-16T23:25:46.677561",
         "timestamp_anterior": "2026-10-16T13:56:07.976670",
         "tempo_desde_anterior_segundos": 34178
@@ -824,7 +858,7 @@
         "valor_atual": 2225,
         "variacao": -1,
         "direcao": "reducao",
-        "descricao": "-1 posts",
+        "descricao": "-1 publicações",
         "timestamp": "2026-10-16T13:56:07.976670",
         "timestamp_anterior": "2026-10-15T12:03:57.104225",
         "tempo_desde_anterior_segundos": 93130
@@ -837,7 +871,7 @@
         "valor_atual": 2226,
         "variacao": 6,
         "direcao": "aumento",
-        "descricao": "+6 posts",
+        "descricao": "+6 publicações",
         "timestamp": "2026-10-15T12:03:57.104225",
         "timestamp_anterior": "2026-10-15T00:25:29.066522",
         "tempo_desde_anterior_segundos": 41908
@@ -850,7 +884,7 @@
         "valor_atual": 2220,
         "variacao": 6,
         "direcao": "aumento",
-        "descricao": "+6 posts",
+        "descricao": "+6 publicações",
         "timestamp": "2026-10-15T00:25:29.066522",
         "timestamp_anterior": "2026-10-14T12:06:57.633402",
         "tempo_desde_anterior_segundos": 44311
@@ -863,7 +897,7 @@
         "valor_atual": 2214,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-14T12:06:57.633402",
         "timestamp_anterior": "2026-10-13T18:09:54.101714",
         "tempo_desde_anterior_segundos": 64623
@@ -876,7 +910,7 @@
         "valor_atual": 2213,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-13T18:09:54.101714",
         "timestamp_anterior": "2026-10-13T15:57:04.271287",
         "tempo_desde_anterior_segundos": 7969
@@ -889,7 +923,7 @@
         "valor_atual": 2212,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-13T15:57:04.271287",
         "timestamp_anterior": "2026-10-10T14:45:06.713799",
         "tempo_desde_anterior_segundos": 263517
@@ -902,7 +936,7 @@
         "valor_atual": 2209,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-10T14:45:06.713799",
         "timestamp_anterior": "2026-10-10T13:39:05.243814",
         "tempo_desde_anterior_segundos": 3961
@@ -915,7 +949,7 @@
         "valor_atual": 2208,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-10T13:39:05.243814",
         "timestamp_anterior": "2026-10-09T23:32:55.378773",
         "tempo_desde_anterior_segundos": 50769
@@ -928,7 +962,7 @@
         "valor_atual": 2207,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-09T23:32:55.378773",
         "timestamp_anterior": "2026-10-09T09:29:52.908818",
         "tempo_desde_anterior_segundos": 50582
@@ -941,7 +975,7 @@
         "valor_atual": 2206,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-09T09:29:52.908818",
         "timestamp_anterior": "2026-10-07T19:27:35.519757",
         "tempo_desde_anterior_segundos": 136937
@@ -954,7 +988,7 @@
         "valor_atual": 2204,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-07T19:27:35.519757",
         "timestamp_anterior": "2026-10-07T13:04:34.886548",
         "tempo_desde_anterior_segundos": 22980
@@ -967,7 +1001,7 @@
         "valor_atual": 2203,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-07T13:04:34.886548",
         "timestamp_anterior": "2026-10-06T23:55:04.395925",
         "tempo_desde_anterior_segundos": 47370
@@ -980,7 +1014,7 @@
         "valor_atual": 2202,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T23:55:04.395925",
         "timestamp_anterior": "2026-10-06T15:54:17.162719",
         "tempo_desde_anterior_segundos": 28847
@@ -993,7 +1027,7 @@
         "valor_atual": 2201,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-06T15:54:17.162719",
         "timestamp_anterior": "2026-10-05T19:14:19.137329",
         "tempo_desde_anterior_segundos": 74398
@@ -1036,9 +1070,130 @@
         "timestamp": "2026-10-05T19:14:19.137329",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "fazenda 2026",
+        "timestamp": "2026-10-05T19:14:19.137329",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:26:43.032743",
+      "timestamp_anterior": "2026-11-03T12:20:04.887770",
+      "timestamp_atual": "2026-11-19T16:26:43.032743",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6752400,
+        "id": "17841400972000105",
+        "username": "renatabdb",
+        "nome": "Renata Del Bianco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8LbocUM7iesQ7kNvwFkCy_C&_nc_oc=AdrOFulc77kDleKJr_2W59rdvmw55hUXua_WTk5HbCpBWegS7JG4QmRtAUgqNo5aFi2yHPglML6ZiPWmZCbOs-lk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypDYo5tV40z8wKOCc2Wo8A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSDaxjChR_LtbNUyn-Ko0JJD7gXuw6XfjQG4_UhxbVG1w&oe=6B05214C",
+        "total_posts": 2280
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [],
+      "valor_atual": [
+        {
+          "url": "https://record.r7.com/a-fazenda/a-fazenda-18/"
+        }
+      ],
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397198.144973,
+        "texto": "16 dias e 4 horas e 6 minutos e 38 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397198.144973,
+        "texto": "16 dias e 4 horas e 6 minutos e 38 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:26:43.032743",
+      "timestamp_anterior": "2026-11-03T12:20:04.887770",
+      "timestamp_atual": "2026-11-19T16:26:43.032743",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6752400,
+        "id": "17841400972000105",
+        "username": "renatabdb",
+        "nome": "Renata Del Bianco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8LbocUM7iesQ7kNvwFkCy_C&_nc_oc=AdrOFulc77kDleKJr_2W59rdvmw55hUXua_WTk5HbCpBWegS7JG4QmRtAUgqNo5aFi2yHPglML6ZiPWmZCbOs-lk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypDYo5tV40z8wKOCc2Wo8A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSDaxjChR_LtbNUyn-Ko0JJD7gXuw6XfjQG4_UhxbVG1w&oe=6B05214C",
+        "total_posts": 2280
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 149476,
+      "valor_atual": 150896,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 1420,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397198.144973,
+        "texto": "16 dias e 4 horas e 6 minutos e 38 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Ganhou 1.420 seguidores",
+      "descricao": "Os seguidores passaram de 149.476 para 150.896",
+      "variacao_texto": "+1.420 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:26:43.032743",
+      "timestamp_anterior": "2026-11-03T12:20:04.887770",
+      "timestamp_atual": "2026-11-19T16:26:43.032743",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6752400,
+        "id": "17841400972000105",
+        "username": "renatabdb",
+        "nome": "Renata Del Bianco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8LbocUM7iesQ7kNvwFkCy_C&_nc_oc=AdrOFulc77kDleKJr_2W59rdvmw55hUXua_WTk5HbCpBWegS7JG4QmRtAUgqNo5aFi2yHPglML6ZiPWmZCbOs-lk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ypDYo5tV40z8wKOCc2Wo8A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSDaxjChR_LtbNUyn-Ko0JJD7gXuw6XfjQG4_UhxbVG1w&oe=6B05214C",
+        "total_posts": 2280
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 2253,
+      "valor_atual": 2280,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 27,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397198.144973,
+        "texto": "16 dias e 4 horas e 6 minutos e 38 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 27 publicações",
+      "descricao": "O total mudou de 2.253 para 2.280",
+      "variacao_texto": "+27 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:20:04.887770",
@@ -1051,15 +1206,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T7-PRyky2x_50jf-3-DPzw&_nc_ss=70689&oh=00_AQRDZboIRPA1_2_D3KMJTJm1XhQsx8K9A1aEruob-eBrvg&oe=6AEFCD35"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T7-PRyky2x_50jf-3-DPzw&_nc_ss=70689&oh=00_AQRDZboIRPA1_2_D3KMJTJm1XhQsx8K9A1aEruob-eBrvg&oe=6AEFCD35",
+        "total_posts": 2253
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 149475,
       "valor_atual": 149476,
-      "hash_anterior": "263f6e19dbc5bfc63a2aca1bc814b50db754ddee3f75d12e1fafe9b9f968e2e4",
-      "hash_atual": "14756ae9414f31f69d28d11a7a5ddcc746156bd133fceaf2cd67274ba54aa86c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1086,15 +1242,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wIK_67sRgF5LyrVfbrA14Q&_nc_ss=70689&oh=00_AQS8pqxv0C62H8YyV1XEsI7N-vhXJmvqDaMhBSB6lNgJTw&oe=6AEFCD35"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wIK_67sRgF5LyrVfbrA14Q&_nc_ss=70689&oh=00_AQS8pqxv0C62H8YyV1XEsI7N-vhXJmvqDaMhBSB6lNgJTw&oe=6AEFCD35",
+        "total_posts": 2253
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 149128,
       "valor_atual": 149475,
-      "hash_anterior": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
-      "hash_atual": "263f6e19dbc5bfc63a2aca1bc814b50db754ddee3f75d12e1fafe9b9f968e2e4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 347,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1121,15 +1278,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wIK_67sRgF5LyrVfbrA14Q&_nc_ss=70689&oh=00_AQS8pqxv0C62H8YyV1XEsI7N-vhXJmvqDaMhBSB6lNgJTw&oe=6AEFCD35"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wIK_67sRgF5LyrVfbrA14Q&_nc_ss=70689&oh=00_AQS8pqxv0C62H8YyV1XEsI7N-vhXJmvqDaMhBSB6lNgJTw&oe=6AEFCD35",
+        "total_posts": 2253
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1729,
       "valor_atual": 1732,
-      "hash_anterior": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
-      "hash_atual": "263f6e19dbc5bfc63a2aca1bc814b50db754ddee3f75d12e1fafe9b9f968e2e4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1156,15 +1314,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wIK_67sRgF5LyrVfbrA14Q&_nc_ss=70689&oh=00_AQS8pqxv0C62H8YyV1XEsI7N-vhXJmvqDaMhBSB6lNgJTw&oe=6AEFCD35"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ig_cache_key=GO1qzjOR4EgFuj9CAK0E7GLCgkAjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=csazQ0zsgaEQ7kNvwHrJSqD&_nc_oc=AdrQOOAjovefFXpwWFCCalIhURzrbPJ973adBHxXvOKdsCrLeFBd3fTfyKAJBdB6KplNZ5jrxFpJJe7dbseg8ExY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wIK_67sRgF5LyrVfbrA14Q&_nc_ss=70689&oh=00_AQS8pqxv0C62H8YyV1XEsI7N-vhXJmvqDaMhBSB6lNgJTw&oe=6AEFCD35",
+        "total_posts": 2253
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2248,
       "valor_atual": 2253,
-      "hash_anterior": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
-      "hash_atual": "263f6e19dbc5bfc63a2aca1bc814b50db754ddee3f75d12e1fafe9b9f968e2e4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1175,7 +1334,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 5 posts",
+      "titulo": "Publicou 5 publicações",
       "descricao": "O total mudou de 2.248 para 2.253",
       "variacao_texto": "+5 posts"
     },
@@ -1191,7 +1350,8 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5",
+        "total_posts": 2248
       },
       "tipo": "links",
       "campo": "links",
@@ -1202,8 +1362,8 @@
         }
       ],
       "valor_atual": [],
-      "hash_anterior": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
-      "hash_atual": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1229,15 +1389,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5",
+        "total_posts": 2248
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148837,
       "valor_atual": 149128,
-      "hash_anterior": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
-      "hash_atual": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 291,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1264,15 +1425,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5",
+        "total_posts": 2248
       },
       "tipo": "total_destaques",
       "campo": "total_destaques",
       "nome_campo": "Total de Destaques",
       "valor_anterior": 1,
       "valor_atual": 2,
-      "hash_anterior": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
-      "hash_atual": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1299,15 +1461,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/869165805_18647416648032401_2540173961231860909_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XUWXT2XowVYQ7kNvwFQg-2q&_nc_oc=AdoeGBi55dMa8TQuhImm_T6V2uWn62hGZVcsywC89F_nQAdUas88PbFI04p57utWdEW2tfp4LpRRvSnGda5vnQSD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=CrcwKW8HJp46DjncGXWVAA&_nc_ss=70689&oh=00_AQT5nBFDUxfNUK0Q_sEsgombPkkVLA3wfTjZVmUKeQjbPQ&oe=6AEAF7B5",
+        "total_posts": 2248
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2240,
       "valor_atual": 2248,
-      "hash_anterior": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
-      "hash_atual": "3f91dfccc7bf674825cf8eedeeb93a931a3551de47b8d38390aa3010a611a596",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1318,7 +1481,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 8 posts",
+      "titulo": "Publicou 8 publicações",
       "descricao": "O total mudou de 2.240 para 2.248",
       "variacao_texto": "+8 posts"
     },
@@ -1334,15 +1497,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993",
+        "total_posts": 2240
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148757,
       "valor_atual": 148837,
-      "hash_anterior": "92e1473027841ddf2ef1955b851ecf0842a85022690cd648dd897dbe9ba045b1",
-      "hash_atual": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 80,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1369,15 +1533,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=xpVkrK9T_I4Q7kNvwFU8bnR&_nc_oc=Adr8jVoAyQQglfmNJiJyN3mt3UkYMkCbuRwGSmJapiI_nfCEnC2Y8KdEJi7mk2fy80Hw1dmRQOiYHBmnJUzFrm4W&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Aem7NIct37biLBmrKiQ2ew&_nc_ss=70689&oh=00_AQNOTthqZPJY1qO0aHNRewIwJ_QzfheyOUK8nfhqaRTCIw&oe=6AE29993",
+        "total_posts": 2240
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2239,
       "valor_atual": 2240,
-      "hash_anterior": "92e1473027841ddf2ef1955b851ecf0842a85022690cd648dd897dbe9ba045b1",
-      "hash_atual": "c0e32a86f96f30d6e52804e5a507b10b020f4e31835473187c8866b6898bd5e9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1388,7 +1553,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.239 para 2.240",
       "variacao_texto": "+1 post"
     },
@@ -1404,15 +1569,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwE2O5Di&_nc_oc=AdqCIxZ8u1PBYD40MLQYvf3oei3Dsh4hPRbJq4aHLs-MlmxrSPBakoOiu1NPhRyYDS-qK2IA-i5-pWp0xNIeQHdx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=58qhOXAisM90xWN43ksraw&_nc_ss=70689&oh=00_AQMWOWTt1WcoG-QWXFFlWHrHtcwLXB0i5IvTvqwEpVOazQ&oe=6AE14813"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwE2O5Di&_nc_oc=AdqCIxZ8u1PBYD40MLQYvf3oei3Dsh4hPRbJq4aHLs-MlmxrSPBakoOiu1NPhRyYDS-qK2IA-i5-pWp0xNIeQHdx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=58qhOXAisM90xWN43ksraw&_nc_ss=70689&oh=00_AQMWOWTt1WcoG-QWXFFlWHrHtcwLXB0i5IvTvqwEpVOazQ&oe=6AE14813",
+        "total_posts": 2239
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148700,
       "valor_atual": 148757,
-      "hash_anterior": "a0cb3ee857b7b50d992440a9e58dc75e516451ec8ae0556cd30adf233ae351e9",
-      "hash_atual": "92e1473027841ddf2ef1955b851ecf0842a85022690cd648dd897dbe9ba045b1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 57,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1439,15 +1605,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwH03pZV&_nc_oc=Adof0f-ue6ehm3UMjI_7VjJiNn9Y1zBP7cYh0zutRXSSC7ewlTbvoL46-Q3EiLmZr_7a0VY0wq0pIGcZAHT022q9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3sndr1vDhK2wYps-lxzftg&_nc_ss=70689&oh=00_AQNYrJc_Pfef00qzGWqf-HkkPZxoojFFqfmucXhfHJVg5g&oe=6AE06713"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwH03pZV&_nc_oc=Adof0f-ue6ehm3UMjI_7VjJiNn9Y1zBP7cYh0zutRXSSC7ewlTbvoL46-Q3EiLmZr_7a0VY0wq0pIGcZAHT022q9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3sndr1vDhK2wYps-lxzftg&_nc_ss=70689&oh=00_AQNYrJc_Pfef00qzGWqf-HkkPZxoojFFqfmucXhfHJVg5g&oe=6AE06713",
+        "total_posts": 2239
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148571,
       "valor_atual": 148700,
-      "hash_anterior": "fa5ff70ea8b09b6c1622b375f832b3c808a4a1d4fb7dcec9720b5ff242b20345",
-      "hash_atual": "a0cb3ee857b7b50d992440a9e58dc75e516451ec8ae0556cd30adf233ae351e9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 129,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1474,15 +1641,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwH03pZV&_nc_oc=Adof0f-ue6ehm3UMjI_7VjJiNn9Y1zBP7cYh0zutRXSSC7ewlTbvoL46-Q3EiLmZr_7a0VY0wq0pIGcZAHT022q9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3sndr1vDhK2wYps-lxzftg&_nc_ss=70689&oh=00_AQNYrJc_Pfef00qzGWqf-HkkPZxoojFFqfmucXhfHJVg5g&oe=6AE06713"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwH03pZV&_nc_oc=Adof0f-ue6ehm3UMjI_7VjJiNn9Y1zBP7cYh0zutRXSSC7ewlTbvoL46-Q3EiLmZr_7a0VY0wq0pIGcZAHT022q9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3sndr1vDhK2wYps-lxzftg&_nc_ss=70689&oh=00_AQNYrJc_Pfef00qzGWqf-HkkPZxoojFFqfmucXhfHJVg5g&oe=6AE06713",
+        "total_posts": 2239
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2236,
       "valor_atual": 2239,
-      "hash_anterior": "fa5ff70ea8b09b6c1622b375f832b3c808a4a1d4fb7dcec9720b5ff242b20345",
-      "hash_atual": "a0cb3ee857b7b50d992440a9e58dc75e516451ec8ae0556cd30adf233ae351e9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1493,7 +1661,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 2.236 para 2.239",
       "variacao_texto": "+3 posts"
     },
@@ -1509,15 +1677,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f4_Qi2lemUztyo2l4BsSnA&_nc_ss=70689&oh=00_AQNYhgJGwbMVaIktxw34Xpib819tiHZ1VL3m29hjAhgNQA&oe=6ADEDD53"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f4_Qi2lemUztyo2l4BsSnA&_nc_ss=70689&oh=00_AQNYhgJGwbMVaIktxw34Xpib819tiHZ1VL3m29hjAhgNQA&oe=6ADEDD53",
+        "total_posts": 2236
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148570,
       "valor_atual": 148571,
-      "hash_anterior": "1b171a143bceee32213f5a4caa9a76705a6c4f028ea7ba13b737806e639e7ce7",
-      "hash_atual": "fa5ff70ea8b09b6c1622b375f832b3c808a4a1d4fb7dcec9720b5ff242b20345",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1544,15 +1713,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SvZ_64wv5Zi6gqKn0kszqA&_nc_ss=70689&oh=00_AQOmzZyBO41YdpvumypOIWOjRnTyNkwfLTBrzgb1ma6mNg&oe=6ADEDD53"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SvZ_64wv5Zi6gqKn0kszqA&_nc_ss=70689&oh=00_AQOmzZyBO41YdpvumypOIWOjRnTyNkwfLTBrzgb1ma6mNg&oe=6ADEDD53",
+        "total_posts": 2236
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148230,
       "valor_atual": 148570,
-      "hash_anterior": "837baefef420eaac47072e555892ee708a12fb52c5e7efb098dffb20c79bf74e",
-      "hash_atual": "1b171a143bceee32213f5a4caa9a76705a6c4f028ea7ba13b737806e639e7ce7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 340,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1579,15 +1749,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SvZ_64wv5Zi6gqKn0kszqA&_nc_ss=70689&oh=00_AQOmzZyBO41YdpvumypOIWOjRnTyNkwfLTBrzgb1ma6mNg&oe=6ADEDD53"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SvZ_64wv5Zi6gqKn0kszqA&_nc_ss=70689&oh=00_AQOmzZyBO41YdpvumypOIWOjRnTyNkwfLTBrzgb1ma6mNg&oe=6ADEDD53",
+        "total_posts": 2236
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1730,
       "valor_atual": 1729,
-      "hash_anterior": "837baefef420eaac47072e555892ee708a12fb52c5e7efb098dffb20c79bf74e",
-      "hash_atual": "1b171a143bceee32213f5a4caa9a76705a6c4f028ea7ba13b737806e639e7ce7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1614,15 +1785,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SvZ_64wv5Zi6gqKn0kszqA&_nc_ss=70689&oh=00_AQOmzZyBO41YdpvumypOIWOjRnTyNkwfLTBrzgb1ma6mNg&oe=6ADEDD53"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jAyMWuCnnIgQ7kNvwF0ZOqC&_nc_oc=AdrGHg_JmJeQdlztfuXWkRo_gnsOzl0wA6HujNgDaYTmv-UH9JpT8m2bbdbpFuxQQwYRVYDyY2lMKkDS55ZJ6WQA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SvZ_64wv5Zi6gqKn0kszqA&_nc_ss=70689&oh=00_AQOmzZyBO41YdpvumypOIWOjRnTyNkwfLTBrzgb1ma6mNg&oe=6ADEDD53",
+        "total_posts": 2236
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2227,
       "valor_atual": 2236,
-      "hash_anterior": "837baefef420eaac47072e555892ee708a12fb52c5e7efb098dffb20c79bf74e",
-      "hash_atual": "1b171a143bceee32213f5a4caa9a76705a6c4f028ea7ba13b737806e639e7ce7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 9,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1633,7 +1805,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 9 posts",
+      "titulo": "Publicou 9 publicações",
       "descricao": "O total mudou de 2.227 para 2.236",
       "variacao_texto": "+9 posts"
     },
@@ -1649,15 +1821,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j5UE6ofTnvY2BspnzDh94w&_nc_ss=70689&oh=00_AQPMdeFLpoWZTPkdca-f70VVGv37G4zTD28EUs3ZerjurA&oe=6AD8B653"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j5UE6ofTnvY2BspnzDh94w&_nc_ss=70689&oh=00_AQPMdeFLpoWZTPkdca-f70VVGv37G4zTD28EUs3ZerjurA&oe=6AD8B653",
+        "total_posts": 2227
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 148121,
       "valor_atual": 148230,
-      "hash_anterior": "f0e607d7d061ea0963143a4c5868e7e85d3cda2a633f9f9386231bf24f4a0bb2",
-      "hash_atual": "837baefef420eaac47072e555892ee708a12fb52c5e7efb098dffb20c79bf74e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 109,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1684,15 +1857,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j5UE6ofTnvY2BspnzDh94w&_nc_ss=70689&oh=00_AQPMdeFLpoWZTPkdca-f70VVGv37G4zTD28EUs3ZerjurA&oe=6AD8B653"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j5UE6ofTnvY2BspnzDh94w&_nc_ss=70689&oh=00_AQPMdeFLpoWZTPkdca-f70VVGv37G4zTD28EUs3ZerjurA&oe=6AD8B653",
+        "total_posts": 2227
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2225,
       "valor_atual": 2227,
-      "hash_anterior": "f0e607d7d061ea0963143a4c5868e7e85d3cda2a633f9f9386231bf24f4a0bb2",
-      "hash_atual": "837baefef420eaac47072e555892ee708a12fb52c5e7efb098dffb20c79bf74e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1703,7 +1877,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.225 para 2.227",
       "variacao_texto": "+2 posts"
     },
@@ -1719,15 +1893,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ufO3H_x_QJKzwCnsYmNwfw&_nc_ss=70689&oh=00_AQN-YMb3PPwdY_eEtiWm4MgFT5AaHhwZvMf-MrD8d4tp0Q&oe=6AD845D3"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ufO3H_x_QJKzwCnsYmNwfw&_nc_ss=70689&oh=00_AQN-YMb3PPwdY_eEtiWm4MgFT5AaHhwZvMf-MrD8d4tp0Q&oe=6AD845D3",
+        "total_posts": 2225
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 147634,
       "valor_atual": 148121,
-      "hash_anterior": "7450fe62d5f30f45312e4fac7d59659119107b9c3ade93726ba3ec366b9caa7b",
-      "hash_atual": "f0e607d7d061ea0963143a4c5868e7e85d3cda2a633f9f9386231bf24f4a0bb2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 487,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1754,15 +1929,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ufO3H_x_QJKzwCnsYmNwfw&_nc_ss=70689&oh=00_AQN-YMb3PPwdY_eEtiWm4MgFT5AaHhwZvMf-MrD8d4tp0Q&oe=6AD845D3"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/850583640_18642630916032401_3735506361847941067_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WFc7nyZ-qRQQ7kNvwHMlSJK&_nc_oc=AdpB-7au1-V_GmpG5wJeMg_EaHP3KtHcJK2NG0VjvrGYkglg4DTNlml4wpTMlscukJ1Fpx-8ILTwF1_IYekaXGMg&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ufO3H_x_QJKzwCnsYmNwfw&_nc_ss=70689&oh=00_AQN-YMb3PPwdY_eEtiWm4MgFT5AaHhwZvMf-MrD8d4tp0Q&oe=6AD845D3",
+        "total_posts": 2225
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2226,
       "valor_atual": 2225,
-      "hash_anterior": "7450fe62d5f30f45312e4fac7d59659119107b9c3ade93726ba3ec366b9caa7b",
-      "hash_atual": "f0e607d7d061ea0963143a4c5868e7e85d3cda2a633f9f9386231bf24f4a0bb2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1773,7 +1949,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 1 post",
+      "titulo": "Removeu 1 publicação",
       "descricao": "O total mudou de 2.226 para 2.225",
       "variacao_texto": "-1 post"
     },
@@ -1789,15 +1965,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848774214_18642245887032401_5047427724944340578_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4u0sSAf4ICkQ7kNvwETA90F&_nc_oc=Adpzcz7Z6T0pa55WxB6ioK8L14EWSue7EuESajoyhaPs8nukNyvWEqu4V23jrgKwslnDdKNVG_d30vQjNVQkI6rt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_6CJpkojeCAPzxisb1Iezw&_nc_ss=70689&oh=00_AQMXcma_gu_nAt6LTQOGCnVGRicLtkzKyKcvHE4Dz_maXQ&oe=6AD6BB2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848774214_18642245887032401_5047427724944340578_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4u0sSAf4ICkQ7kNvwETA90F&_nc_oc=Adpzcz7Z6T0pa55WxB6ioK8L14EWSue7EuESajoyhaPs8nukNyvWEqu4V23jrgKwslnDdKNVG_d30vQjNVQkI6rt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_6CJpkojeCAPzxisb1Iezw&_nc_ss=70689&oh=00_AQMXcma_gu_nAt6LTQOGCnVGRicLtkzKyKcvHE4Dz_maXQ&oe=6AD6BB2A",
+        "total_posts": 2226
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 147555,
       "valor_atual": 147634,
-      "hash_anterior": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
-      "hash_atual": "7450fe62d5f30f45312e4fac7d59659119107b9c3ade93726ba3ec366b9caa7b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 79,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1824,15 +2001,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848774214_18642245887032401_5047427724944340578_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4u0sSAf4ICkQ7kNvwETA90F&_nc_oc=Adpzcz7Z6T0pa55WxB6ioK8L14EWSue7EuESajoyhaPs8nukNyvWEqu4V23jrgKwslnDdKNVG_d30vQjNVQkI6rt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_6CJpkojeCAPzxisb1Iezw&_nc_ss=70689&oh=00_AQMXcma_gu_nAt6LTQOGCnVGRicLtkzKyKcvHE4Dz_maXQ&oe=6AD6BB2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848774214_18642245887032401_5047427724944340578_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4u0sSAf4ICkQ7kNvwETA90F&_nc_oc=Adpzcz7Z6T0pa55WxB6ioK8L14EWSue7EuESajoyhaPs8nukNyvWEqu4V23jrgKwslnDdKNVG_d30vQjNVQkI6rt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_6CJpkojeCAPzxisb1Iezw&_nc_ss=70689&oh=00_AQMXcma_gu_nAt6LTQOGCnVGRicLtkzKyKcvHE4Dz_maXQ&oe=6AD6BB2A",
+        "total_posts": 2226
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1725,
       "valor_atual": 1730,
-      "hash_anterior": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
-      "hash_atual": "7450fe62d5f30f45312e4fac7d59659119107b9c3ade93726ba3ec366b9caa7b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1859,15 +2037,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848774214_18642245887032401_5047427724944340578_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4u0sSAf4ICkQ7kNvwETA90F&_nc_oc=Adpzcz7Z6T0pa55WxB6ioK8L14EWSue7EuESajoyhaPs8nukNyvWEqu4V23jrgKwslnDdKNVG_d30vQjNVQkI6rt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_6CJpkojeCAPzxisb1Iezw&_nc_ss=70689&oh=00_AQMXcma_gu_nAt6LTQOGCnVGRicLtkzKyKcvHE4Dz_maXQ&oe=6AD6BB2A"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848774214_18642245887032401_5047427724944340578_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4u0sSAf4ICkQ7kNvwETA90F&_nc_oc=Adpzcz7Z6T0pa55WxB6ioK8L14EWSue7EuESajoyhaPs8nukNyvWEqu4V23jrgKwslnDdKNVG_d30vQjNVQkI6rt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_6CJpkojeCAPzxisb1Iezw&_nc_ss=70689&oh=00_AQMXcma_gu_nAt6LTQOGCnVGRicLtkzKyKcvHE4Dz_maXQ&oe=6AD6BB2A",
+        "total_posts": 2226
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2220,
       "valor_atual": 2226,
-      "hash_anterior": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
-      "hash_atual": "7450fe62d5f30f45312e4fac7d59659119107b9c3ade93726ba3ec366b9caa7b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1878,7 +2057,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 6 posts",
+      "titulo": "Publicou 6 publicações",
       "descricao": "O total mudou de 2.220 para 2.226",
       "variacao_texto": "+6 posts"
     },
@@ -1894,7 +2073,8 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C",
+        "total_posts": 2220
       },
       "tipo": "links",
       "campo": "links",
@@ -1909,8 +2089,8 @@
           "url": "https://record.r7.com/a-fazenda/a-fazenda-18/votacao/"
         }
       ],
-      "hash_anterior": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
-      "hash_atual": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1936,15 +2116,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C",
+        "total_posts": 2220
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 147393,
       "valor_atual": 147555,
-      "hash_anterior": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
-      "hash_atual": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 162,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1971,15 +2152,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C",
+        "total_posts": 2220
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1724,
       "valor_atual": 1725,
-      "hash_anterior": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
-      "hash_atual": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2006,15 +2188,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwEQEHwl&_nc_oc=Adp8oCoia9MkptNevGNpVWNxKiUfqOKNxlhjLkUvf2rtHKF5s38_iSIzVHkx0e3X7Erx-oRlC9gTnwuqghxg1sJt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MRwonnlfUrA5pPcVD_wp5Q&_nc_ss=70689&oh=00_AQOVjGEnvrPCBZFm1XJeUGxJrY_sWCepMfRDAyjT2wzlOA&oe=6AD60B2C",
+        "total_posts": 2220
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2214,
       "valor_atual": 2220,
-      "hash_anterior": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
-      "hash_atual": "4a8eab917de3fbae4b011514bd6cb781193acda2a759cb0e7917486abcd6dc26",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2025,7 +2208,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 6 posts",
+      "titulo": "Publicou 6 publicações",
       "descricao": "O total mudou de 2.214 para 2.220",
       "variacao_texto": "+6 posts"
     },
@@ -2041,15 +2224,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwF79sM1&_nc_oc=AdrsTK54EqJp8gr_cM7Qf5SZl-G1vqsyMrBFGt2YlRiIaWWklKf-Bebm5afRefdgkf2FZzrATOOTVyKvSIZGNpat&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MsUsuh_Zsu60_CB1ZXY5vQ&_nc_ss=70689&oh=00_AQNDAssfb-_Yb039nUL4Ro9h46uHxENhPdXPdDJdUkQ2hA&oe=6AD5626C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwF79sM1&_nc_oc=AdrsTK54EqJp8gr_cM7Qf5SZl-G1vqsyMrBFGt2YlRiIaWWklKf-Bebm5afRefdgkf2FZzrATOOTVyKvSIZGNpat&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MsUsuh_Zsu60_CB1ZXY5vQ&_nc_ss=70689&oh=00_AQNDAssfb-_Yb039nUL4Ro9h46uHxENhPdXPdDJdUkQ2hA&oe=6AD5626C",
+        "total_posts": 2214
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 147099,
       "valor_atual": 147393,
-      "hash_anterior": "3718fcc3e21a53862d7f80e9216343fc999f4f1ffc57c67fc08f9428774d4bd2",
-      "hash_atual": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 294,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2076,15 +2260,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwF79sM1&_nc_oc=AdrsTK54EqJp8gr_cM7Qf5SZl-G1vqsyMrBFGt2YlRiIaWWklKf-Bebm5afRefdgkf2FZzrATOOTVyKvSIZGNpat&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MsUsuh_Zsu60_CB1ZXY5vQ&_nc_ss=70689&oh=00_AQNDAssfb-_Yb039nUL4Ro9h46uHxENhPdXPdDJdUkQ2hA&oe=6AD5626C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwF79sM1&_nc_oc=AdrsTK54EqJp8gr_cM7Qf5SZl-G1vqsyMrBFGt2YlRiIaWWklKf-Bebm5afRefdgkf2FZzrATOOTVyKvSIZGNpat&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MsUsuh_Zsu60_CB1ZXY5vQ&_nc_ss=70689&oh=00_AQNDAssfb-_Yb039nUL4Ro9h46uHxENhPdXPdDJdUkQ2hA&oe=6AD5626C",
+        "total_posts": 2214
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1723,
       "valor_atual": 1724,
-      "hash_anterior": "3718fcc3e21a53862d7f80e9216343fc999f4f1ffc57c67fc08f9428774d4bd2",
-      "hash_atual": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2111,15 +2296,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwF79sM1&_nc_oc=AdrsTK54EqJp8gr_cM7Qf5SZl-G1vqsyMrBFGt2YlRiIaWWklKf-Bebm5afRefdgkf2FZzrATOOTVyKvSIZGNpat&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MsUsuh_Zsu60_CB1ZXY5vQ&_nc_ss=70689&oh=00_AQNDAssfb-_Yb039nUL4Ro9h46uHxENhPdXPdDJdUkQ2hA&oe=6AD5626C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cbB7XUYhVbEQ7kNvwF79sM1&_nc_oc=AdrsTK54EqJp8gr_cM7Qf5SZl-G1vqsyMrBFGt2YlRiIaWWklKf-Bebm5afRefdgkf2FZzrATOOTVyKvSIZGNpat&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=MsUsuh_Zsu60_CB1ZXY5vQ&_nc_ss=70689&oh=00_AQNDAssfb-_Yb039nUL4Ro9h46uHxENhPdXPdDJdUkQ2hA&oe=6AD5626C",
+        "total_posts": 2214
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2213,
       "valor_atual": 2214,
-      "hash_anterior": "3718fcc3e21a53862d7f80e9216343fc999f4f1ffc57c67fc08f9428774d4bd2",
-      "hash_atual": "b57e31402e23db10ce8c8b79b25d2b9fb7a2671c6892eb03baa07f286d0d9e77",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2130,7 +2316,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.213 para 2.214",
       "variacao_texto": "+1 post"
     },
@@ -2146,15 +2332,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DZaolq4Upm3iAQObmFeHxg&_nc_ss=70689&oh=00_AQOS4rAqLRvxfJ6XGkvPqf93j8gVLmkd8gDkjRiq3f1CJw&oe=6AD4816C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DZaolq4Upm3iAQObmFeHxg&_nc_ss=70689&oh=00_AQOS4rAqLRvxfJ6XGkvPqf93j8gVLmkd8gDkjRiq3f1CJw&oe=6AD4816C",
+        "total_posts": 2213
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 147063,
       "valor_atual": 147099,
-      "hash_anterior": "11ec555cc5d3569aef64c3955422ff4fdd23cbe52d2596a5e2a0a2bec5e1b722",
-      "hash_atual": "3718fcc3e21a53862d7f80e9216343fc999f4f1ffc57c67fc08f9428774d4bd2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 36,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2181,15 +2368,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DZaolq4Upm3iAQObmFeHxg&_nc_ss=70689&oh=00_AQOS4rAqLRvxfJ6XGkvPqf93j8gVLmkd8gDkjRiq3f1CJw&oe=6AD4816C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DZaolq4Upm3iAQObmFeHxg&_nc_ss=70689&oh=00_AQOS4rAqLRvxfJ6XGkvPqf93j8gVLmkd8gDkjRiq3f1CJw&oe=6AD4816C",
+        "total_posts": 2213
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2212,
       "valor_atual": 2213,
-      "hash_anterior": "11ec555cc5d3569aef64c3955422ff4fdd23cbe52d2596a5e2a0a2bec5e1b722",
-      "hash_atual": "3718fcc3e21a53862d7f80e9216343fc999f4f1ffc57c67fc08f9428774d4bd2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2200,7 +2388,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.212 para 2.213",
       "variacao_texto": "+1 post"
     },
@@ -2216,15 +2404,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3zFOpuND_UcOTDoGRqNDkQ&_nc_ss=70689&oh=00_AQOnVAokwuVmPCj5RzD1NqnlCGmJFVPmjH1xmRE5hVOykA&oe=6AD4492C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3zFOpuND_UcOTDoGRqNDkQ&_nc_ss=70689&oh=00_AQOnVAokwuVmPCj5RzD1NqnlCGmJFVPmjH1xmRE5hVOykA&oe=6AD4492C",
+        "total_posts": 2212
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 147035,
       "valor_atual": 147063,
-      "hash_anterior": "35d0181ae1d3f27d8781957fd0561f1297d9182a709790187fb4e3569a8ea07a",
-      "hash_atual": "11ec555cc5d3569aef64c3955422ff4fdd23cbe52d2596a5e2a0a2bec5e1b722",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 28,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2251,15 +2440,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gOg1qSJfzUKPlFPF7IJ1kg&_nc_ss=70689&oh=00_AQMOY2dhyJAc4YTkTeK9YqgPo-VFwZikXTPEI74CQr7ppQ&oe=6AD4492C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gOg1qSJfzUKPlFPF7IJ1kg&_nc_ss=70689&oh=00_AQMOY2dhyJAc4YTkTeK9YqgPo-VFwZikXTPEI74CQr7ppQ&oe=6AD4492C",
+        "total_posts": 2212
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146237,
       "valor_atual": 147035,
-      "hash_anterior": "bd02a7d2472c038e62c2528dde059541dd7ac054987c1c67787288ee79b80851",
-      "hash_atual": "35d0181ae1d3f27d8781957fd0561f1297d9182a709790187fb4e3569a8ea07a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 798,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2286,15 +2476,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gOg1qSJfzUKPlFPF7IJ1kg&_nc_ss=70689&oh=00_AQMOY2dhyJAc4YTkTeK9YqgPo-VFwZikXTPEI74CQr7ppQ&oe=6AD4492C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwEH4PeA&_nc_oc=AdrSxSWRJDGBzJXgBWd1YM_IfxH3tQIhg1c5SVAyTP4lW9vQTlfeaErEpvJ9wLcUDZOrAWGZ7g-TdlWHCkddXT4o&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gOg1qSJfzUKPlFPF7IJ1kg&_nc_ss=70689&oh=00_AQMOY2dhyJAc4YTkTeK9YqgPo-VFwZikXTPEI74CQr7ppQ&oe=6AD4492C",
+        "total_posts": 2212
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2209,
       "valor_atual": 2212,
-      "hash_anterior": "bd02a7d2472c038e62c2528dde059541dd7ac054987c1c67787288ee79b80851",
-      "hash_atual": "35d0181ae1d3f27d8781957fd0561f1297d9182a709790187fb4e3569a8ea07a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2305,7 +2496,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 2.209 para 2.212",
       "variacao_texto": "+3 posts"
     },
@@ -2321,15 +2512,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwGFVAht&_nc_oc=Adodro6YcxjzyNsf7IUXFQ-fdbT22NTWyndMEKwn4ffWQ4uCKTtUI1k3KK9OqR3Os-D3AeDv4HdAXd7XyLxyB6lF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cQthy_L8dVmX-cIY99gqtQ&_nc_ss=70689&oh=00_AQPQHLhaou-VR96VtpoY5RjC1BeSfKcF2P9-FJaeJvZmDQ&oe=6AD16DEC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Oz8MUn7HXlgQ7kNvwGFVAht&_nc_oc=Adodro6YcxjzyNsf7IUXFQ-fdbT22NTWyndMEKwn4ffWQ4uCKTtUI1k3KK9OqR3Os-D3AeDv4HdAXd7XyLxyB6lF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cQthy_L8dVmX-cIY99gqtQ&_nc_ss=70689&oh=00_AQPQHLhaou-VR96VtpoY5RjC1BeSfKcF2P9-FJaeJvZmDQ&oe=6AD16DEC",
+        "total_posts": 2209
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146185,
       "valor_atual": 146237,
-      "hash_anterior": "9cd1ab69e26553137c99a0b4e41bb89e120f544ac748f354fe5454c2c905b4af",
-      "hash_atual": "bd02a7d2472c038e62c2528dde059541dd7ac054987c1c67787288ee79b80851",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 52,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2356,15 +2548,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_VCzD8sRTrI8Te8E5zzPWQ&_nc_ss=70689&oh=00_AQMEHExrVCZlo5Ti15mCyO3AkZb8k2mr2qShZI6TV0TzNg&oe=6AD054AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_VCzD8sRTrI8Te8E5zzPWQ&_nc_ss=70689&oh=00_AQMEHExrVCZlo5Ti15mCyO3AkZb8k2mr2qShZI6TV0TzNg&oe=6AD054AC",
+        "total_posts": 2209
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146177,
       "valor_atual": 146185,
-      "hash_anterior": "39d21fad0ae22df0beec3887865538affd2f4715bbe4b2c2dceb920a69003791",
-      "hash_atual": "9cd1ab69e26553137c99a0b4e41bb89e120f544ac748f354fe5454c2c905b4af",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2391,15 +2584,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cxGRuEgSxmEDi6IGNIEiUw&_nc_ss=70689&oh=00_AQMX84J-X1JX04UK80NHRTb1C7LgeuEZX38_kh5s6cKdDg&oe=6AD054AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cxGRuEgSxmEDi6IGNIEiUw&_nc_ss=70689&oh=00_AQMX84J-X1JX04UK80NHRTb1C7LgeuEZX38_kh5s6cKdDg&oe=6AD054AC",
+        "total_posts": 2209
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146165,
       "valor_atual": 146177,
-      "hash_anterior": "dc81ec841c96f58399ebec21f2cc0a3c844ddd27235cc83df289f143ed48f985",
-      "hash_atual": "39d21fad0ae22df0beec3887865538affd2f4715bbe4b2c2dceb920a69003791",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 12,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2426,15 +2620,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j8HY2BRGfC7Cwq36RZ5oiw&_nc_ss=70689&oh=00_AQPfUGUWlK-4Cmt3Yq73Q6_OIqVjcxY2nfnu4fJwjAlElA&oe=6AD054AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j8HY2BRGfC7Cwq36RZ5oiw&_nc_ss=70689&oh=00_AQPfUGUWlK-4Cmt3Yq73Q6_OIqVjcxY2nfnu4fJwjAlElA&oe=6AD054AC",
+        "total_posts": 2209
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146156,
       "valor_atual": 146165,
-      "hash_anterior": "9fe53e81a33ed77e067c902dd9996dd18e382efa5e27894333c84c15c06f8df9",
-      "hash_atual": "dc81ec841c96f58399ebec21f2cc0a3c844ddd27235cc83df289f143ed48f985",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2461,15 +2656,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j8HY2BRGfC7Cwq36RZ5oiw&_nc_ss=70689&oh=00_AQPfUGUWlK-4Cmt3Yq73Q6_OIqVjcxY2nfnu4fJwjAlElA&oe=6AD054AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=j8HY2BRGfC7Cwq36RZ5oiw&_nc_ss=70689&oh=00_AQPfUGUWlK-4Cmt3Yq73Q6_OIqVjcxY2nfnu4fJwjAlElA&oe=6AD054AC",
+        "total_posts": 2209
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2208,
       "valor_atual": 2209,
-      "hash_anterior": "9fe53e81a33ed77e067c902dd9996dd18e382efa5e27894333c84c15c06f8df9",
-      "hash_atual": "dc81ec841c96f58399ebec21f2cc0a3c844ddd27235cc83df289f143ed48f985",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2480,7 +2676,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.208 para 2.209",
       "variacao_texto": "+1 post"
     },
@@ -2496,15 +2692,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KFpsfFUz_pXTtSnPebaIQQ&_nc_ss=70689&oh=00_AQMPOPIuyxRGS_c4nvt2MdI-6RZhTwsd_x9eGTf65MhAgA&oe=6AD054AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KFpsfFUz_pXTtSnPebaIQQ&_nc_ss=70689&oh=00_AQMPOPIuyxRGS_c4nvt2MdI-6RZhTwsd_x9eGTf65MhAgA&oe=6AD054AC",
+        "total_posts": 2208
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146087,
       "valor_atual": 146156,
-      "hash_anterior": "cd594f74e5e3b5c08ff28000c5392596393b79adb9d6de4ad27ba4bd2c62317f",
-      "hash_atual": "9fe53e81a33ed77e067c902dd9996dd18e382efa5e27894333c84c15c06f8df9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 69,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2531,15 +2728,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KFpsfFUz_pXTtSnPebaIQQ&_nc_ss=70689&oh=00_AQMPOPIuyxRGS_c4nvt2MdI-6RZhTwsd_x9eGTf65MhAgA&oe=6AD054AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwE54zjC&_nc_oc=AdrgGORtZsoTBOijIBsiiGAaYm9392TkQWPBBEA4sDQg5UKIALevq2JNomdxBvMN_pGkRRjVK-YtYvsHXLkzAJRN&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KFpsfFUz_pXTtSnPebaIQQ&_nc_ss=70689&oh=00_AQMPOPIuyxRGS_c4nvt2MdI-6RZhTwsd_x9eGTf65MhAgA&oe=6AD054AC",
+        "total_posts": 2208
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2207,
       "valor_atual": 2208,
-      "hash_anterior": "cd594f74e5e3b5c08ff28000c5392596393b79adb9d6de4ad27ba4bd2c62317f",
-      "hash_atual": "9fe53e81a33ed77e067c902dd9996dd18e382efa5e27894333c84c15c06f8df9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2550,7 +2748,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.207 para 2.208",
       "variacao_texto": "+1 post"
     },
@@ -2566,15 +2764,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rkBEQZTb_ZcW8jSYlWzRWQ&_nc_ss=70689&oh=00_AQOTEWP4KeIrTooGmeCemU6tWPZF41rYPFYqDb-v2_wEAQ&oe=6ACF73AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rkBEQZTb_ZcW8jSYlWzRWQ&_nc_ss=70689&oh=00_AQOTEWP4KeIrTooGmeCemU6tWPZF41rYPFYqDb-v2_wEAQ&oe=6ACF73AC",
+        "total_posts": 2207
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146073,
       "valor_atual": 146087,
-      "hash_anterior": "e2b0756e54ccac605522df0fbee59fe054f54683d180b5bb87b688d11656207e",
-      "hash_atual": "cd594f74e5e3b5c08ff28000c5392596393b79adb9d6de4ad27ba4bd2c62317f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2601,15 +2800,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rkBEQZTb_ZcW8jSYlWzRWQ&_nc_ss=70689&oh=00_AQOTEWP4KeIrTooGmeCemU6tWPZF41rYPFYqDb-v2_wEAQ&oe=6ACF73AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=rkBEQZTb_ZcW8jSYlWzRWQ&_nc_ss=70689&oh=00_AQOTEWP4KeIrTooGmeCemU6tWPZF41rYPFYqDb-v2_wEAQ&oe=6ACF73AC",
+        "total_posts": 2207
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2206,
       "valor_atual": 2207,
-      "hash_anterior": "e2b0756e54ccac605522df0fbee59fe054f54683d180b5bb87b688d11656207e",
-      "hash_atual": "cd594f74e5e3b5c08ff28000c5392596393b79adb9d6de4ad27ba4bd2c62317f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2620,7 +2820,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.206 para 2.207",
       "variacao_texto": "+1 post"
     },
@@ -2636,15 +2836,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fAUzC1Mx8Im7bh0JWcyM4w&_nc_ss=70689&oh=00_AQMnhBWTRckOfLZnNeTGmYkIax_-7W8ymZY96IWJH6IPFA&oe=6ACF73AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fAUzC1Mx8Im7bh0JWcyM4w&_nc_ss=70689&oh=00_AQMnhBWTRckOfLZnNeTGmYkIax_-7W8ymZY96IWJH6IPFA&oe=6ACF73AC",
+        "total_posts": 2206
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 146038,
       "valor_atual": 146073,
-      "hash_anterior": "143bbd0e35ec9e619859beaed1f2db8869f43cf8d227495edc077cd6e5101062",
-      "hash_atual": "e2b0756e54ccac605522df0fbee59fe054f54683d180b5bb87b688d11656207e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 35,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2671,15 +2872,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fAUzC1Mx8Im7bh0JWcyM4w&_nc_ss=70689&oh=00_AQMnhBWTRckOfLZnNeTGmYkIax_-7W8ymZY96IWJH6IPFA&oe=6ACF73AC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEzhfuR&_nc_oc=AdpoiYIXOfoYlj8nneaChNItR6GP_hcESv5e-FBKeoDGG7q9d6oo8IGLnI0XyKcDhXI-z_T6XstGz4iIrahDoJWO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fAUzC1Mx8Im7bh0JWcyM4w&_nc_ss=70689&oh=00_AQMnhBWTRckOfLZnNeTGmYkIax_-7W8ymZY96IWJH6IPFA&oe=6ACF73AC",
+        "total_posts": 2206
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1722,
       "valor_atual": 1723,
-      "hash_anterior": "143bbd0e35ec9e619859beaed1f2db8869f43cf8d227495edc077cd6e5101062",
-      "hash_atual": "e2b0756e54ccac605522df0fbee59fe054f54683d180b5bb87b688d11656207e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2706,15 +2908,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEtWQAO&_nc_oc=AdrORnyJ55n1uPYGnpOkPXLZ3MXGzCi1XwXgSMx9Bub5n2gI0Lwwa9NLdEfUeP1PD_76DsFFqjN_A_YSXvgPhX99&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=i2-CJMl2RDLukJQSqUCJSg&_nc_ss=70689&oh=00_AQPgWL7M2ZIEYs0UVsjUsuTOsezhYVFDnG9MKBZazwGErA&oe=6ACECAEC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEtWQAO&_nc_oc=AdrORnyJ55n1uPYGnpOkPXLZ3MXGzCi1XwXgSMx9Bub5n2gI0Lwwa9NLdEfUeP1PD_76DsFFqjN_A_YSXvgPhX99&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=i2-CJMl2RDLukJQSqUCJSg&_nc_ss=70689&oh=00_AQPgWL7M2ZIEYs0UVsjUsuTOsezhYVFDnG9MKBZazwGErA&oe=6ACECAEC",
+        "total_posts": 2206
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145992,
       "valor_atual": 146038,
-      "hash_anterior": "3f380b6230735933571bb760f0f902a33c56c651dbc87939805ac35032212e27",
-      "hash_atual": "143bbd0e35ec9e619859beaed1f2db8869f43cf8d227495edc077cd6e5101062",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 46,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2741,15 +2944,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEtWQAO&_nc_oc=AdrORnyJ55n1uPYGnpOkPXLZ3MXGzCi1XwXgSMx9Bub5n2gI0Lwwa9NLdEfUeP1PD_76DsFFqjN_A_YSXvgPhX99&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=i2-CJMl2RDLukJQSqUCJSg&_nc_ss=70689&oh=00_AQPgWL7M2ZIEYs0UVsjUsuTOsezhYVFDnG9MKBZazwGErA&oe=6ACECAEC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEtWQAO&_nc_oc=AdrORnyJ55n1uPYGnpOkPXLZ3MXGzCi1XwXgSMx9Bub5n2gI0Lwwa9NLdEfUeP1PD_76DsFFqjN_A_YSXvgPhX99&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=i2-CJMl2RDLukJQSqUCJSg&_nc_ss=70689&oh=00_AQPgWL7M2ZIEYs0UVsjUsuTOsezhYVFDnG9MKBZazwGErA&oe=6ACECAEC",
+        "total_posts": 2206
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2204,
       "valor_atual": 2206,
-      "hash_anterior": "3f380b6230735933571bb760f0f902a33c56c651dbc87939805ac35032212e27",
-      "hash_atual": "143bbd0e35ec9e619859beaed1f2db8869f43cf8d227495edc077cd6e5101062",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2760,7 +2964,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 2.204 para 2.206",
       "variacao_texto": "+2 posts"
     },
@@ -2776,15 +2980,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwGNLh9N&_nc_oc=AdqsI5cx_bR3aAk3gE4muTGB3tcVnLDPUjsycNj-BXZbvqwCD2nRBoW0AVZreASRg9JJvIJ2tVCd0fWkcov0bxtx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aVOdYjQXj9wC5nFw1uM8jA&_nc_ss=70689&oh=00_AQPQWCoCVFlH86np8LGMBRJGVRkinqUZMlVnm4GXujEpjQ&oe=6ACDE9EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwGNLh9N&_nc_oc=AdqsI5cx_bR3aAk3gE4muTGB3tcVnLDPUjsycNj-BXZbvqwCD2nRBoW0AVZreASRg9JJvIJ2tVCd0fWkcov0bxtx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=aVOdYjQXj9wC5nFw1uM8jA&_nc_ss=70689&oh=00_AQPQWCoCVFlH86np8LGMBRJGVRkinqUZMlVnm4GXujEpjQ&oe=6ACDE9EC",
+        "total_posts": 2204
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145967,
       "valor_atual": 145992,
-      "hash_anterior": "5ff45c97aa1e777a7d9ea6ce748871973175779c20471182deb005412606d134",
-      "hash_atual": "3f380b6230735933571bb760f0f902a33c56c651dbc87939805ac35032212e27",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 25,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2811,15 +3016,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEf6_TU&_nc_oc=Adp39y6-HhcDKDda8vSk5JKl7VcK9QhAbYmcf5nPqWEpKe0swaajFrI9thsAWrQ9Hftf8p2hcMQC2DveKfs9tKqe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jzf0rgOz6on3VDzrRZyPHg&_nc_ss=70689&oh=00_AQNPercR6qTL8lYcUc8UBuTXXkaU6aZiPcLJVDBkAGJ1UQ&oe=6ACD412C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwEf6_TU&_nc_oc=Adp39y6-HhcDKDda8vSk5JKl7VcK9QhAbYmcf5nPqWEpKe0swaajFrI9thsAWrQ9Hftf8p2hcMQC2DveKfs9tKqe&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jzf0rgOz6on3VDzrRZyPHg&_nc_ss=70689&oh=00_AQNPercR6qTL8lYcUc8UBuTXXkaU6aZiPcLJVDBkAGJ1UQ&oe=6ACD412C",
+        "total_posts": 2204
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145915,
       "valor_atual": 145967,
-      "hash_anterior": "efe8d34035043fc0863fe305e83ac4b3e3d7a59a942c55c87cdf29eece4cb4b3",
-      "hash_atual": "5ff45c97aa1e777a7d9ea6ce748871973175779c20471182deb005412606d134",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 52,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2846,15 +3052,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NPReiHP_VeE38krX7KFfEQ&_nc_ss=70689&oh=00_AQOfE_ZTwmqqXEWkSNuSYK1n_NYDZBw52NqQtbpkt5eLXA&oe=6ACC986C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NPReiHP_VeE38krX7KFfEQ&_nc_ss=70689&oh=00_AQOfE_ZTwmqqXEWkSNuSYK1n_NYDZBw52NqQtbpkt5eLXA&oe=6ACC986C",
+        "total_posts": 2204
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145914,
       "valor_atual": 145915,
-      "hash_anterior": "b85184eca087c92bf73595742fe3542033b9e359374c79b6d355a446afbe2120",
-      "hash_atual": "efe8d34035043fc0863fe305e83ac4b3e3d7a59a942c55c87cdf29eece4cb4b3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2881,15 +3088,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NPReiHP_VeE38krX7KFfEQ&_nc_ss=70689&oh=00_AQOfE_ZTwmqqXEWkSNuSYK1n_NYDZBw52NqQtbpkt5eLXA&oe=6ACC986C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NPReiHP_VeE38krX7KFfEQ&_nc_ss=70689&oh=00_AQOfE_ZTwmqqXEWkSNuSYK1n_NYDZBw52NqQtbpkt5eLXA&oe=6ACC986C",
+        "total_posts": 2204
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2203,
       "valor_atual": 2204,
-      "hash_anterior": "b85184eca087c92bf73595742fe3542033b9e359374c79b6d355a446afbe2120",
-      "hash_atual": "efe8d34035043fc0863fe305e83ac4b3e3d7a59a942c55c87cdf29eece4cb4b3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2900,7 +3108,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.203 para 2.204",
       "variacao_texto": "+1 post"
     },
@@ -2916,15 +3124,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vofMXiDYj4JI97eeghCe-g&_nc_ss=70689&oh=00_AQOjX_NQI7E-ES1zzEfiR6eD3DfdZX4svoL2ZeWP17OAtw&oe=6ACC986C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vofMXiDYj4JI97eeghCe-g&_nc_ss=70689&oh=00_AQOjX_NQI7E-ES1zzEfiR6eD3DfdZX4svoL2ZeWP17OAtw&oe=6ACC986C",
+        "total_posts": 2203
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145929,
       "valor_atual": 145914,
-      "hash_anterior": "fdb2183633a9073606b3455bf25385280cb83dd4daa84716f7f8b2d527004daa",
-      "hash_atual": "b85184eca087c92bf73595742fe3542033b9e359374c79b6d355a446afbe2120",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -15,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2951,15 +3160,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vofMXiDYj4JI97eeghCe-g&_nc_ss=70689&oh=00_AQOjX_NQI7E-ES1zzEfiR6eD3DfdZX4svoL2ZeWP17OAtw&oe=6ACC986C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YZfThC58LG0Q7kNvwFATuFD&_nc_oc=AdrjGIr9Ke2IWAkw0GcEL3xnrWEx8Fu8qiV4Gt5CBah3IsLekvJq5L2b6aTmMuUtie2zlnGcfJwHtwztsuIl9XHL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vofMXiDYj4JI97eeghCe-g&_nc_ss=70689&oh=00_AQOjX_NQI7E-ES1zzEfiR6eD3DfdZX4svoL2ZeWP17OAtw&oe=6ACC986C",
+        "total_posts": 2203
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1723,
       "valor_atual": 1722,
-      "hash_anterior": "fdb2183633a9073606b3455bf25385280cb83dd4daa84716f7f8b2d527004daa",
-      "hash_atual": "b85184eca087c92bf73595742fe3542033b9e359374c79b6d355a446afbe2120",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2986,15 +3196,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wiGnzW12FBCtAN4CMjbMew&_nc_ss=70689&oh=00_AQMplF4dqiqECJpyFuiSZYx5HLgt4WHofQfqfcnnYkFYgw&oe=6ACC27EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wiGnzW12FBCtAN4CMjbMew&_nc_ss=70689&oh=00_AQMplF4dqiqECJpyFuiSZYx5HLgt4WHofQfqfcnnYkFYgw&oe=6ACC27EC",
+        "total_posts": 2203
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145930,
       "valor_atual": 145929,
-      "hash_anterior": "e37046543e000fc89e593ee0ce363149bab6cfa913d8d7031fd8bf3b2d05d208",
-      "hash_atual": "fdb2183633a9073606b3455bf25385280cb83dd4daa84716f7f8b2d527004daa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3021,15 +3232,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nDDqkFn1nOqal8aY_J24Mg&_nc_ss=70689&oh=00_AQPEHypb36mnAo4P2FO-99pYCg5aUqVnw-EHln7tEBQm7Q&oe=6ACC27EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nDDqkFn1nOqal8aY_J24Mg&_nc_ss=70689&oh=00_AQPEHypb36mnAo4P2FO-99pYCg5aUqVnw-EHln7tEBQm7Q&oe=6ACC27EC",
+        "total_posts": 2203
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145897,
       "valor_atual": 145930,
-      "hash_anterior": "9b2b870908a08a3233845060560c0eaa0db719b5aa32672adc0c4fc75e0efed8",
-      "hash_atual": "e37046543e000fc89e593ee0ce363149bab6cfa913d8d7031fd8bf3b2d05d208",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 33,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3056,15 +3268,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nDDqkFn1nOqal8aY_J24Mg&_nc_ss=70689&oh=00_AQPEHypb36mnAo4P2FO-99pYCg5aUqVnw-EHln7tEBQm7Q&oe=6ACC27EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nDDqkFn1nOqal8aY_J24Mg&_nc_ss=70689&oh=00_AQPEHypb36mnAo4P2FO-99pYCg5aUqVnw-EHln7tEBQm7Q&oe=6ACC27EC",
+        "total_posts": 2203
       },
       "tipo": "total_destaques",
       "campo": "total_destaques",
       "nome_campo": "Total de Destaques",
       "valor_anterior": 0,
       "valor_atual": 1,
-      "hash_anterior": "9b2b870908a08a3233845060560c0eaa0db719b5aa32672adc0c4fc75e0efed8",
-      "hash_atual": "e37046543e000fc89e593ee0ce363149bab6cfa913d8d7031fd8bf3b2d05d208",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3091,15 +3304,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nDDqkFn1nOqal8aY_J24Mg&_nc_ss=70689&oh=00_AQPEHypb36mnAo4P2FO-99pYCg5aUqVnw-EHln7tEBQm7Q&oe=6ACC27EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwFbIQkE&_nc_oc=Adrh-IiWNrldVek3q3Mbv7O7dzIarWq5gIhR2e5xKKthjcYzRywi8tx_R4dJidTBWxzzjfmCTUegoaBevSpLngWG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nDDqkFn1nOqal8aY_J24Mg&_nc_ss=70689&oh=00_AQPEHypb36mnAo4P2FO-99pYCg5aUqVnw-EHln7tEBQm7Q&oe=6ACC27EC",
+        "total_posts": 2203
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2202,
       "valor_atual": 2203,
-      "hash_anterior": "9b2b870908a08a3233845060560c0eaa0db719b5aa32672adc0c4fc75e0efed8",
-      "hash_atual": "e37046543e000fc89e593ee0ce363149bab6cfa913d8d7031fd8bf3b2d05d208",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3110,7 +3324,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.202 para 2.203",
       "variacao_texto": "+1 post"
     },
@@ -3126,15 +3340,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wrW-wRpBbIEhA1bB8n_82A&_nc_ss=70689&oh=00_AQNODOk1v-5S-glc7v233MxP-q1ES6kT1daZRBioTZn1bg&oe=6ACB7F2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wrW-wRpBbIEhA1bB8n_82A&_nc_ss=70689&oh=00_AQNODOk1v-5S-glc7v233MxP-q1ES6kT1daZRBioTZn1bg&oe=6ACB7F2C",
+        "total_posts": 2202
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145878,
       "valor_atual": 145897,
-      "hash_anterior": "2aeb1284992b692e9bc129af47ae91a779d05c19a20e1ca11332e7f4ec89a25c",
-      "hash_atual": "9b2b870908a08a3233845060560c0eaa0db719b5aa32672adc0c4fc75e0efed8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 19,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3161,15 +3376,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wrW-wRpBbIEhA1bB8n_82A&_nc_ss=70689&oh=00_AQNODOk1v-5S-glc7v233MxP-q1ES6kT1daZRBioTZn1bg&oe=6ACB7F2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wrW-wRpBbIEhA1bB8n_82A&_nc_ss=70689&oh=00_AQNODOk1v-5S-glc7v233MxP-q1ES6kT1daZRBioTZn1bg&oe=6ACB7F2C",
+        "total_posts": 2202
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2201,
       "valor_atual": 2202,
-      "hash_anterior": "2aeb1284992b692e9bc129af47ae91a779d05c19a20e1ca11332e7f4ec89a25c",
-      "hash_atual": "9b2b870908a08a3233845060560c0eaa0db719b5aa32672adc0c4fc75e0efed8",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3180,7 +3396,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 2.201 para 2.202",
       "variacao_texto": "+1 post"
     },
@@ -3196,15 +3412,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gIje_5yyEPMAkba_uGPT0A&_nc_ss=70689&oh=00_AQPZi_rUHnMMuLf-yew39BgyARm8okERLrQNuyY0yo1VAg&oe=6ACB7F2C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=gIje_5yyEPMAkba_uGPT0A&_nc_ss=70689&oh=00_AQPZi_rUHnMMuLf-yew39BgyARm8okERLrQNuyY0yo1VAg&oe=6ACB7F2C",
+        "total_posts": 2201
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145879,
       "valor_atual": 145878,
-      "hash_anterior": "6ebe5a10af8d39739f9ac8ef7e81cd501d2352a5d537f3d15ec109f1f046fd71",
-      "hash_atual": "2aeb1284992b692e9bc129af47ae91a779d05c19a20e1ca11332e7f4ec89a25c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3231,15 +3448,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HQUsSiE7KMjo5e0VjelG8g&_nc_ss=70689&oh=00_AQMJijbnz6XjIpNYAJZ0i7NSbhM6iJHK0Z-_d20NnKZJWw&oe=6ACB46EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HQUsSiE7KMjo5e0VjelG8g&_nc_ss=70689&oh=00_AQMJijbnz6XjIpNYAJZ0i7NSbhM6iJHK0Z-_d20NnKZJWw&oe=6ACB46EC",
+        "total_posts": 2201
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145878,
       "valor_atual": 145879,
-      "hash_anterior": "2aeb1284992b692e9bc129af47ae91a779d05c19a20e1ca11332e7f4ec89a25c",
-      "hash_atual": "6ebe5a10af8d39739f9ac8ef7e81cd501d2352a5d537f3d15ec109f1f046fd71",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3266,15 +3484,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ppvwCaMwjF1GwVKjThepzg&_nc_ss=70689&oh=00_AQPyPlxSNYYX3Aps7RO2RxdvZIa-_p-5Y23IVVzE6sjJpg&oe=6ACB46EC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwEGKwXm&_nc_oc=AdoKtkO6d8DIkBOY5EDxK9Slu-TbuIqgsMN1l_-kYUTLMxRb_fVYh-WwnxZeqZ1VNjiRJTQSMzI0YjJPzOzuvFrv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ppvwCaMwjF1GwVKjThepzg&_nc_ss=70689&oh=00_AQPyPlxSNYYX3Aps7RO2RxdvZIa-_p-5Y23IVVzE6sjJpg&oe=6ACB46EC",
+        "total_posts": 2201
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145869,
       "valor_atual": 145878,
-      "hash_anterior": "05b94e0503182e7f27660eb790c6bd7b8c9cf2fe4782d57bedabb3e27bccb44b",
-      "hash_atual": "2aeb1284992b692e9bc129af47ae91a779d05c19a20e1ca11332e7f4ec89a25c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 9,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3301,15 +3520,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwGAGRkU&_nc_oc=Ado-OuNUTzj2eGwuK0ZpYbbWTpewdACl6-RItxgEhC23PzdI-RW7hOwBkZX06sDj0ntQExad-QHyerkIs1D_YkBT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=trIvaH_fp1N8ebM0x83_0A&_nc_ss=70689&oh=00_AQPhDInR6Sd2zSBpwy6js1Wh72hhjDfzF8pmTp-b5fQrCw&oe=6ACB0EAC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwGAGRkU&_nc_oc=Ado-OuNUTzj2eGwuK0ZpYbbWTpewdACl6-RItxgEhC23PzdI-RW7hOwBkZX06sDj0ntQExad-QHyerkIs1D_YkBT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=trIvaH_fp1N8ebM0x83_0A&_nc_ss=70689&oh=00_AQPhDInR6Sd2zSBpwy6js1Wh72hhjDfzF8pmTp-b5fQrCw&oe=6ACB0EAC",
+        "total_posts": 2201
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 145853,
       "valor_atual": 145869,
-      "hash_anterior": "5d71de285378335e95438ca6535cbe1ef1c1c922e5bca07b747aa51e2bdae13e",
-      "hash_atual": "05b94e0503182e7f27660eb790c6bd7b8c9cf2fe4782d57bedabb3e27bccb44b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 16,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3336,15 +3556,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwGAGRkU&_nc_oc=Ado-OuNUTzj2eGwuK0ZpYbbWTpewdACl6-RItxgEhC23PzdI-RW7hOwBkZX06sDj0ntQExad-QHyerkIs1D_YkBT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=trIvaH_fp1N8ebM0x83_0A&_nc_ss=70689&oh=00_AQPhDInR6Sd2zSBpwy6js1Wh72hhjDfzF8pmTp-b5fQrCw&oe=6ACB0EAC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwGAGRkU&_nc_oc=Ado-OuNUTzj2eGwuK0ZpYbbWTpewdACl6-RItxgEhC23PzdI-RW7hOwBkZX06sDj0ntQExad-QHyerkIs1D_YkBT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=trIvaH_fp1N8ebM0x83_0A&_nc_ss=70689&oh=00_AQPhDInR6Sd2zSBpwy6js1Wh72hhjDfzF8pmTp-b5fQrCw&oe=6ACB0EAC",
+        "total_posts": 2201
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1725,
       "valor_atual": 1723,
-      "hash_anterior": "5d71de285378335e95438ca6535cbe1ef1c1c922e5bca07b747aa51e2bdae13e",
-      "hash_atual": "05b94e0503182e7f27660eb790c6bd7b8c9cf2fe4782d57bedabb3e27bccb44b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -3371,15 +3592,16 @@
         "id": "17841400972000105",
         "username": "renatabdb",
         "nome": "Renata Del Bianco",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwGAGRkU&_nc_oc=Ado-OuNUTzj2eGwuK0ZpYbbWTpewdACl6-RItxgEhC23PzdI-RW7hOwBkZX06sDj0ntQExad-QHyerkIs1D_YkBT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=trIvaH_fp1N8ebM0x83_0A&_nc_ss=70689&oh=00_AQPhDInR6Sd2zSBpwy6js1Wh72hhjDfzF8pmTp-b5fQrCw&oe=6ACB0EAC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811665102_18631556401032401_275838292766931361_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AQNIREdZ6bUQ7kNvwGAGRkU&_nc_oc=Ado-OuNUTzj2eGwuK0ZpYbbWTpewdACl6-RItxgEhC23PzdI-RW7hOwBkZX06sDj0ntQExad-QHyerkIs1D_YkBT&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=trIvaH_fp1N8ebM0x83_0A&_nc_ss=70689&oh=00_AQPhDInR6Sd2zSBpwy6js1Wh72hhjDfzF8pmTp-b5fQrCw&oe=6ACB0EAC",
+        "total_posts": 2201
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 2198,
       "valor_atual": 2201,
-      "hash_anterior": "5d71de285378335e95438ca6535cbe1ef1c1c922e5bca07b747aa51e2bdae13e",
-      "hash_atual": "05b94e0503182e7f27660eb790c6bd7b8c9cf2fe4782d57bedabb3e27bccb44b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -3390,7 +3612,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 2.198 para 2.201",
       "variacao_texto": "+3 posts"
     }
@@ -3398,34 +3620,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:14:19.137329",
-    "captura_mais_recente": "2026-11-03T12:20:04.887770",
-    "tempo_total_segundos": 2480745,
-    "tempo_total_dias": 28.712326,
-    "tempo_total_texto": "28 dias, 17 horas, 5 minutos e 45 segundos",
+    "captura_mais_recente": "2026-11-19T16:26:43.032743",
+    "tempo_total_segundos": 3877943,
+    "tempo_total_dias": 44.8836,
+    "tempo_total_texto": "44 dias, 21 horas, 12 minutos e 23 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 639,
+    "1_dias": {
+      "variacao": 1420,
       "direcao": "ganhou",
-      "quantidade": 639,
-      "texto": "Ganhou 639 seguidores",
+      "quantidade": 1420,
+      "texto": "Ganhou 1420 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:02:04.915697",
-      "captura_fim": "2026-11-03T12:20:04.887770",
-      "seguidores_inicio": 148837,
-      "seguidores_fim": 149476
+      "captura_inicio": "2026-11-03T12:20:04.887770",
+      "captura_fim": "2026-11-19T16:26:43.032743",
+      "seguidores_inicio": 149476,
+      "seguidores_fim": 150896
+    },
+    "7_dias": {
+      "variacao": 1420,
+      "direcao": "ganhou",
+      "quantidade": 1420,
+      "texto": "Ganhou 1420 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:20:04.887770",
+      "captura_fim": "2026-11-19T16:26:43.032743",
+      "seguidores_inicio": 149476,
+      "seguidores_fim": 150896
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 2666,
+      "direcao": "ganhou",
+      "quantidade": 2666,
+      "texto": "Ganhou 2666 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:25:46.677561",
+      "captura_fim": "2026-11-19T16:26:43.032743",
+      "seguidores_inicio": 148230,
+      "seguidores_fim": 150896
     },
     "90_dias": {
       "variacao": null,
@@ -3436,17 +3674,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 3623,
+      "variacao": 5043,
       "direcao": "ganhou",
-      "quantidade": 3623,
-      "texto": "Ganhou 3623 seguidores",
+      "quantidade": 5043,
+      "texto": "Ganhou 5043 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:14:19.137329",
-      "captura_mais_recente": "2026-11-03T12:20:04.887770",
-      "tempo_total_dias": 28.712335,
+      "captura_mais_recente": "2026-11-19T16:26:43.032743",
+      "tempo_total_dias": 44.88361,
       "seguidores_inicio": 145853,
-      "seguidores_fim": 149476
+      "seguidores_fim": 150896
     }
   }
 }

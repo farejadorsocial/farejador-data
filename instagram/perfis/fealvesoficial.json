@@ -8,7 +8,8 @@
       "id": "17841402052702860",
       "username": "fealvesoficial",
       "nome": "Felipe Alves",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/899387317_18615436705068424_9125510304674466893_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GLWPmzWI9SQcpCJCAE3MSehFU6R_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43OTMuQzMifQ%3D%3D&_nc_ohc=a848mOmNHkgQ7kNvwGgWCt_&_nc_oc=AdqVaIkjoFZInQCb2gpUd17O4gMo5eJLpNLzDj20F_W0PwR55cr9_wdvDMwpfWMkYQK6YuLdP1Wmud44FSZ0UOjF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ESQ0HIHD-jnOTnwfguz5IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcZLetqW7F-qS1wIwho7bayoNdX6sn_Z2tOwg0CR-MIQ&oe=6B05377C",
+      "total_posts": 198
     },
     "biografia": [
       {
@@ -20,30 +21,28 @@
         "tipo": "inicial"
       }
     ],
-    "categoria": [
+    "links": [
       {
         "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor_anterior": "Influenciadora digital",
-        "valor_atual": "Influenciadores digital",
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [
+          {
+            "url": "https://youtu.be/pIX8OleTf5U?si=40zEzz-UPX0yBFxQ"
+          }
+        ],
+        "valor_atual": [
+          {
+            "url": "https://youtu.be/SxI_IVZR3ns"
+          }
+        ],
         "variacao": null,
         "direcao": null,
-        "descricao": "Categoria alterada de \"Influenciadora digital\" para \"Influenciadores digital\"",
-        "timestamp": "2026-10-15T00:23:37.369961",
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-11-19T16:21:34.444256",
         "timestamp_anterior": "2026-10-06T21:41:50.982322",
-        "tempo_desde_anterior_segundos": 700906
+        "tempo_desde_anterior_segundos": 3782383
       },
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "Influenciadora digital",
-        "timestamp": "2026-10-06T21:41:50.982322",
-        "tipo": "inicial"
-      }
-    ],
-    "links": [
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -98,6 +97,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 9085,
+        "valor_atual": 9152,
+        "variacao": 67,
+        "direcao": "aumento",
+        "descricao": "+67 seguidores",
+        "timestamp": "2026-11-19T16:21:34.444256",
+        "timestamp_anterior": "2026-11-03T12:11:21.383918",
+        "tempo_desde_anterior_segundos": 1397413
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -372,6 +384,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 4663,
+        "valor_atual": 4688,
+        "variacao": 25,
+        "direcao": "aumento",
+        "descricao": "Seguiu +25",
+        "timestamp": "2026-11-19T16:21:34.444256",
+        "timestamp_anterior": "2026-11-03T12:11:21.383918",
+        "tempo_desde_anterior_segundos": 1397413
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 4661,
         "valor_atual": 4663,
         "variacao": 2,
@@ -626,11 +651,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 190,
+        "valor_atual": 198,
+        "variacao": 8,
+        "direcao": "aumento",
+        "descricao": "+8 publicações",
+        "timestamp": "2026-11-19T16:21:34.444256",
+        "timestamp_anterior": "2026-11-03T12:11:21.383918",
+        "tempo_desde_anterior_segundos": 1397413
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 189,
         "valor_atual": 190,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-11-03T12:11:21.383918",
         "timestamp_anterior": "2026-10-30T20:10:16.385128",
         "tempo_desde_anterior_segundos": 316864
@@ -643,7 +681,7 @@
         "valor_atual": 189,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-30T20:10:16.385128",
         "timestamp_anterior": "2026-10-16T13:54:15.122941",
         "tempo_desde_anterior_segundos": 1232161
@@ -656,7 +694,7 @@
         "valor_atual": 187,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-16T13:54:15.122941",
         "timestamp_anterior": "2026-10-14T12:07:36.979215",
         "tempo_desde_anterior_segundos": 179198
@@ -669,7 +707,7 @@
         "valor_atual": 186,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-14T12:07:36.979215",
         "timestamp_anterior": "2026-10-06T21:41:50.982322",
         "tempo_desde_anterior_segundos": 656745
@@ -712,9 +750,170 @@
         "timestamp": "2026-10-06T21:41:50.982322",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "Influenciadores digital",
+        "timestamp": "2026-10-06T21:41:50.982322",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:34.444256",
+      "timestamp_anterior": "2026-11-03T12:11:21.383918",
+      "timestamp_atual": "2026-11-19T16:21:34.444256",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 2022884423,
+        "id": "17841402052702860",
+        "username": "fealvesoficial",
+        "nome": "Felipe Alves",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/899387317_18615436705068424_9125510304674466893_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GLWPmzWI9SQcpCJCAE3MSehFU6R_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43OTMuQzMifQ%3D%3D&_nc_ohc=a848mOmNHkgQ7kNvwGgWCt_&_nc_oc=AdqVaIkjoFZInQCb2gpUd17O4gMo5eJLpNLzDj20F_W0PwR55cr9_wdvDMwpfWMkYQK6YuLdP1Wmud44FSZ0UOjF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ESQ0HIHD-jnOTnwfguz5IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcZLetqW7F-qS1wIwho7bayoNdX6sn_Z2tOwg0CR-MIQ&oe=6B05377C",
+        "total_posts": 198
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [
+        {
+          "url": "https://youtu.be/pIX8OleTf5U?si=40zEzz-UPX0yBFxQ"
+        }
+      ],
+      "valor_atual": [
+        {
+          "url": "https://youtu.be/SxI_IVZR3ns"
+        }
+      ],
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397413.060338,
+        "texto": "16 dias e 4 horas e 10 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397413.060338,
+        "texto": "16 dias e 4 horas e 10 minutos e 13 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:34.444256",
+      "timestamp_anterior": "2026-11-03T12:11:21.383918",
+      "timestamp_atual": "2026-11-19T16:21:34.444256",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 2022884423,
+        "id": "17841402052702860",
+        "username": "fealvesoficial",
+        "nome": "Felipe Alves",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/899387317_18615436705068424_9125510304674466893_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GLWPmzWI9SQcpCJCAE3MSehFU6R_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43OTMuQzMifQ%3D%3D&_nc_ohc=a848mOmNHkgQ7kNvwGgWCt_&_nc_oc=AdqVaIkjoFZInQCb2gpUd17O4gMo5eJLpNLzDj20F_W0PwR55cr9_wdvDMwpfWMkYQK6YuLdP1Wmud44FSZ0UOjF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ESQ0HIHD-jnOTnwfguz5IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcZLetqW7F-qS1wIwho7bayoNdX6sn_Z2tOwg0CR-MIQ&oe=6B05377C",
+        "total_posts": 198
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 9085,
+      "valor_atual": 9152,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 67,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397413.060338,
+        "texto": "16 dias e 4 horas e 10 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Ganhou 67 seguidores",
+      "descricao": "Os seguidores passaram de 9.085 para 9.152",
+      "variacao_texto": "+67 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:34.444256",
+      "timestamp_anterior": "2026-11-03T12:11:21.383918",
+      "timestamp_atual": "2026-11-19T16:21:34.444256",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 2022884423,
+        "id": "17841402052702860",
+        "username": "fealvesoficial",
+        "nome": "Felipe Alves",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/899387317_18615436705068424_9125510304674466893_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GLWPmzWI9SQcpCJCAE3MSehFU6R_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43OTMuQzMifQ%3D%3D&_nc_ohc=a848mOmNHkgQ7kNvwGgWCt_&_nc_oc=AdqVaIkjoFZInQCb2gpUd17O4gMo5eJLpNLzDj20F_W0PwR55cr9_wdvDMwpfWMkYQK6YuLdP1Wmud44FSZ0UOjF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ESQ0HIHD-jnOTnwfguz5IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcZLetqW7F-qS1wIwho7bayoNdX6sn_Z2tOwg0CR-MIQ&oe=6B05377C",
+        "total_posts": 198
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 4663,
+      "valor_atual": 4688,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 25,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397413.060338,
+        "texto": "16 dias e 4 horas e 10 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 25 pessoas",
+      "descricao": "Estava seguindo 4.663 e passou a seguir 4.688",
+      "variacao_texto": "+25 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:34.444256",
+      "timestamp_anterior": "2026-11-03T12:11:21.383918",
+      "timestamp_atual": "2026-11-19T16:21:34.444256",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 2022884423,
+        "id": "17841402052702860",
+        "username": "fealvesoficial",
+        "nome": "Felipe Alves",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/899387317_18615436705068424_9125510304674466893_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GLWPmzWI9SQcpCJCAE3MSehFU6R_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43OTMuQzMifQ%3D%3D&_nc_ohc=a848mOmNHkgQ7kNvwGgWCt_&_nc_oc=AdqVaIkjoFZInQCb2gpUd17O4gMo5eJLpNLzDj20F_W0PwR55cr9_wdvDMwpfWMkYQK6YuLdP1Wmud44FSZ0UOjF&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ESQ0HIHD-jnOTnwfguz5IQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcZLetqW7F-qS1wIwho7bayoNdX6sn_Z2tOwg0CR-MIQ&oe=6B05377C",
+        "total_posts": 198
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 190,
+      "valor_atual": 198,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 8,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397413.060338,
+        "texto": "16 dias e 4 horas e 10 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 8 publicações",
+      "descricao": "O total mudou de 190 para 198",
+      "variacao_texto": "+8 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:11:21.383918",
@@ -727,15 +926,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550",
+        "total_posts": 190
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9074,
       "valor_atual": 9085,
-      "hash_anterior": "bb2df78c29c8077653d7d96038e2713bd470076325bc8150af3215edbfe2b508",
-      "hash_atual": "4277a82e9343e188e7a4ea9c3169a715dfb9c80f5253520e0d1bc3bedcb7c52c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -762,15 +962,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550",
+        "total_posts": 190
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4661,
       "valor_atual": 4663,
-      "hash_anterior": "bb2df78c29c8077653d7d96038e2713bd470076325bc8150af3215edbfe2b508",
-      "hash_atual": "4277a82e9343e188e7a4ea9c3169a715dfb9c80f5253520e0d1bc3bedcb7c52c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -797,15 +998,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GNPRWjQI5wqZeB9CABow0eEWFxNlbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=PDDAwoTVALwQ7kNvwGRlPLd&_nc_oc=AdqLvN2i-PdYAm0LZw5wmFFkrkIC60mUQILyerJdqyAzZxakAa5dA8swTtm6mjiiUOwdubaf7wemWpt-pB5jnPbR&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fp5_54uUxGopcfSGLh1Kqw&_nc_ss=70689&oh=00_AQT52fEmreRx04p6Idgw3FAwtn4eEb6_c-0WB9chmW6m_A&oe=6AEFC550",
+        "total_posts": 190
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 189,
       "valor_atual": 190,
-      "hash_anterior": "bb2df78c29c8077653d7d96038e2713bd470076325bc8150af3215edbfe2b508",
-      "hash_atual": "4277a82e9343e188e7a4ea9c3169a715dfb9c80f5253520e0d1bc3bedcb7c52c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -816,7 +1018,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 189 para 190",
       "variacao_texto": "+1 post"
     },
@@ -832,15 +1034,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=9iJL3FyLOpUQ7kNvwEuYkWu&_nc_oc=Adq-liLi1cj__0W1NQ7FCKZNApcFoytQmeja1XCMZUX2vnvly0lWJL8-8LVIAXAkaCG50C58LqW9NmEQfae183LG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSo-InyJIBTurhVQQVgrJg&_nc_ss=70689&oh=00_AQSiuoU9EkIAf7l1Scb6kZ3vXpbkRg0xG9fDR32G6iULwQ&oe=6AEAEFD0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=9iJL3FyLOpUQ7kNvwEuYkWu&_nc_oc=Adq-liLi1cj__0W1NQ7FCKZNApcFoytQmeja1XCMZUX2vnvly0lWJL8-8LVIAXAkaCG50C58LqW9NmEQfae183LG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSo-InyJIBTurhVQQVgrJg&_nc_ss=70689&oh=00_AQSiuoU9EkIAf7l1Scb6kZ3vXpbkRg0xG9fDR32G6iULwQ&oe=6AEAEFD0",
+        "total_posts": 189
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9035,
       "valor_atual": 9074,
-      "hash_anterior": "846b2648398b3cfb1fbfc25ca64643ea0cbe8918bc618f4146630ca6793c9871",
-      "hash_atual": "bb2df78c29c8077653d7d96038e2713bd470076325bc8150af3215edbfe2b508",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 39,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -867,15 +1070,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=9iJL3FyLOpUQ7kNvwEuYkWu&_nc_oc=Adq-liLi1cj__0W1NQ7FCKZNApcFoytQmeja1XCMZUX2vnvly0lWJL8-8LVIAXAkaCG50C58LqW9NmEQfae183LG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSo-InyJIBTurhVQQVgrJg&_nc_ss=70689&oh=00_AQSiuoU9EkIAf7l1Scb6kZ3vXpbkRg0xG9fDR32G6iULwQ&oe=6AEAEFD0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=9iJL3FyLOpUQ7kNvwEuYkWu&_nc_oc=Adq-liLi1cj__0W1NQ7FCKZNApcFoytQmeja1XCMZUX2vnvly0lWJL8-8LVIAXAkaCG50C58LqW9NmEQfae183LG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSo-InyJIBTurhVQQVgrJg&_nc_ss=70689&oh=00_AQSiuoU9EkIAf7l1Scb6kZ3vXpbkRg0xG9fDR32G6iULwQ&oe=6AEAEFD0",
+        "total_posts": 189
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4623,
       "valor_atual": 4661,
-      "hash_anterior": "846b2648398b3cfb1fbfc25ca64643ea0cbe8918bc618f4146630ca6793c9871",
-      "hash_atual": "bb2df78c29c8077653d7d96038e2713bd470076325bc8150af3215edbfe2b508",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 38,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -902,15 +1106,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=9iJL3FyLOpUQ7kNvwEuYkWu&_nc_oc=Adq-liLi1cj__0W1NQ7FCKZNApcFoytQmeja1XCMZUX2vnvly0lWJL8-8LVIAXAkaCG50C58LqW9NmEQfae183LG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSo-InyJIBTurhVQQVgrJg&_nc_ss=70689&oh=00_AQSiuoU9EkIAf7l1Scb6kZ3vXpbkRg0xG9fDR32G6iULwQ&oe=6AEAEFD0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/878367187_18611951287068424_7283190409433526298_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NDEuQzMifQ%3D%3D&_nc_ohc=9iJL3FyLOpUQ7kNvwEuYkWu&_nc_oc=Adq-liLi1cj__0W1NQ7FCKZNApcFoytQmeja1XCMZUX2vnvly0lWJL8-8LVIAXAkaCG50C58LqW9NmEQfae183LG&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YSo-InyJIBTurhVQQVgrJg&_nc_ss=70689&oh=00_AQSiuoU9EkIAf7l1Scb6kZ3vXpbkRg0xG9fDR32G6iULwQ&oe=6AEAEFD0",
+        "total_posts": 189
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 187,
       "valor_atual": 189,
-      "hash_anterior": "846b2648398b3cfb1fbfc25ca64643ea0cbe8918bc618f4146630ca6793c9871",
-      "hash_atual": "bb2df78c29c8077653d7d96038e2713bd470076325bc8150af3215edbfe2b508",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -921,7 +1126,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 187 para 189",
       "variacao_texto": "+2 posts"
     },
@@ -937,15 +1142,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHIxoTc&_nc_oc=Adp9YQRjtOYiiGfDSMNM3J4_U0tKesOzuASgLYe0QhQSC9A9GLkZa3iVQGNPSD-muNhfinwgyspVirtAa_bKbWJY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rw4L0Ldk6uW9FXm6xKb-Tw&_nc_ss=70689&oh=00_AQPF3mRXLqeyN_xkpKX9SO1iqVCuhLdJfUfrYSl-_u3mcQ&oe=6AE27720"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHIxoTc&_nc_oc=Adp9YQRjtOYiiGfDSMNM3J4_U0tKesOzuASgLYe0QhQSC9A9GLkZa3iVQGNPSD-muNhfinwgyspVirtAa_bKbWJY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rw4L0Ldk6uW9FXm6xKb-Tw&_nc_ss=70689&oh=00_AQPF3mRXLqeyN_xkpKX9SO1iqVCuhLdJfUfrYSl-_u3mcQ&oe=6AE27720",
+        "total_posts": 187
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9031,
       "valor_atual": 9035,
-      "hash_anterior": "15834826db325b3fbb79d58dade8cade1856d77de601262d33d0c76b8212917f",
-      "hash_atual": "846b2648398b3cfb1fbfc25ca64643ea0cbe8918bc618f4146630ca6793c9871",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -972,15 +1178,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHIxoTc&_nc_oc=Adp9YQRjtOYiiGfDSMNM3J4_U0tKesOzuASgLYe0QhQSC9A9GLkZa3iVQGNPSD-muNhfinwgyspVirtAa_bKbWJY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rw4L0Ldk6uW9FXm6xKb-Tw&_nc_ss=70689&oh=00_AQPF3mRXLqeyN_xkpKX9SO1iqVCuhLdJfUfrYSl-_u3mcQ&oe=6AE27720"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHIxoTc&_nc_oc=Adp9YQRjtOYiiGfDSMNM3J4_U0tKesOzuASgLYe0QhQSC9A9GLkZa3iVQGNPSD-muNhfinwgyspVirtAa_bKbWJY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Rw4L0Ldk6uW9FXm6xKb-Tw&_nc_ss=70689&oh=00_AQPF3mRXLqeyN_xkpKX9SO1iqVCuhLdJfUfrYSl-_u3mcQ&oe=6AE27720",
+        "total_posts": 187
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4622,
       "valor_atual": 4623,
-      "hash_anterior": "15834826db325b3fbb79d58dade8cade1856d77de601262d33d0c76b8212917f",
-      "hash_atual": "846b2648398b3cfb1fbfc25ca64643ea0cbe8918bc618f4146630ca6793c9871",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1007,15 +1214,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jnp8bRgCDlKVjcZkU5o92Q&_nc_ss=70689&oh=00_AQO1YuOLSNZtrmpt0YGc9PlJuFcgi3gZOSjlB2XINe41fg&oe=6AE07CE0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jnp8bRgCDlKVjcZkU5o92Q&_nc_ss=70689&oh=00_AQO1YuOLSNZtrmpt0YGc9PlJuFcgi3gZOSjlB2XINe41fg&oe=6AE07CE0",
+        "total_posts": 187
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4621,
       "valor_atual": 4622,
-      "hash_anterior": "ddb981124fba7b5b3358403aa067c9e16b5aa8313b531cd7e167b4c4e9b60683",
-      "hash_atual": "15834826db325b3fbb79d58dade8cade1856d77de601262d33d0c76b8212917f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1042,15 +1250,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=po6moUD0jtU9lrdDACF88g&_nc_ss=70689&oh=00_AQPV0fQbeLNqHB3Tug6FeiELiEi8PKREivqElQ1HH_CJVw&oe=6AE044A0"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eP0yDK-gdwQ7kNvwHBX-cm&_nc_oc=AdrHEnz_JmqLroLVxhb_g-00Q2MRMALuENODB7SOOr9B4UL9_pa6hXC9edX_F4dcIHTirGEtWFepUrptB36jxqCd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=po6moUD0jtU9lrdDACF88g&_nc_ss=70689&oh=00_AQPV0fQbeLNqHB3Tug6FeiELiEi8PKREivqElQ1HH_CJVw&oe=6AE044A0",
+        "total_posts": 187
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9030,
       "valor_atual": 9031,
-      "hash_anterior": "86873d17d300ef602c2bffc759ccd413e04eadada393f0d3b2010671a99d83d4",
-      "hash_atual": "ddb981124fba7b5b3358403aa067c9e16b5aa8313b531cd7e167b4c4e9b60683",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1077,15 +1286,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PjorNyfg02gQ7kNvwFa31J-&_nc_oc=Adq_glsZ74m0cb2ILbhIjGXN2vLmYGH7EVhKrItJ_C7PXVclx00LDYq39OgWb0K7KuvMfCwWCWimfIwO6nhK3Wsi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIJEntClfaoojHU8QC5SWQ&_nc_ss=70689&oh=00_AQOdcvWcFtCl_hP2jRk1oCW4Peoltf_na7HUp2gl6HzWKg&oe=6ADEF320"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PjorNyfg02gQ7kNvwFa31J-&_nc_oc=Adq_glsZ74m0cb2ILbhIjGXN2vLmYGH7EVhKrItJ_C7PXVclx00LDYq39OgWb0K7KuvMfCwWCWimfIwO6nhK3Wsi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIJEntClfaoojHU8QC5SWQ&_nc_ss=70689&oh=00_AQOdcvWcFtCl_hP2jRk1oCW4Peoltf_na7HUp2gl6HzWKg&oe=6ADEF320",
+        "total_posts": 187
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9025,
       "valor_atual": 9030,
-      "hash_anterior": "a307ebd7be91c4b1379d65bc22974fa15a5c7c672d02be8ac8269ab962bc001d",
-      "hash_atual": "86873d17d300ef602c2bffc759ccd413e04eadada393f0d3b2010671a99d83d4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1112,15 +1322,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PjorNyfg02gQ7kNvwFa31J-&_nc_oc=Adq_glsZ74m0cb2ILbhIjGXN2vLmYGH7EVhKrItJ_C7PXVclx00LDYq39OgWb0K7KuvMfCwWCWimfIwO6nhK3Wsi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIJEntClfaoojHU8QC5SWQ&_nc_ss=70689&oh=00_AQOdcvWcFtCl_hP2jRk1oCW4Peoltf_na7HUp2gl6HzWKg&oe=6ADEF320"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857779442_18608993026068424_7290138986679878437_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PjorNyfg02gQ7kNvwFa31J-&_nc_oc=Adq_glsZ74m0cb2ILbhIjGXN2vLmYGH7EVhKrItJ_C7PXVclx00LDYq39OgWb0K7KuvMfCwWCWimfIwO6nhK3Wsi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIJEntClfaoojHU8QC5SWQ&_nc_ss=70689&oh=00_AQOdcvWcFtCl_hP2jRk1oCW4Peoltf_na7HUp2gl6HzWKg&oe=6ADEF320",
+        "total_posts": 187
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4607,
       "valor_atual": 4621,
-      "hash_anterior": "a307ebd7be91c4b1379d65bc22974fa15a5c7c672d02be8ac8269ab962bc001d",
-      "hash_atual": "86873d17d300ef602c2bffc759ccd413e04eadada393f0d3b2010671a99d83d4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1147,15 +1358,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0HsOdM_9Uhk6WMU3YuG5Cg&_nc_ss=70689&oh=00_AQNo45Mtxd-q77bf2exDehRIKuUV-ObvCqA1jDeaF2PSpA&oe=6AD8AFE1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0HsOdM_9Uhk6WMU3YuG5Cg&_nc_ss=70689&oh=00_AQNo45Mtxd-q77bf2exDehRIKuUV-ObvCqA1jDeaF2PSpA&oe=6AD8AFE1",
+        "total_posts": 187
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9024,
       "valor_atual": 9025,
-      "hash_anterior": "f1992da572c87ce68d3e54214b4d8d435d6d41430b15f671f312b74def3dd0cf",
-      "hash_atual": "a307ebd7be91c4b1379d65bc22974fa15a5c7c672d02be8ac8269ab962bc001d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1182,15 +1394,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R6Qjbc8aCm4l9BqLQJVcGw&_nc_ss=70689&oh=00_AQPU4heINkj627mbZbf8y_dUqCE8d9Q-eHi4dYzhD7iZYw&oe=6AD83F61"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R6Qjbc8aCm4l9BqLQJVcGw&_nc_ss=70689&oh=00_AQPU4heINkj627mbZbf8y_dUqCE8d9Q-eHi4dYzhD7iZYw&oe=6AD83F61",
+        "total_posts": 187
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9022,
       "valor_atual": 9024,
-      "hash_anterior": "dc00b7a0ca230ec2592cc6d717b4212888c9ad4d1192dac10772bc7044c78436",
-      "hash_atual": "f1992da572c87ce68d3e54214b4d8d435d6d41430b15f671f312b74def3dd0cf",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1217,15 +1430,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R6Qjbc8aCm4l9BqLQJVcGw&_nc_ss=70689&oh=00_AQPU4heINkj627mbZbf8y_dUqCE8d9Q-eHi4dYzhD7iZYw&oe=6AD83F61"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R6Qjbc8aCm4l9BqLQJVcGw&_nc_ss=70689&oh=00_AQPU4heINkj627mbZbf8y_dUqCE8d9Q-eHi4dYzhD7iZYw&oe=6AD83F61",
+        "total_posts": 187
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4606,
       "valor_atual": 4607,
-      "hash_anterior": "dc00b7a0ca230ec2592cc6d717b4212888c9ad4d1192dac10772bc7044c78436",
-      "hash_atual": "f1992da572c87ce68d3e54214b4d8d435d6d41430b15f671f312b74def3dd0cf",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1252,15 +1466,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R6Qjbc8aCm4l9BqLQJVcGw&_nc_ss=70689&oh=00_AQPU4heINkj627mbZbf8y_dUqCE8d9Q-eHi4dYzhD7iZYw&oe=6AD83F61"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwFx1492&_nc_oc=AdrLJnZNQuep4G55-oxmKeZ35V-wO0fTmuUCdtFJFBJNArdTKb339X6UlVLyKWL25WNWSFSeWzepLLiUVotdhYEK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=R6Qjbc8aCm4l9BqLQJVcGw&_nc_ss=70689&oh=00_AQPU4heINkj627mbZbf8y_dUqCE8d9Q-eHi4dYzhD7iZYw&oe=6AD83F61",
+        "total_posts": 187
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 186,
       "valor_atual": 187,
-      "hash_anterior": "dc00b7a0ca230ec2592cc6d717b4212888c9ad4d1192dac10772bc7044c78436",
-      "hash_atual": "f1992da572c87ce68d3e54214b4d8d435d6d41430b15f671f312b74def3dd0cf",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1271,7 +1486,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 186 para 187",
       "variacao_texto": "+1 post"
     },
@@ -1287,15 +1502,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwGRvcV6&_nc_oc=AdrL1fCA9Ym8sBTkBQ03feQ_ovTC7s2sRYRx7bmwU5BXFKkVEipUxKq_z5dxXYhLntXgvFm8bbopoXq3wqsGGdaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_vuJJPfs8ZNFt0PBWpGijg&_nc_ss=70289&oh=00_AQPw-vXs2bNnecNSMBAJ2Rk5wxJfB5tZMCP9e3ikC4AJqQ&oe=6AD6EDE1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwGRvcV6&_nc_oc=AdrL1fCA9Ym8sBTkBQ03feQ_ovTC7s2sRYRx7bmwU5BXFKkVEipUxKq_z5dxXYhLntXgvFm8bbopoXq3wqsGGdaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_vuJJPfs8ZNFt0PBWpGijg&_nc_ss=70289&oh=00_AQPw-vXs2bNnecNSMBAJ2Rk5wxJfB5tZMCP9e3ikC4AJqQ&oe=6AD6EDE1",
+        "total_posts": 186
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9021,
       "valor_atual": 9022,
-      "hash_anterior": "612847864dfe98c4c2ae367a866fa1e789b28fe7ba04d49572e627da016beb89",
-      "hash_atual": "dc00b7a0ca230ec2592cc6d717b4212888c9ad4d1192dac10772bc7044c78436",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1322,15 +1538,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwGRvcV6&_nc_oc=AdrL1fCA9Ym8sBTkBQ03feQ_ovTC7s2sRYRx7bmwU5BXFKkVEipUxKq_z5dxXYhLntXgvFm8bbopoXq3wqsGGdaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nW0_gPH1RSHSm5NWG3a8QQ&_nc_ss=70689&oh=00_AQOXLsg7PMVGjOzAZyR4K9VZ9-nvv9yAEuHcJurf_8EX3A&oe=6AD6B5A1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwGRvcV6&_nc_oc=AdrL1fCA9Ym8sBTkBQ03feQ_ovTC7s2sRYRx7bmwU5BXFKkVEipUxKq_z5dxXYhLntXgvFm8bbopoXq3wqsGGdaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nW0_gPH1RSHSm5NWG3a8QQ&_nc_ss=70689&oh=00_AQOXLsg7PMVGjOzAZyR4K9VZ9-nvv9yAEuHcJurf_8EX3A&oe=6AD6B5A1",
+        "total_posts": 186
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9023,
       "valor_atual": 9021,
-      "hash_anterior": "4b279c7213addf87134e62ee4bfc4549da342b8dc63a79de6f9b79b060b46a7d",
-      "hash_atual": "612847864dfe98c4c2ae367a866fa1e789b28fe7ba04d49572e627da016beb89",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1357,15 +1574,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwGRvcV6&_nc_oc=AdrL1fCA9Ym8sBTkBQ03feQ_ovTC7s2sRYRx7bmwU5BXFKkVEipUxKq_z5dxXYhLntXgvFm8bbopoXq3wqsGGdaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nW0_gPH1RSHSm5NWG3a8QQ&_nc_ss=70689&oh=00_AQOXLsg7PMVGjOzAZyR4K9VZ9-nvv9yAEuHcJurf_8EX3A&oe=6AD6B5A1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=vQBLv1TOngEQ7kNvwGRvcV6&_nc_oc=AdrL1fCA9Ym8sBTkBQ03feQ_ovTC7s2sRYRx7bmwU5BXFKkVEipUxKq_z5dxXYhLntXgvFm8bbopoXq3wqsGGdaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nW0_gPH1RSHSm5NWG3a8QQ&_nc_ss=70689&oh=00_AQOXLsg7PMVGjOzAZyR4K9VZ9-nvv9yAEuHcJurf_8EX3A&oe=6AD6B5A1",
+        "total_posts": 186
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4605,
       "valor_atual": 4606,
-      "hash_anterior": "4b279c7213addf87134e62ee4bfc4549da342b8dc63a79de6f9b79b060b46a7d",
-      "hash_atual": "612847864dfe98c4c2ae367a866fa1e789b28fe7ba04d49572e627da016beb89",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1392,49 +1610,16 @@
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwE0mWSX&_nc_oc=AdojL1qmYCf1DvJYwD0p8y3i_D9oEDnGJPJnX275jLYR8sNIy8gaYubll4tHT5zbhDB03t52PlO_KsaAToZNc6a6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7SZ_BalMCqudYrR4Hfw3nw&_nc_ss=70689&oh=00_AQO6yEHJMUp8MUaOBrACzOeGfqJLg9pw-Dq9p8WOn1en1Q&oe=6AD60CE1"
-      },
-      "tipo": "categoria",
-      "campo": "categoria",
-      "nome_campo": "Categoria",
-      "valor_anterior": "Influenciadora digital",
-      "valor_atual": "Influenciadores digital",
-      "hash_anterior": "316e0cfa1ce554978caf0df9688200dff37d6e91ea090458a4d4feff067a2545",
-      "hash_atual": "4b279c7213addf87134e62ee4bfc4549da342b8dc63a79de6f9b79b060b46a7d",
-      "variacao": null,
-      "categoria": "perfil",
-      "tempo_desde_anterior": {
-        "segundos": 44160.390746,
-        "texto": "12 horas e 16 minutos"
-      },
-      "tempo_desde_ultimo_evento": {
-        "segundos": 44160.390746,
-        "texto": "12 horas e 16 minutos"
-      },
-      "titulo": "Alterou a categoria do perfil",
-      "descricao": "A categoria mudou de \"Influenciadora digital\" para \"Influenciadores digital\""
-    },
-    {
-      "plataforma": "instagram",
-      "timestamp": "2026-10-15T00:23:37.369961",
-      "timestamp_anterior": "2026-10-14T12:07:36.979215",
-      "timestamp_atual": "2026-10-15T00:23:37.369961",
-      "usuario": {
-        "plataforma": "instagram",
-        "categoria": "Influenciadores digital",
-        "pk": 2022884423,
-        "id": "17841402052702860",
-        "username": "fealvesoficial",
-        "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwE0mWSX&_nc_oc=AdojL1qmYCf1DvJYwD0p8y3i_D9oEDnGJPJnX275jLYR8sNIy8gaYubll4tHT5zbhDB03t52PlO_KsaAToZNc6a6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7SZ_BalMCqudYrR4Hfw3nw&_nc_ss=70689&oh=00_AQO6yEHJMUp8MUaOBrACzOeGfqJLg9pw-Dq9p8WOn1en1Q&oe=6AD60CE1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwE0mWSX&_nc_oc=AdojL1qmYCf1DvJYwD0p8y3i_D9oEDnGJPJnX275jLYR8sNIy8gaYubll4tHT5zbhDB03t52PlO_KsaAToZNc6a6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7SZ_BalMCqudYrR4Hfw3nw&_nc_ss=70689&oh=00_AQO6yEHJMUp8MUaOBrACzOeGfqJLg9pw-Dq9p8WOn1en1Q&oe=6AD60CE1",
+        "total_posts": 186
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9020,
       "valor_atual": 9023,
-      "hash_anterior": "316e0cfa1ce554978caf0df9688200dff37d6e91ea090458a4d4feff067a2545",
-      "hash_atual": "4b279c7213addf87134e62ee4bfc4549da342b8dc63a79de6f9b79b060b46a7d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1442,8 +1627,8 @@
         "texto": "12 horas e 16 minutos"
       },
       "tempo_desde_ultimo_evento": {
-        "segundos": 0.0,
-        "texto": "0 segundos"
+        "segundos": 44160.390746,
+        "texto": "12 horas e 16 minutos"
       },
       "titulo": "Ganhou 3 seguidores",
       "descricao": "Os seguidores passaram de 9.020 para 9.023",
@@ -1456,20 +1641,21 @@
       "timestamp_atual": "2026-10-14T12:07:36.979215",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHEIQVF&_nc_oc=AdqvvGFgpfnNM_hQot9atpJQh83z-7AwLy4Bn1NomvhDe8zMe_NsILpt4PzL_qUjSyknzPwo8T3BFHJufwGaZlM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c_p600cKEAhWs4pJY1lLIQ&_nc_ss=70689&oh=00_AQPOj_1xXvIq9o5DkykL54e0mGYQ7xwq_OmbQgJt4C4QYA&oe=6AD56421"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHEIQVF&_nc_oc=AdqvvGFgpfnNM_hQot9atpJQh83z-7AwLy4Bn1NomvhDe8zMe_NsILpt4PzL_qUjSyknzPwo8T3BFHJufwGaZlM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c_p600cKEAhWs4pJY1lLIQ&_nc_ss=70689&oh=00_AQPOj_1xXvIq9o5DkykL54e0mGYQ7xwq_OmbQgJt4C4QYA&oe=6AD56421",
+        "total_posts": 186
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9021,
       "valor_atual": 9020,
-      "hash_anterior": "ff1969ce3b187483587a7fc42c6295b783a357669304875f62cae8365d11183e",
-      "hash_atual": "316e0cfa1ce554978caf0df9688200dff37d6e91ea090458a4d4feff067a2545",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1491,20 +1677,21 @@
       "timestamp_atual": "2026-10-14T12:07:36.979215",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHEIQVF&_nc_oc=AdqvvGFgpfnNM_hQot9atpJQh83z-7AwLy4Bn1NomvhDe8zMe_NsILpt4PzL_qUjSyknzPwo8T3BFHJufwGaZlM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c_p600cKEAhWs4pJY1lLIQ&_nc_ss=70689&oh=00_AQPOj_1xXvIq9o5DkykL54e0mGYQ7xwq_OmbQgJt4C4QYA&oe=6AD56421"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHEIQVF&_nc_oc=AdqvvGFgpfnNM_hQot9atpJQh83z-7AwLy4Bn1NomvhDe8zMe_NsILpt4PzL_qUjSyknzPwo8T3BFHJufwGaZlM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c_p600cKEAhWs4pJY1lLIQ&_nc_ss=70689&oh=00_AQPOj_1xXvIq9o5DkykL54e0mGYQ7xwq_OmbQgJt4C4QYA&oe=6AD56421",
+        "total_posts": 186
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4606,
       "valor_atual": 4605,
-      "hash_anterior": "ff1969ce3b187483587a7fc42c6295b783a357669304875f62cae8365d11183e",
-      "hash_atual": "316e0cfa1ce554978caf0df9688200dff37d6e91ea090458a4d4feff067a2545",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1526,20 +1713,21 @@
       "timestamp_atual": "2026-10-14T12:07:36.979215",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHEIQVF&_nc_oc=AdqvvGFgpfnNM_hQot9atpJQh83z-7AwLy4Bn1NomvhDe8zMe_NsILpt4PzL_qUjSyknzPwo8T3BFHJufwGaZlM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c_p600cKEAhWs4pJY1lLIQ&_nc_ss=70689&oh=00_AQPOj_1xXvIq9o5DkykL54e0mGYQ7xwq_OmbQgJt4C4QYA&oe=6AD56421"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHEIQVF&_nc_oc=AdqvvGFgpfnNM_hQot9atpJQh83z-7AwLy4Bn1NomvhDe8zMe_NsILpt4PzL_qUjSyknzPwo8T3BFHJufwGaZlM9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=c_p600cKEAhWs4pJY1lLIQ&_nc_ss=70689&oh=00_AQPOj_1xXvIq9o5DkykL54e0mGYQ7xwq_OmbQgJt4C4QYA&oe=6AD56421",
+        "total_posts": 186
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 185,
       "valor_atual": 186,
-      "hash_anterior": "ff1969ce3b187483587a7fc42c6295b783a357669304875f62cae8365d11183e",
-      "hash_atual": "316e0cfa1ce554978caf0df9688200dff37d6e91ea090458a4d4feff067a2545",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1550,7 +1738,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 185 para 186",
       "variacao_texto": "+1 post"
     },
@@ -1561,20 +1749,21 @@
       "timestamp_atual": "2026-10-13T18:07:08.013645",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=An6QVLAUMezUwijFzXw13A&_nc_ss=70689&oh=00_AQNGpU-yVRPqfzjc0rvzH9Qpc74dgzwZr_3_9jqmDOk3ow&oe=6AD48321"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=An6QVLAUMezUwijFzXw13A&_nc_ss=70689&oh=00_AQNGpU-yVRPqfzjc0rvzH9Qpc74dgzwZr_3_9jqmDOk3ow&oe=6AD48321",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4605,
       "valor_atual": 4606,
-      "hash_anterior": "23e319e5a94b82a27e7dcf2837cfbdde0040715b59ce5ff796c7457eb9314e38",
-      "hash_atual": "ff1969ce3b187483587a7fc42c6295b783a357669304875f62cae8365d11183e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1596,20 +1785,21 @@
       "timestamp_atual": "2026-10-13T17:02:23.120861",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2kbpnalEiM6iF2M2CYtkg&_nc_ss=70689&oh=00_AQP3kG2Klz05_zkHZBkHNbMN4AMzEbQlA_yrNOPgzCUL4w&oe=6AD44AE1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2kbpnalEiM6iF2M2CYtkg&_nc_ss=70689&oh=00_AQP3kG2Klz05_zkHZBkHNbMN4AMzEbQlA_yrNOPgzCUL4w&oe=6AD44AE1",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4604,
       "valor_atual": 4605,
-      "hash_anterior": "2dde4e87df048110af945fd8e365cae004cf9532bda27eb286e10382918d27e4",
-      "hash_atual": "23e319e5a94b82a27e7dcf2837cfbdde0040715b59ce5ff796c7457eb9314e38",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1631,20 +1821,21 @@
       "timestamp_atual": "2026-10-13T15:57:39.907201",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VFcDCAZX3IwqETBVg7_rTQ&_nc_ss=70689&oh=00_AQPPJKCq_MzgG-lJ1gdLc4fEN5kXb46nFrPU3282HowajQ&oe=6AD44AE1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VFcDCAZX3IwqETBVg7_rTQ&_nc_ss=70689&oh=00_AQPPJKCq_MzgG-lJ1gdLc4fEN5kXb46nFrPU3282HowajQ&oe=6AD44AE1",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9018,
       "valor_atual": 9021,
-      "hash_anterior": "54dfeb1b9f2612e384103ae0f28c09c370af3cc79332ed785f58bf46abfa59f3",
-      "hash_atual": "2dde4e87df048110af945fd8e365cae004cf9532bda27eb286e10382918d27e4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1666,20 +1857,21 @@
       "timestamp_atual": "2026-10-13T15:57:39.907201",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VFcDCAZX3IwqETBVg7_rTQ&_nc_ss=70689&oh=00_AQPPJKCq_MzgG-lJ1gdLc4fEN5kXb46nFrPU3282HowajQ&oe=6AD44AE1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=1WkzfpcKZbMQ7kNvwHYMaxu&_nc_oc=AdrgeOHDr5erhM9azXpf9xINb1gKI8aTQc9OSvFfRAm9Vee9i1I5S9HW1Y4w6NbFcOSk7dp689xidF98fwDSbsRx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VFcDCAZX3IwqETBVg7_rTQ&_nc_ss=70689&oh=00_AQPPJKCq_MzgG-lJ1gdLc4fEN5kXb46nFrPU3282HowajQ&oe=6AD44AE1",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4596,
       "valor_atual": 4604,
-      "hash_anterior": "54dfeb1b9f2612e384103ae0f28c09c370af3cc79332ed785f58bf46abfa59f3",
-      "hash_atual": "2dde4e87df048110af945fd8e365cae004cf9532bda27eb286e10382918d27e4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1701,20 +1893,21 @@
       "timestamp_atual": "2026-10-11T11:05:37.603968",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFikPfq&_nc_oc=Ado1TST9Iw4Uhwq0ivaXQFb_0w3p_5a229iVKLX-FDH-hwizEaC37euibyBTRXCtsXZwQ2wCh6sXL3hoJNRvNNhv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uhuC34bWjRyr9vIgYeFB1w&_nc_ss=70689&oh=00_AQOAmY_yyo07DYeQP4ruzcX-tSDVTQs522HK7awgyf3bXQ&oe=6AD16FA1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFikPfq&_nc_oc=Ado1TST9Iw4Uhwq0ivaXQFb_0w3p_5a229iVKLX-FDH-hwizEaC37euibyBTRXCtsXZwQ2wCh6sXL3hoJNRvNNhv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uhuC34bWjRyr9vIgYeFB1w&_nc_ss=70689&oh=00_AQOAmY_yyo07DYeQP4ruzcX-tSDVTQs522HK7awgyf3bXQ&oe=6AD16FA1",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9012,
       "valor_atual": 9018,
-      "hash_anterior": "6316f654fb8236efd2cad1cac03100987d3238532e38b8b901fcb148a9659f3f",
-      "hash_atual": "54dfeb1b9f2612e384103ae0f28c09c370af3cc79332ed785f58bf46abfa59f3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1736,20 +1929,21 @@
       "timestamp_atual": "2026-10-11T11:05:37.603968",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFikPfq&_nc_oc=Ado1TST9Iw4Uhwq0ivaXQFb_0w3p_5a229iVKLX-FDH-hwizEaC37euibyBTRXCtsXZwQ2wCh6sXL3hoJNRvNNhv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uhuC34bWjRyr9vIgYeFB1w&_nc_ss=70689&oh=00_AQOAmY_yyo07DYeQP4ruzcX-tSDVTQs522HK7awgyf3bXQ&oe=6AD16FA1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFikPfq&_nc_oc=Ado1TST9Iw4Uhwq0ivaXQFb_0w3p_5a229iVKLX-FDH-hwizEaC37euibyBTRXCtsXZwQ2wCh6sXL3hoJNRvNNhv&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uhuC34bWjRyr9vIgYeFB1w&_nc_ss=70689&oh=00_AQOAmY_yyo07DYeQP4ruzcX-tSDVTQs522HK7awgyf3bXQ&oe=6AD16FA1",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4592,
       "valor_atual": 4596,
-      "hash_anterior": "6316f654fb8236efd2cad1cac03100987d3238532e38b8b901fcb148a9659f3f",
-      "hash_atual": "54dfeb1b9f2612e384103ae0f28c09c370af3cc79332ed785f58bf46abfa59f3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1771,20 +1965,21 @@
       "timestamp_atual": "2026-10-09T23:31:24.182687",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DhLv3USmfDitZS9-zGsVJw&_nc_ss=70689&oh=00_AQPPoGd18R__ClS0bAlzPx5eZDhz5GXgtwUdbFJz_GbfrQ&oe=6ACF7561"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DhLv3USmfDitZS9-zGsVJw&_nc_ss=70689&oh=00_AQPPoGd18R__ClS0bAlzPx5eZDhz5GXgtwUdbFJz_GbfrQ&oe=6ACF7561",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9011,
       "valor_atual": 9012,
-      "hash_anterior": "c614d3f222ab7bb1bc6371835f8108712c7b2582a7cffc660b71a2868866db74",
-      "hash_atual": "6316f654fb8236efd2cad1cac03100987d3238532e38b8b901fcb148a9659f3f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1806,20 +2001,21 @@
       "timestamp_atual": "2026-10-09T23:31:24.182687",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DhLv3USmfDitZS9-zGsVJw&_nc_ss=70689&oh=00_AQPPoGd18R__ClS0bAlzPx5eZDhz5GXgtwUdbFJz_GbfrQ&oe=6ACF7561"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DhLv3USmfDitZS9-zGsVJw&_nc_ss=70689&oh=00_AQPPoGd18R__ClS0bAlzPx5eZDhz5GXgtwUdbFJz_GbfrQ&oe=6ACF7561",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4591,
       "valor_atual": 4592,
-      "hash_anterior": "c614d3f222ab7bb1bc6371835f8108712c7b2582a7cffc660b71a2868866db74",
-      "hash_atual": "6316f654fb8236efd2cad1cac03100987d3238532e38b8b901fcb148a9659f3f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1841,20 +2037,21 @@
       "timestamp_atual": "2026-10-09T22:21:28.216162",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tzDWBxV2AVcUB15wRzO6xA&_nc_ss=70689&oh=00_AQOxP1Q_dR3MOhjjE8xBcuP8i4UvN9eXgCpj6zH-_djNIg&oe=6ACF7561"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tzDWBxV2AVcUB15wRzO6xA&_nc_ss=70689&oh=00_AQOxP1Q_dR3MOhjjE8xBcuP8i4UvN9eXgCpj6zH-_djNIg&oe=6ACF7561",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9006,
       "valor_atual": 9011,
-      "hash_anterior": "a5cf677fa6bd3f152dc5378bc53a81a0a0cc3184dff554e951b1f432e9494f63",
-      "hash_atual": "c614d3f222ab7bb1bc6371835f8108712c7b2582a7cffc660b71a2868866db74",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1876,20 +2073,21 @@
       "timestamp_atual": "2026-10-09T22:21:28.216162",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tzDWBxV2AVcUB15wRzO6xA&_nc_ss=70689&oh=00_AQOxP1Q_dR3MOhjjE8xBcuP8i4UvN9eXgCpj6zH-_djNIg&oe=6ACF7561"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwFPE8X4&_nc_oc=Adpsg1ouNQZi3jMeUH-CTum8MfPGm0QNcGKkN8ArQng_wPaC99TqIpGWtcLN9k6_BUa13PRxunKmbHCJ9Y3PSx6K&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tzDWBxV2AVcUB15wRzO6xA&_nc_ss=70689&oh=00_AQOxP1Q_dR3MOhjjE8xBcuP8i4UvN9eXgCpj6zH-_djNIg&oe=6ACF7561",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4589,
       "valor_atual": 4591,
-      "hash_anterior": "a5cf677fa6bd3f152dc5378bc53a81a0a0cc3184dff554e951b1f432e9494f63",
-      "hash_atual": "c614d3f222ab7bb1bc6371835f8108712c7b2582a7cffc660b71a2868866db74",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1911,20 +2109,21 @@
       "timestamp_atual": "2026-10-09T09:27:24.755396",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwEZe_6B&_nc_oc=AdoRyixhQPISbutnFPnTuWoasvtrc9KEPIGq0DSHwJKQvyqPnyMbvsojDII2CjChtyI5RQOKQMvcFCth8u_mZjRE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0VcnPD7_EicXWsFWued_tA&_nc_ss=70689&oh=00_AQMpj1Lh6ywTXpbCA4Lr3h4ZfOIf57K7rQYELF5p3paSzw&oe=6ACE9461"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwEZe_6B&_nc_oc=AdoRyixhQPISbutnFPnTuWoasvtrc9KEPIGq0DSHwJKQvyqPnyMbvsojDII2CjChtyI5RQOKQMvcFCth8u_mZjRE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0VcnPD7_EicXWsFWued_tA&_nc_ss=70689&oh=00_AQMpj1Lh6ywTXpbCA4Lr3h4ZfOIf57K7rQYELF5p3paSzw&oe=6ACE9461",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9004,
       "valor_atual": 9006,
-      "hash_anterior": "c6063fe27da1876097e2081f9b36425ecdfeb21a05a6936012d485ae9e442e48",
-      "hash_atual": "a5cf677fa6bd3f152dc5378bc53a81a0a0cc3184dff554e951b1f432e9494f63",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1946,20 +2145,21 @@
       "timestamp_atual": "2026-10-09T09:27:24.755396",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwEZe_6B&_nc_oc=AdoRyixhQPISbutnFPnTuWoasvtrc9KEPIGq0DSHwJKQvyqPnyMbvsojDII2CjChtyI5RQOKQMvcFCth8u_mZjRE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0VcnPD7_EicXWsFWued_tA&_nc_ss=70689&oh=00_AQMpj1Lh6ywTXpbCA4Lr3h4ZfOIf57K7rQYELF5p3paSzw&oe=6ACE9461"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=IhHTKNCht94Q7kNvwEZe_6B&_nc_oc=AdoRyixhQPISbutnFPnTuWoasvtrc9KEPIGq0DSHwJKQvyqPnyMbvsojDII2CjChtyI5RQOKQMvcFCth8u_mZjRE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0VcnPD7_EicXWsFWued_tA&_nc_ss=70689&oh=00_AQMpj1Lh6ywTXpbCA4Lr3h4ZfOIf57K7rQYELF5p3paSzw&oe=6ACE9461",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4588,
       "valor_atual": 4589,
-      "hash_anterior": "c6063fe27da1876097e2081f9b36425ecdfeb21a05a6936012d485ae9e442e48",
-      "hash_atual": "a5cf677fa6bd3f152dc5378bc53a81a0a0cc3184dff554e951b1f432e9494f63",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1981,20 +2181,21 @@
       "timestamp_atual": "2026-10-08T18:26:57.456658",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwFBKb2o&_nc_oc=AdqQn35NCjRBlJDBSMSZBgqsC1xebtP0MBA84-gCvCKd4ks3HchZaD7JN9Vdlgvve_V-dYT_N4t1YDonmqDOFcDa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=t3au3JEMriBfaD09ERR12Q&_nc_ss=70689&oh=00_AQPkzjKvR0hjJu_jqEBC26QrleVXQqyXluo8CLku-Ou2tg&oe=6ACDEBA1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwFBKb2o&_nc_oc=AdqQn35NCjRBlJDBSMSZBgqsC1xebtP0MBA84-gCvCKd4ks3HchZaD7JN9Vdlgvve_V-dYT_N4t1YDonmqDOFcDa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=t3au3JEMriBfaD09ERR12Q&_nc_ss=70689&oh=00_AQPkzjKvR0hjJu_jqEBC26QrleVXQqyXluo8CLku-Ou2tg&oe=6ACDEBA1",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9005,
       "valor_atual": 9004,
-      "hash_anterior": "082653f2b099b9a2d10bb6153ae77bcf768f2d9b4bf0e22728d7f140f30be61d",
-      "hash_atual": "c6063fe27da1876097e2081f9b36425ecdfeb21a05a6936012d485ae9e442e48",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2016,20 +2217,21 @@
       "timestamp_atual": "2026-10-08T18:26:57.456658",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwFBKb2o&_nc_oc=AdqQn35NCjRBlJDBSMSZBgqsC1xebtP0MBA84-gCvCKd4ks3HchZaD7JN9Vdlgvve_V-dYT_N4t1YDonmqDOFcDa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=t3au3JEMriBfaD09ERR12Q&_nc_ss=70689&oh=00_AQPkzjKvR0hjJu_jqEBC26QrleVXQqyXluo8CLku-Ou2tg&oe=6ACDEBA1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwFBKb2o&_nc_oc=AdqQn35NCjRBlJDBSMSZBgqsC1xebtP0MBA84-gCvCKd4ks3HchZaD7JN9Vdlgvve_V-dYT_N4t1YDonmqDOFcDa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=t3au3JEMriBfaD09ERR12Q&_nc_ss=70689&oh=00_AQPkzjKvR0hjJu_jqEBC26QrleVXQqyXluo8CLku-Ou2tg&oe=6ACDEBA1",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4591,
       "valor_atual": 4588,
-      "hash_anterior": "082653f2b099b9a2d10bb6153ae77bcf768f2d9b4bf0e22728d7f140f30be61d",
-      "hash_atual": "c6063fe27da1876097e2081f9b36425ecdfeb21a05a6936012d485ae9e442e48",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2051,20 +2253,21 @@
       "timestamp_atual": "2026-10-08T09:08:44.056793",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwH_a5fA&_nc_oc=AdrfKhQLmO4MThP2vSCJNnTBuMmbiGl0dx_CGIZcdCB6H16-HERbi9AZ4s2x2iPaUAbeRcGOqaOR9g-7OEZ93VNA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fdq9RkwaWVejU-l5NNsNw&_nc_ss=70689&oh=00_AQMXnDBv0xaLYSY-Flte36SDj92P0k1sHwBgjM2qqE4n8w&oe=6ACD42E1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwH_a5fA&_nc_oc=AdrfKhQLmO4MThP2vSCJNnTBuMmbiGl0dx_CGIZcdCB6H16-HERbi9AZ4s2x2iPaUAbeRcGOqaOR9g-7OEZ93VNA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fdq9RkwaWVejU-l5NNsNw&_nc_ss=70689&oh=00_AQMXnDBv0xaLYSY-Flte36SDj92P0k1sHwBgjM2qqE4n8w&oe=6ACD42E1",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9003,
       "valor_atual": 9005,
-      "hash_anterior": "6231b495a7f68a13450a288fed34487fec737be07ab9ed516ff81104ab099d53",
-      "hash_atual": "082653f2b099b9a2d10bb6153ae77bcf768f2d9b4bf0e22728d7f140f30be61d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2086,20 +2289,21 @@
       "timestamp_atual": "2026-10-08T09:08:44.056793",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwH_a5fA&_nc_oc=AdrfKhQLmO4MThP2vSCJNnTBuMmbiGl0dx_CGIZcdCB6H16-HERbi9AZ4s2x2iPaUAbeRcGOqaOR9g-7OEZ93VNA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fdq9RkwaWVejU-l5NNsNw&_nc_ss=70689&oh=00_AQMXnDBv0xaLYSY-Flte36SDj92P0k1sHwBgjM2qqE4n8w&oe=6ACD42E1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwH_a5fA&_nc_oc=AdrfKhQLmO4MThP2vSCJNnTBuMmbiGl0dx_CGIZcdCB6H16-HERbi9AZ4s2x2iPaUAbeRcGOqaOR9g-7OEZ93VNA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7fdq9RkwaWVejU-l5NNsNw&_nc_ss=70689&oh=00_AQMXnDBv0xaLYSY-Flte36SDj92P0k1sHwBgjM2qqE4n8w&oe=6ACD42E1",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4590,
       "valor_atual": 4591,
-      "hash_anterior": "6231b495a7f68a13450a288fed34487fec737be07ab9ed516ff81104ab099d53",
-      "hash_atual": "082653f2b099b9a2d10bb6153ae77bcf768f2d9b4bf0e22728d7f140f30be61d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2121,20 +2325,21 @@
       "timestamp_atual": "2026-10-07T19:17:32.063592",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwGq_xKW&_nc_oc=AdrwFqBJ9dHyvqz9VeSd-T06rrPklqEsiPyz65lOLsofF88tzr-axHNK6ecteXIZ_-U1NmbEVaMAIr2NlYV5U-6h&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XyRUgPtpFm0DgelNWTMg4g&_nc_ss=70689&oh=00_AQOGfdJifETu6ZBzc16oD1bS3b7o5R5Ppdnb-xsfdgKaMA&oe=6ACC9A21"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwGq_xKW&_nc_oc=AdrwFqBJ9dHyvqz9VeSd-T06rrPklqEsiPyz65lOLsofF88tzr-axHNK6ecteXIZ_-U1NmbEVaMAIr2NlYV5U-6h&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XyRUgPtpFm0DgelNWTMg4g&_nc_ss=70689&oh=00_AQOGfdJifETu6ZBzc16oD1bS3b7o5R5Ppdnb-xsfdgKaMA&oe=6ACC9A21",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9001,
       "valor_atual": 9003,
-      "hash_anterior": "ec68c1943de312441e4f305a554646a2dec707fac6e7adf898e1dd045c70c882",
-      "hash_atual": "6231b495a7f68a13450a288fed34487fec737be07ab9ed516ff81104ab099d53",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2156,20 +2361,21 @@
       "timestamp_atual": "2026-10-07T19:17:32.063592",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwGq_xKW&_nc_oc=AdrwFqBJ9dHyvqz9VeSd-T06rrPklqEsiPyz65lOLsofF88tzr-axHNK6ecteXIZ_-U1NmbEVaMAIr2NlYV5U-6h&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XyRUgPtpFm0DgelNWTMg4g&_nc_ss=70689&oh=00_AQOGfdJifETu6ZBzc16oD1bS3b7o5R5Ppdnb-xsfdgKaMA&oe=6ACC9A21"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwGq_xKW&_nc_oc=AdrwFqBJ9dHyvqz9VeSd-T06rrPklqEsiPyz65lOLsofF88tzr-axHNK6ecteXIZ_-U1NmbEVaMAIr2NlYV5U-6h&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XyRUgPtpFm0DgelNWTMg4g&_nc_ss=70689&oh=00_AQOGfdJifETu6ZBzc16oD1bS3b7o5R5Ppdnb-xsfdgKaMA&oe=6ACC9A21",
+        "total_posts": 185
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 4589,
       "valor_atual": 4590,
-      "hash_anterior": "ec68c1943de312441e4f305a554646a2dec707fac6e7adf898e1dd045c70c882",
-      "hash_atual": "6231b495a7f68a13450a288fed34487fec737be07ab9ed516ff81104ab099d53",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2191,20 +2397,21 @@
       "timestamp_atual": "2026-10-06T23:52:35.499532",
       "usuario": {
         "plataforma": "instagram",
-        "categoria": "Influenciadora digital",
+        "categoria": "Influenciadores digital",
         "pk": 2022884423,
         "id": "17841402052702860",
         "username": "fealvesoficial",
         "nome": "Felipe Alves",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwFvgjFP&_nc_oc=Adqx7lcnWEv1X8NbfJWt-GudKIW8s6KaniFt5V8IsFXjDVpmiZ4TxT9-A5ljIeOm8BfkS_PQ3_ch5VLEY8eS3WUt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_zUB-DHNAXc9ME9KcwMQug&_nc_ss=70689&oh=00_AQPwgFJstVYaeb6IFW020JNS-E1dGYWEbbHuAadGVISY4A&oe=6ACB80E1"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.75761-19/504491885_18494795098068424_6763502194020808520_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=5v8bancqNrsQ7kNvwFvgjFP&_nc_oc=Adqx7lcnWEv1X8NbfJWt-GudKIW8s6KaniFt5V8IsFXjDVpmiZ4TxT9-A5ljIeOm8BfkS_PQ3_ch5VLEY8eS3WUt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=_zUB-DHNAXc9ME9KcwMQug&_nc_ss=70689&oh=00_AQPwgFJstVYaeb6IFW020JNS-E1dGYWEbbHuAadGVISY4A&oe=6ACB80E1",
+        "total_posts": 185
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 9000,
       "valor_atual": 9001,
-      "hash_anterior": "1c495713042f2e3a4cbc437dd68f8254cd74f7b64da9a1f21bc2b1c0226c3989",
-      "hash_atual": "ec68c1943de312441e4f305a554646a2dec707fac6e7adf898e1dd045c70c882",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2223,34 +2430,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:50.982322",
-    "captura_mais_recente": "2026-11-03T12:11:21.383918",
-    "tempo_total_segundos": 2384970,
-    "tempo_total_dias": 27.603819,
-    "tempo_total_texto": "27 dias, 14 horas, 29 minutos e 30 segundos",
+    "captura_mais_recente": "2026-11-19T16:21:34.444256",
+    "tempo_total_segundos": 3782383,
+    "tempo_total_dias": 43.777581,
+    "tempo_total_texto": "43 dias, 18 horas, 39 minutos e 43 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 50,
+    "1_dias": {
+      "variacao": 67,
       "direcao": "ganhou",
-      "quantidade": 50,
-      "texto": "Ganhou 50 seguidores",
+      "quantidade": 67,
+      "texto": "Ganhou 67 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:00:11.916288",
-      "captura_fim": "2026-11-03T12:11:21.383918",
-      "seguidores_inicio": 9035,
-      "seguidores_fim": 9085
+      "captura_inicio": "2026-11-03T12:11:21.383918",
+      "captura_fim": "2026-11-19T16:21:34.444256",
+      "seguidores_inicio": 9085,
+      "seguidores_fim": 9152
+    },
+    "7_dias": {
+      "variacao": 67,
+      "direcao": "ganhou",
+      "quantidade": 67,
+      "texto": "Ganhou 67 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:11:21.383918",
+      "captura_fim": "2026-11-19T16:21:34.444256",
+      "seguidores_inicio": 9085,
+      "seguidores_fim": 9152
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 127,
+      "direcao": "ganhou",
+      "quantidade": 127,
+      "texto": "Ganhou 127 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:23:56.974167",
+      "captura_fim": "2026-11-19T16:21:34.444256",
+      "seguidores_inicio": 9025,
+      "seguidores_fim": 9152
     },
     "90_dias": {
       "variacao": null,
@@ -2261,17 +2484,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 85,
+      "variacao": 152,
       "direcao": "ganhou",
-      "quantidade": 85,
-      "texto": "Ganhou 85 seguidores",
+      "quantidade": 152,
+      "texto": "Ganhou 152 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:50.982322",
-      "captura_mais_recente": "2026-11-03T12:11:21.383918",
-      "tempo_total_dias": 27.603824,
+      "captura_mais_recente": "2026-11-19T16:21:34.444256",
+      "tempo_total_dias": 43.777586,
       "seguidores_inicio": 9000,
-      "seguidores_fim": 9085
+      "seguidores_fim": 9152
     }
   }
 }

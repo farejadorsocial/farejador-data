@@ -8,7 +8,8 @@
       "id": "17841401470818365",
       "username": "rikardonegro",
       "nome": "Rikardo Negro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwH78xhp&_nc_oc=AdoFZcxDzp63ewXVPiTLB7bEIkgiEg9g6Md2_N3U2LmP0rM7TdshdhS07Awi0v-dKG_NqVo0Sepcs3qa58S2panx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DCB2P1D23PO-8R4-rsRu5A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSBbNhVa2SPwc-Teo4TIKHchHhYfoPCQyC0HhxUl-MDTg&oe=6B050A8A",
+      "total_posts": 178
     },
     "biografia": [
       {
@@ -16,16 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "Influenciador e Modelo\nA Fazenda 18 • #TeamRikardo 🏀\n📧 Rikardocardosoctt@gmail.com",
-        "timestamp": "2026-10-05T19:17:09.488183",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "fazenda 2026",
         "timestamp": "2026-10-05T19:17:09.488183",
         "tipo": "inicial"
       }
@@ -85,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 178204,
+        "valor_atual": 182546,
+        "variacao": 4342,
+        "direcao": "aumento",
+        "descricao": "+4342 seguidores",
+        "timestamp": "2026-11-19T16:25:41.004864",
+        "timestamp_anterior": "2026-11-03T12:15:42.660395",
+        "tempo_desde_anterior_segundos": 1397398
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -398,6 +402,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 1597,
+        "valor_atual": 1630,
+        "variacao": 33,
+        "direcao": "aumento",
+        "descricao": "Seguiu +33",
+        "timestamp": "2026-11-19T16:25:41.004864",
+        "timestamp_anterior": "2026-11-03T12:15:42.660395",
+        "tempo_desde_anterior_segundos": 1397398
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 1593,
         "valor_atual": 1597,
         "variacao": 4,
@@ -574,11 +591,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 150,
+        "valor_atual": 178,
+        "variacao": 28,
+        "direcao": "aumento",
+        "descricao": "+28 publicações",
+        "timestamp": "2026-11-19T16:25:41.004864",
+        "timestamp_anterior": "2026-11-03T12:15:42.660395",
+        "tempo_desde_anterior_segundos": 1397398
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 147,
         "valor_atual": 150,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-11-03T12:15:42.660395",
         "timestamp_anterior": "2026-10-30T20:14:23.193353",
         "tempo_desde_anterior_segundos": 316879
@@ -591,7 +621,7 @@
         "valor_atual": 147,
         "variacao": 7,
         "direcao": "aumento",
-        "descricao": "+7 posts",
+        "descricao": "+7 publicações",
         "timestamp": "2026-10-30T20:14:23.193353",
         "timestamp_anterior": "2026-10-24T11:04:11.292388",
         "tempo_desde_anterior_segundos": 551411
@@ -604,7 +634,7 @@
         "valor_atual": 140,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-24T11:04:11.292388",
         "timestamp_anterior": "2026-10-21T17:40:15.133420",
         "tempo_desde_anterior_segundos": 235436
@@ -617,7 +647,7 @@
         "valor_atual": 139,
         "variacao": 4,
         "direcao": "aumento",
-        "descricao": "+4 posts",
+        "descricao": "+4 publicações",
         "timestamp": "2026-10-21T17:40:15.133420",
         "timestamp_anterior": "2026-10-16T23:27:52.319378",
         "tempo_desde_anterior_segundos": 411142
@@ -630,7 +660,7 @@
         "valor_atual": 135,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-16T23:27:52.319378",
         "timestamp_anterior": "2026-10-16T13:58:16.473327",
         "tempo_desde_anterior_segundos": 34175
@@ -643,7 +673,7 @@
         "valor_atual": 134,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-16T13:58:16.473327",
         "timestamp_anterior": "2026-10-14T12:09:53.527246",
         "tempo_desde_anterior_segundos": 179302
@@ -656,7 +686,7 @@
         "valor_atual": 131,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-14T12:09:53.527246",
         "timestamp_anterior": "2026-10-13T15:59:59.262738",
         "tempo_desde_anterior_segundos": 72594
@@ -669,7 +699,7 @@
         "valor_atual": 130,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-13T15:59:59.262738",
         "timestamp_anterior": "2026-10-11T11:07:33.049272",
         "tempo_desde_anterior_segundos": 190346
@@ -682,7 +712,7 @@
         "valor_atual": 128,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-11T11:07:33.049272",
         "timestamp_anterior": "2026-10-09T22:26:42.310509",
         "tempo_desde_anterior_segundos": 132050
@@ -695,7 +725,7 @@
         "valor_atual": 127,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-09T22:26:42.310509",
         "timestamp_anterior": "2026-10-06T21:47:05.714760",
         "tempo_desde_anterior_segundos": 261576
@@ -708,7 +738,7 @@
         "valor_atual": 125,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T21:47:05.714760",
         "timestamp_anterior": "2026-10-06T19:08:53.189631",
         "tempo_desde_anterior_segundos": 9492
@@ -721,7 +751,7 @@
         "valor_atual": 124,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-06T19:08:53.189631",
         "timestamp_anterior": "2026-10-05T19:17:09.488183",
         "tempo_desde_anterior_segundos": 85903
@@ -764,9 +794,127 @@
         "timestamp": "2026-10-05T19:17:09.488183",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "fazenda 2026",
+        "timestamp": "2026-10-05T19:17:09.488183",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:25:41.004864",
+      "timestamp_anterior": "2026-11-03T12:15:42.660395",
+      "timestamp_atual": "2026-11-19T16:25:41.004864",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 535409027,
+        "id": "17841401470818365",
+        "username": "rikardonegro",
+        "nome": "Rikardo Negro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwH78xhp&_nc_oc=AdoFZcxDzp63ewXVPiTLB7bEIkgiEg9g6Md2_N3U2LmP0rM7TdshdhS07Awi0v-dKG_NqVo0Sepcs3qa58S2panx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DCB2P1D23PO-8R4-rsRu5A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSBbNhVa2SPwc-Teo4TIKHchHhYfoPCQyC0HhxUl-MDTg&oe=6B050A8A",
+        "total_posts": 178
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 178204,
+      "valor_atual": 182546,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 4342,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397398.344469,
+        "texto": "16 dias e 4 horas e 9 minutos e 58 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397398.344469,
+        "texto": "16 dias e 4 horas e 9 minutos e 58 segundos"
+      },
+      "titulo": "Ganhou 4.342 seguidores",
+      "descricao": "Os seguidores passaram de 178.204 para 182.546",
+      "variacao_texto": "+4.342 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:25:41.004864",
+      "timestamp_anterior": "2026-11-03T12:15:42.660395",
+      "timestamp_atual": "2026-11-19T16:25:41.004864",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 535409027,
+        "id": "17841401470818365",
+        "username": "rikardonegro",
+        "nome": "Rikardo Negro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwH78xhp&_nc_oc=AdoFZcxDzp63ewXVPiTLB7bEIkgiEg9g6Md2_N3U2LmP0rM7TdshdhS07Awi0v-dKG_NqVo0Sepcs3qa58S2panx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DCB2P1D23PO-8R4-rsRu5A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSBbNhVa2SPwc-Teo4TIKHchHhYfoPCQyC0HhxUl-MDTg&oe=6B050A8A",
+        "total_posts": 178
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 1597,
+      "valor_atual": 1630,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 33,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397398.344469,
+        "texto": "16 dias e 4 horas e 9 minutos e 58 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 33 pessoas",
+      "descricao": "Estava seguindo 1.597 e passou a seguir 1.630",
+      "variacao_texto": "+33 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:25:41.004864",
+      "timestamp_anterior": "2026-11-03T12:15:42.660395",
+      "timestamp_atual": "2026-11-19T16:25:41.004864",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 535409027,
+        "id": "17841401470818365",
+        "username": "rikardonegro",
+        "nome": "Rikardo Negro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwH78xhp&_nc_oc=AdoFZcxDzp63ewXVPiTLB7bEIkgiEg9g6Md2_N3U2LmP0rM7TdshdhS07Awi0v-dKG_NqVo0Sepcs3qa58S2panx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DCB2P1D23PO-8R4-rsRu5A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSBbNhVa2SPwc-Teo4TIKHchHhYfoPCQyC0HhxUl-MDTg&oe=6B050A8A",
+        "total_posts": 178
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 150,
+      "valor_atual": 178,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 28,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397398.344469,
+        "texto": "16 dias e 4 horas e 9 minutos e 58 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 28 publicações",
+      "descricao": "O total mudou de 150 para 178",
+      "variacao_texto": "+28 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:15:42.660395",
@@ -779,15 +927,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7",
+        "total_posts": 150
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178146,
       "valor_atual": 178204,
-      "hash_anterior": "554dfc34e8c57a0b8821e8d625fba309068d2c00a774bba5be315dce6a76547b",
-      "hash_atual": "38949c364b18c54fec4f0db01e4151925d20445c1bbda7be8ad627ca339c42be",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 58,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -814,15 +963,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7",
+        "total_posts": 150
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1593,
       "valor_atual": 1597,
-      "hash_anterior": "554dfc34e8c57a0b8821e8d625fba309068d2c00a774bba5be315dce6a76547b",
-      "hash_atual": "38949c364b18c54fec4f0db01e4151925d20445c1bbda7be8ad627ca339c42be",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -849,15 +999,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDodjDIEbqob6jRCANPKiqweq8kObmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8ccfOOlJwXQQ7kNvwEZ3H73&_nc_oc=AdoU2AmGqkQ8a7fU5x7FYvb4NODlj_pj1QfppAll1CJ_UB5JEatbWnY2-YYIDGz37GLCQLIDdDJkpbTlvttxRdJJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9GY0vRBh8zfOhnOn7Wy_pw&_nc_ss=70689&oh=00_AQThMBmedZqjarFyfhfz6HevWr9_3mO9PzYsN4W5X-mErQ&oe=6AEFCBF7",
+        "total_posts": 150
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 147,
       "valor_atual": 150,
-      "hash_anterior": "554dfc34e8c57a0b8821e8d625fba309068d2c00a774bba5be315dce6a76547b",
-      "hash_atual": "38949c364b18c54fec4f0db01e4151925d20445c1bbda7be8ad627ca339c42be",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -868,7 +1019,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 147 para 150",
       "variacao_texto": "+3 posts"
     },
@@ -884,15 +1035,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=EtQbhRL-RjUQ7kNvwFCFhve&_nc_oc=AdoYsRQtJsBsm0G9-cOMYW2j7TYyEvlswq7dFA98OMsEVYe1aJZC_CLBq2xFd505JXhZCHzk9j__BoKHDKWf5zk7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fvivGIcncUqSHIhpn7-grA&_nc_ss=70689&oh=00_AQRXvcWsnPL76F611oNUEhQ0D2xNuODJsr1c0Su5UbvyDg&oe=6AEAF677"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=EtQbhRL-RjUQ7kNvwFCFhve&_nc_oc=AdoYsRQtJsBsm0G9-cOMYW2j7TYyEvlswq7dFA98OMsEVYe1aJZC_CLBq2xFd505JXhZCHzk9j__BoKHDKWf5zk7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fvivGIcncUqSHIhpn7-grA&_nc_ss=70689&oh=00_AQRXvcWsnPL76F611oNUEhQ0D2xNuODJsr1c0Su5UbvyDg&oe=6AEAF677",
+        "total_posts": 147
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178652,
       "valor_atual": 178146,
-      "hash_anterior": "46840f318b1129d4868534261fcdcb379e90b140216cdc454da9de8c3ba32744",
-      "hash_atual": "554dfc34e8c57a0b8821e8d625fba309068d2c00a774bba5be315dce6a76547b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -506,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -919,15 +1071,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=EtQbhRL-RjUQ7kNvwFCFhve&_nc_oc=AdoYsRQtJsBsm0G9-cOMYW2j7TYyEvlswq7dFA98OMsEVYe1aJZC_CLBq2xFd505JXhZCHzk9j__BoKHDKWf5zk7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fvivGIcncUqSHIhpn7-grA&_nc_ss=70689&oh=00_AQRXvcWsnPL76F611oNUEhQ0D2xNuODJsr1c0Su5UbvyDg&oe=6AEAF677"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=EtQbhRL-RjUQ7kNvwFCFhve&_nc_oc=AdoYsRQtJsBsm0G9-cOMYW2j7TYyEvlswq7dFA98OMsEVYe1aJZC_CLBq2xFd505JXhZCHzk9j__BoKHDKWf5zk7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fvivGIcncUqSHIhpn7-grA&_nc_ss=70689&oh=00_AQRXvcWsnPL76F611oNUEhQ0D2xNuODJsr1c0Su5UbvyDg&oe=6AEAF677",
+        "total_posts": 147
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1592,
       "valor_atual": 1593,
-      "hash_anterior": "46840f318b1129d4868534261fcdcb379e90b140216cdc454da9de8c3ba32744",
-      "hash_atual": "554dfc34e8c57a0b8821e8d625fba309068d2c00a774bba5be315dce6a76547b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -954,15 +1107,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=EtQbhRL-RjUQ7kNvwFCFhve&_nc_oc=AdoYsRQtJsBsm0G9-cOMYW2j7TYyEvlswq7dFA98OMsEVYe1aJZC_CLBq2xFd505JXhZCHzk9j__BoKHDKWf5zk7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fvivGIcncUqSHIhpn7-grA&_nc_ss=70689&oh=00_AQRXvcWsnPL76F611oNUEhQ0D2xNuODJsr1c0Su5UbvyDg&oe=6AEAF677"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=EtQbhRL-RjUQ7kNvwFCFhve&_nc_oc=AdoYsRQtJsBsm0G9-cOMYW2j7TYyEvlswq7dFA98OMsEVYe1aJZC_CLBq2xFd505JXhZCHzk9j__BoKHDKWf5zk7&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fvivGIcncUqSHIhpn7-grA&_nc_ss=70689&oh=00_AQRXvcWsnPL76F611oNUEhQ0D2xNuODJsr1c0Su5UbvyDg&oe=6AEAF677",
+        "total_posts": 147
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 140,
       "valor_atual": 147,
-      "hash_anterior": "46840f318b1129d4868534261fcdcb379e90b140216cdc454da9de8c3ba32744",
-      "hash_atual": "554dfc34e8c57a0b8821e8d625fba309068d2c00a774bba5be315dce6a76547b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -973,7 +1127,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 7 posts",
+      "titulo": "Publicou 7 publicações",
       "descricao": "O total mudou de 140 para 147",
       "variacao_texto": "+7 posts"
     },
@@ -989,15 +1143,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJToN8G2MckQ7kNvwEey6hz&_nc_oc=AdqBaZa838bwgONg8d5lPH_6NNRlH5DWWlIv0-JqdS7IghYPUx1b301qdhXYKNqbc0B07gVFBpLRJDCFQWdEslui&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UKUDhhPnFxoFc1Kc42Q5mA&_nc_ss=70689&oh=00_AQPahy1xe22PVZqlkkRTmqPh_mq2egYbo7xyXH-NM1no3Q&oe=6AE29CF7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJToN8G2MckQ7kNvwEey6hz&_nc_oc=AdqBaZa838bwgONg8d5lPH_6NNRlH5DWWlIv0-JqdS7IghYPUx1b301qdhXYKNqbc0B07gVFBpLRJDCFQWdEslui&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UKUDhhPnFxoFc1Kc42Q5mA&_nc_ss=70689&oh=00_AQPahy1xe22PVZqlkkRTmqPh_mq2egYbo7xyXH-NM1no3Q&oe=6AE29CF7",
+        "total_posts": 140
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178641,
       "valor_atual": 178652,
-      "hash_anterior": "78c8c807fb592c3df79a8a7829672db9e90f80a50c97099497120875cce80b1a",
-      "hash_atual": "46840f318b1129d4868534261fcdcb379e90b140216cdc454da9de8c3ba32744",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1024,15 +1179,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJToN8G2MckQ7kNvwEey6hz&_nc_oc=AdqBaZa838bwgONg8d5lPH_6NNRlH5DWWlIv0-JqdS7IghYPUx1b301qdhXYKNqbc0B07gVFBpLRJDCFQWdEslui&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UKUDhhPnFxoFc1Kc42Q5mA&_nc_ss=70689&oh=00_AQPahy1xe22PVZqlkkRTmqPh_mq2egYbo7xyXH-NM1no3Q&oe=6AE29CF7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJToN8G2MckQ7kNvwEey6hz&_nc_oc=AdqBaZa838bwgONg8d5lPH_6NNRlH5DWWlIv0-JqdS7IghYPUx1b301qdhXYKNqbc0B07gVFBpLRJDCFQWdEslui&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UKUDhhPnFxoFc1Kc42Q5mA&_nc_ss=70689&oh=00_AQPahy1xe22PVZqlkkRTmqPh_mq2egYbo7xyXH-NM1no3Q&oe=6AE29CF7",
+        "total_posts": 140
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1589,
       "valor_atual": 1592,
-      "hash_anterior": "78c8c807fb592c3df79a8a7829672db9e90f80a50c97099497120875cce80b1a",
-      "hash_atual": "46840f318b1129d4868534261fcdcb379e90b140216cdc454da9de8c3ba32744",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1059,15 +1215,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJToN8G2MckQ7kNvwEey6hz&_nc_oc=AdqBaZa838bwgONg8d5lPH_6NNRlH5DWWlIv0-JqdS7IghYPUx1b301qdhXYKNqbc0B07gVFBpLRJDCFQWdEslui&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UKUDhhPnFxoFc1Kc42Q5mA&_nc_ss=70689&oh=00_AQPahy1xe22PVZqlkkRTmqPh_mq2egYbo7xyXH-NM1no3Q&oe=6AE29CF7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pJToN8G2MckQ7kNvwEey6hz&_nc_oc=AdqBaZa838bwgONg8d5lPH_6NNRlH5DWWlIv0-JqdS7IghYPUx1b301qdhXYKNqbc0B07gVFBpLRJDCFQWdEslui&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UKUDhhPnFxoFc1Kc42Q5mA&_nc_ss=70689&oh=00_AQPahy1xe22PVZqlkkRTmqPh_mq2egYbo7xyXH-NM1no3Q&oe=6AE29CF7",
+        "total_posts": 140
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 139,
       "valor_atual": 140,
-      "hash_anterior": "78c8c807fb592c3df79a8a7829672db9e90f80a50c97099497120875cce80b1a",
-      "hash_atual": "46840f318b1129d4868534261fcdcb379e90b140216cdc454da9de8c3ba32744",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1078,7 +1235,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 139 para 140",
       "variacao_texto": "+1 post"
     },
@@ -1094,15 +1251,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwF9IRuv&_nc_oc=AdoiCEIcGR5vK85ZzWCUNg0l6AQa9I2M022K92hpfUq1pLDocnclowePFwd9cjctdGA2uh9xvMqF6Sl1BBEWEPud&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8W69Qzck8yUrvtpJQCmEPw&_nc_ss=70689&oh=00_AQPR84LbXDfJ6eDtJLhmWo1X0tbONUlN5uLKwpsgW4-V4A&oe=6AE14B77"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwF9IRuv&_nc_oc=AdoiCEIcGR5vK85ZzWCUNg0l6AQa9I2M022K92hpfUq1pLDocnclowePFwd9cjctdGA2uh9xvMqF6Sl1BBEWEPud&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8W69Qzck8yUrvtpJQCmEPw&_nc_ss=70689&oh=00_AQPR84LbXDfJ6eDtJLhmWo1X0tbONUlN5uLKwpsgW4-V4A&oe=6AE14B77",
+        "total_posts": 139
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178537,
       "valor_atual": 178641,
-      "hash_anterior": "61f502c5e18db46e896f97e705f08d9f89368b0d55c0c289f227288021c7cbd3",
-      "hash_atual": "78c8c807fb592c3df79a8a7829672db9e90f80a50c97099497120875cce80b1a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 104,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1129,15 +1287,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwF9IRuv&_nc_oc=AdoiCEIcGR5vK85ZzWCUNg0l6AQa9I2M022K92hpfUq1pLDocnclowePFwd9cjctdGA2uh9xvMqF6Sl1BBEWEPud&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8W69Qzck8yUrvtpJQCmEPw&_nc_ss=70689&oh=00_AQPR84LbXDfJ6eDtJLhmWo1X0tbONUlN5uLKwpsgW4-V4A&oe=6AE14B77"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwF9IRuv&_nc_oc=AdoiCEIcGR5vK85ZzWCUNg0l6AQa9I2M022K92hpfUq1pLDocnclowePFwd9cjctdGA2uh9xvMqF6Sl1BBEWEPud&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8W69Qzck8yUrvtpJQCmEPw&_nc_ss=70689&oh=00_AQPR84LbXDfJ6eDtJLhmWo1X0tbONUlN5uLKwpsgW4-V4A&oe=6AE14B77",
+        "total_posts": 139
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1588,
       "valor_atual": 1589,
-      "hash_anterior": "61f502c5e18db46e896f97e705f08d9f89368b0d55c0c289f227288021c7cbd3",
-      "hash_atual": "78c8c807fb592c3df79a8a7829672db9e90f80a50c97099497120875cce80b1a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1164,15 +1323,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=luCDiOG2ssRMkV-RRAq75A&_nc_ss=70689&oh=00_AQPpGosrwXopXCDVtcv3jNcImmdWeKb_hzL0RObnVg05sw&oe=6ADEE0B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=luCDiOG2ssRMkV-RRAq75A&_nc_ss=70689&oh=00_AQPpGosrwXopXCDVtcv3jNcImmdWeKb_hzL0RObnVg05sw&oe=6ADEE0B7",
+        "total_posts": 139
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178535,
       "valor_atual": 178537,
-      "hash_anterior": "295cbf482de4e0fc08aa4004e4f3939827f7331d65d74b52b18eb11d8fb767a1",
-      "hash_atual": "61f502c5e18db46e896f97e705f08d9f89368b0d55c0c289f227288021c7cbd3",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1199,15 +1359,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xhhl8ND8Nx0qEtlDrk-eKA&_nc_ss=70689&oh=00_AQNNn23zoxHWBroN3q2BKllPYfgBMz_LhqDr2rTMA8T3UA&oe=6ADEE0B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xhhl8ND8Nx0qEtlDrk-eKA&_nc_ss=70689&oh=00_AQNNn23zoxHWBroN3q2BKllPYfgBMz_LhqDr2rTMA8T3UA&oe=6ADEE0B7",
+        "total_posts": 139
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178630,
       "valor_atual": 178535,
-      "hash_anterior": "cb8f3e2c1d1a66201014af79ad8f7acf8a69eeb0b322fb00bacfc0edfa37b874",
-      "hash_atual": "295cbf482de4e0fc08aa4004e4f3939827f7331d65d74b52b18eb11d8fb767a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -95,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1234,15 +1395,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xhhl8ND8Nx0qEtlDrk-eKA&_nc_ss=70689&oh=00_AQNNn23zoxHWBroN3q2BKllPYfgBMz_LhqDr2rTMA8T3UA&oe=6ADEE0B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xhhl8ND8Nx0qEtlDrk-eKA&_nc_ss=70689&oh=00_AQNNn23zoxHWBroN3q2BKllPYfgBMz_LhqDr2rTMA8T3UA&oe=6ADEE0B7",
+        "total_posts": 139
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1587,
       "valor_atual": 1588,
-      "hash_anterior": "cb8f3e2c1d1a66201014af79ad8f7acf8a69eeb0b322fb00bacfc0edfa37b874",
-      "hash_atual": "295cbf482de4e0fc08aa4004e4f3939827f7331d65d74b52b18eb11d8fb767a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1269,15 +1431,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xhhl8ND8Nx0qEtlDrk-eKA&_nc_ss=70689&oh=00_AQNNn23zoxHWBroN3q2BKllPYfgBMz_LhqDr2rTMA8T3UA&oe=6ADEE0B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=lHIS3fjFL9wQ7kNvwGdKICW&_nc_oc=AdoIphjmeWZARbfBN-B_mzA6hPqg6Ey9P7rTSFmLGVvMlNjFp_BUneBj-c6d-mrjlHZUV8CPON0FsZHkpYlS-l7w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xhhl8ND8Nx0qEtlDrk-eKA&_nc_ss=70689&oh=00_AQNNn23zoxHWBroN3q2BKllPYfgBMz_LhqDr2rTMA8T3UA&oe=6ADEE0B7",
+        "total_posts": 139
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 135,
       "valor_atual": 139,
-      "hash_anterior": "cb8f3e2c1d1a66201014af79ad8f7acf8a69eeb0b322fb00bacfc0edfa37b874",
-      "hash_atual": "295cbf482de4e0fc08aa4004e4f3939827f7331d65d74b52b18eb11d8fb767a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1288,7 +1451,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 4 posts",
+      "titulo": "Publicou 4 publicações",
       "descricao": "O total mudou de 135 para 139",
       "variacao_texto": "+4 posts"
     },
@@ -1304,15 +1467,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8-RXMnar-sm3ZSNphXpItg&_nc_ss=70689&oh=00_AQPbxB0k0pJMCkLm2DaNLCc0q8slhzYQQWKDZFqZHYzasQ&oe=6AD8B9B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8-RXMnar-sm3ZSNphXpItg&_nc_ss=70689&oh=00_AQPbxB0k0pJMCkLm2DaNLCc0q8slhzYQQWKDZFqZHYzasQ&oe=6AD8B9B7",
+        "total_posts": 135
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178511,
       "valor_atual": 178630,
-      "hash_anterior": "f7363c32155319429608c50e23dacdf0e55c89782abbcae8fe762e5421cfb714",
-      "hash_atual": "cb8f3e2c1d1a66201014af79ad8f7acf8a69eeb0b322fb00bacfc0edfa37b874",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 119,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1339,15 +1503,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8-RXMnar-sm3ZSNphXpItg&_nc_ss=70689&oh=00_AQPbxB0k0pJMCkLm2DaNLCc0q8slhzYQQWKDZFqZHYzasQ&oe=6AD8B9B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8-RXMnar-sm3ZSNphXpItg&_nc_ss=70689&oh=00_AQPbxB0k0pJMCkLm2DaNLCc0q8slhzYQQWKDZFqZHYzasQ&oe=6AD8B9B7",
+        "total_posts": 135
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1585,
       "valor_atual": 1587,
-      "hash_anterior": "f7363c32155319429608c50e23dacdf0e55c89782abbcae8fe762e5421cfb714",
-      "hash_atual": "cb8f3e2c1d1a66201014af79ad8f7acf8a69eeb0b322fb00bacfc0edfa37b874",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1374,15 +1539,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8-RXMnar-sm3ZSNphXpItg&_nc_ss=70689&oh=00_AQPbxB0k0pJMCkLm2DaNLCc0q8slhzYQQWKDZFqZHYzasQ&oe=6AD8B9B7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8-RXMnar-sm3ZSNphXpItg&_nc_ss=70689&oh=00_AQPbxB0k0pJMCkLm2DaNLCc0q8slhzYQQWKDZFqZHYzasQ&oe=6AD8B9B7",
+        "total_posts": 135
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 134,
       "valor_atual": 135,
-      "hash_anterior": "f7363c32155319429608c50e23dacdf0e55c89782abbcae8fe762e5421cfb714",
-      "hash_atual": "cb8f3e2c1d1a66201014af79ad8f7acf8a69eeb0b322fb00bacfc0edfa37b874",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1393,7 +1559,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 134 para 135",
       "variacao_texto": "+1 post"
     },
@@ -1409,15 +1575,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vXT9yDz8KPf2T8NA-Y_oug&_nc_ss=70689&oh=00_AQNye-4ym79dJ9uzJkaZ-fK3snxFDw6G97uByYmJdLrJMA&oe=6AD810F7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vXT9yDz8KPf2T8NA-Y_oug&_nc_ss=70689&oh=00_AQNye-4ym79dJ9uzJkaZ-fK3snxFDw6G97uByYmJdLrJMA&oe=6AD810F7",
+        "total_posts": 134
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178578,
       "valor_atual": 178511,
-      "hash_anterior": "1bb31eb4b8310b290aa016e96931eb68eb439ef8816649fb9a75142a7955a897",
-      "hash_atual": "f7363c32155319429608c50e23dacdf0e55c89782abbcae8fe762e5421cfb714",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -67,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1444,15 +1611,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vXT9yDz8KPf2T8NA-Y_oug&_nc_ss=70689&oh=00_AQNye-4ym79dJ9uzJkaZ-fK3snxFDw6G97uByYmJdLrJMA&oe=6AD810F7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vXT9yDz8KPf2T8NA-Y_oug&_nc_ss=70689&oh=00_AQNye-4ym79dJ9uzJkaZ-fK3snxFDw6G97uByYmJdLrJMA&oe=6AD810F7",
+        "total_posts": 134
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1586,
       "valor_atual": 1585,
-      "hash_anterior": "1bb31eb4b8310b290aa016e96931eb68eb439ef8816649fb9a75142a7955a897",
-      "hash_atual": "f7363c32155319429608c50e23dacdf0e55c89782abbcae8fe762e5421cfb714",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1479,15 +1647,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vXT9yDz8KPf2T8NA-Y_oug&_nc_ss=70689&oh=00_AQNye-4ym79dJ9uzJkaZ-fK3snxFDw6G97uByYmJdLrJMA&oe=6AD810F7"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/848043322_18635528554049028_1065570935081978579_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_Y7funR_npoQ7kNvwHxPuH9&_nc_oc=AdqH_nlmkx4Tc_7RcVJomdTkMOhA6ZCaP8xP5QxHYbKHNUU_LzUi8nLcQZKAaFyVy9sH7ysw0tXxV_VPaDz4M0qb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vXT9yDz8KPf2T8NA-Y_oug&_nc_ss=70689&oh=00_AQNye-4ym79dJ9uzJkaZ-fK3snxFDw6G97uByYmJdLrJMA&oe=6AD810F7",
+        "total_posts": 134
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 131,
       "valor_atual": 134,
-      "hash_anterior": "1bb31eb4b8310b290aa016e96931eb68eb439ef8816649fb9a75142a7955a897",
-      "hash_atual": "f7363c32155319429608c50e23dacdf0e55c89782abbcae8fe762e5421cfb714",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1498,7 +1667,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 131 para 134",
       "variacao_texto": "+3 posts"
     },
@@ -1514,15 +1683,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=xOTBtmgCeLQQ7kNvwEwpRsW&_nc_oc=AdoYrrT9c6YQ1x1r-SXTW0mnA61UBF_OFNQ_sWkrM5MzDGX2_u4jqXP82IAoZxY0N8drhBOPwCJ3zNx7kBhF0IdI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tXiP294gUDHvGwKpgWOCQQ&_nc_ss=70689&oh=00_AQMmbto50NsjaPBmkNZZPOfMjL0oFf89EjsOtAXPVDx3Lw&oe=6AD58132"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=xOTBtmgCeLQQ7kNvwEwpRsW&_nc_oc=AdoYrrT9c6YQ1x1r-SXTW0mnA61UBF_OFNQ_sWkrM5MzDGX2_u4jqXP82IAoZxY0N8drhBOPwCJ3zNx7kBhF0IdI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tXiP294gUDHvGwKpgWOCQQ&_nc_ss=70689&oh=00_AQMmbto50NsjaPBmkNZZPOfMjL0oFf89EjsOtAXPVDx3Lw&oe=6AD58132",
+        "total_posts": 131
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178634,
       "valor_atual": 178578,
-      "hash_anterior": "74966731732a3f733652c842486db0b011126d9b24bfaec0e2a7394d9ae66b21",
-      "hash_atual": "1bb31eb4b8310b290aa016e96931eb68eb439ef8816649fb9a75142a7955a897",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -56,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1549,15 +1719,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=xOTBtmgCeLQQ7kNvwEwpRsW&_nc_oc=AdoYrrT9c6YQ1x1r-SXTW0mnA61UBF_OFNQ_sWkrM5MzDGX2_u4jqXP82IAoZxY0N8drhBOPwCJ3zNx7kBhF0IdI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tXiP294gUDHvGwKpgWOCQQ&_nc_ss=70689&oh=00_AQMmbto50NsjaPBmkNZZPOfMjL0oFf89EjsOtAXPVDx3Lw&oe=6AD58132"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=xOTBtmgCeLQQ7kNvwEwpRsW&_nc_oc=AdoYrrT9c6YQ1x1r-SXTW0mnA61UBF_OFNQ_sWkrM5MzDGX2_u4jqXP82IAoZxY0N8drhBOPwCJ3zNx7kBhF0IdI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tXiP294gUDHvGwKpgWOCQQ&_nc_ss=70689&oh=00_AQMmbto50NsjaPBmkNZZPOfMjL0oFf89EjsOtAXPVDx3Lw&oe=6AD58132",
+        "total_posts": 131
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 130,
       "valor_atual": 131,
-      "hash_anterior": "74966731732a3f733652c842486db0b011126d9b24bfaec0e2a7394d9ae66b21",
-      "hash_atual": "1bb31eb4b8310b290aa016e96931eb68eb439ef8816649fb9a75142a7955a897",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1568,7 +1739,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 130 para 131",
       "variacao_texto": "+1 post"
     },
@@ -1584,15 +1755,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nrKAtzIqKaviAKINJt-LFw&_nc_ss=70689&oh=00_AQNb0_9v31YLr30JZoA-v3q7L55HzLU36-trHB72TmSj2w&oe=6AD467F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=nrKAtzIqKaviAKINJt-LFw&_nc_ss=70689&oh=00_AQNb0_9v31YLr30JZoA-v3q7L55HzLU36-trHB72TmSj2w&oe=6AD467F2",
+        "total_posts": 130
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178636,
       "valor_atual": 178634,
-      "hash_anterior": "d665d2d00157b8eac28e21ce9fda1b852cd2c2c5451a7d417dea68171ac83103",
-      "hash_atual": "74966731732a3f733652c842486db0b011126d9b24bfaec0e2a7394d9ae66b21",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1619,15 +1791,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9smDYr0nI0trvSZu3PyLlg&_nc_ss=70689&oh=00_AQMyYXk0TYaQbyyOWDGJqI6GM_Gk-ELnQEZVP8yY4eTk8A&oe=6AD467F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9smDYr0nI0trvSZu3PyLlg&_nc_ss=70689&oh=00_AQMyYXk0TYaQbyyOWDGJqI6GM_Gk-ELnQEZVP8yY4eTk8A&oe=6AD467F2",
+        "total_posts": 130
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178637,
       "valor_atual": 178636,
-      "hash_anterior": "fd8c681e2659c2bc227b63a8a8753842fd7f9ccb66468846bd8e214ae269d6f2",
-      "hash_atual": "d665d2d00157b8eac28e21ce9fda1b852cd2c2c5451a7d417dea68171ac83103",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1654,15 +1827,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2dFzQ2kR8lBe5cc2ju1cA&_nc_ss=70689&oh=00_AQNFkrL-W6nXRNCHL3ZwA4UMvsXdpmugo8rFa0tH6FoNeA&oe=6AD467F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2dFzQ2kR8lBe5cc2ju1cA&_nc_ss=70689&oh=00_AQNFkrL-W6nXRNCHL3ZwA4UMvsXdpmugo8rFa0tH6FoNeA&oe=6AD467F2",
+        "total_posts": 130
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178758,
       "valor_atual": 178637,
-      "hash_anterior": "abf4746c99b38c8d6f57e7133cb747908bd04e00a6db1d72beac691d3521c320",
-      "hash_atual": "fd8c681e2659c2bc227b63a8a8753842fd7f9ccb66468846bd8e214ae269d6f2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -121,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1689,15 +1863,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2dFzQ2kR8lBe5cc2ju1cA&_nc_ss=70689&oh=00_AQNFkrL-W6nXRNCHL3ZwA4UMvsXdpmugo8rFa0tH6FoNeA&oe=6AD467F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2dFzQ2kR8lBe5cc2ju1cA&_nc_ss=70689&oh=00_AQNFkrL-W6nXRNCHL3ZwA4UMvsXdpmugo8rFa0tH6FoNeA&oe=6AD467F2",
+        "total_posts": 130
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1585,
       "valor_atual": 1586,
-      "hash_anterior": "abf4746c99b38c8d6f57e7133cb747908bd04e00a6db1d72beac691d3521c320",
-      "hash_atual": "fd8c681e2659c2bc227b63a8a8753842fd7f9ccb66468846bd8e214ae269d6f2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1724,15 +1899,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2dFzQ2kR8lBe5cc2ju1cA&_nc_ss=70689&oh=00_AQNFkrL-W6nXRNCHL3ZwA4UMvsXdpmugo8rFa0tH6FoNeA&oe=6AD467F2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwEmTs3M&_nc_oc=Adrb8q1CzgvRJCOmQynceiHkC2w57OBpuEeqwAMstrorH2c9R_gpo-g3hfeUAqra3mv5xTQ2ngJF6nHfyeKB31YM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C2dFzQ2kR8lBe5cc2ju1cA&_nc_ss=70689&oh=00_AQNFkrL-W6nXRNCHL3ZwA4UMvsXdpmugo8rFa0tH6FoNeA&oe=6AD467F2",
+        "total_posts": 130
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 128,
       "valor_atual": 130,
-      "hash_anterior": "abf4746c99b38c8d6f57e7133cb747908bd04e00a6db1d72beac691d3521c320",
-      "hash_atual": "fd8c681e2659c2bc227b63a8a8753842fd7f9ccb66468846bd8e214ae269d6f2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1743,7 +1919,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 128 para 130",
       "variacao_texto": "+2 posts"
     },
@@ -1759,15 +1935,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwFJ93o2&_nc_oc=AdqbixTgcKy2_Pxo_EE64yTsOBgq2nD17cM2MrVgwyNmcUGoATOZE3ONa3wsNxLrK99EurRqrp3_qVdzEA58tRLL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A8uOoOJiUYgoNHPWWeFOeA&_nc_ss=70689&oh=00_AQPNL5E8IV4bcvAH7KVEFUmyrwkJArYigsJ-Vj7JgXk-9A&oe=6AD15472"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwFJ93o2&_nc_oc=AdqbixTgcKy2_Pxo_EE64yTsOBgq2nD17cM2MrVgwyNmcUGoATOZE3ONa3wsNxLrK99EurRqrp3_qVdzEA58tRLL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A8uOoOJiUYgoNHPWWeFOeA&_nc_ss=70689&oh=00_AQPNL5E8IV4bcvAH7KVEFUmyrwkJArYigsJ-Vj7JgXk-9A&oe=6AD15472",
+        "total_posts": 128
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178793,
       "valor_atual": 178758,
-      "hash_anterior": "d4e6916e56e5f403bad49528583fbfd54572946c24285faa9a7bd6f9b7e6f3f0",
-      "hash_atual": "abf4746c99b38c8d6f57e7133cb747908bd04e00a6db1d72beac691d3521c320",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -35,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1794,15 +1971,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwFJ93o2&_nc_oc=AdqbixTgcKy2_Pxo_EE64yTsOBgq2nD17cM2MrVgwyNmcUGoATOZE3ONa3wsNxLrK99EurRqrp3_qVdzEA58tRLL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A8uOoOJiUYgoNHPWWeFOeA&_nc_ss=70689&oh=00_AQPNL5E8IV4bcvAH7KVEFUmyrwkJArYigsJ-Vj7JgXk-9A&oe=6AD15472"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=IiP3p9qo2TwQ7kNvwFJ93o2&_nc_oc=AdqbixTgcKy2_Pxo_EE64yTsOBgq2nD17cM2MrVgwyNmcUGoATOZE3ONa3wsNxLrK99EurRqrp3_qVdzEA58tRLL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=A8uOoOJiUYgoNHPWWeFOeA&_nc_ss=70689&oh=00_AQPNL5E8IV4bcvAH7KVEFUmyrwkJArYigsJ-Vj7JgXk-9A&oe=6AD15472",
+        "total_posts": 128
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 127,
       "valor_atual": 128,
-      "hash_anterior": "d4e6916e56e5f403bad49528583fbfd54572946c24285faa9a7bd6f9b7e6f3f0",
-      "hash_atual": "abf4746c99b38c8d6f57e7133cb747908bd04e00a6db1d72beac691d3521c320",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1813,7 +1991,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 127 para 128",
       "variacao_texto": "+1 post"
     },
@@ -1829,15 +2007,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tSsHzPHrlMcUEdwBkyyd3g&_nc_ss=70689&oh=00_AQOFQfyIz490evgFF__Ev0eOzHj2AuZKJMzXCVETLREvfQ&oe=6AD07372"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=tSsHzPHrlMcUEdwBkyyd3g&_nc_ss=70689&oh=00_AQOFQfyIz490evgFF__Ev0eOzHj2AuZKJMzXCVETLREvfQ&oe=6AD07372",
+        "total_posts": 127
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178795,
       "valor_atual": 178793,
-      "hash_anterior": "5a09ab1de108e7e213fd7ba3c3d8ad1e700396400b13cebfb9ed0abd88d0eaba",
-      "hash_atual": "d4e6916e56e5f403bad49528583fbfd54572946c24285faa9a7bd6f9b7e6f3f0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1864,15 +2043,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=w68VLUJhDnx5AmCNq86pDQ&_nc_ss=70689&oh=00_AQMjvjfpRY5cFglLC2U_HKi37c4yJ5Ez_gZfHu5CwOE5jg&oe=6AD07372"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=w68VLUJhDnx5AmCNq86pDQ&_nc_ss=70689&oh=00_AQMjvjfpRY5cFglLC2U_HKi37c4yJ5Ez_gZfHu5CwOE5jg&oe=6AD07372",
+        "total_posts": 127
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178796,
       "valor_atual": 178795,
-      "hash_anterior": "27f3db1f958fc126101d45ab87ea73aff744aba98e1b59eab6afe4a56760def5",
-      "hash_atual": "5a09ab1de108e7e213fd7ba3c3d8ad1e700396400b13cebfb9ed0abd88d0eaba",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1899,15 +2079,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=w3bhi0WAZBjx4ZmcteeBDg&_nc_ss=70689&oh=00_AQOkWpKwVlde-NBPGINDGJAqQsji7ZO5pe9Is57Q3sYhKQ&oe=6AD03B32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=w3bhi0WAZBjx4ZmcteeBDg&_nc_ss=70689&oh=00_AQOkWpKwVlde-NBPGINDGJAqQsji7ZO5pe9Is57Q3sYhKQ&oe=6AD03B32",
+        "total_posts": 127
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178835,
       "valor_atual": 178796,
-      "hash_anterior": "a8d133981117ab9bb8a3b673200350fed1edcc659f011eaad2c63722b812563f",
-      "hash_atual": "27f3db1f958fc126101d45ab87ea73aff744aba98e1b59eab6afe4a56760def5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -39,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1934,15 +2115,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=w3bhi0WAZBjx4ZmcteeBDg&_nc_ss=70689&oh=00_AQOkWpKwVlde-NBPGINDGJAqQsji7ZO5pe9Is57Q3sYhKQ&oe=6AD03B32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwEsaQY4&_nc_oc=AdoHovdaUxkAqB1XxDO8rhOxGuxdRkQTOEdmaQR5R24Z6wEQc1HCSMOFnY-gVbdJApqtH86c7OsYjrpYj3msZFdn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=w3bhi0WAZBjx4ZmcteeBDg&_nc_ss=70689&oh=00_AQOkWpKwVlde-NBPGINDGJAqQsji7ZO5pe9Is57Q3sYhKQ&oe=6AD03B32",
+        "total_posts": 127
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1587,
       "valor_atual": 1585,
-      "hash_anterior": "a8d133981117ab9bb8a3b673200350fed1edcc659f011eaad2c63722b812563f",
-      "hash_atual": "27f3db1f958fc126101d45ab87ea73aff744aba98e1b59eab6afe4a56760def5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1969,15 +2151,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQ18A-98lcLn__SWM5YWLw&_nc_ss=70689&oh=00_AQNvZkbw93BFFBc9xtstQDZtWJ9-hlCNPHHbi_Es2bZPeA&oe=6ACF9272"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQ18A-98lcLn__SWM5YWLw&_nc_ss=70689&oh=00_AQNvZkbw93BFFBc9xtstQDZtWJ9-hlCNPHHbi_Es2bZPeA&oe=6ACF9272",
+        "total_posts": 127
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178829,
       "valor_atual": 178835,
-      "hash_anterior": "ae6fb7535718b67b85d3e85c6adc15d2f8d6d511aeacc2e6ba6ac6fce00ec356",
-      "hash_atual": "a8d133981117ab9bb8a3b673200350fed1edcc659f011eaad2c63722b812563f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2004,15 +2187,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRZ7cv_ler_IVakbzqvlCA&_nc_ss=70689&oh=00_AQM-rQKUrPZaULUxSjr3gqU_W_YLOs-YTRlBtBTmeyfaag&oe=6ACF5A32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRZ7cv_ler_IVakbzqvlCA&_nc_ss=70689&oh=00_AQM-rQKUrPZaULUxSjr3gqU_W_YLOs-YTRlBtBTmeyfaag&oe=6ACF5A32",
+        "total_posts": 127
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178934,
       "valor_atual": 178829,
-      "hash_anterior": "58e607e7197bdd8c6b23bf46f702be3afb9658db2f54fff00ad08e70a1e326b5",
-      "hash_atual": "ae6fb7535718b67b85d3e85c6adc15d2f8d6d511aeacc2e6ba6ac6fce00ec356",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -105,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2039,15 +2223,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRZ7cv_ler_IVakbzqvlCA&_nc_ss=70689&oh=00_AQM-rQKUrPZaULUxSjr3gqU_W_YLOs-YTRlBtBTmeyfaag&oe=6ACF5A32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRZ7cv_ler_IVakbzqvlCA&_nc_ss=70689&oh=00_AQM-rQKUrPZaULUxSjr3gqU_W_YLOs-YTRlBtBTmeyfaag&oe=6ACF5A32",
+        "total_posts": 127
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1585,
       "valor_atual": 1587,
-      "hash_anterior": "58e607e7197bdd8c6b23bf46f702be3afb9658db2f54fff00ad08e70a1e326b5",
-      "hash_atual": "ae6fb7535718b67b85d3e85c6adc15d2f8d6d511aeacc2e6ba6ac6fce00ec356",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2074,15 +2259,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRZ7cv_ler_IVakbzqvlCA&_nc_ss=70689&oh=00_AQM-rQKUrPZaULUxSjr3gqU_W_YLOs-YTRlBtBTmeyfaag&oe=6ACF5A32"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFjBZ-5&_nc_oc=AdoI_yWcNK9aLieHr2i-gY1jDk_57hjlrAH9_5vA2NbrC07igwO2RmMahj1-5RgvNsHTFKrngw8iGpUawDrZ6F9H&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SRZ7cv_ler_IVakbzqvlCA&_nc_ss=70689&oh=00_AQM-rQKUrPZaULUxSjr3gqU_W_YLOs-YTRlBtBTmeyfaag&oe=6ACF5A32",
+        "total_posts": 127
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 125,
       "valor_atual": 127,
-      "hash_anterior": "58e607e7197bdd8c6b23bf46f702be3afb9658db2f54fff00ad08e70a1e326b5",
-      "hash_atual": "ae6fb7535718b67b85d3e85c6adc15d2f8d6d511aeacc2e6ba6ac6fce00ec356",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2093,7 +2279,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 125 para 127",
       "variacao_texto": "+2 posts"
     },
@@ -2109,15 +2295,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFN6RiM&_nc_oc=Adoo9wBDHbIg-wudi7GFEy_9y53hccGO6fQpsoe7kUg1w1qSonKMqULUGuscDf7CrfKldTT1Nwb7qGBoxYGYieyZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KNz4C7cfZb9nk44KCaIAHQ&_nc_ss=70689&oh=00_AQNk5_0GXJ4K3-bqKZCdsdBrXubur9Le__sCcRuWtGBdFA&oe=6ACD5FF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=zU918obhV4oQ7kNvwFN6RiM&_nc_oc=Adoo9wBDHbIg-wudi7GFEy_9y53hccGO6fQpsoe7kUg1w1qSonKMqULUGuscDf7CrfKldTT1Nwb7qGBoxYGYieyZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KNz4C7cfZb9nk44KCaIAHQ&_nc_ss=70689&oh=00_AQNk5_0GXJ4K3-bqKZCdsdBrXubur9Le__sCcRuWtGBdFA&oe=6ACD5FF2",
+        "total_posts": 125
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178950,
       "valor_atual": 178934,
-      "hash_anterior": "ff1be9dc92227cfc6b7ba99ec747ff3ca732f69406017efe1a5176e1191f931a",
-      "hash_atual": "58e607e7197bdd8c6b23bf46f702be3afb9658db2f54fff00ad08e70a1e326b5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -16,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2144,15 +2331,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwECNOyw&_nc_oc=AdpN29wRNPOjC6JDCjTTSz4dKVHbGBArVw1ihSJPlGl7jyQJ8vgmQHqqw_g3jBnsNygqDaUuBhew56TLVydeJJKA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O4XfI98nA8XMUoWYqRCJVA&_nc_ss=70689&oh=00_AQNRAtIWSbiKxlUlhmgD8W9taxG38ydSH9E5SNVqGxpMKw&oe=6ACC7EF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwECNOyw&_nc_oc=AdpN29wRNPOjC6JDCjTTSz4dKVHbGBArVw1ihSJPlGl7jyQJ8vgmQHqqw_g3jBnsNygqDaUuBhew56TLVydeJJKA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O4XfI98nA8XMUoWYqRCJVA&_nc_ss=70689&oh=00_AQNRAtIWSbiKxlUlhmgD8W9taxG38ydSH9E5SNVqGxpMKw&oe=6ACC7EF2",
+        "total_posts": 125
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 178997,
       "valor_atual": 178950,
-      "hash_anterior": "37b2ca462777493ebc2f9fae6677c870ac7f44d7ede5cd2f50a9353469db7ab2",
-      "hash_atual": "ff1be9dc92227cfc6b7ba99ec747ff3ca732f69406017efe1a5176e1191f931a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -47,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2179,15 +2367,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwECNOyw&_nc_oc=AdpN29wRNPOjC6JDCjTTSz4dKVHbGBArVw1ihSJPlGl7jyQJ8vgmQHqqw_g3jBnsNygqDaUuBhew56TLVydeJJKA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O4XfI98nA8XMUoWYqRCJVA&_nc_ss=70689&oh=00_AQNRAtIWSbiKxlUlhmgD8W9taxG38ydSH9E5SNVqGxpMKw&oe=6ACC7EF2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwECNOyw&_nc_oc=AdpN29wRNPOjC6JDCjTTSz4dKVHbGBArVw1ihSJPlGl7jyQJ8vgmQHqqw_g3jBnsNygqDaUuBhew56TLVydeJJKA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=O4XfI98nA8XMUoWYqRCJVA&_nc_ss=70689&oh=00_AQNRAtIWSbiKxlUlhmgD8W9taxG38ydSH9E5SNVqGxpMKw&oe=6ACC7EF2",
+        "total_posts": 125
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1584,
       "valor_atual": 1585,
-      "hash_anterior": "37b2ca462777493ebc2f9fae6677c870ac7f44d7ede5cd2f50a9353469db7ab2",
-      "hash_atual": "ff1be9dc92227cfc6b7ba99ec747ff3ca732f69406017efe1a5176e1191f931a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2214,15 +2403,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwHxv6A4&_nc_oc=Adqraa06aPqXNf8j1gIXGepoIH7WbbYRE-iqo1Vxt9UxwyQpd-u6j_sVxp2TgKiM14rnTqBHQ_Jt-c49tGwW6hAa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JbtQsO9vuO3hXGAZv-TH0A&_nc_ss=70689&oh=00_AQN8l7N6KG4ePIHooAQ7ByixYy5CfZdcbb23h9XUGssUgg&oe=6ACC46B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwHxv6A4&_nc_oc=Adqraa06aPqXNf8j1gIXGepoIH7WbbYRE-iqo1Vxt9UxwyQpd-u6j_sVxp2TgKiM14rnTqBHQ_Jt-c49tGwW6hAa&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JbtQsO9vuO3hXGAZv-TH0A&_nc_ss=70689&oh=00_AQN8l7N6KG4ePIHooAQ7ByixYy5CfZdcbb23h9XUGssUgg&oe=6ACC46B2",
+        "total_posts": 125
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 179022,
       "valor_atual": 178997,
-      "hash_anterior": "1e5271d7954b002e198a3569453a1ceb460af87224995e2d16713a92a2ff4da5",
-      "hash_atual": "37b2ca462777493ebc2f9fae6677c870ac7f44d7ede5cd2f50a9353469db7ab2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -25,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2249,15 +2439,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7jL_Ru9Vf_RvjBAj7K-_8w&_nc_ss=70689&oh=00_AQPYBdWBpOW1Kh_V8zXp-12jdIE3N0XKEMCYOeQPR573Fg&oe=6ACB65B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7jL_Ru9Vf_RvjBAj7K-_8w&_nc_ss=70689&oh=00_AQPYBdWBpOW1Kh_V8zXp-12jdIE3N0XKEMCYOeQPR573Fg&oe=6ACB65B2",
+        "total_posts": 125
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 179029,
       "valor_atual": 179022,
-      "hash_anterior": "fc29bdbc87d3693f9156bae2c7384f81f054d567547dd87ea85d331c7a786b71",
-      "hash_atual": "1e5271d7954b002e198a3569453a1ceb460af87224995e2d16713a92a2ff4da5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2284,15 +2475,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7jL_Ru9Vf_RvjBAj7K-_8w&_nc_ss=70689&oh=00_AQPYBdWBpOW1Kh_V8zXp-12jdIE3N0XKEMCYOeQPR573Fg&oe=6ACB65B2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7jL_Ru9Vf_RvjBAj7K-_8w&_nc_ss=70689&oh=00_AQPYBdWBpOW1Kh_V8zXp-12jdIE3N0XKEMCYOeQPR573Fg&oe=6ACB65B2",
+        "total_posts": 125
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 124,
       "valor_atual": 125,
-      "hash_anterior": "fc29bdbc87d3693f9156bae2c7384f81f054d567547dd87ea85d331c7a786b71",
-      "hash_atual": "1e5271d7954b002e198a3569453a1ceb460af87224995e2d16713a92a2ff4da5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2303,7 +2495,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 124 para 125",
       "variacao_texto": "+1 post"
     },
@@ -2319,15 +2511,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wjCe1UO92AYS4puaSWfU2Q&_nc_ss=70689&oh=00_AQMF2Hd0-rACbsfVPxNMh6_zg-SMlap6wkaZkFQpCtmNxQ&oe=6ACB2D72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wjCe1UO92AYS4puaSWfU2Q&_nc_ss=70689&oh=00_AQMF2Hd0-rACbsfVPxNMh6_zg-SMlap6wkaZkFQpCtmNxQ&oe=6ACB2D72",
+        "total_posts": 124
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 179196,
       "valor_atual": 179029,
-      "hash_anterior": "5eebb049db2529b80c2dbcbb173b9c2b1d1a1bcac33b87de3effc1d2c837d95b",
-      "hash_atual": "fc29bdbc87d3693f9156bae2c7384f81f054d567547dd87ea85d331c7a786b71",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -167,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2354,15 +2547,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wjCe1UO92AYS4puaSWfU2Q&_nc_ss=70689&oh=00_AQMF2Hd0-rACbsfVPxNMh6_zg-SMlap6wkaZkFQpCtmNxQ&oe=6ACB2D72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wjCe1UO92AYS4puaSWfU2Q&_nc_ss=70689&oh=00_AQMF2Hd0-rACbsfVPxNMh6_zg-SMlap6wkaZkFQpCtmNxQ&oe=6ACB2D72",
+        "total_posts": 124
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 1585,
       "valor_atual": 1584,
-      "hash_anterior": "5eebb049db2529b80c2dbcbb173b9c2b1d1a1bcac33b87de3effc1d2c837d95b",
-      "hash_atual": "fc29bdbc87d3693f9156bae2c7384f81f054d567547dd87ea85d331c7a786b71",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2389,15 +2583,16 @@
         "id": "17841401470818365",
         "username": "rikardonegro",
         "nome": "Rikardo Negro",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wjCe1UO92AYS4puaSWfU2Q&_nc_ss=70689&oh=00_AQMF2Hd0-rACbsfVPxNMh6_zg-SMlap6wkaZkFQpCtmNxQ&oe=6ACB2D72"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811501545_18624642049049028_1885005701843380392_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MzAuQzMifQ%3D%3D&_nc_ohc=LRkgQVsE8esQ7kNvwGq8MmJ&_nc_oc=AdrfD_tPt5gOQYWlLfazLhKqfX1LiDeNXy6xWbuKhC0sQjDi3U3X4iyALmMxM58FAO_eHCN2tMUg1NmBmp_9HM2U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wjCe1UO92AYS4puaSWfU2Q&_nc_ss=70689&oh=00_AQMF2Hd0-rACbsfVPxNMh6_zg-SMlap6wkaZkFQpCtmNxQ&oe=6ACB2D72",
+        "total_posts": 124
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 123,
       "valor_atual": 124,
-      "hash_anterior": "5eebb049db2529b80c2dbcbb173b9c2b1d1a1bcac33b87de3effc1d2c837d95b",
-      "hash_atual": "fc29bdbc87d3693f9156bae2c7384f81f054d567547dd87ea85d331c7a786b71",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2408,7 +2603,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 123 para 124",
       "variacao_texto": "+1 post"
     }
@@ -2416,34 +2611,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:17:09.488183",
-    "captura_mais_recente": "2026-11-03T12:15:42.660395",
-    "tempo_total_segundos": 2480313,
-    "tempo_total_dias": 28.707326,
-    "tempo_total_texto": "28 dias, 16 horas, 58 minutos e 33 segundos",
+    "captura_mais_recente": "2026-11-19T16:25:41.004864",
+    "tempo_total_segundos": 3877711,
+    "tempo_total_dias": 44.880914,
+    "tempo_total_texto": "44 dias, 21 horas, 8 minutos e 31 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": -448,
-      "direcao": "perdeu",
-      "quantidade": 448,
-      "texto": "Perdeu 448 seguidores",
+    "1_dias": {
+      "variacao": 4342,
+      "direcao": "ganhou",
+      "quantidade": 4342,
+      "texto": "Ganhou 4342 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:04:11.292388",
-      "captura_fim": "2026-11-03T12:15:42.660395",
-      "seguidores_inicio": 178652,
-      "seguidores_fim": 178204
+      "captura_inicio": "2026-11-03T12:15:42.660395",
+      "captura_fim": "2026-11-19T16:25:41.004864",
+      "seguidores_inicio": 178204,
+      "seguidores_fim": 182546
+    },
+    "7_dias": {
+      "variacao": 4342,
+      "direcao": "ganhou",
+      "quantidade": 4342,
+      "texto": "Ganhou 4342 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:15:42.660395",
+      "captura_fim": "2026-11-19T16:25:41.004864",
+      "seguidores_inicio": 178204,
+      "seguidores_fim": 182546
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 3916,
+      "direcao": "ganhou",
+      "quantidade": 3916,
+      "texto": "Ganhou 3916 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:27:52.319378",
+      "captura_fim": "2026-11-19T16:25:41.004864",
+      "seguidores_inicio": 178630,
+      "seguidores_fim": 182546
     },
     "90_dias": {
       "variacao": null,
@@ -2454,17 +2665,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -992,
-      "direcao": "perdeu",
-      "quantidade": 992,
-      "texto": "Perdeu 992 seguidores",
+      "variacao": 3350,
+      "direcao": "ganhou",
+      "quantidade": 3350,
+      "texto": "Ganhou 3350 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:17:09.488183",
-      "captura_mais_recente": "2026-11-03T12:15:42.660395",
-      "tempo_total_dias": 28.707328,
+      "captura_mais_recente": "2026-11-19T16:25:41.004864",
+      "tempo_total_dias": 44.88092,
       "seguidores_inicio": 179196,
-      "seguidores_fim": 178204
+      "seguidores_fim": 182546
     }
   }
 }

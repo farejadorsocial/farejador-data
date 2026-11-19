@@ -8,9 +8,23 @@
       "id": "17841404794127509",
       "username": "thaideoficial",
       "nome": "O Meu Nome é Thaíde.",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vEySYxk5p_94PupSZw9sYQ&_nc_ss=70689&oh=00_AQTaDjRsn9Zouq4NAlCKMqFQBW8mW11j_3qGJed9aZS4zg&oe=6AEFB2C9"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MOSDoanS3eQQ7kNvwGxJEjp&_nc_oc=AdpU5b15Ue2ZGeV4EfrH5U0nxJMONlkfTJQwgoFcnC7DxxsxB-2PggSP5XpgXi21SP5wQDqIXCpqosb4WMn7HRX6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VJ2SARSCXKDFSfmrI0nG6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQBWwrzqVOwniwJSVgZYeMM032R5SYYq2Gwu_UVB3_DBA&oe=6B053B49",
+      "total_posts": 1334
     },
     "biografia": [
+      {
+        "plataforma": "instagram",
+        "campo": "biografia",
+        "nome": "Biografia",
+        "valor_anterior": "#TimeThaide 🎙️| @afazendarecord \nMúsico | Jornalista \n📧vamoqvamoproducoes@gmail.com",
+        "valor_atual": "#TimeThaide | @afazendarecord \nMúsico | Jornalista \n🎙️NÃO ADIANTA RECLAMAR!",
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Biografia alterada",
+        "timestamp": "2026-11-19T16:29:17.389300",
+        "timestamp_anterior": "2026-10-21T17:40:29.058717",
+        "tempo_desde_anterior_segundos": 2501328
+      },
       {
         "plataforma": "instagram",
         "campo": "biografia",
@@ -72,17 +86,24 @@
         "tipo": "inicial"
       }
     ],
-    "categoria": [
+    "links": [
       {
         "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "fazenda 2026",
-        "timestamp": "2026-10-05T19:17:28.191064",
-        "tipo": "inicial"
-      }
-    ],
-    "links": [
+        "campo": "links",
+        "nome": "Links",
+        "valor_anterior": [],
+        "valor_atual": [
+          {
+            "url": "https://onerpm.link/NaoAdiantaReclamar"
+          }
+        ],
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Links do perfil alterados",
+        "timestamp": "2026-11-19T16:29:17.389300",
+        "timestamp_anterior": "2026-10-09T22:27:00.580765",
+        "tempo_desde_anterior_segundos": 3520936
+      },
       {
         "plataforma": "instagram",
         "campo": "links",
@@ -175,6 +196,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 235777,
+        "valor_atual": 235733,
+        "variacao": -44,
+        "direcao": "reducao",
+        "descricao": "-44 seguidores",
+        "timestamp": "2026-11-19T16:29:17.389300",
+        "timestamp_anterior": "2026-11-03T12:22:25.708084",
+        "tempo_desde_anterior_segundos": 1397211
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -664,11 +698,24 @@
         "plataforma": "instagram",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1315,
+        "valor_atual": 1334,
+        "variacao": 19,
+        "direcao": "aumento",
+        "descricao": "+19 publicações",
+        "timestamp": "2026-11-19T16:29:17.389300",
+        "timestamp_anterior": "2026-11-03T12:15:56.626858",
+        "tempo_desde_anterior_segundos": 1397600
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1311,
         "valor_atual": 1315,
         "variacao": 4,
         "direcao": "aumento",
-        "descricao": "+4 posts",
+        "descricao": "+4 publicações",
         "timestamp": "2026-11-03T12:15:56.626858",
         "timestamp_anterior": "2026-10-30T20:14:37.323982",
         "tempo_desde_anterior_segundos": 316879
@@ -681,7 +728,7 @@
         "valor_atual": 1311,
         "variacao": 14,
         "direcao": "aumento",
-        "descricao": "+14 posts",
+        "descricao": "+14 publicações",
         "timestamp": "2026-10-30T20:14:37.323982",
         "timestamp_anterior": "2026-10-24T11:04:25.254788",
         "tempo_desde_anterior_segundos": 551412
@@ -694,7 +741,7 @@
         "valor_atual": 1297,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-24T11:04:25.254788",
         "timestamp_anterior": "2026-10-23T10:37:43.736610",
         "tempo_desde_anterior_segundos": 88001
@@ -707,7 +754,7 @@
         "valor_atual": 1296,
         "variacao": 4,
         "direcao": "aumento",
-        "descricao": "+4 posts",
+        "descricao": "+4 publicações",
         "timestamp": "2026-10-23T10:37:43.736610",
         "timestamp_anterior": "2026-10-21T17:40:29.058717",
         "tempo_desde_anterior_segundos": 147434
@@ -720,7 +767,7 @@
         "valor_atual": 1292,
         "variacao": 7,
         "direcao": "aumento",
-        "descricao": "+7 posts",
+        "descricao": "+7 publicações",
         "timestamp": "2026-10-21T17:40:29.058717",
         "timestamp_anterior": "2026-10-16T13:58:31.192716",
         "tempo_desde_anterior_segundos": 445317
@@ -733,7 +780,7 @@
         "valor_atual": 1285,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-16T13:58:31.192716",
         "timestamp_anterior": "2026-10-14T12:10:15.216463",
         "tempo_desde_anterior_segundos": 179295
@@ -746,7 +793,7 @@
         "valor_atual": 1283,
         "variacao": 1,
         "direcao": "aumento",
-        "descricao": "+1 posts",
+        "descricao": "+1 publicações",
         "timestamp": "2026-10-14T12:10:15.216463",
         "timestamp_anterior": "2026-10-13T16:00:22.298073",
         "tempo_desde_anterior_segundos": 72592
@@ -759,7 +806,7 @@
         "valor_atual": 1282,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-13T16:00:22.298073",
         "timestamp_anterior": "2026-10-09T22:27:00.580765",
         "tempo_desde_anterior_segundos": 322401
@@ -772,7 +819,7 @@
         "valor_atual": 1280,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-09T22:27:00.580765",
         "timestamp_anterior": "2026-10-08T09:14:28.494009",
         "tempo_desde_anterior_segundos": 133952
@@ -785,7 +832,7 @@
         "valor_atual": 1277,
         "variacao": 3,
         "direcao": "aumento",
-        "descricao": "+3 posts",
+        "descricao": "+3 publicações",
         "timestamp": "2026-10-08T09:14:28.494009",
         "timestamp_anterior": "2026-10-07T19:23:19.965277",
         "tempo_desde_anterior_segundos": 49868
@@ -798,7 +845,7 @@
         "valor_atual": 1274,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-07T19:23:19.965277",
         "timestamp_anterior": "2026-10-07T13:07:42.844867",
         "tempo_desde_anterior_segundos": 22537
@@ -811,7 +858,7 @@
         "valor_atual": 1272,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-07T13:07:42.844867",
         "timestamp_anterior": "2026-10-06T19:09:12.768355",
         "tempo_desde_anterior_segundos": 64710
@@ -824,7 +871,7 @@
         "valor_atual": 1270,
         "variacao": 2,
         "direcao": "aumento",
-        "descricao": "+2 posts",
+        "descricao": "+2 publicações",
         "timestamp": "2026-10-06T19:09:12.768355",
         "timestamp_anterior": "2026-10-05T19:17:28.191064",
         "tempo_desde_anterior_segundos": 85904
@@ -867,9 +914,165 @@
         "timestamp": "2026-10-05T19:17:28.191064",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "fazenda 2026",
+        "timestamp": "2026-10-05T19:17:28.191064",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:29:17.389300",
+      "timestamp_anterior": "2026-11-03T12:22:25.708084",
+      "timestamp_atual": "2026-11-19T16:29:17.389300",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 4620079804,
+        "id": "17841404794127509",
+        "username": "thaideoficial",
+        "nome": "O Meu Nome é Thaíde.",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MOSDoanS3eQQ7kNvwGxJEjp&_nc_oc=AdpU5b15Ue2ZGeV4EfrH5U0nxJMONlkfTJQwgoFcnC7DxxsxB-2PggSP5XpgXi21SP5wQDqIXCpqosb4WMn7HRX6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VJ2SARSCXKDFSfmrI0nG6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQBWwrzqVOwniwJSVgZYeMM032R5SYYq2Gwu_UVB3_DBA&oe=6B053B49",
+        "total_posts": 1334
+      },
+      "tipo": "biografia",
+      "campo": "biografia",
+      "nome_campo": "Biografia",
+      "valor_anterior": "#TimeThaide 🎙️| @afazendarecord \nMúsico | Jornalista \n📧vamoqvamoproducoes@gmail.com",
+      "valor_atual": "#TimeThaide | @afazendarecord \nMúsico | Jornalista \n🎙️NÃO ADIANTA RECLAMAR!",
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397211.681216,
+        "texto": "16 dias e 4 horas e 6 minutos e 51 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397211.681216,
+        "texto": "16 dias e 4 horas e 6 minutos e 51 segundos"
+      },
+      "titulo": "Alterou a biografia",
+      "descricao": "A biografia do perfil foi modificada"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:29:17.389300",
+      "timestamp_anterior": "2026-11-03T12:22:25.708084",
+      "timestamp_atual": "2026-11-19T16:29:17.389300",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 4620079804,
+        "id": "17841404794127509",
+        "username": "thaideoficial",
+        "nome": "O Meu Nome é Thaíde.",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MOSDoanS3eQQ7kNvwGxJEjp&_nc_oc=AdpU5b15Ue2ZGeV4EfrH5U0nxJMONlkfTJQwgoFcnC7DxxsxB-2PggSP5XpgXi21SP5wQDqIXCpqosb4WMn7HRX6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VJ2SARSCXKDFSfmrI0nG6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQBWwrzqVOwniwJSVgZYeMM032R5SYYq2Gwu_UVB3_DBA&oe=6B053B49",
+        "total_posts": 1334
+      },
+      "tipo": "links",
+      "campo": "links",
+      "nome_campo": "Links",
+      "valor_anterior": [],
+      "valor_atual": [
+        {
+          "url": "https://onerpm.link/NaoAdiantaReclamar"
+        }
+      ],
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397211.681216,
+        "texto": "16 dias e 4 horas e 6 minutos e 51 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Alterou os links",
+      "descricao": "Os links do perfil foram modificados"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:29:17.389300",
+      "timestamp_anterior": "2026-11-03T12:22:25.708084",
+      "timestamp_atual": "2026-11-19T16:29:17.389300",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 4620079804,
+        "id": "17841404794127509",
+        "username": "thaideoficial",
+        "nome": "O Meu Nome é Thaíde.",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MOSDoanS3eQQ7kNvwGxJEjp&_nc_oc=AdpU5b15Ue2ZGeV4EfrH5U0nxJMONlkfTJQwgoFcnC7DxxsxB-2PggSP5XpgXi21SP5wQDqIXCpqosb4WMn7HRX6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VJ2SARSCXKDFSfmrI0nG6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQBWwrzqVOwniwJSVgZYeMM032R5SYYq2Gwu_UVB3_DBA&oe=6B053B49",
+        "total_posts": 1334
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 235777,
+      "valor_atual": 235733,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -44,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397211.681216,
+        "texto": "16 dias e 4 horas e 6 minutos e 51 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 44 seguidores",
+      "descricao": "Os seguidores caíram de 235.777 para 235.733",
+      "variacao_texto": "-44 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:29:17.389300",
+      "timestamp_anterior": "2026-11-03T12:22:25.708084",
+      "timestamp_atual": "2026-11-19T16:29:17.389300",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 4620079804,
+        "id": "17841404794127509",
+        "username": "thaideoficial",
+        "nome": "O Meu Nome é Thaíde.",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MOSDoanS3eQQ7kNvwGxJEjp&_nc_oc=AdpU5b15Ue2ZGeV4EfrH5U0nxJMONlkfTJQwgoFcnC7DxxsxB-2PggSP5XpgXi21SP5wQDqIXCpqosb4WMn7HRX6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VJ2SARSCXKDFSfmrI0nG6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQBWwrzqVOwniwJSVgZYeMM032R5SYYq2Gwu_UVB3_DBA&oe=6B053B49",
+        "total_posts": 1334
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1315,
+      "valor_atual": 1334,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 19,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 1397211.681216,
+        "texto": "16 dias e 4 horas e 6 minutos e 51 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 19 publicações",
+      "descricao": "O total mudou de 1.315 para 1.334",
+      "variacao_texto": "+19 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:22:25.708084",
@@ -882,15 +1085,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vEySYxk5p_94PupSZw9sYQ&_nc_ss=70689&oh=00_AQTaDjRsn9Zouq4NAlCKMqFQBW8mW11j_3qGJed9aZS4zg&oe=6AEFB2C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vEySYxk5p_94PupSZw9sYQ&_nc_ss=70689&oh=00_AQTaDjRsn9Zouq4NAlCKMqFQBW8mW11j_3qGJed9aZS4zg&oe=6AEFB2C9",
+        "total_posts": 1315
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235778,
       "valor_atual": 235777,
-      "hash_anterior": "b2d90a86ae17f095b99653e6114932bcaa8df0363d2e5e3b636626faa06245e0",
-      "hash_atual": "74f42760b356ad7d8ab973fbff023df9743538a1d8c799fee6f48c4315f0de0a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -917,15 +1121,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fPWPadJG8OJop1iAKoDoeg&_nc_ss=70689&oh=00_AQRLF2VjL35G1JHxdp9wSsE3pse_g57coe-tmTRiYI-sXw&oe=6AEFB2C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fPWPadJG8OJop1iAKoDoeg&_nc_ss=70689&oh=00_AQRLF2VjL35G1JHxdp9wSsE3pse_g57coe-tmTRiYI-sXw&oe=6AEFB2C9",
+        "total_posts": 1315
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 236748,
       "valor_atual": 235778,
-      "hash_anterior": "68e24b091ecad442203ac812743be52d5b1af5f07fbab7552dd29d178a5e28b2",
-      "hash_atual": "b2d90a86ae17f095b99653e6114932bcaa8df0363d2e5e3b636626faa06245e0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -970,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -952,15 +1157,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fPWPadJG8OJop1iAKoDoeg&_nc_ss=70689&oh=00_AQRLF2VjL35G1JHxdp9wSsE3pse_g57coe-tmTRiYI-sXw&oe=6AEFB2C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fPWPadJG8OJop1iAKoDoeg&_nc_ss=70689&oh=00_AQRLF2VjL35G1JHxdp9wSsE3pse_g57coe-tmTRiYI-sXw&oe=6AEFB2C9",
+        "total_posts": 1315
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3239,
       "valor_atual": 3241,
-      "hash_anterior": "68e24b091ecad442203ac812743be52d5b1af5f07fbab7552dd29d178a5e28b2",
-      "hash_atual": "b2d90a86ae17f095b99653e6114932bcaa8df0363d2e5e3b636626faa06245e0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -987,15 +1193,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fPWPadJG8OJop1iAKoDoeg&_nc_ss=70689&oh=00_AQRLF2VjL35G1JHxdp9wSsE3pse_g57coe-tmTRiYI-sXw&oe=6AEFB2C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GEvCRDB9JBPIXXBBAPKycceloMlLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ycVG9iofvikQ7kNvwF5Llle&_nc_oc=AdruzsGv_fYHne9NqKHFO2Ol9mtsqBSoTxIE9d_wFWv27s6TzWbRJE5Z6fcEdNY-u92CyL6N-wC1_N2vhQpUo0x_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fPWPadJG8OJop1iAKoDoeg&_nc_ss=70689&oh=00_AQRLF2VjL35G1JHxdp9wSsE3pse_g57coe-tmTRiYI-sXw&oe=6AEFB2C9",
+        "total_posts": 1315
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1311,
       "valor_atual": 1315,
-      "hash_anterior": "68e24b091ecad442203ac812743be52d5b1af5f07fbab7552dd29d178a5e28b2",
-      "hash_atual": "b2d90a86ae17f095b99653e6114932bcaa8df0363d2e5e3b636626faa06245e0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1006,7 +1213,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 4 posts",
+      "titulo": "Publicou 4 publicações",
       "descricao": "O total mudou de 1.311 para 1.315",
       "variacao_texto": "+4 posts"
     },
@@ -1022,15 +1229,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kO9VBtj9vfoQ7kNvwEVjxiZ&_nc_oc=Adr98Tu1E9ssfSAkW4kT__xdrHdTz5zxKoOXuLMeNW7npIzqPgTEUXx_H9qsFXcHY7SuWa42_mXDC9K2JaShyWpI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KMVt4nbB-cfkhFsE4XXaiA&_nc_ss=70689&oh=00_AQSvckOIJXroT2-dk2nEfu4GS0o98exfiozBv8GCCg2Npg&oe=6AEADD49"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kO9VBtj9vfoQ7kNvwEVjxiZ&_nc_oc=Adr98Tu1E9ssfSAkW4kT__xdrHdTz5zxKoOXuLMeNW7npIzqPgTEUXx_H9qsFXcHY7SuWa42_mXDC9K2JaShyWpI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KMVt4nbB-cfkhFsE4XXaiA&_nc_ss=70689&oh=00_AQSvckOIJXroT2-dk2nEfu4GS0o98exfiozBv8GCCg2Npg&oe=6AEADD49",
+        "total_posts": 1311
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235655,
       "valor_atual": 236748,
-      "hash_anterior": "74a3eb90337a9c8712121ed51ee0f25f2514a1bba6d3c4005deead2d17aec90b",
-      "hash_atual": "68e24b091ecad442203ac812743be52d5b1af5f07fbab7552dd29d178a5e28b2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1093,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1057,15 +1265,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kO9VBtj9vfoQ7kNvwEVjxiZ&_nc_oc=Adr98Tu1E9ssfSAkW4kT__xdrHdTz5zxKoOXuLMeNW7npIzqPgTEUXx_H9qsFXcHY7SuWa42_mXDC9K2JaShyWpI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KMVt4nbB-cfkhFsE4XXaiA&_nc_ss=70689&oh=00_AQSvckOIJXroT2-dk2nEfu4GS0o98exfiozBv8GCCg2Npg&oe=6AEADD49"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kO9VBtj9vfoQ7kNvwEVjxiZ&_nc_oc=Adr98Tu1E9ssfSAkW4kT__xdrHdTz5zxKoOXuLMeNW7npIzqPgTEUXx_H9qsFXcHY7SuWa42_mXDC9K2JaShyWpI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KMVt4nbB-cfkhFsE4XXaiA&_nc_ss=70689&oh=00_AQSvckOIJXroT2-dk2nEfu4GS0o98exfiozBv8GCCg2Npg&oe=6AEADD49",
+        "total_posts": 1311
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3246,
       "valor_atual": 3239,
-      "hash_anterior": "74a3eb90337a9c8712121ed51ee0f25f2514a1bba6d3c4005deead2d17aec90b",
-      "hash_atual": "68e24b091ecad442203ac812743be52d5b1af5f07fbab7552dd29d178a5e28b2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1092,15 +1301,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kO9VBtj9vfoQ7kNvwEVjxiZ&_nc_oc=Adr98Tu1E9ssfSAkW4kT__xdrHdTz5zxKoOXuLMeNW7npIzqPgTEUXx_H9qsFXcHY7SuWa42_mXDC9K2JaShyWpI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KMVt4nbB-cfkhFsE4XXaiA&_nc_ss=70689&oh=00_AQSvckOIJXroT2-dk2nEfu4GS0o98exfiozBv8GCCg2Npg&oe=6AEADD49"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kO9VBtj9vfoQ7kNvwEVjxiZ&_nc_oc=Adr98Tu1E9ssfSAkW4kT__xdrHdTz5zxKoOXuLMeNW7npIzqPgTEUXx_H9qsFXcHY7SuWa42_mXDC9K2JaShyWpI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KMVt4nbB-cfkhFsE4XXaiA&_nc_ss=70689&oh=00_AQSvckOIJXroT2-dk2nEfu4GS0o98exfiozBv8GCCg2Npg&oe=6AEADD49",
+        "total_posts": 1311
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1297,
       "valor_atual": 1311,
-      "hash_anterior": "74a3eb90337a9c8712121ed51ee0f25f2514a1bba6d3c4005deead2d17aec90b",
-      "hash_atual": "68e24b091ecad442203ac812743be52d5b1af5f07fbab7552dd29d178a5e28b2",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 14,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1111,7 +1321,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 14 posts",
+      "titulo": "Publicou 14 publicações",
       "descricao": "O total mudou de 1.297 para 1.311",
       "variacao_texto": "+14 posts"
     },
@@ -1127,15 +1337,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGu7yOS&_nc_oc=AdpQ3d3b43Sl2ZaypJjR6THwopEu4A68_ijL3jwfU0K5iY16cFnIv4oeLu6UtD-v2WPWW7T08Uh6obdKZhpU1ADU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X1ZpFDXOvXpDVkO5D0Twng&_nc_ss=70689&oh=00_AQPzUA54lADTWYcuKDOXBozYq6U04ccCl7BkvoR381ugQA&oe=6AE283C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGu7yOS&_nc_oc=AdpQ3d3b43Sl2ZaypJjR6THwopEu4A68_ijL3jwfU0K5iY16cFnIv4oeLu6UtD-v2WPWW7T08Uh6obdKZhpU1ADU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X1ZpFDXOvXpDVkO5D0Twng&_nc_ss=70689&oh=00_AQPzUA54lADTWYcuKDOXBozYq6U04ccCl7BkvoR381ugQA&oe=6AE283C9",
+        "total_posts": 1297
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235678,
       "valor_atual": 235655,
-      "hash_anterior": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
-      "hash_atual": "74a3eb90337a9c8712121ed51ee0f25f2514a1bba6d3c4005deead2d17aec90b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -23,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1162,15 +1373,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGu7yOS&_nc_oc=AdpQ3d3b43Sl2ZaypJjR6THwopEu4A68_ijL3jwfU0K5iY16cFnIv4oeLu6UtD-v2WPWW7T08Uh6obdKZhpU1ADU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X1ZpFDXOvXpDVkO5D0Twng&_nc_ss=70689&oh=00_AQPzUA54lADTWYcuKDOXBozYq6U04ccCl7BkvoR381ugQA&oe=6AE283C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGu7yOS&_nc_oc=AdpQ3d3b43Sl2ZaypJjR6THwopEu4A68_ijL3jwfU0K5iY16cFnIv4oeLu6UtD-v2WPWW7T08Uh6obdKZhpU1ADU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X1ZpFDXOvXpDVkO5D0Twng&_nc_ss=70689&oh=00_AQPzUA54lADTWYcuKDOXBozYq6U04ccCl7BkvoR381ugQA&oe=6AE283C9",
+        "total_posts": 1297
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3248,
       "valor_atual": 3246,
-      "hash_anterior": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
-      "hash_atual": "74a3eb90337a9c8712121ed51ee0f25f2514a1bba6d3c4005deead2d17aec90b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1197,15 +1409,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGu7yOS&_nc_oc=AdpQ3d3b43Sl2ZaypJjR6THwopEu4A68_ijL3jwfU0K5iY16cFnIv4oeLu6UtD-v2WPWW7T08Uh6obdKZhpU1ADU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X1ZpFDXOvXpDVkO5D0Twng&_nc_ss=70689&oh=00_AQPzUA54lADTWYcuKDOXBozYq6U04ccCl7BkvoR381ugQA&oe=6AE283C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGu7yOS&_nc_oc=AdpQ3d3b43Sl2ZaypJjR6THwopEu4A68_ijL3jwfU0K5iY16cFnIv4oeLu6UtD-v2WPWW7T08Uh6obdKZhpU1ADU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X1ZpFDXOvXpDVkO5D0Twng&_nc_ss=70689&oh=00_AQPzUA54lADTWYcuKDOXBozYq6U04ccCl7BkvoR381ugQA&oe=6AE283C9",
+        "total_posts": 1297
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1296,
       "valor_atual": 1297,
-      "hash_anterior": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
-      "hash_atual": "74a3eb90337a9c8712121ed51ee0f25f2514a1bba6d3c4005deead2d17aec90b",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1216,7 +1429,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 1.296 para 1.297",
       "variacao_texto": "+1 post"
     },
@@ -1232,15 +1445,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249",
+        "total_posts": 1296
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235712,
       "valor_atual": 235678,
-      "hash_anterior": "ef755aa2a73b5f4acd1333b777ea78dad2c9fd46fa303f2d280bc9a189ca0f83",
-      "hash_atual": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -34,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1267,15 +1481,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LFHWuap9StcQ7kNvwGOrLqb&_nc_oc=AdpEbXyQNgXXokuWo61yZUp_4yQf1iR63c-RMEf2NpJOIMLqfgr9pX0azqS0lEDvozRsyqO26cPzOOuaiHUEXe8u&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=px_-eaDnEN6iR55k1AlYsg&_nc_ss=70689&oh=00_AQPSgsqqo4QBzCiLD7xN83XDwiIvsfxUs-ucf_SsfyEtrA&oe=6AE13249",
+        "total_posts": 1296
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1292,
       "valor_atual": 1296,
-      "hash_anterior": "ef755aa2a73b5f4acd1333b777ea78dad2c9fd46fa303f2d280bc9a189ca0f83",
-      "hash_atual": "e4aeb593d4907fa8c82174f2f31b5a9cf58b08c5b1798b9a8be4290a7be50d23",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1286,7 +1501,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 4 posts",
+      "titulo": "Publicou 4 publicações",
       "descricao": "O total mudou de 1.292 para 1.296",
       "variacao_texto": "+4 posts"
     },
@@ -1302,15 +1517,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DPO6QEZkdrjwwYp9MG41dw&_nc_ss=70689&oh=00_AQO4HU9Gs_Wd4KvpmiEqLHwCYqtHx985gRz3LrN9sZbepw&oe=6ADEFFC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DPO6QEZkdrjwwYp9MG41dw&_nc_ss=70689&oh=00_AQO4HU9Gs_Wd4KvpmiEqLHwCYqtHx985gRz3LrN9sZbepw&oe=6ADEFFC9",
+        "total_posts": 1292
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235710,
       "valor_atual": 235712,
-      "hash_anterior": "a5e168eeff6041fcffb53277d861879c89a595be3c0ae1f0d7d1c0c997cc7c75",
-      "hash_atual": "ef755aa2a73b5f4acd1333b777ea78dad2c9fd46fa303f2d280bc9a189ca0f83",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1337,15 +1553,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9",
+        "total_posts": 1292
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "Músico | Jornalista \n#TimeThaide 🎙️\n@afazendarecord\n📧vamoqvamoproducoes@gmail.com",
       "valor_atual": "#TimeThaide 🎙️| @afazendarecord \nMúsico | Jornalista \n📧vamoqvamoproducoes@gmail.com",
-      "hash_anterior": "5d512afea3cbc951ac62f22f0c337a14a7ad9fd463e7b0dfe1927d8d9019a9ed",
-      "hash_atual": "a5e168eeff6041fcffb53277d861879c89a595be3c0ae1f0d7d1c0c997cc7c75",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1371,15 +1588,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9",
+        "total_posts": 1292
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235806,
       "valor_atual": 235710,
-      "hash_anterior": "5d512afea3cbc951ac62f22f0c337a14a7ad9fd463e7b0dfe1927d8d9019a9ed",
-      "hash_atual": "a5e168eeff6041fcffb53277d861879c89a595be3c0ae1f0d7d1c0c997cc7c75",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -96,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1406,15 +1624,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9",
+        "total_posts": 1292
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3251,
       "valor_atual": 3248,
-      "hash_anterior": "5d512afea3cbc951ac62f22f0c337a14a7ad9fd463e7b0dfe1927d8d9019a9ed",
-      "hash_atual": "a5e168eeff6041fcffb53277d861879c89a595be3c0ae1f0d7d1c0c997cc7c75",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1441,15 +1660,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=u5dAVpO4ouwQ7kNvwEu_16K&_nc_oc=AdryVPR1w4mIgccco6mR7sEADeCmIQfEGmPasJbL_IzGwtRx2ISlvWRxyBiGEAkjf-rA0GNedpC6uTU1wpfjEER9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DfyZIq71w21DC_qIiddCfg&_nc_ss=70689&oh=00_AQPd9NwJsOGlulnK7g7Wxvmh3FNJa8c_pAkeBu99U7I8uw&oe=6ADEFFC9",
+        "total_posts": 1292
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1285,
       "valor_atual": 1292,
-      "hash_anterior": "5d512afea3cbc951ac62f22f0c337a14a7ad9fd463e7b0dfe1927d8d9019a9ed",
-      "hash_atual": "a5e168eeff6041fcffb53277d861879c89a595be3c0ae1f0d7d1c0c997cc7c75",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 7,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1460,7 +1680,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 7 posts",
+      "titulo": "Publicou 7 publicações",
       "descricao": "O total mudou de 1.285 para 1.292",
       "variacao_texto": "+7 posts"
     },
@@ -1476,15 +1696,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yw2pjM1MhoZqxZklX-i2SQ&_nc_ss=70689&oh=00_AQNkhybsEC5NklPc1dJZvmjPQtRIZV8PFsiVl-mQHx2jmg&oe=6AD8A089"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yw2pjM1MhoZqxZklX-i2SQ&_nc_ss=70689&oh=00_AQNkhybsEC5NklPc1dJZvmjPQtRIZV8PFsiVl-mQHx2jmg&oe=6AD8A089",
+        "total_posts": 1285
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235814,
       "valor_atual": 235806,
-      "hash_anterior": "fc3983062d9d6e57b5c7135819cf684d479765720a59e3998507927d48d5b2db",
-      "hash_atual": "5d512afea3cbc951ac62f22f0c337a14a7ad9fd463e7b0dfe1927d8d9019a9ed",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -8,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1511,15 +1732,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K1Roq5LNgkW05QCSiOcovA&_nc_ss=70689&oh=00_AQMJIob2uapY9UOEcaeQ2xtAWEZ6Gqa1HV8GaWdFn4M15A&oe=6AD83009"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K1Roq5LNgkW05QCSiOcovA&_nc_ss=70689&oh=00_AQMJIob2uapY9UOEcaeQ2xtAWEZ6Gqa1HV8GaWdFn4M15A&oe=6AD83009",
+        "total_posts": 1285
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235829,
       "valor_atual": 235814,
-      "hash_anterior": "1ce75a242fb59c0d91688d4ec9f514db458fa7ea1133a8c83c27844b990b38fd",
-      "hash_atual": "fc3983062d9d6e57b5c7135819cf684d479765720a59e3998507927d48d5b2db",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -15,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1546,15 +1768,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K1Roq5LNgkW05QCSiOcovA&_nc_ss=70689&oh=00_AQMJIob2uapY9UOEcaeQ2xtAWEZ6Gqa1HV8GaWdFn4M15A&oe=6AD83009"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K1Roq5LNgkW05QCSiOcovA&_nc_ss=70689&oh=00_AQMJIob2uapY9UOEcaeQ2xtAWEZ6Gqa1HV8GaWdFn4M15A&oe=6AD83009",
+        "total_posts": 1285
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3248,
       "valor_atual": 3251,
-      "hash_anterior": "1ce75a242fb59c0d91688d4ec9f514db458fa7ea1133a8c83c27844b990b38fd",
-      "hash_atual": "fc3983062d9d6e57b5c7135819cf684d479765720a59e3998507927d48d5b2db",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1581,15 +1804,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K1Roq5LNgkW05QCSiOcovA&_nc_ss=70689&oh=00_AQMJIob2uapY9UOEcaeQ2xtAWEZ6Gqa1HV8GaWdFn4M15A&oe=6AD83009"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEWmaj1&_nc_oc=Ado5nBIEUCqOk8oiwYeo3YMCj5WegizjktL5CFL8hGv3L1PJz0VH6nzwwcYFrDOwij1MMBBhftljFzifu65cC9kd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=K1Roq5LNgkW05QCSiOcovA&_nc_ss=70689&oh=00_AQMJIob2uapY9UOEcaeQ2xtAWEZ6Gqa1HV8GaWdFn4M15A&oe=6AD83009",
+        "total_posts": 1285
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1283,
       "valor_atual": 1285,
-      "hash_anterior": "1ce75a242fb59c0d91688d4ec9f514db458fa7ea1133a8c83c27844b990b38fd",
-      "hash_atual": "fc3983062d9d6e57b5c7135819cf684d479765720a59e3998507927d48d5b2db",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1600,7 +1824,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 1.283 para 1.285",
       "variacao_texto": "+2 posts"
     },
@@ -1616,15 +1840,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEgQriM&_nc_oc=AdrfLsrG188kqTttV1bGgxjVWMtD4KK_VD--GwaTTMQI5_PmC61LVn7vWzl-_VRcU9Wxq-dVroFHyO8F_srUMk0j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIv8AerSppC9lw8PkysJSQ&_nc_ss=70689&oh=00_AQNyhKeijXf6q9CRI22pF-ePeZzqYPU4HDOblOgHu-QJdA&oe=6AD554C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEgQriM&_nc_oc=AdrfLsrG188kqTttV1bGgxjVWMtD4KK_VD--GwaTTMQI5_PmC61LVn7vWzl-_VRcU9Wxq-dVroFHyO8F_srUMk0j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIv8AerSppC9lw8PkysJSQ&_nc_ss=70689&oh=00_AQNyhKeijXf6q9CRI22pF-ePeZzqYPU4HDOblOgHu-QJdA&oe=6AD554C9",
+        "total_posts": 1283
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235863,
       "valor_atual": 235829,
-      "hash_anterior": "d405b55bb66d9d8882752151fa4089bdab6b4bd68465ae1d51fb02d8c1f95a54",
-      "hash_atual": "1ce75a242fb59c0d91688d4ec9f514db458fa7ea1133a8c83c27844b990b38fd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -34,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1651,15 +1876,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEgQriM&_nc_oc=AdrfLsrG188kqTttV1bGgxjVWMtD4KK_VD--GwaTTMQI5_PmC61LVn7vWzl-_VRcU9Wxq-dVroFHyO8F_srUMk0j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIv8AerSppC9lw8PkysJSQ&_nc_ss=70689&oh=00_AQNyhKeijXf6q9CRI22pF-ePeZzqYPU4HDOblOgHu-QJdA&oe=6AD554C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEgQriM&_nc_oc=AdrfLsrG188kqTttV1bGgxjVWMtD4KK_VD--GwaTTMQI5_PmC61LVn7vWzl-_VRcU9Wxq-dVroFHyO8F_srUMk0j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIv8AerSppC9lw8PkysJSQ&_nc_ss=70689&oh=00_AQNyhKeijXf6q9CRI22pF-ePeZzqYPU4HDOblOgHu-QJdA&oe=6AD554C9",
+        "total_posts": 1283
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3250,
       "valor_atual": 3248,
-      "hash_anterior": "d405b55bb66d9d8882752151fa4089bdab6b4bd68465ae1d51fb02d8c1f95a54",
-      "hash_atual": "1ce75a242fb59c0d91688d4ec9f514db458fa7ea1133a8c83c27844b990b38fd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1686,15 +1912,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEgQriM&_nc_oc=AdrfLsrG188kqTttV1bGgxjVWMtD4KK_VD--GwaTTMQI5_PmC61LVn7vWzl-_VRcU9Wxq-dVroFHyO8F_srUMk0j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIv8AerSppC9lw8PkysJSQ&_nc_ss=70689&oh=00_AQNyhKeijXf6q9CRI22pF-ePeZzqYPU4HDOblOgHu-QJdA&oe=6AD554C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=orcyMfQBPY8Q7kNvwEgQriM&_nc_oc=AdrfLsrG188kqTttV1bGgxjVWMtD4KK_VD--GwaTTMQI5_PmC61LVn7vWzl-_VRcU9Wxq-dVroFHyO8F_srUMk0j&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIv8AerSppC9lw8PkysJSQ&_nc_ss=70689&oh=00_AQNyhKeijXf6q9CRI22pF-ePeZzqYPU4HDOblOgHu-QJdA&oe=6AD554C9",
+        "total_posts": 1283
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1282,
       "valor_atual": 1283,
-      "hash_anterior": "d405b55bb66d9d8882752151fa4089bdab6b4bd68465ae1d51fb02d8c1f95a54",
-      "hash_atual": "1ce75a242fb59c0d91688d4ec9f514db458fa7ea1133a8c83c27844b990b38fd",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1705,7 +1932,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 1 post",
+      "titulo": "Publicou 1 publicação",
       "descricao": "O total mudou de 1.282 para 1.283",
       "variacao_texto": "+1 post"
     },
@@ -1721,15 +1948,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IsNuFfwOI6uP7i8zEFj1Q&_nc_ss=70689&oh=00_AQOxunReKN-TzHCnxcrigKfL1jJkLac6OFich7OHj8tICQ&oe=6AD473C9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7IsNuFfwOI6uP7i8zEFj1Q&_nc_ss=70689&oh=00_AQOxunReKN-TzHCnxcrigKfL1jJkLac6OFich7OHj8tICQ&oe=6AD473C9",
+        "total_posts": 1282
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235860,
       "valor_atual": 235863,
-      "hash_anterior": "df80fdcc1ab2f68d813c7df881b9c07859289d323f3d8f6aa2cd4556fda537a1",
-      "hash_atual": "d405b55bb66d9d8882752151fa4089bdab6b4bd68465ae1d51fb02d8c1f95a54",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1756,15 +1984,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=92kV4GqH3MWJ0_qrkzvgvg&_nc_ss=70689&oh=00_AQMJNLbwsarE3Jm19EeyjZ03lW1H6p6NEs3bi7CEdKtIkQ&oe=6AD43B89"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=92kV4GqH3MWJ0_qrkzvgvg&_nc_ss=70689&oh=00_AQMJNLbwsarE3Jm19EeyjZ03lW1H6p6NEs3bi7CEdKtIkQ&oe=6AD43B89",
+        "total_posts": 1282
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235925,
       "valor_atual": 235860,
-      "hash_anterior": "24e89216627901d2952509d56ef6a1b03eac828f625d2f9d495fa3583ffd8d90",
-      "hash_atual": "df80fdcc1ab2f68d813c7df881b9c07859289d323f3d8f6aa2cd4556fda537a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -65,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1791,15 +2020,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=92kV4GqH3MWJ0_qrkzvgvg&_nc_ss=70689&oh=00_AQMJNLbwsarE3Jm19EeyjZ03lW1H6p6NEs3bi7CEdKtIkQ&oe=6AD43B89"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=92kV4GqH3MWJ0_qrkzvgvg&_nc_ss=70689&oh=00_AQMJNLbwsarE3Jm19EeyjZ03lW1H6p6NEs3bi7CEdKtIkQ&oe=6AD43B89",
+        "total_posts": 1282
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3248,
       "valor_atual": 3250,
-      "hash_anterior": "24e89216627901d2952509d56ef6a1b03eac828f625d2f9d495fa3583ffd8d90",
-      "hash_atual": "df80fdcc1ab2f68d813c7df881b9c07859289d323f3d8f6aa2cd4556fda537a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1826,15 +2056,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=92kV4GqH3MWJ0_qrkzvgvg&_nc_ss=70689&oh=00_AQMJNLbwsarE3Jm19EeyjZ03lW1H6p6NEs3bi7CEdKtIkQ&oe=6AD43B89"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEytiAI&_nc_oc=AdptwVdJxyGvR0lMu0_HTt2c8eeP_MmM5cqU-ddD_SYJUL5dJnJlnid6rPTXCQ060B8CV4YqqhIT1N47ZJFcP_Ii&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=92kV4GqH3MWJ0_qrkzvgvg&_nc_ss=70689&oh=00_AQMJNLbwsarE3Jm19EeyjZ03lW1H6p6NEs3bi7CEdKtIkQ&oe=6AD43B89",
+        "total_posts": 1282
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1280,
       "valor_atual": 1282,
-      "hash_anterior": "24e89216627901d2952509d56ef6a1b03eac828f625d2f9d495fa3583ffd8d90",
-      "hash_atual": "df80fdcc1ab2f68d813c7df881b9c07859289d323f3d8f6aa2cd4556fda537a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1845,7 +2076,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 1.280 para 1.282",
       "variacao_texto": "+2 posts"
     },
@@ -1861,15 +2092,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEnDEGK&_nc_oc=Adr9vZuD78sp5dk55Y1cmYEt8wxGsl0YI8XSOPIw_1mzJIiaoSq0peY5MBDv9RGMKeiSloOy57MgpYUo30i4i8q1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iHgOQJ4tGqj3vUZ95Np5mg&_nc_ss=70689&oh=00_AQO0rXj65oyyFCiHKbEr3TFj_HpER-ynfwka1lgyncV9_A&oe=6AD16049"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fqYkvwCja5QQ7kNvwEnDEGK&_nc_oc=Adr9vZuD78sp5dk55Y1cmYEt8wxGsl0YI8XSOPIw_1mzJIiaoSq0peY5MBDv9RGMKeiSloOy57MgpYUo30i4i8q1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iHgOQJ4tGqj3vUZ95Np5mg&_nc_ss=70689&oh=00_AQO0rXj65oyyFCiHKbEr3TFj_HpER-ynfwka1lgyncV9_A&oe=6AD16049",
+        "total_posts": 1280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235869,
       "valor_atual": 235925,
-      "hash_anterior": "f249e86f8fc48c349c59b42e81a4516961b8882a5cdc68f7677c20641d2b7410",
-      "hash_atual": "24e89216627901d2952509d56ef6a1b03eac828f625d2f9d495fa3583ffd8d90",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 56,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1896,15 +2128,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wehqvA3oZZvICOi7mbfKWQ&_nc_ss=70689&oh=00_AQMC5gurTETm_6DMayjL_oBv-A4TJcVrDBbxy_z86DB4RA&oe=6AD07F49"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wehqvA3oZZvICOi7mbfKWQ&_nc_ss=70689&oh=00_AQMC5gurTETm_6DMayjL_oBv-A4TJcVrDBbxy_z86DB4RA&oe=6AD07F49",
+        "total_posts": 1280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235866,
       "valor_atual": 235869,
-      "hash_anterior": "9d653e6ebadc3c6208deb88e1e218d7dced906233a5cca7705159be2de5ad18c",
-      "hash_atual": "f249e86f8fc48c349c59b42e81a4516961b8882a5cdc68f7677c20641d2b7410",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1931,15 +2164,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6tH_xKQfRJInSJHkJiCYcw&_nc_ss=70689&oh=00_AQN_DMI4zX2ov10K3fgXXRfc4_l34SmcGxzuZXFTFjO0AA&oe=6AD04709"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6tH_xKQfRJInSJHkJiCYcw&_nc_ss=70689&oh=00_AQN_DMI4zX2ov10K3fgXXRfc4_l34SmcGxzuZXFTFjO0AA&oe=6AD04709",
+        "total_posts": 1280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235862,
       "valor_atual": 235866,
-      "hash_anterior": "8efd26771e2bc3aeb1abd0e041d955774d2869bb57892f617392c174d1d3979c",
-      "hash_atual": "9d653e6ebadc3c6208deb88e1e218d7dced906233a5cca7705159be2de5ad18c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1966,15 +2200,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TmczzXK82L3kBPGkT5BLuQ&_nc_ss=70689&oh=00_AQMRnzL7c8ujKV5hXXkk2p_Xk_bOuXE25SW45nvqIzWx7g&oe=6AD04709"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TmczzXK82L3kBPGkT5BLuQ&_nc_ss=70689&oh=00_AQMRnzL7c8ujKV5hXXkk2p_Xk_bOuXE25SW45nvqIzWx7g&oe=6AD04709",
+        "total_posts": 1280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235899,
       "valor_atual": 235862,
-      "hash_anterior": "41fadb77795e046860499bef143a7164e35029743605160b01bbdd71d37fa4d0",
-      "hash_atual": "8efd26771e2bc3aeb1abd0e041d955774d2869bb57892f617392c174d1d3979c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -37,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2001,15 +2236,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TmczzXK82L3kBPGkT5BLuQ&_nc_ss=70689&oh=00_AQMRnzL7c8ujKV5hXXkk2p_Xk_bOuXE25SW45nvqIzWx7g&oe=6AD04709"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwG3LM-i&_nc_oc=Adpewd7bBPZmpReU-iFVApbcX8Yc8_Uo2J30_TWffSRJM6oV46WdYNxdWdLi2G0uA6vsGkg_4_yccTyGN6UwCK32&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=TmczzXK82L3kBPGkT5BLuQ&_nc_ss=70689&oh=00_AQMRnzL7c8ujKV5hXXkk2p_Xk_bOuXE25SW45nvqIzWx7g&oe=6AD04709",
+        "total_posts": 1280
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3250,
       "valor_atual": 3248,
-      "hash_anterior": "41fadb77795e046860499bef143a7164e35029743605160b01bbdd71d37fa4d0",
-      "hash_atual": "8efd26771e2bc3aeb1abd0e041d955774d2869bb57892f617392c174d1d3979c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2036,15 +2272,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WCOKaLcqawjJUELAQUh-Og&_nc_ss=70689&oh=00_AQMTE0s19nz3-QFQcdAhgT1EKjqgCZR9IBhGEFGz9DBhHg&oe=6ACF6609"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WCOKaLcqawjJUELAQUh-Og&_nc_ss=70689&oh=00_AQMTE0s19nz3-QFQcdAhgT1EKjqgCZR9IBhGEFGz9DBhHg&oe=6ACF6609",
+        "total_posts": 1280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235834,
       "valor_atual": 235899,
-      "hash_anterior": "d2180950cb32900fc3b8871731427a2ba462a0a29cd855c0aa6f51df9386467e",
-      "hash_atual": "41fadb77795e046860499bef143a7164e35029743605160b01bbdd71d37fa4d0",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 65,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2071,15 +2308,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609",
+        "total_posts": 1280
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "#TimeThaide 🎙️\nVOTE PARA O THAÍDE FICAR EM @afazendarecord LINK👇🏿👇🏿👇🏿👇🏿",
       "valor_atual": "Músico | Jornalista \n#TimeThaide 🎙️\n@afazendarecord\n📧vamoqvamoproducoes@gmail.com",
-      "hash_anterior": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
-      "hash_atual": "d2180950cb32900fc3b8871731427a2ba462a0a29cd855c0aa6f51df9386467e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -2105,7 +2343,8 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609",
+        "total_posts": 1280
       },
       "tipo": "links",
       "campo": "links",
@@ -2116,8 +2355,8 @@
         }
       ],
       "valor_atual": [],
-      "hash_anterior": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
-      "hash_atual": "d2180950cb32900fc3b8871731427a2ba462a0a29cd855c0aa6f51df9386467e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -2143,15 +2382,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609",
+        "total_posts": 1280
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 237080,
       "valor_atual": 235834,
-      "hash_anterior": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
-      "hash_atual": "d2180950cb32900fc3b8871731427a2ba462a0a29cd855c0aa6f51df9386467e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1246,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2178,15 +2418,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609",
+        "total_posts": 1280
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3247,
       "valor_atual": 3250,
-      "hash_anterior": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
-      "hash_atual": "d2180950cb32900fc3b8871731427a2ba462a0a29cd855c0aa6f51df9386467e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2213,15 +2454,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwF1jbeL&_nc_oc=AdqxyF-3iVGV_moK5_QEsMqGDw8cAQ5DzBoLxSzbZryaNmWbjdg2c6llHzd9qnO6rkV1wSB0E0ewLPsSZEgp9_tl&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=S4WbkZRG5NKb_j2BW3KHxA&_nc_ss=70689&oh=00_AQP7IsNAKkcQeVTLbYyzsCoUHZz4kqOMB55dRpXF44Cp1g&oe=6ACF6609",
+        "total_posts": 1280
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1277,
       "valor_atual": 1280,
-      "hash_anterior": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
-      "hash_atual": "d2180950cb32900fc3b8871731427a2ba462a0a29cd855c0aa6f51df9386467e",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2232,7 +2474,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 1.277 para 1.280",
       "variacao_texto": "+3 posts"
     },
@@ -2248,15 +2490,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9",
+        "total_posts": 1277
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "#TimeThaide 🎙️\nMúsico | Jornalista e tudo que a arte permitir!\n@afazendarecord 🎙️🛋️",
       "valor_atual": "#TimeThaide 🎙️\nVOTE PARA O THAÍDE FICAR EM @afazendarecord LINK👇🏿👇🏿👇🏿👇🏿",
-      "hash_anterior": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
-      "hash_atual": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -2282,7 +2525,8 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9",
+        "total_posts": 1277
       },
       "tipo": "links",
       "campo": "links",
@@ -2297,8 +2541,8 @@
           "url": "http://record.r7.com"
         }
       ],
-      "hash_anterior": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
-      "hash_atual": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -2324,15 +2568,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9",
+        "total_posts": 1277
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 237034,
       "valor_atual": 237080,
-      "hash_anterior": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
-      "hash_atual": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 46,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2359,15 +2604,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9",
+        "total_posts": 1277
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3246,
       "valor_atual": 3247,
-      "hash_anterior": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
-      "hash_atual": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2394,15 +2640,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YygruVVPx88Q7kNvwECm2SI&_nc_oc=Adqu6MD66U1kTuycnw25YJmAhnsgTlJv-2Ptdb8hciYRcrN3sVxTk7MPXU2k6jl3SL6ywW2h1pbrytc1-NKwn8ea&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ggphe9Gp28dSOPrChFeflA&_nc_ss=70689&oh=00_AQM8-nTx2ZT2pDCScD7H5onjUQ3YjRdp9BE7gpi1c3cU-g&oe=6ACD6BC9",
+        "total_posts": 1277
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1274,
       "valor_atual": 1277,
-      "hash_anterior": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
-      "hash_atual": "0d181e4c285a13f7d7b64fe7c560caa2277bd2288fe4fcf2ea39398673c126f4",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2413,7 +2660,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 3 posts",
+      "titulo": "Publicou 3 publicações",
       "descricao": "O total mudou de 1.274 para 1.277",
       "variacao_texto": "+3 posts"
     },
@@ -2429,15 +2676,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9",
+        "total_posts": 1274
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "#TimeThaide 🎙️\nMúsico | Jornalista e tudo que a arte permitir!\n@afazendarecord 🎙️",
       "valor_atual": "#TimeThaide 🎙️\nMúsico | Jornalista e tudo que a arte permitir!\n@afazendarecord 🎙️🛋️",
-      "hash_anterior": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
-      "hash_atual": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -2463,15 +2711,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9",
+        "total_posts": 1274
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 237097,
       "valor_atual": 237034,
-      "hash_anterior": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
-      "hash_atual": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -63,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2498,15 +2747,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9",
+        "total_posts": 1274
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3245,
       "valor_atual": 3246,
-      "hash_anterior": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
-      "hash_atual": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2533,15 +2783,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwHzSikO&_nc_oc=AdpLoCYUM3G27C6CliBEig3h-3ZqBjZZTYc59WQEWvQyuAjvbViptqchSTwTjU7Q0-_5Z5pOjPPDQyIVnb-YyCkI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hvLwoDiyolsoBDneSOr27A&_nc_ss=70689&oh=00_AQPfxQVlAl59BWWpPPGknGhpAntfXmxhh2mDDjsaMI8rRQ&oe=6ACC8AC9",
+        "total_posts": 1274
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1272,
       "valor_atual": 1274,
-      "hash_anterior": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
-      "hash_atual": "a9a32bee56a70f1a9fc5b4c45077467f0b6fa015b8711f6c9d4c662c08ee99f1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2552,7 +2803,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 1.272 para 1.274",
       "variacao_texto": "+2 posts"
     },
@@ -2568,15 +2819,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwFKQdVP&_nc_oc=Adqx4PoFmK6Iv0vp0luAs_WE9GxN0GGDGnROrNvb5z2_l1Sp4zGN2IwYtDtablJbD3si7iWPLiiEQsfktNdIKEBt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C7FhqTN40ZydJuEhHg6dmQ&_nc_ss=70689&oh=00_AQNO-w33V3Hpn0L3Cyh1ClxLuYOI7rfdtmuo7fkLeC6UWQ&oe=6ACC5289"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwFKQdVP&_nc_oc=Adqx4PoFmK6Iv0vp0luAs_WE9GxN0GGDGnROrNvb5z2_l1Sp4zGN2IwYtDtablJbD3si7iWPLiiEQsfktNdIKEBt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C7FhqTN40ZydJuEhHg6dmQ&_nc_ss=70689&oh=00_AQNO-w33V3Hpn0L3Cyh1ClxLuYOI7rfdtmuo7fkLeC6UWQ&oe=6ACC5289",
+        "total_posts": 1272
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235202,
       "valor_atual": 237097,
-      "hash_anterior": "c8d6c357053c57f85edc8479da7d765428a78403c87b6f8452272cf1d2089716",
-      "hash_atual": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1895,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2603,15 +2855,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwFKQdVP&_nc_oc=Adqx4PoFmK6Iv0vp0luAs_WE9GxN0GGDGnROrNvb5z2_l1Sp4zGN2IwYtDtablJbD3si7iWPLiiEQsfktNdIKEBt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C7FhqTN40ZydJuEhHg6dmQ&_nc_ss=70689&oh=00_AQNO-w33V3Hpn0L3Cyh1ClxLuYOI7rfdtmuo7fkLeC6UWQ&oe=6ACC5289"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwFKQdVP&_nc_oc=Adqx4PoFmK6Iv0vp0luAs_WE9GxN0GGDGnROrNvb5z2_l1Sp4zGN2IwYtDtablJbD3si7iWPLiiEQsfktNdIKEBt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C7FhqTN40ZydJuEhHg6dmQ&_nc_ss=70689&oh=00_AQNO-w33V3Hpn0L3Cyh1ClxLuYOI7rfdtmuo7fkLeC6UWQ&oe=6ACC5289",
+        "total_posts": 1272
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 3246,
       "valor_atual": 3245,
-      "hash_anterior": "c8d6c357053c57f85edc8479da7d765428a78403c87b6f8452272cf1d2089716",
-      "hash_atual": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2638,15 +2891,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwFKQdVP&_nc_oc=Adqx4PoFmK6Iv0vp0luAs_WE9GxN0GGDGnROrNvb5z2_l1Sp4zGN2IwYtDtablJbD3si7iWPLiiEQsfktNdIKEBt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C7FhqTN40ZydJuEhHg6dmQ&_nc_ss=70689&oh=00_AQNO-w33V3Hpn0L3Cyh1ClxLuYOI7rfdtmuo7fkLeC6UWQ&oe=6ACC5289"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwFKQdVP&_nc_oc=Adqx4PoFmK6Iv0vp0luAs_WE9GxN0GGDGnROrNvb5z2_l1Sp4zGN2IwYtDtablJbD3si7iWPLiiEQsfktNdIKEBt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=C7FhqTN40ZydJuEhHg6dmQ&_nc_ss=70689&oh=00_AQNO-w33V3Hpn0L3Cyh1ClxLuYOI7rfdtmuo7fkLeC6UWQ&oe=6ACC5289",
+        "total_posts": 1272
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1270,
       "valor_atual": 1272,
-      "hash_anterior": "c8d6c357053c57f85edc8479da7d765428a78403c87b6f8452272cf1d2089716",
-      "hash_atual": "92a0b6bf55bde10031c74348100860b1d1f224094a26b41ebb80057100b9c5f5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2657,7 +2911,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 1.270 para 1.272",
       "variacao_texto": "+2 posts"
     },
@@ -2673,15 +2927,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwGzWd_J&_nc_oc=AdpXmd-a3qcNoIdNz2cXoO8--lxCSQeMUFo4CWyn8W8o5lUytqA4DdykXuuJGSTCXSPDcF3je7tfePbzsMTisWFr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pNtJJmDLPG52yviiAXmszw&_nc_ss=70689&oh=00_AQOZrn1k-5Z9QTVoLIZ_-R1QGKWrrReqSMjVdH4VAjxLTw&oe=6ACB7189"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwGzWd_J&_nc_oc=AdpXmd-a3qcNoIdNz2cXoO8--lxCSQeMUFo4CWyn8W8o5lUytqA4DdykXuuJGSTCXSPDcF3je7tfePbzsMTisWFr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pNtJJmDLPG52yviiAXmszw&_nc_ss=70689&oh=00_AQOZrn1k-5Z9QTVoLIZ_-R1QGKWrrReqSMjVdH4VAjxLTw&oe=6ACB7189",
+        "total_posts": 1270
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235200,
       "valor_atual": 235202,
-      "hash_anterior": "819ef3ec099409d668863e35eed4e2cf3acbfdd6953023e2169320ef84298e48",
-      "hash_atual": "c8d6c357053c57f85edc8479da7d765428a78403c87b6f8452272cf1d2089716",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2708,15 +2963,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwGzWd_J&_nc_oc=AdpXmd-a3qcNoIdNz2cXoO8--lxCSQeMUFo4CWyn8W8o5lUytqA4DdykXuuJGSTCXSPDcF3je7tfePbzsMTisWFr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0AtZFbpQAyqOmaWxewidJA&_nc_ss=70689&oh=00_AQPzcheMSve4IKd0S7kSSCraW4Fp4My-KhjH081ELSHkdg&oe=6ACB3949"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwGzWd_J&_nc_oc=AdpXmd-a3qcNoIdNz2cXoO8--lxCSQeMUFo4CWyn8W8o5lUytqA4DdykXuuJGSTCXSPDcF3je7tfePbzsMTisWFr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0AtZFbpQAyqOmaWxewidJA&_nc_ss=70689&oh=00_AQPzcheMSve4IKd0S7kSSCraW4Fp4My-KhjH081ELSHkdg&oe=6ACB3949",
+        "total_posts": 1270
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 235248,
       "valor_atual": 235200,
-      "hash_anterior": "f8e5603bfe3249c7fdeb8cf71e9c80f8fe7a8ca98e2085054473a75a574ffb16",
-      "hash_atual": "819ef3ec099409d668863e35eed4e2cf3acbfdd6953023e2169320ef84298e48",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -48,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2743,15 +2999,16 @@
         "id": "17841404794127509",
         "username": "thaideoficial",
         "nome": "O Meu Nome é Thaíde.",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwGzWd_J&_nc_oc=AdpXmd-a3qcNoIdNz2cXoO8--lxCSQeMUFo4CWyn8W8o5lUytqA4DdykXuuJGSTCXSPDcF3je7tfePbzsMTisWFr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0AtZFbpQAyqOmaWxewidJA&_nc_ss=70689&oh=00_AQPzcheMSve4IKd0S7kSSCraW4Fp4My-KhjH081ELSHkdg&oe=6ACB3949"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/809812555_18419421577159805_5461072657039602418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IRjxRv6CXAsQ7kNvwGzWd_J&_nc_oc=AdpXmd-a3qcNoIdNz2cXoO8--lxCSQeMUFo4CWyn8W8o5lUytqA4DdykXuuJGSTCXSPDcF3je7tfePbzsMTisWFr&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=0AtZFbpQAyqOmaWxewidJA&_nc_ss=70689&oh=00_AQPzcheMSve4IKd0S7kSSCraW4Fp4My-KhjH081ELSHkdg&oe=6ACB3949",
+        "total_posts": 1270
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 1268,
       "valor_atual": 1270,
-      "hash_anterior": "f8e5603bfe3249c7fdeb8cf71e9c80f8fe7a8ca98e2085054473a75a574ffb16",
-      "hash_atual": "819ef3ec099409d668863e35eed4e2cf3acbfdd6953023e2169320ef84298e48",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -2762,7 +3019,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 2 posts",
+      "titulo": "Publicou 2 publicações",
       "descricao": "O total mudou de 1.268 para 1.270",
       "variacao_texto": "+2 posts"
     }
@@ -2770,34 +3027,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:17:28.191064",
-    "captura_mais_recente": "2026-11-03T12:22:25.708084",
-    "tempo_total_segundos": 2480697,
-    "tempo_total_dias": 28.711771,
-    "tempo_total_texto": "28 dias, 17 horas, 4 minutos e 57 segundos",
+    "captura_mais_recente": "2026-11-19T16:29:17.389300",
+    "tempo_total_segundos": 3877909,
+    "tempo_total_dias": 44.883206,
+    "tempo_total_texto": "44 dias, 21 horas, 11 minutos e 49 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 122,
-      "direcao": "ganhou",
-      "quantidade": 122,
-      "texto": "Ganhou 122 seguidores",
+    "1_dias": {
+      "variacao": -44,
+      "direcao": "perdeu",
+      "quantidade": 44,
+      "texto": "Perdeu 44 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:04:25.254788",
-      "captura_fim": "2026-11-03T12:22:25.708084",
-      "seguidores_inicio": 235655,
-      "seguidores_fim": 235777
+      "captura_inicio": "2026-11-03T12:22:25.708084",
+      "captura_fim": "2026-11-19T16:29:17.389300",
+      "seguidores_inicio": 235777,
+      "seguidores_fim": 235733
+    },
+    "7_dias": {
+      "variacao": -44,
+      "direcao": "perdeu",
+      "quantidade": 44,
+      "texto": "Perdeu 44 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:22:25.708084",
+      "captura_fim": "2026-11-19T16:29:17.389300",
+      "seguidores_inicio": 235777,
+      "seguidores_fim": 235733
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -73,
+      "direcao": "perdeu",
+      "quantidade": 73,
+      "texto": "Perdeu 73 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:28:06.162821",
+      "captura_fim": "2026-11-19T16:29:17.389300",
+      "seguidores_inicio": 235806,
+      "seguidores_fim": 235733
     },
     "90_dias": {
       "variacao": null,
@@ -2808,17 +3081,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 529,
+      "variacao": 485,
       "direcao": "ganhou",
-      "quantidade": 529,
-      "texto": "Ganhou 529 seguidores",
+      "quantidade": 485,
+      "texto": "Ganhou 485 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:17:28.191064",
-      "captura_mais_recente": "2026-11-03T12:22:25.708084",
-      "tempo_total_dias": 28.711777,
+      "captura_mais_recente": "2026-11-19T16:29:17.389300",
+      "tempo_total_dias": 44.883208,
       "seguidores_inicio": 235248,
-      "seguidores_fim": 235777
+      "seguidores_fim": 235733
     }
   }
 }

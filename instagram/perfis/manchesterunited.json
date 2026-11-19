@@ -8,9 +8,23 @@
       "id": "17841448819140452",
       "username": "manchesterunited",
       "nome": "형준 Jun",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=z4hIGg0C-qgQ7kNvwHq1rwF&_nc_oc=Adp7rKoLP3fG1ZTap_1LFVeAUE6kPJOImP77GL_fXSLM0MzigMHxmsCDQ7h5G8hpuTe5HWOcafpE-q6kdZ6BvzWK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pv2L9yrUkm1FC7d2tcaNXQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTYh85hmaO4EexUeZmbQ4hXw74zr8USGPrs3B-Domb29Q&oe=6B052599",
+      "total_posts": 6
     },
     "biografia": [
+      {
+        "plataforma": "instagram",
+        "campo": "biografia",
+        "nome": "Biografia",
+        "valor_anterior": "🇰🇷🇬🇧cov\n@omarihutchinson10\n🐶⚽️🏸",
+        "valor_atual": "🇰🇷🇬🇧cov",
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Biografia alterada",
+        "timestamp": "2026-11-19T16:21:03.504568",
+        "timestamp_anterior": "2026-11-03T12:11:19.568651",
+        "tempo_desde_anterior_segundos": 1397383
+      },
       {
         "plataforma": "instagram",
         "campo": "biografia",
@@ -55,16 +69,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "Hyeongjun Lyu\n🇰🇷🇬🇧cov",
-        "timestamp": "2026-10-06T21:41:56.859607",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "Futebol Internacional",
         "timestamp": "2026-10-06T21:41:56.859607",
         "tipo": "inicial"
       }
@@ -133,6 +137,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 565,
+        "valor_atual": 564,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 seguidores",
+        "timestamp": "2026-11-19T16:21:03.504568",
+        "timestamp_anterior": "2026-11-03T12:11:19.568651",
+        "tempo_desde_anterior_segundos": 1397383
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -394,6 +411,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 360,
+        "valor_atual": 379,
+        "variacao": 19,
+        "direcao": "aumento",
+        "descricao": "Seguiu +19",
+        "timestamp": "2026-11-19T16:21:03.504568",
+        "timestamp_anterior": "2026-11-03T12:11:19.568651",
+        "tempo_desde_anterior_segundos": 1397383
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 357,
         "valor_atual": 360,
         "variacao": 3,
@@ -587,7 +617,7 @@
         "valor_atual": 6,
         "variacao": 6,
         "direcao": "aumento",
-        "descricao": "+6 posts",
+        "descricao": "+6 publicações",
         "timestamp": "2026-11-03T12:11:19.568651",
         "timestamp_anterior": "2026-10-30T20:10:18.501326",
         "tempo_desde_anterior_segundos": 316861
@@ -600,7 +630,7 @@
         "valor_atual": 0,
         "variacao": -4,
         "direcao": "reducao",
-        "descricao": "-4 posts",
+        "descricao": "-4 publicações",
         "timestamp": "2026-10-30T20:10:18.501326",
         "timestamp_anterior": "2026-10-07T13:02:02.375821",
         "tempo_desde_anterior_segundos": 2012896
@@ -613,7 +643,7 @@
         "valor_atual": 4,
         "variacao": -4,
         "direcao": "reducao",
-        "descricao": "-4 posts",
+        "descricao": "-4 publicações",
         "timestamp": "2026-10-07T13:02:02.375821",
         "timestamp_anterior": "2026-10-06T21:41:56.859607",
         "tempo_desde_anterior_segundos": 55205
@@ -656,9 +686,126 @@
         "timestamp": "2026-10-06T21:41:56.859607",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "Futebol Internacional",
+        "timestamp": "2026-10-06T21:41:56.859607",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:03.504568",
+      "timestamp_anterior": "2026-11-03T12:11:19.568651",
+      "timestamp_atual": "2026-11-19T16:21:03.504568",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 48883619304,
+        "id": "17841448819140452",
+        "username": "manchesterunited",
+        "nome": "형준 Jun",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=z4hIGg0C-qgQ7kNvwHq1rwF&_nc_oc=Adp7rKoLP3fG1ZTap_1LFVeAUE6kPJOImP77GL_fXSLM0MzigMHxmsCDQ7h5G8hpuTe5HWOcafpE-q6kdZ6BvzWK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pv2L9yrUkm1FC7d2tcaNXQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTYh85hmaO4EexUeZmbQ4hXw74zr8USGPrs3B-Domb29Q&oe=6B052599",
+        "total_posts": 6
+      },
+      "tipo": "biografia",
+      "campo": "biografia",
+      "nome_campo": "Biografia",
+      "valor_anterior": "🇰🇷🇬🇧cov\n@omarihutchinson10\n🐶⚽️🏸",
+      "valor_atual": "🇰🇷🇬🇧cov",
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": null,
+      "categoria": "perfil",
+      "tempo_desde_anterior": {
+        "segundos": 1397383.935917,
+        "texto": "16 dias e 4 horas e 9 minutos e 43 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 1397383.935917,
+        "texto": "16 dias e 4 horas e 9 minutos e 43 segundos"
+      },
+      "titulo": "Alterou a biografia",
+      "descricao": "A biografia do perfil foi modificada"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:03.504568",
+      "timestamp_anterior": "2026-11-03T12:11:19.568651",
+      "timestamp_atual": "2026-11-19T16:21:03.504568",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 48883619304,
+        "id": "17841448819140452",
+        "username": "manchesterunited",
+        "nome": "형준 Jun",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=z4hIGg0C-qgQ7kNvwHq1rwF&_nc_oc=Adp7rKoLP3fG1ZTap_1LFVeAUE6kPJOImP77GL_fXSLM0MzigMHxmsCDQ7h5G8hpuTe5HWOcafpE-q6kdZ6BvzWK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pv2L9yrUkm1FC7d2tcaNXQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTYh85hmaO4EexUeZmbQ4hXw74zr8USGPrs3B-Domb29Q&oe=6B052599",
+        "total_posts": 6
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 565,
+      "valor_atual": 564,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397383.935917,
+        "texto": "16 dias e 4 horas e 9 minutos e 43 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Perdeu 1 seguidor",
+      "descricao": "Os seguidores caíram de 565 para 564",
+      "variacao_texto": "-1 seguidor"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:21:03.504568",
+      "timestamp_anterior": "2026-11-03T12:11:19.568651",
+      "timestamp_atual": "2026-11-19T16:21:03.504568",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 48883619304,
+        "id": "17841448819140452",
+        "username": "manchesterunited",
+        "nome": "형준 Jun",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=z4hIGg0C-qgQ7kNvwHq1rwF&_nc_oc=Adp7rKoLP3fG1ZTap_1LFVeAUE6kPJOImP77GL_fXSLM0MzigMHxmsCDQ7h5G8hpuTe5HWOcafpE-q6kdZ6BvzWK&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pv2L9yrUkm1FC7d2tcaNXQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTYh85hmaO4EexUeZmbQ4hXw74zr8USGPrs3B-Domb29Q&oe=6B052599",
+        "total_posts": 6
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 360,
+      "valor_atual": 379,
+      "hash_anterior": null,
+      "hash_atual": null,
+      "variacao": 19,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 1397383.935917,
+        "texto": "16 dias e 4 horas e 9 minutos e 43 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 19 pessoas",
+      "descricao": "Estava seguindo 360 e passou a seguir 379",
+      "variacao_texto": "+19 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-03T12:11:19.568651",
@@ -671,15 +818,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D",
+        "total_posts": 6
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "🇰🇷🇬🇧cov\n@omarihutchinson10",
       "valor_atual": "🇰🇷🇬🇧cov\n@omarihutchinson10\n🐶⚽️🏸",
-      "hash_anterior": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
-      "hash_atual": "a971b37ed4c317ab4ea131bdf437ef577844ac4322f3938f39b0dc93b95c75fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -705,15 +853,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D",
+        "total_posts": 6
       },
       "tipo": "privado",
       "campo": "privado",
       "nome_campo": "Privacidade",
       "valor_anterior": false,
       "valor_atual": true,
-      "hash_anterior": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
-      "hash_atual": "a971b37ed4c317ab4ea131bdf437ef577844ac4322f3938f39b0dc93b95c75fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "status",
       "tempo_desde_anterior": {
@@ -739,15 +888,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D",
+        "total_posts": 6
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 564,
       "valor_atual": 565,
-      "hash_anterior": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
-      "hash_atual": "a971b37ed4c317ab4ea131bdf437ef577844ac4322f3938f39b0dc93b95c75fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -774,15 +924,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D",
+        "total_posts": 6
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 357,
       "valor_atual": 360,
-      "hash_anterior": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
-      "hash_atual": "a971b37ed4c317ab4ea131bdf437ef577844ac4322f3938f39b0dc93b95c75fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -809,15 +960,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883175135_18107376368627305_2066553133291924113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GN8upDRpLkQYkFRAAJHqVSsg360cbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-4RAdXxyX0IQ7kNvwHFa0Nh&_nc_oc=AdrgDYAz02jreU4kVjaFXhRNdEOTI7qNrJoooi0yZmVkFOgoCpMg9aY9L5vPC0B8Sqmdqz36LrphuBKsIirEC87B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pl87BsQoKLYJMAFJ_YBxgg&_nc_ss=70689&oh=00_AQR3ug5GeyCT62gcXARoC_qd1M5F1XpSRywuJq2NhCOObg&oe=6AEFD50D",
+        "total_posts": 6
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 0,
       "valor_atual": 6,
-      "hash_anterior": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
-      "hash_atual": "a971b37ed4c317ab4ea131bdf437ef577844ac4322f3938f39b0dc93b95c75fa",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -828,7 +980,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Publicou 6 posts",
+      "titulo": "Publicou 6 publicações",
       "descricao": "O total mudou de 0 para 6",
       "variacao_texto": "+6 posts"
     },
@@ -844,15 +996,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fV27rXp7vFYQ7kNvwELJwU9&_nc_oc=Adr-KWQhp1GNMqpwu5eqgBYiWjDsi5kND_oiz4fGOi48vHr_u_-yBeCfWDyKf2Rh2t92ccSLxHVLOFdpAaDBuTSi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BCyC-cGCd3tAEBnlEaE-FQ&_nc_ss=70689&oh=00_AQQHdorRMIXnbxziBwWn6aJcjYQOvFGXCtHxGMNmmAQCFw&oe=6AEAF4E2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fV27rXp7vFYQ7kNvwELJwU9&_nc_oc=Adr-KWQhp1GNMqpwu5eqgBYiWjDsi5kND_oiz4fGOi48vHr_u_-yBeCfWDyKf2Rh2t92ccSLxHVLOFdpAaDBuTSi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BCyC-cGCd3tAEBnlEaE-FQ&_nc_ss=70689&oh=00_AQQHdorRMIXnbxziBwWn6aJcjYQOvFGXCtHxGMNmmAQCFw&oe=6AEAF4E2",
+        "total_posts": 0
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 551,
       "valor_atual": 564,
-      "hash_anterior": "640f8f4195af8579a8a143a999da6fb91100965e7957028e7ef92f68901aa0f7",
-      "hash_atual": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 13,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -879,15 +1032,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fV27rXp7vFYQ7kNvwELJwU9&_nc_oc=Adr-KWQhp1GNMqpwu5eqgBYiWjDsi5kND_oiz4fGOi48vHr_u_-yBeCfWDyKf2Rh2t92ccSLxHVLOFdpAaDBuTSi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BCyC-cGCd3tAEBnlEaE-FQ&_nc_ss=70689&oh=00_AQQHdorRMIXnbxziBwWn6aJcjYQOvFGXCtHxGMNmmAQCFw&oe=6AEAF4E2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fV27rXp7vFYQ7kNvwELJwU9&_nc_oc=Adr-KWQhp1GNMqpwu5eqgBYiWjDsi5kND_oiz4fGOi48vHr_u_-yBeCfWDyKf2Rh2t92ccSLxHVLOFdpAaDBuTSi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BCyC-cGCd3tAEBnlEaE-FQ&_nc_ss=70689&oh=00_AQQHdorRMIXnbxziBwWn6aJcjYQOvFGXCtHxGMNmmAQCFw&oe=6AEAF4E2",
+        "total_posts": 0
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 356,
       "valor_atual": 357,
-      "hash_anterior": "640f8f4195af8579a8a143a999da6fb91100965e7957028e7ef92f68901aa0f7",
-      "hash_atual": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -914,15 +1068,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fV27rXp7vFYQ7kNvwELJwU9&_nc_oc=Adr-KWQhp1GNMqpwu5eqgBYiWjDsi5kND_oiz4fGOi48vHr_u_-yBeCfWDyKf2Rh2t92ccSLxHVLOFdpAaDBuTSi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BCyC-cGCd3tAEBnlEaE-FQ&_nc_ss=70689&oh=00_AQQHdorRMIXnbxziBwWn6aJcjYQOvFGXCtHxGMNmmAQCFw&oe=6AEAF4E2"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=fV27rXp7vFYQ7kNvwELJwU9&_nc_oc=Adr-KWQhp1GNMqpwu5eqgBYiWjDsi5kND_oiz4fGOi48vHr_u_-yBeCfWDyKf2Rh2t92ccSLxHVLOFdpAaDBuTSi&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=BCyC-cGCd3tAEBnlEaE-FQ&_nc_ss=70689&oh=00_AQQHdorRMIXnbxziBwWn6aJcjYQOvFGXCtHxGMNmmAQCFw&oe=6AEAF4E2",
+        "total_posts": 0
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 4,
       "valor_atual": 0,
-      "hash_anterior": "640f8f4195af8579a8a143a999da6fb91100965e7957028e7ef92f68901aa0f7",
-      "hash_atual": "02576ca7c748c353c1925de914ab3e14047a24848cc25f4fe9db6e5b279a105a",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -933,7 +1088,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 4 posts",
+      "titulo": "Removeu 4 publicações",
       "descricao": "O total mudou de 4 para 0",
       "variacao_texto": "-4 posts"
     },
@@ -949,15 +1104,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwHiMace&_nc_oc=AdpmgAi_Ogionl2kyLuv6KDEOtdnR8fHPtEXO3GUajAfMlACTIyye8lxJxIi7mhXFCXAsntb5qrg7Dc0J9qQA9fV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WtNN9GxXLd6ZRTPMXmdT2Q&_nc_ss=70689&oh=00_AQOORGX1vosobPkT4RuJE30LkGa8uTegOVZClbDKRIXgEg&oe=6AE28306"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwHiMace&_nc_oc=AdpmgAi_Ogionl2kyLuv6KDEOtdnR8fHPtEXO3GUajAfMlACTIyye8lxJxIi7mhXFCXAsntb5qrg7Dc0J9qQA9fV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WtNN9GxXLd6ZRTPMXmdT2Q&_nc_ss=70689&oh=00_AQOORGX1vosobPkT4RuJE30LkGa8uTegOVZClbDKRIXgEg&oe=6AE28306",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 546,
       "valor_atual": 551,
-      "hash_anterior": "37576b1e5aace633807e2ee1f783d278269954e860696d48047329eb70b145fc",
-      "hash_atual": "640f8f4195af8579a8a143a999da6fb91100965e7957028e7ef92f68901aa0f7",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -984,15 +1140,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwGorD52&_nc_oc=AdqbR24rTKDFLG0ImaWoSJ38GEj2Kc034Quzj_1BCGzaKGlf3GvrVCswX-VgxZsGOQTNvOgO3rDpRpFMfFjmYsTC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1fd9puTuI3z7LspjdTdKVQ&_nc_ss=70689&oh=00_AQNK53rXdRi5UwVwi2tWqcJeLEj_hTBgpL_mvn5cPi5dHQ&oe=6AE13186"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwGorD52&_nc_oc=AdqbR24rTKDFLG0ImaWoSJ38GEj2Kc034Quzj_1BCGzaKGlf3GvrVCswX-VgxZsGOQTNvOgO3rDpRpFMfFjmYsTC&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1fd9puTuI3z7LspjdTdKVQ&_nc_ss=70689&oh=00_AQNK53rXdRi5UwVwi2tWqcJeLEj_hTBgpL_mvn5cPi5dHQ&oe=6AE13186",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 544,
       "valor_atual": 546,
-      "hash_anterior": "dc9cba19dc42502896aeb6669a2dda1a33cd6985b917a36a1dc48ae44b464e1d",
-      "hash_atual": "37576b1e5aace633807e2ee1f783d278269954e860696d48047329eb70b145fc",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1019,15 +1176,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwFySpvU&_nc_oc=Adp8dspVOLKxQnO0lvlFk4Ma152OSk5AkiKRMVl8Nf-d5GmTees2gO3muHkC259LRgyI7U3BwBdU0uogOhEsU-Eu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LAqYTwPVjaupBv63b15xHw&_nc_ss=70689&oh=00_AQOUZ1qDrufoxUb8i1HJQVl_bivpOdWAYw3lWQCScJuIqQ&oe=6AE05086"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwFySpvU&_nc_oc=Adp8dspVOLKxQnO0lvlFk4Ma152OSk5AkiKRMVl8Nf-d5GmTees2gO3muHkC259LRgyI7U3BwBdU0uogOhEsU-Eu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LAqYTwPVjaupBv63b15xHw&_nc_ss=70689&oh=00_AQOUZ1qDrufoxUb8i1HJQVl_bivpOdWAYw3lWQCScJuIqQ&oe=6AE05086",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 353,
       "valor_atual": 356,
-      "hash_anterior": "15369fe056abbf0ef57676bd35665e9832e55baca2df5da835fc3527e8dc58e1",
-      "hash_atual": "dc9cba19dc42502896aeb6669a2dda1a33cd6985b917a36a1dc48ae44b464e1d",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1054,15 +1212,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwG8qrHY&_nc_oc=AdpnQ8xSTRBcZrG-H6F7XMX_kkn2hYEFNFE6fb_a6dU_NLFaxmkPKISmyCHC0rpitPy8Ldl2SupRjyTIUwZXw68x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQtNxx02sCMt4-qj5Trpew&_nc_ss=70689&oh=00_AQPc34nZ4IyT4il7lqUaSDs_taH8BK49yf6kIzKBVzLNNA&oe=6ADEFF06"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwG8qrHY&_nc_oc=AdpnQ8xSTRBcZrG-H6F7XMX_kkn2hYEFNFE6fb_a6dU_NLFaxmkPKISmyCHC0rpitPy8Ldl2SupRjyTIUwZXw68x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQtNxx02sCMt4-qj5Trpew&_nc_ss=70689&oh=00_AQPc34nZ4IyT4il7lqUaSDs_taH8BK49yf6kIzKBVzLNNA&oe=6ADEFF06",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 524,
       "valor_atual": 544,
-      "hash_anterior": "3d9a51fe8a046bd5a2915efee1e3819e0320e90e093537a4f18e3a30db5386b5",
-      "hash_atual": "15369fe056abbf0ef57676bd35665e9832e55baca2df5da835fc3527e8dc58e1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 20,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1089,15 +1248,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwG8qrHY&_nc_oc=AdpnQ8xSTRBcZrG-H6F7XMX_kkn2hYEFNFE6fb_a6dU_NLFaxmkPKISmyCHC0rpitPy8Ldl2SupRjyTIUwZXw68x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQtNxx02sCMt4-qj5Trpew&_nc_ss=70689&oh=00_AQPc34nZ4IyT4il7lqUaSDs_taH8BK49yf6kIzKBVzLNNA&oe=6ADEFF06"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/858893637_18105444725627305_3624325190315490414_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDE0LkMzIn0%3D&_nc_ohc=NGW4u4bWJEkQ7kNvwG8qrHY&_nc_oc=AdpnQ8xSTRBcZrG-H6F7XMX_kkn2hYEFNFE6fb_a6dU_NLFaxmkPKISmyCHC0rpitPy8Ldl2SupRjyTIUwZXw68x&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZQtNxx02sCMt4-qj5Trpew&_nc_ss=70689&oh=00_AQPc34nZ4IyT4il7lqUaSDs_taH8BK49yf6kIzKBVzLNNA&oe=6ADEFF06",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 351,
       "valor_atual": 353,
-      "hash_anterior": "3d9a51fe8a046bd5a2915efee1e3819e0320e90e093537a4f18e3a30db5386b5",
-      "hash_atual": "15369fe056abbf0ef57676bd35665e9832e55baca2df5da835fc3527e8dc58e1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1124,15 +1284,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=u88SI0u5izQXx0NlAcSmHw&_nc_ss=70689&oh=00_AQO3xoGEwyTo8Vki7NmDWgb55yO4F2fQ0sYF5cF33jLcrQ&oe=6AD896CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=u88SI0u5izQXx0NlAcSmHw&_nc_ss=70689&oh=00_AQO3xoGEwyTo8Vki7NmDWgb55yO4F2fQ0sYF5cF33jLcrQ&oe=6AD896CC",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 522,
       "valor_atual": 524,
-      "hash_anterior": "8dd1fabbfa4f2f024841444d89699aba516d635e4a5e59585c629285877ca974",
-      "hash_atual": "3d9a51fe8a046bd5a2915efee1e3819e0320e90e093537a4f18e3a30db5386b5",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1159,15 +1320,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ii7h3kSgsIyUsblRui8uSg&_nc_ss=70689&oh=00_AQO_7TTwZuIrLNNc-2Q0cvdkd35ObIsaPzCPmao8c4rzwA&oe=6AD8264C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ii7h3kSgsIyUsblRui8uSg&_nc_ss=70689&oh=00_AQO_7TTwZuIrLNNc-2Q0cvdkd35ObIsaPzCPmao8c4rzwA&oe=6AD8264C",
+        "total_posts": 4
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "🇰🇷🇬🇧cov",
       "valor_atual": "🇰🇷🇬🇧cov\n@omarihutchinson10",
-      "hash_anterior": "a1f389fc2730108a790d02405a015bbe081d9e9fc8b28d0779fe5f37fdcea91c",
-      "hash_atual": "8dd1fabbfa4f2f024841444d89699aba516d635e4a5e59585c629285877ca974",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1193,15 +1355,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ii7h3kSgsIyUsblRui8uSg&_nc_ss=70689&oh=00_AQO_7TTwZuIrLNNc-2Q0cvdkd35ObIsaPzCPmao8c4rzwA&oe=6AD8264C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ii7h3kSgsIyUsblRui8uSg&_nc_ss=70689&oh=00_AQO_7TTwZuIrLNNc-2Q0cvdkd35ObIsaPzCPmao8c4rzwA&oe=6AD8264C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 520,
       "valor_atual": 522,
-      "hash_anterior": "a1f389fc2730108a790d02405a015bbe081d9e9fc8b28d0779fe5f37fdcea91c",
-      "hash_atual": "8dd1fabbfa4f2f024841444d89699aba516d635e4a5e59585c629285877ca974",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1228,15 +1391,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ii7h3kSgsIyUsblRui8uSg&_nc_ss=70689&oh=00_AQO_7TTwZuIrLNNc-2Q0cvdkd35ObIsaPzCPmao8c4rzwA&oe=6AD8264C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=nwDiTKip8WoQ7kNvwHdA61H&_nc_oc=Adrsez3gj-H3X6BfGdZTG57TEOxn8TuQPgOsS_lP17Tg9CuqhfaiuhOwQArOlFXXqf8TGCDhLXRg9dA51YV45XPq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ii7h3kSgsIyUsblRui8uSg&_nc_ss=70689&oh=00_AQO_7TTwZuIrLNNc-2Q0cvdkd35ObIsaPzCPmao8c4rzwA&oe=6AD8264C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 350,
       "valor_atual": 351,
-      "hash_anterior": "a1f389fc2730108a790d02405a015bbe081d9e9fc8b28d0779fe5f37fdcea91c",
-      "hash_atual": "8dd1fabbfa4f2f024841444d89699aba516d635e4a5e59585c629285877ca974",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1263,15 +1427,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwEO8Lrw&_nc_oc=Ado5h_HFgfx--ZThOSl-69PCTtDtxJNWSncF0XbxnRCLe5HQvMvK-j7o5xhr0c_X616vhQykrQsd2MDsQEDaKvhp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lIz2_pWLosK7E-b8AuCBDQ&_nc_ss=70689&oh=00_AQNa4mQcnE-Eami4yFxy16S989PrPQHQp54ffJ_JEyeZEw&oe=6AD6D4CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwEO8Lrw&_nc_oc=Ado5h_HFgfx--ZThOSl-69PCTtDtxJNWSncF0XbxnRCLe5HQvMvK-j7o5xhr0c_X616vhQykrQsd2MDsQEDaKvhp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lIz2_pWLosK7E-b8AuCBDQ&_nc_ss=70689&oh=00_AQNa4mQcnE-Eami4yFxy16S989PrPQHQp54ffJ_JEyeZEw&oe=6AD6D4CC",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 521,
       "valor_atual": 520,
-      "hash_anterior": "db46ce93749b7ed77cf9ed5d8a95434df21f19c4f3d0e6ba2ae331d826ac05ce",
-      "hash_atual": "a1f389fc2730108a790d02405a015bbe081d9e9fc8b28d0779fe5f37fdcea91c",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1298,15 +1463,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH3aynu&_nc_oc=AdowZXvr-L0BgNGBkd9OdjdLIxLkIGZ_ojjITzXOQ_5o1Z3Cm0bWnrQV_0X8y5uFQDR64GY5GbqGTbzN5vG0VZ3r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EdgMNBpPyREOZO0Qo_zH7Q&_nc_ss=70689&oh=00_AQM3RcEjwjpPvv1QUQhbT-2Pjdp0ysc0PX7pjhPweitgIw&oe=6AD62C0C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH3aynu&_nc_oc=AdowZXvr-L0BgNGBkd9OdjdLIxLkIGZ_ojjITzXOQ_5o1Z3Cm0bWnrQV_0X8y5uFQDR64GY5GbqGTbzN5vG0VZ3r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EdgMNBpPyREOZO0Qo_zH7Q&_nc_ss=70689&oh=00_AQM3RcEjwjpPvv1QUQhbT-2Pjdp0ysc0PX7pjhPweitgIw&oe=6AD62C0C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 517,
       "valor_atual": 521,
-      "hash_anterior": "0f6dd1046dcd5829a5f6810fa83e600a5186c3bc0a262d7bd5011c45169bd3ed",
-      "hash_atual": "db46ce93749b7ed77cf9ed5d8a95434df21f19c4f3d0e6ba2ae331d826ac05ce",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1333,15 +1499,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH3aynu&_nc_oc=AdowZXvr-L0BgNGBkd9OdjdLIxLkIGZ_ojjITzXOQ_5o1Z3Cm0bWnrQV_0X8y5uFQDR64GY5GbqGTbzN5vG0VZ3r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EdgMNBpPyREOZO0Qo_zH7Q&_nc_ss=70689&oh=00_AQM3RcEjwjpPvv1QUQhbT-2Pjdp0ysc0PX7pjhPweitgIw&oe=6AD62C0C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH3aynu&_nc_oc=AdowZXvr-L0BgNGBkd9OdjdLIxLkIGZ_ojjITzXOQ_5o1Z3Cm0bWnrQV_0X8y5uFQDR64GY5GbqGTbzN5vG0VZ3r&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EdgMNBpPyREOZO0Qo_zH7Q&_nc_ss=70689&oh=00_AQM3RcEjwjpPvv1QUQhbT-2Pjdp0ysc0PX7pjhPweitgIw&oe=6AD62C0C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 348,
       "valor_atual": 350,
-      "hash_anterior": "0f6dd1046dcd5829a5f6810fa83e600a5186c3bc0a262d7bd5011c45169bd3ed",
-      "hash_atual": "db46ce93749b7ed77cf9ed5d8a95434df21f19c4f3d0e6ba2ae331d826ac05ce",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1368,15 +1535,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwGbon9j&_nc_oc=Adr-VS3kVi0AEF5MtO-9PhIepJ64ja3iBUjcG2RVFIi1FMzX2MPijj9SBUg2lqL-A8wdnlDX8aeX19xUs45IzLDf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4dO0kEeASSnUOUnBIy_zHA&_nc_ss=70689&oh=00_AQMGChTpDuOGLMy2McWRy4Xa2oEAiy9hlKvRkNQhP0OVgg&oe=6AD5834C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwGbon9j&_nc_oc=Adr-VS3kVi0AEF5MtO-9PhIepJ64ja3iBUjcG2RVFIi1FMzX2MPijj9SBUg2lqL-A8wdnlDX8aeX19xUs45IzLDf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4dO0kEeASSnUOUnBIy_zHA&_nc_ss=70689&oh=00_AQMGChTpDuOGLMy2McWRy4Xa2oEAiy9hlKvRkNQhP0OVgg&oe=6AD5834C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 518,
       "valor_atual": 517,
-      "hash_anterior": "791c9e7736a5df908460d9736db1e93f24441c8f77d218c545e30f731ec987a1",
-      "hash_atual": "0f6dd1046dcd5829a5f6810fa83e600a5186c3bc0a262d7bd5011c45169bd3ed",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1403,15 +1571,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwGbon9j&_nc_oc=Adr-VS3kVi0AEF5MtO-9PhIepJ64ja3iBUjcG2RVFIi1FMzX2MPijj9SBUg2lqL-A8wdnlDX8aeX19xUs45IzLDf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4dO0kEeASSnUOUnBIy_zHA&_nc_ss=70689&oh=00_AQMGChTpDuOGLMy2McWRy4Xa2oEAiy9hlKvRkNQhP0OVgg&oe=6AD5834C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwGbon9j&_nc_oc=Adr-VS3kVi0AEF5MtO-9PhIepJ64ja3iBUjcG2RVFIi1FMzX2MPijj9SBUg2lqL-A8wdnlDX8aeX19xUs45IzLDf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4dO0kEeASSnUOUnBIy_zHA&_nc_ss=70689&oh=00_AQMGChTpDuOGLMy2McWRy4Xa2oEAiy9hlKvRkNQhP0OVgg&oe=6AD5834C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 345,
       "valor_atual": 348,
-      "hash_anterior": "791c9e7736a5df908460d9736db1e93f24441c8f77d218c545e30f731ec987a1",
-      "hash_atual": "0f6dd1046dcd5829a5f6810fa83e600a5186c3bc0a262d7bd5011c45169bd3ed",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1438,15 +1607,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH_lTbN&_nc_oc=Ado1xq7-F0IMb0vMPO1lMLALK6jv1OWXLgR4ZTz3fOdQ8T8M5hZmyt0ffC_wToD9Hc3qNX67owDhuLZEpswNVUJZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pkJp0ncYLfnR4zBNNvNNrw&_nc_ss=70689&oh=00_AQN4kmSpSDIorRJidf943dnA78xt7gHiKWXRI57Wy9ynXQ&oe=6AD46A0C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=KF-Y5-LmEAoQ7kNvwH_lTbN&_nc_oc=Ado1xq7-F0IMb0vMPO1lMLALK6jv1OWXLgR4ZTz3fOdQ8T8M5hZmyt0ffC_wToD9Hc3qNX67owDhuLZEpswNVUJZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pkJp0ncYLfnR4zBNNvNNrw&_nc_ss=70689&oh=00_AQN4kmSpSDIorRJidf943dnA78xt7gHiKWXRI57Wy9ynXQ&oe=6AD46A0C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 515,
       "valor_atual": 518,
-      "hash_anterior": "2ebe214dc994a7d56506489235efa878645067cc919291009faf02b2bed018c9",
-      "hash_atual": "791c9e7736a5df908460d9736db1e93f24441c8f77d218c545e30f731ec987a1",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1473,15 +1643,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C",
+        "total_posts": 4
       },
       "tipo": "biografia",
       "campo": "biografia",
       "nome_campo": "Biografia",
       "valor_anterior": "Hyeongjun Lyu\n🇰🇷🇬🇧cov",
       "valor_atual": "🇰🇷🇬🇧cov",
-      "hash_anterior": "0828ce2dfc4b757ab7bed74a2a5d74e2675380631f11f5e5231b7476db1c70de",
-      "hash_atual": "2ebe214dc994a7d56506489235efa878645067cc919291009faf02b2bed018c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": null,
       "categoria": "perfil",
       "tempo_desde_anterior": {
@@ -1507,15 +1678,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 510,
       "valor_atual": 515,
-      "hash_anterior": "0828ce2dfc4b757ab7bed74a2a5d74e2675380631f11f5e5231b7476db1c70de",
-      "hash_atual": "2ebe214dc994a7d56506489235efa878645067cc919291009faf02b2bed018c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1542,15 +1714,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 342,
       "valor_atual": 345,
-      "hash_anterior": "0828ce2dfc4b757ab7bed74a2a5d74e2675380631f11f5e5231b7476db1c70de",
-      "hash_atual": "2ebe214dc994a7d56506489235efa878645067cc919291009faf02b2bed018c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1577,15 +1750,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y5XuAFw6mGyiGg50zCpDng&_nc_ss=70689&oh=00_AQMCvosnk9P6YbTP7NZFsLRBAJZ4nljDtDFA8g1rQS3-yQ&oe=6AD1568C",
+        "total_posts": 4
       },
       "tipo": "total_destaques",
       "campo": "total_destaques",
       "nome_campo": "Total de Destaques",
       "valor_anterior": 2,
       "valor_atual": 0,
-      "hash_anterior": "0828ce2dfc4b757ab7bed74a2a5d74e2675380631f11f5e5231b7476db1c70de",
-      "hash_atual": "2ebe214dc994a7d56506489235efa878645067cc919291009faf02b2bed018c9",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -2,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1612,15 +1786,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ae0jgJxJBoTsDpf34Ki4_w&_nc_ss=70689&oh=00_AQPfHILDAcu7vvt6xf3YsBFINlxfOdmUypDhsUxE9d4V5g&oe=6AD03D4C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=NrKskZ7omSUQ7kNvwGNRRNx&_nc_oc=AdqNkSoALGnLhnUIVsgNYaXsOs-Zwsc7eRzl5wLg65j-blStt40JsAHuqnrzGhCEOR6hUh2CnS4JvQLv7lLU7IiU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ae0jgJxJBoTsDpf34Ki4_w&_nc_ss=70689&oh=00_AQPfHILDAcu7vvt6xf3YsBFINlxfOdmUypDhsUxE9d4V5g&oe=6AD03D4C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 509,
       "valor_atual": 510,
-      "hash_anterior": "766646a22b484d83fa23af81e332d49e709a215012aa6c0bc62095a6b34c3195",
-      "hash_atual": "0828ce2dfc4b757ab7bed74a2a5d74e2675380631f11f5e5231b7476db1c70de",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1647,15 +1822,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwG6T3ZB&_nc_oc=AdpqpO-7c3Ue9pwyipM1OAucjYd26mquz-VZK3cus6-tTCZrPAScFYiXnDLiNaStydBrFND9p_YU-eUuueWxMJmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uarjQCvNgSYcpGX0jckxmw&_nc_ss=70689&oh=00_AQPIZOFszSlGZPopgiZiZNNacF90vKzq-tJQE1W6-VTaZA&oe=6ACEB38C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwG6T3ZB&_nc_oc=AdpqpO-7c3Ue9pwyipM1OAucjYd26mquz-VZK3cus6-tTCZrPAScFYiXnDLiNaStydBrFND9p_YU-eUuueWxMJmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uarjQCvNgSYcpGX0jckxmw&_nc_ss=70689&oh=00_AQPIZOFszSlGZPopgiZiZNNacF90vKzq-tJQE1W6-VTaZA&oe=6ACEB38C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 504,
       "valor_atual": 509,
-      "hash_anterior": "ba5990b6cff253d8c1e2796a8f70d1e8cf4464ef94462061ccb7d64872105760",
-      "hash_atual": "766646a22b484d83fa23af81e332d49e709a215012aa6c0bc62095a6b34c3195",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1682,15 +1858,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwG6T3ZB&_nc_oc=AdpqpO-7c3Ue9pwyipM1OAucjYd26mquz-VZK3cus6-tTCZrPAScFYiXnDLiNaStydBrFND9p_YU-eUuueWxMJmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uarjQCvNgSYcpGX0jckxmw&_nc_ss=70689&oh=00_AQPIZOFszSlGZPopgiZiZNNacF90vKzq-tJQE1W6-VTaZA&oe=6ACEB38C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwG6T3ZB&_nc_oc=AdpqpO-7c3Ue9pwyipM1OAucjYd26mquz-VZK3cus6-tTCZrPAScFYiXnDLiNaStydBrFND9p_YU-eUuueWxMJmy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uarjQCvNgSYcpGX0jckxmw&_nc_ss=70689&oh=00_AQPIZOFszSlGZPopgiZiZNNacF90vKzq-tJQE1W6-VTaZA&oe=6ACEB38C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 340,
       "valor_atual": 342,
-      "hash_anterior": "ba5990b6cff253d8c1e2796a8f70d1e8cf4464ef94462061ccb7d64872105760",
-      "hash_atual": "766646a22b484d83fa23af81e332d49e709a215012aa6c0bc62095a6b34c3195",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1717,15 +1894,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwGMXp3O&_nc_oc=AdqcIL57fEeAMG5eddVEuVryVtcgRME4D2q2vuLQ9Yx2O1QrTZ7BAEXCR-RvhpyGIISXbbuURcIr0nXPTWbx2MNH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IxFmDSPcvKb3o2Qm2C6z8g&_nc_ss=70689&oh=00_AQOMJui9vhBybug0ilPrwJwhPzHOjfhyyLiWcyGDJQoR6g&oe=6ACDD28C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwGMXp3O&_nc_oc=AdqcIL57fEeAMG5eddVEuVryVtcgRME4D2q2vuLQ9Yx2O1QrTZ7BAEXCR-RvhpyGIISXbbuURcIr0nXPTWbx2MNH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IxFmDSPcvKb3o2Qm2C6z8g&_nc_ss=70689&oh=00_AQOMJui9vhBybug0ilPrwJwhPzHOjfhyyLiWcyGDJQoR6g&oe=6ACDD28C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 499,
       "valor_atual": 504,
-      "hash_anterior": "c6f1cf248311c090c1857cd8c0cb39c0a61b2d967e2c2aa5b8ca5c447e6b0163",
-      "hash_atual": "ba5990b6cff253d8c1e2796a8f70d1e8cf4464ef94462061ccb7d64872105760",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 5,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1752,15 +1930,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwGMXp3O&_nc_oc=AdqcIL57fEeAMG5eddVEuVryVtcgRME4D2q2vuLQ9Yx2O1QrTZ7BAEXCR-RvhpyGIISXbbuURcIr0nXPTWbx2MNH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IxFmDSPcvKb3o2Qm2C6z8g&_nc_ss=70689&oh=00_AQOMJui9vhBybug0ilPrwJwhPzHOjfhyyLiWcyGDJQoR6g&oe=6ACDD28C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwGMXp3O&_nc_oc=AdqcIL57fEeAMG5eddVEuVryVtcgRME4D2q2vuLQ9Yx2O1QrTZ7BAEXCR-RvhpyGIISXbbuURcIr0nXPTWbx2MNH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IxFmDSPcvKb3o2Qm2C6z8g&_nc_ss=70689&oh=00_AQOMJui9vhBybug0ilPrwJwhPzHOjfhyyLiWcyGDJQoR6g&oe=6ACDD28C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 338,
       "valor_atual": 340,
-      "hash_anterior": "c6f1cf248311c090c1857cd8c0cb39c0a61b2d967e2c2aa5b8ca5c447e6b0163",
-      "hash_atual": "ba5990b6cff253d8c1e2796a8f70d1e8cf4464ef94462061ccb7d64872105760",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1787,15 +1966,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEVu0IA&_nc_oc=AdrINYrg34ISJdRa9N3-Dd2x_eAMv736hk-Ca0XTwnpstqqi5yyJVa8_gwFEEKRAgAriQKU-IpW7VROsNrNOsI6q&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ECI2qWUa6VMeYV_PxEsGqA&_nc_ss=70689&oh=00_AQNFd8gSE6AuPdkoIUodRWiDV5DTOmrgux4y4psbFGoN3A&oe=6ACD620C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEVu0IA&_nc_oc=AdrINYrg34ISJdRa9N3-Dd2x_eAMv736hk-Ca0XTwnpstqqi5yyJVa8_gwFEEKRAgAriQKU-IpW7VROsNrNOsI6q&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ECI2qWUa6VMeYV_PxEsGqA&_nc_ss=70689&oh=00_AQNFd8gSE6AuPdkoIUodRWiDV5DTOmrgux4y4psbFGoN3A&oe=6ACD620C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 498,
       "valor_atual": 499,
-      "hash_anterior": "7f4801c206e5bde561b3fbb65b30383a37008bf1093f4e45244dbcee2d20fc0f",
-      "hash_atual": "c6f1cf248311c090c1857cd8c0cb39c0a61b2d967e2c2aa5b8ca5c447e6b0163",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1822,15 +2002,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEVu0IA&_nc_oc=AdrINYrg34ISJdRa9N3-Dd2x_eAMv736hk-Ca0XTwnpstqqi5yyJVa8_gwFEEKRAgAriQKU-IpW7VROsNrNOsI6q&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ECI2qWUa6VMeYV_PxEsGqA&_nc_ss=70689&oh=00_AQNFd8gSE6AuPdkoIUodRWiDV5DTOmrgux4y4psbFGoN3A&oe=6ACD620C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEVu0IA&_nc_oc=AdrINYrg34ISJdRa9N3-Dd2x_eAMv736hk-Ca0XTwnpstqqi5yyJVa8_gwFEEKRAgAriQKU-IpW7VROsNrNOsI6q&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ECI2qWUa6VMeYV_PxEsGqA&_nc_ss=70689&oh=00_AQNFd8gSE6AuPdkoIUodRWiDV5DTOmrgux4y4psbFGoN3A&oe=6ACD620C",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 332,
       "valor_atual": 338,
-      "hash_anterior": "7f4801c206e5bde561b3fbb65b30383a37008bf1093f4e45244dbcee2d20fc0f",
-      "hash_atual": "c6f1cf248311c090c1857cd8c0cb39c0a61b2d967e2c2aa5b8ca5c447e6b0163",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 6,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1857,15 +2038,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwG8C4DF&_nc_oc=AdoVlzWxYktSe-ev9_hcZ_FKjEjARtHfAo7VOGhKBlnvRngLu0OXSUpCEoGjKScHsuiP0LtKpFzj21U0AHQZq1VI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7YU2RqK5uzfzjPrvALk8LQ&_nc_ss=70689&oh=00_AQOk6-zzQU10m_de_oLNodnhTnUCWwl9j1_UecovZvbDog&oe=6ACC810C"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwG8C4DF&_nc_oc=AdoVlzWxYktSe-ev9_hcZ_FKjEjARtHfAo7VOGhKBlnvRngLu0OXSUpCEoGjKScHsuiP0LtKpFzj21U0AHQZq1VI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7YU2RqK5uzfzjPrvALk8LQ&_nc_ss=70689&oh=00_AQOk6-zzQU10m_de_oLNodnhTnUCWwl9j1_UecovZvbDog&oe=6ACC810C",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 496,
       "valor_atual": 498,
-      "hash_anterior": "7910bb9eb77a52d05e0a64721cb545c3f6a6727b238378393333aa2527cddb00",
-      "hash_atual": "7f4801c206e5bde561b3fbb65b30383a37008bf1093f4e45244dbcee2d20fc0f",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1892,15 +2074,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEkooBQ&_nc_oc=AdqNM3qqPAul4QoEvTfHfLTDMLXFRqKV3Vb2rPHFvxwtx71EFRtTPdjBOnFh2zqWyviyN_419SmFrbb_BLqAGxKp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JPeLLoxArwe-bye2hk13IA&_nc_ss=70689&oh=00_AQPajboA6WhBhIE-wM7iGVHEIDm2yNm9yJytv13iJBuWng&oe=6ACC48CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEkooBQ&_nc_oc=AdqNM3qqPAul4QoEvTfHfLTDMLXFRqKV3Vb2rPHFvxwtx71EFRtTPdjBOnFh2zqWyviyN_419SmFrbb_BLqAGxKp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JPeLLoxArwe-bye2hk13IA&_nc_ss=70689&oh=00_AQPajboA6WhBhIE-wM7iGVHEIDm2yNm9yJytv13iJBuWng&oe=6ACC48CC",
+        "total_posts": 4
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 494,
       "valor_atual": 496,
-      "hash_anterior": "6c61ab9f3f65d91efe3db269714d56c538c9fd557320d19bfef8c9966051f954",
-      "hash_atual": "7910bb9eb77a52d05e0a64721cb545c3f6a6727b238378393333aa2527cddb00",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1927,15 +2110,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEkooBQ&_nc_oc=AdqNM3qqPAul4QoEvTfHfLTDMLXFRqKV3Vb2rPHFvxwtx71EFRtTPdjBOnFh2zqWyviyN_419SmFrbb_BLqAGxKp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JPeLLoxArwe-bye2hk13IA&_nc_ss=70689&oh=00_AQPajboA6WhBhIE-wM7iGVHEIDm2yNm9yJytv13iJBuWng&oe=6ACC48CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEkooBQ&_nc_oc=AdqNM3qqPAul4QoEvTfHfLTDMLXFRqKV3Vb2rPHFvxwtx71EFRtTPdjBOnFh2zqWyviyN_419SmFrbb_BLqAGxKp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JPeLLoxArwe-bye2hk13IA&_nc_ss=70689&oh=00_AQPajboA6WhBhIE-wM7iGVHEIDm2yNm9yJytv13iJBuWng&oe=6ACC48CC",
+        "total_posts": 4
       },
       "tipo": "seguindo",
       "campo": "seguindo",
       "nome_campo": "Seguindo",
       "valor_anterior": 330,
       "valor_atual": 332,
-      "hash_anterior": "6c61ab9f3f65d91efe3db269714d56c538c9fd557320d19bfef8c9966051f954",
-      "hash_atual": "7910bb9eb77a52d05e0a64721cb545c3f6a6727b238378393333aa2527cddb00",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -1962,15 +2146,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEkooBQ&_nc_oc=AdqNM3qqPAul4QoEvTfHfLTDMLXFRqKV3Vb2rPHFvxwtx71EFRtTPdjBOnFh2zqWyviyN_419SmFrbb_BLqAGxKp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JPeLLoxArwe-bye2hk13IA&_nc_ss=70689&oh=00_AQPajboA6WhBhIE-wM7iGVHEIDm2yNm9yJytv13iJBuWng&oe=6ACC48CC"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/839531415_18103312850627305_1115538157560396010_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=2PVEJ6qKr6UQ7kNvwEkooBQ&_nc_oc=AdqNM3qqPAul4QoEvTfHfLTDMLXFRqKV3Vb2rPHFvxwtx71EFRtTPdjBOnFh2zqWyviyN_419SmFrbb_BLqAGxKp&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JPeLLoxArwe-bye2hk13IA&_nc_ss=70689&oh=00_AQPajboA6WhBhIE-wM7iGVHEIDm2yNm9yJytv13iJBuWng&oe=6ACC48CC",
+        "total_posts": 4
       },
       "tipo": "total_posts",
       "campo": "total_posts",
       "nome_campo": "Total de Posts",
       "valor_anterior": 8,
       "valor_atual": 4,
-      "hash_anterior": "6c61ab9f3f65d91efe3db269714d56c538c9fd557320d19bfef8c9966051f954",
-      "hash_atual": "7910bb9eb77a52d05e0a64721cb545c3f6a6727b238378393333aa2527cddb00",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": -4,
       "categoria": "conteudo",
       "tempo_desde_anterior": {
@@ -1981,7 +2166,7 @@
         "segundos": 0.0,
         "texto": "0 segundos"
       },
-      "titulo": "Removeu 4 posts",
+      "titulo": "Removeu 4 publicações",
       "descricao": "O total mudou de 8 para 4",
       "variacao_texto": "-4 posts"
     },
@@ -1997,15 +2182,16 @@
         "id": "17841448819140452",
         "username": "manchesterunited",
         "nome": "형준 Jun",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/835449604_18102780053627305_6182159681342594281_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43ODMuQzMifQ%3D%3D&_nc_ohc=tj9vhQLMF2wQ7kNvwEaH2jj&_nc_oc=AdqctV2xVzswE2ffdBp4da_qGegsDb7hz1uSks7LHf9XimgB1FK5paQXDyCdyXDj00IKz4R2d8BdxN9xPtPT06Et&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Cm3YWFGGZbw09Qe44uWlSA&_nc_ss=70689&oh=00_AQOxNdZntZuy3jYt7Id9pjRhMKfSmQxw9vuiUreMrOf_7A&oe=6ACB8B71"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/835449604_18102780053627305_6182159681342594281_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43ODMuQzMifQ%3D%3D&_nc_ohc=tj9vhQLMF2wQ7kNvwEaH2jj&_nc_oc=AdqctV2xVzswE2ffdBp4da_qGegsDb7hz1uSks7LHf9XimgB1FK5paQXDyCdyXDj00IKz4R2d8BdxN9xPtPT06Et&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Cm3YWFGGZbw09Qe44uWlSA&_nc_ss=70689&oh=00_AQOxNdZntZuy3jYt7Id9pjRhMKfSmQxw9vuiUreMrOf_7A&oe=6ACB8B71",
+        "total_posts": 8
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 493,
       "valor_atual": 494,
-      "hash_anterior": "d9cf810b98137ef47be699d89d9aeec043959388df023b2a956e529fea481ab9",
-      "hash_atual": "6c61ab9f3f65d91efe3db269714d56c538c9fd557320d19bfef8c9966051f954",
+      "hash_anterior": null,
+      "hash_atual": null,
       "variacao": 1,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -2024,34 +2210,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:56.859607",
-    "captura_mais_recente": "2026-11-03T12:11:19.568651",
-    "tempo_total_segundos": 2384962,
-    "tempo_total_dias": 27.603727,
-    "tempo_total_texto": "27 dias, 14 horas, 29 minutos e 22 segundos",
+    "captura_mais_recente": "2026-11-19T16:21:03.504568",
+    "tempo_total_segundos": 3782346,
+    "tempo_total_dias": 43.777153,
+    "tempo_total_texto": "43 dias, 18 horas, 39 minutos e 6 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
-    "7_dias": {
-      "variacao": 14,
-      "direcao": "ganhou",
-      "quantidade": 14,
-      "texto": "Ganhou 14 seguidores",
+    "1_dias": {
+      "variacao": -1,
+      "direcao": "perdeu",
+      "quantidade": 1,
+      "texto": "Perdeu 1 seguidor",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-24T11:00:11.453220",
-      "captura_fim": "2026-11-03T12:11:19.568651",
-      "seguidores_inicio": 551,
-      "seguidores_fim": 565
+      "captura_inicio": "2026-11-03T12:11:19.568651",
+      "captura_fim": "2026-11-19T16:21:03.504568",
+      "seguidores_inicio": 565,
+      "seguidores_fim": 564
+    },
+    "7_dias": {
+      "variacao": -1,
+      "direcao": "perdeu",
+      "quantidade": 1,
+      "texto": "Perdeu 1 seguidor",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-03T12:11:19.568651",
+      "captura_fim": "2026-11-19T16:21:03.504568",
+      "seguidores_inicio": 565,
+      "seguidores_fim": 564
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 40,
+      "direcao": "ganhou",
+      "quantidade": 40,
+      "texto": "Ganhou 40 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-16T23:23:57.315514",
+      "captura_fim": "2026-11-19T16:21:03.504568",
+      "seguidores_inicio": 524,
+      "seguidores_fim": 564
     },
     "90_dias": {
       "variacao": null,
@@ -2062,17 +2264,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 72,
+      "variacao": 71,
       "direcao": "ganhou",
-      "quantidade": 72,
-      "texto": "Ganhou 72 seguidores",
+      "quantidade": 71,
+      "texto": "Ganhou 71 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:56.859607",
-      "captura_mais_recente": "2026-11-03T12:11:19.568651",
-      "tempo_total_dias": 27.603735,
+      "captura_mais_recente": "2026-11-19T16:21:03.504568",
+      "tempo_total_dias": 43.77716,
       "seguidores_inicio": 493,
-      "seguidores_fim": 565
+      "seguidores_fim": 564
     }
   }
 }
