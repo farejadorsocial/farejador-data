@@ -8,7 +8,7 @@
       "id": "17841401617442961",
       "username": "darlinferrattry",
       "nome": "Darlin Ferrattry",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/916319537_18643710115053915_7107902564254649015_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDHtnTZbAbQGWzxCALeKfBC5V6RibmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDkuQzMifQ%3D%3D&_nc_ohc=nSaigHWuABMQ7kNvwG9bfdf&_nc_oc=Adrnz6O_mm0fIxfzEFlIjeqFISEy-irMnKOWltQi0RUbJ8LuBTTC2RBYWk0NWirgtJ3Q7nkuWHUV8BgNCkDEC_3B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ly1Fu6tekxJZR_IWbKsSew&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR2PFxtS8FvVRO7VDC3LBi_DVub4WskxzfldlYvzp66DA&oe=6B0608FB",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/916319537_18643710115053915_7107902564254649015_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDHtnTZbAbQGWzxCALeKfBC5V6RibmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDkuQzMifQ%3D%3D&_nc_ohc=nSaigHWuABMQ7kNvwG9bfdf&_nc_oc=Adrnz6O_mm0fIxfzEFlIjeqFISEy-irMnKOWltQi0RUbJ8LuBTTC2RBYWk0NWirgtJ3Q7nkuWHUV8BgNCkDEC_3B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7RemRd5l8d7LuAN_lAvSMg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSn1Taf-IVHkXxw4y3-crSYuUSXJGtSwreMdCpZh9zj4Q&oe=6B06797B",
       "total_posts": 3672
     },
     "biografia": [
@@ -144,6 +144,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 760732,
+        "valor_atual": 760862,
+        "variacao": 130,
+        "direcao": "aumento",
+        "descricao": "+130 seguidores",
+        "timestamp": "2026-11-20T16:13:34.550094",
+        "timestamp_anterior": "2026-11-20T10:12:48.652584",
+        "tempo_desde_anterior_segundos": 21645
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1239,6 +1252,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-20T16:13:34.550094",
+      "timestamp_anterior": "2026-11-20T10:12:48.652584",
+      "timestamp_atual": "2026-11-20T16:13:34.550094",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1469557914,
+        "id": "17841401617442961",
+        "username": "darlinferrattry",
+        "nome": "Darlin Ferrattry",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/916319537_18643710115053915_7107902564254649015_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GDHtnTZbAbQGWzxCALeKfBC5V6RibmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDkuQzMifQ%3D%3D&_nc_ohc=nSaigHWuABMQ7kNvwG9bfdf&_nc_oc=Adrnz6O_mm0fIxfzEFlIjeqFISEy-irMnKOWltQi0RUbJ8LuBTTC2RBYWk0NWirgtJ3Q7nkuWHUV8BgNCkDEC_3B&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=7RemRd5l8d7LuAN_lAvSMg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSn1Taf-IVHkXxw4y3-crSYuUSXJGtSwreMdCpZh9zj4Q&oe=6B06797B",
+        "total_posts": 3672
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 760732,
+      "valor_atual": 760862,
+      "hash_anterior": "ea2374a86e5cdae58ac90bbc613018614a94bc8ecf348c61f6907835393f2d35",
+      "hash_atual": "962d20fd3e0f4427a34ff3e1b0fc6024ff48d3c48058b28d43554c898cd39cd9",
+      "variacao": 130,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 21645.89751,
+        "texto": "6 horas e 45 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 21645.89751,
+        "texto": "6 horas e 45 segundos"
+      },
+      "titulo": "Ganhou 130 seguidores",
+      "descricao": "Os seguidores passaram de 760.732 para 760.862",
+      "variacao_texto": "+130 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T10:12:48.652584",
@@ -4207,50 +4256,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:23.449845",
-    "captura_mais_recente": "2026-11-20T10:12:48.652584",
-    "tempo_total_segundos": 4032925,
-    "tempo_total_dias": 46.677373,
-    "tempo_total_texto": "46 dias, 16 horas, 15 minutos e 25 segundos",
+    "captura_mais_recente": "2026-11-20T16:13:34.550094",
+    "tempo_total_segundos": 4054571,
+    "tempo_total_dias": 46.927905,
+    "tempo_total_texto": "46 dias, 22 horas, 16 minutos e 11 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 5257,
+      "variacao": 5387,
       "direcao": "ganhou",
-      "quantidade": 5257,
-      "texto": "Ganhou 5257 seguidores",
+      "quantidade": 5387,
+      "texto": "Ganhou 5387 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:23.860464",
-      "captura_fim": "2026-11-20T10:12:48.652584",
+      "captura_fim": "2026-11-20T16:13:34.550094",
       "seguidores_inicio": 755475,
-      "seguidores_fim": 760732
+      "seguidores_fim": 760862
     },
     "7_dias": {
-      "variacao": 5257,
+      "variacao": 5387,
       "direcao": "ganhou",
-      "quantidade": 5257,
-      "texto": "Ganhou 5257 seguidores",
+      "quantidade": 5387,
+      "texto": "Ganhou 5387 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:23.860464",
-      "captura_fim": "2026-11-20T10:12:48.652584",
+      "captura_fim": "2026-11-20T16:13:34.550094",
       "seguidores_inicio": 755475,
-      "seguidores_fim": 760732
+      "seguidores_fim": 760862
     },
     "30_dias": {
-      "variacao": 14339,
+      "variacao": 14469,
       "direcao": "ganhou",
-      "quantidade": 14339,
-      "texto": "Ganhou 14339 seguidores",
+      "quantidade": 14469,
+      "texto": "Ganhou 14469 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-16T23:24:36.872202",
-      "captura_fim": "2026-11-20T10:12:48.652584",
+      "captura_fim": "2026-11-20T16:13:34.550094",
       "seguidores_inicio": 746393,
-      "seguidores_fim": 760732
+      "seguidores_fim": 760862
     },
     "90_dias": {
       "variacao": null,
@@ -4261,17 +4310,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 17957,
+      "variacao": 18087,
       "direcao": "ganhou",
-      "quantidade": 17957,
-      "texto": "Ganhou 17957 seguidores",
+      "quantidade": 18087,
+      "texto": "Ganhou 18087 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:23.449845",
-      "captura_mais_recente": "2026-11-20T10:12:48.652584",
-      "tempo_total_dias": 46.677375,
+      "captura_mais_recente": "2026-11-20T16:13:34.550094",
+      "tempo_total_dias": 46.927906,
       "seguidores_inicio": 742775,
-      "seguidores_fim": 760732
+      "seguidores_fim": 760862
     }
   }
 }

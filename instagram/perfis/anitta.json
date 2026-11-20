@@ -8,7 +8,7 @@
       "id": "17841400271080416",
       "username": "anitta",
       "nome": "Anitta 🎤",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/748306269_18756597871009037_8701056512622708519_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GF0-miwN3UvBBqNCACfHeU3MXMB4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=91fw7oiyoqAQ7kNvwFfpsDe&_nc_oc=Adp-LvdmwYhF9iCNziKT5a1nqXnYXepFaTcnr2reISbkCd6fO41cVjdl-BSJbcMz8mfKQ-kYG4ztoVU9qpahXY5w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eMO8g5bt8jUQ0c76kGVvog&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRhbooCN-0D3LHgrB3CZI0DerrOGV9rJ1oFSokPKF4qtQ&oe=6B060E61",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/748306269_18756597871009037_8701056512622708519_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GF0-miwN3UvBBqNCACfHeU3MXMB4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=91fw7oiyoqAQ7kNvwFfpsDe&_nc_oc=Adp-LvdmwYhF9iCNziKT5a1nqXnYXepFaTcnr2reISbkCd6fO41cVjdl-BSJbcMz8mfKQ-kYG4ztoVU9qpahXY5w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ylJzsTEUNdD_ZmmK1QYPiw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSQFKsd6dRlACacCPEVBvuQHS7bImGYOiri_GbH1venHw&oe=6B067EE1",
       "total_posts": 690
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 61018214,
+        "valor_atual": 61015350,
+        "variacao": -2864,
+        "direcao": "reducao",
+        "descricao": "-2864 seguidores",
+        "timestamp": "2026-11-20T16:11:30.650838",
+        "timestamp_anterior": "2026-11-20T10:10:44.383313",
+        "tempo_desde_anterior_segundos": 21646
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1444,6 +1457,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-20T16:11:30.650838",
+      "timestamp_anterior": "2026-11-20T10:10:44.383313",
+      "timestamp_atual": "2026-11-20T16:11:30.650838",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 26633036,
+        "id": "17841400271080416",
+        "username": "anitta",
+        "nome": "Anitta 🎤",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/748306269_18756597871009037_8701056512622708519_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GF0-miwN3UvBBqNCACfHeU3MXMB4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=91fw7oiyoqAQ7kNvwFfpsDe&_nc_oc=Adp-LvdmwYhF9iCNziKT5a1nqXnYXepFaTcnr2reISbkCd6fO41cVjdl-BSJbcMz8mfKQ-kYG4ztoVU9qpahXY5w&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ylJzsTEUNdD_ZmmK1QYPiw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSQFKsd6dRlACacCPEVBvuQHS7bImGYOiri_GbH1venHw&oe=6B067EE1",
+        "total_posts": 690
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 61018214,
+      "valor_atual": 61015350,
+      "hash_anterior": "8094ab525cc7eb6c4acbc62a61461965b9adc9190aad90db137ef6d31aeefd8d",
+      "hash_atual": "13484234f5e3b539624231b87e914061a86a0d14fbb20ec5e0ece4e9795e7093",
+      "variacao": -2864,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 21646.267525,
+        "texto": "6 horas e 46 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 21646.267525,
+        "texto": "6 horas e 46 segundos"
+      },
+      "titulo": "Perdeu 2.864 seguidores",
+      "descricao": "Os seguidores caíram de 61.018.214 para 61.015.350",
+      "variacao_texto": "-2.864 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T10:10:44.383313",
@@ -5012,50 +5061,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:00.081174",
-    "captura_mais_recente": "2026-11-20T10:10:44.383313",
-    "tempo_total_segundos": 3936644,
-    "tempo_total_dias": 45.563009,
-    "tempo_total_texto": "45 dias, 13 horas, 30 minutos e 44 segundos",
+    "captura_mais_recente": "2026-11-20T16:11:30.650838",
+    "tempo_total_segundos": 3958290,
+    "tempo_total_dias": 45.813542,
+    "tempo_total_texto": "45 dias, 19 horas, 31 minutos e 30 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -37848,
+      "variacao": -40712,
       "direcao": "perdeu",
-      "quantidade": 37848,
-      "texto": "Perdeu 37848 seguidores",
+      "quantidade": 40712,
+      "texto": "Perdeu 40712 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:59.236565",
-      "captura_fim": "2026-11-20T10:10:44.383313",
+      "captura_fim": "2026-11-20T16:11:30.650838",
       "seguidores_inicio": 61056062,
-      "seguidores_fim": 61018214
+      "seguidores_fim": 61015350
     },
     "7_dias": {
-      "variacao": -37848,
+      "variacao": -40712,
       "direcao": "perdeu",
-      "quantidade": 37848,
-      "texto": "Perdeu 37848 seguidores",
+      "quantidade": 40712,
+      "texto": "Perdeu 40712 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:59.236565",
-      "captura_fim": "2026-11-20T10:10:44.383313",
+      "captura_fim": "2026-11-20T16:11:30.650838",
       "seguidores_inicio": 61056062,
-      "seguidores_fim": 61018214
+      "seguidores_fim": 61015350
     },
     "30_dias": {
-      "variacao": -134643,
+      "variacao": -137507,
       "direcao": "perdeu",
-      "quantidade": 134643,
-      "texto": "Perdeu 134643 seguidores",
+      "quantidade": 137507,
+      "texto": "Perdeu 137507 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-16T23:26:26.418836",
-      "captura_fim": "2026-11-20T10:10:44.383313",
+      "captura_fim": "2026-11-20T16:11:30.650838",
       "seguidores_inicio": 61152857,
-      "seguidores_fim": 61018214
+      "seguidores_fim": 61015350
     },
     "90_dias": {
       "variacao": null,
@@ -5066,17 +5115,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -41515,
+      "variacao": -44379,
       "direcao": "perdeu",
-      "quantidade": 41515,
-      "texto": "Perdeu 41515 seguidores",
+      "quantidade": 44379,
+      "texto": "Perdeu 44379 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:00.081174",
-      "captura_mais_recente": "2026-11-20T10:10:44.383313",
-      "tempo_total_dias": 45.563013,
+      "captura_mais_recente": "2026-11-20T16:11:30.650838",
+      "tempo_total_dias": 45.813548,
       "seguidores_inicio": 61059729,
-      "seguidores_fim": 61018214
+      "seguidores_fim": 61015350
     }
   }
 }
