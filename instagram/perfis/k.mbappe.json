@@ -8,7 +8,8 @@
       "id": "17841404277686689",
       "username": "k.mbappe",
       "nome": "Kylian Mbappé",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hCpRJev_1C5iO1QOq6TKcA&_nc_ss=70689&oh=00_AQNICmuLqVMgFd2PYjG3fUYROis1bXyOWaxUh4KZ_OTSMg&oe=6AC9EAC6"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=J96_H4I8ZMEQ7kNvwG5Hm2L&_nc_oc=AdqV3kBBMFAZP19S68AZ5m944KHvp5dhPwlJ7inbbpY0CyltiWizcf-ewcV7InH3BN5ZeL4jyypxGiMMJCHsOq3-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=M-oGskg5f6np381AOfKlMQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRIJUSQM7J9XvojZKJVPMJV8a-J9hOT3LZXcXegZAcmhg&oe=6B057686",
+      "total_posts": 1508
     },
     "biografia": [
       {
@@ -16,16 +17,6 @@
         "campo": "biografia",
         "nome": "Biografia",
         "valor": "@realmadrid @equipedefrance",
-        "timestamp": "2026-10-04T14:07:49.560529",
-        "tipo": "inicial"
-      }
-    ],
-    "categoria": [
-      {
-        "plataforma": "instagram",
-        "campo": "categoria",
-        "nome": "Categoria",
-        "valor": "atleta",
         "timestamp": "2026-10-04T14:07:49.560529",
         "tipo": "inicial"
       }
@@ -81,6 +72,45 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 137116401,
+        "valor_atual": 137115882,
+        "variacao": -519,
+        "direcao": "reducao",
+        "descricao": "-519 seguidores",
+        "timestamp": "2026-11-19T22:32:58.453242",
+        "timestamp_anterior": "2026-11-19T22:17:31.766669",
+        "tempo_desde_anterior_segundos": 926
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 137122459,
+        "valor_atual": 137116401,
+        "variacao": -6058,
+        "direcao": "reducao",
+        "descricao": "-6058 seguidores",
+        "timestamp": "2026-11-19T22:17:31.766669",
+        "timestamp_anterior": "2026-11-19T16:17:27.254739",
+        "tempo_desde_anterior_segundos": 21604
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 136891209,
+        "valor_atual": 137122459,
+        "variacao": 231250,
+        "direcao": "aumento",
+        "descricao": "+231250 seguidores",
+        "timestamp": "2026-11-19T16:17:27.254739",
+        "timestamp_anterior": "2026-10-05T19:16:25.178051",
+        "tempo_desde_anterior_segundos": 3877262
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -277,6 +307,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 513,
+        "valor_atual": 518,
+        "variacao": 5,
+        "direcao": "aumento",
+        "descricao": "Seguiu +5",
+        "timestamp": "2026-11-19T16:17:27.254739",
+        "timestamp_anterior": "2026-10-04T14:07:49.560529",
+        "tempo_desde_anterior_segundos": 3982177
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 513,
         "timestamp": "2026-10-04T14:07:49.560529",
         "tipo": "inicial"
@@ -293,6 +336,19 @@
       }
     ],
     "total_posts": [
+      {
+        "plataforma": "instagram",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
+        "valor_anterior": 1505,
+        "valor_atual": 1508,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "+3 publicações",
+        "timestamp": "2026-11-19T16:17:27.254739",
+        "timestamp_anterior": "2026-10-04T14:07:49.560529",
+        "tempo_desde_anterior_segundos": 3982177
+      },
       {
         "plataforma": "instagram",
         "campo": "total_posts",
@@ -331,9 +387,199 @@
         "timestamp": "2026-10-04T14:07:49.560529",
         "tipo": "inicial"
       }
+    ],
+    "categoria": [
+      {
+        "plataforma": "instagram",
+        "campo": "categoria",
+        "nome": "Categoria",
+        "valor": "atleta",
+        "timestamp": "2026-10-04T14:07:49.560529",
+        "tipo": "inicial"
+      }
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T22:32:58.453242",
+      "timestamp_anterior": "2026-11-19T22:17:31.766669",
+      "timestamp_atual": "2026-11-19T22:32:58.453242",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 4213518589,
+        "id": "17841404277686689",
+        "username": "k.mbappe",
+        "nome": "Kylian Mbappé",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=J96_H4I8ZMEQ7kNvwG5Hm2L&_nc_oc=AdqV3kBBMFAZP19S68AZ5m944KHvp5dhPwlJ7inbbpY0CyltiWizcf-ewcV7InH3BN5ZeL4jyypxGiMMJCHsOq3-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=M-oGskg5f6np381AOfKlMQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRIJUSQM7J9XvojZKJVPMJV8a-J9hOT3LZXcXegZAcmhg&oe=6B057686",
+        "total_posts": 1508
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 137116401,
+      "valor_atual": 137115882,
+      "hash_anterior": "49ef53628503d8ae35c5ad5c750bfc15bd21396e307346bd7e514404c8269534",
+      "hash_atual": "15f81379f2a7b27dfe154eb53178801cba8eed637cb134052a23a0ca35b6e8d1",
+      "variacao": -519,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 926.686573,
+        "texto": "15 minutos e 26 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 926.686573,
+        "texto": "15 minutos e 26 segundos"
+      },
+      "titulo": "Perdeu 519 seguidores",
+      "descricao": "Os seguidores caíram de 137.116.401 para 137.115.882",
+      "variacao_texto": "-519 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T22:17:31.766669",
+      "timestamp_anterior": "2026-11-19T16:17:27.254739",
+      "timestamp_atual": "2026-11-19T22:17:31.766669",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 4213518589,
+        "id": "17841404277686689",
+        "username": "k.mbappe",
+        "nome": "Kylian Mbappé",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=J96_H4I8ZMEQ7kNvwG5Hm2L&_nc_oc=AdqV3kBBMFAZP19S68AZ5m944KHvp5dhPwlJ7inbbpY0CyltiWizcf-ewcV7InH3BN5ZeL4jyypxGiMMJCHsOq3-&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=-KD5mHWr7O6NDrA_9emb0A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSXxsq_82826zmlw32s5HivbLjRU0oHQ9zEAvMXT7evxw&oe=6B057686",
+        "total_posts": 1508
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 137122459,
+      "valor_atual": 137116401,
+      "hash_anterior": "1c63b4e030401a9ae6badff69dcc8c9b6cdc8b733edbd43e950a77f48a03e7c0",
+      "hash_atual": "49ef53628503d8ae35c5ad5c750bfc15bd21396e307346bd7e514404c8269534",
+      "variacao": -6058,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 21604.51193,
+        "texto": "6 horas e 4 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 21604.51193,
+        "texto": "6 horas e 4 segundos"
+      },
+      "titulo": "Perdeu 6.058 seguidores",
+      "descricao": "Os seguidores caíram de 137.122.459 para 137.116.401",
+      "variacao_texto": "-6.058 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:17:27.254739",
+      "timestamp_anterior": "2026-10-05T19:16:25.178051",
+      "timestamp_atual": "2026-11-19T16:17:27.254739",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 4213518589,
+        "id": "17841404277686689",
+        "username": "k.mbappe",
+        "nome": "Kylian Mbappé",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=J96_H4I8ZMEQ7kNvwGVS0pq&_nc_oc=Adq2xg8Q9QAKjQo4pKkfpjERN9iqVA_icnjAjxUxuiwUrBf31m7fMvssi7aKfMlf8Bf_18NxdpeUfDaBo19SiasU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NlNlU7yrLsOqbkL7PTg22w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR5WBraoO0LjMMHob5g5xnByMm2jpARyZPxPJAb0Rrs1A&oe=6B050606",
+        "total_posts": 1508
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 136891209,
+      "valor_atual": 137122459,
+      "hash_anterior": "7144f6fea631df74ede0d14b913632d9247c32ef0736f9b7b2007da5d6f90585",
+      "hash_atual": "1c63b4e030401a9ae6badff69dcc8c9b6cdc8b733edbd43e950a77f48a03e7c0",
+      "variacao": 231250,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 3877262.076688,
+        "texto": "44 dias e 21 horas e 1 minuto e 2 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 3877262.076688,
+        "texto": "44 dias e 21 horas e 1 minuto e 2 segundos"
+      },
+      "titulo": "Ganhou 231.250 seguidores",
+      "descricao": "Os seguidores passaram de 136.891.209 para 137.122.459",
+      "variacao_texto": "+231.250 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:17:27.254739",
+      "timestamp_anterior": "2026-10-05T19:16:25.178051",
+      "timestamp_atual": "2026-11-19T16:17:27.254739",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 4213518589,
+        "id": "17841404277686689",
+        "username": "k.mbappe",
+        "nome": "Kylian Mbappé",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=J96_H4I8ZMEQ7kNvwGVS0pq&_nc_oc=Adq2xg8Q9QAKjQo4pKkfpjERN9iqVA_icnjAjxUxuiwUrBf31m7fMvssi7aKfMlf8Bf_18NxdpeUfDaBo19SiasU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NlNlU7yrLsOqbkL7PTg22w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR5WBraoO0LjMMHob5g5xnByMm2jpARyZPxPJAb0Rrs1A&oe=6B050606",
+        "total_posts": 1508
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 513,
+      "valor_atual": 518,
+      "hash_anterior": "7144f6fea631df74ede0d14b913632d9247c32ef0736f9b7b2007da5d6f90585",
+      "hash_atual": "1c63b4e030401a9ae6badff69dcc8c9b6cdc8b733edbd43e950a77f48a03e7c0",
+      "variacao": 5,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 3877262.076688,
+        "texto": "44 dias e 21 horas e 1 minuto e 2 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 5 pessoas",
+      "descricao": "Estava seguindo 513 e passou a seguir 518",
+      "variacao_texto": "+5 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-19T16:17:27.254739",
+      "timestamp_anterior": "2026-10-05T19:16:25.178051",
+      "timestamp_atual": "2026-11-19T16:17:27.254739",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 4213518589,
+        "id": "17841404277686689",
+        "username": "k.mbappe",
+        "nome": "Kylian Mbappé",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=J96_H4I8ZMEQ7kNvwGVS0pq&_nc_oc=Adq2xg8Q9QAKjQo4pKkfpjERN9iqVA_icnjAjxUxuiwUrBf31m7fMvssi7aKfMlf8Bf_18NxdpeUfDaBo19SiasU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=NlNlU7yrLsOqbkL7PTg22w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR5WBraoO0LjMMHob5g5xnByMm2jpARyZPxPJAb0Rrs1A&oe=6B050606",
+        "total_posts": 1508
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1505,
+      "valor_atual": 1508,
+      "hash_anterior": "7144f6fea631df74ede0d14b913632d9247c32ef0736f9b7b2007da5d6f90585",
+      "hash_atual": "1c63b4e030401a9ae6badff69dcc8c9b6cdc8b733edbd43e950a77f48a03e7c0",
+      "variacao": 3,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 3877262.076688,
+        "texto": "44 dias e 21 horas e 1 minuto e 2 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 3 publicações",
+      "descricao": "O total mudou de 1.505 para 1.508",
+      "variacao_texto": "+3 posts"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-10-05T19:16:25.178051",
@@ -346,15 +592,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hCpRJev_1C5iO1QOq6TKcA&_nc_ss=70689&oh=00_AQNICmuLqVMgFd2PYjG3fUYROis1bXyOWaxUh4KZ_OTSMg&oe=6AC9EAC6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hCpRJev_1C5iO1QOq6TKcA&_nc_ss=70689&oh=00_AQNICmuLqVMgFd2PYjG3fUYROis1bXyOWaxUh4KZ_OTSMg&oe=6AC9EAC6",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136891205,
       "valor_atual": 136891209,
-      "hash_anterior": "0a00315feb93b41cc018e944d903a392cdbab47fabc7a571ae595f45c3ccafdc",
-      "hash_atual": "afbbaceacb2e279aada90634c53b99396f7d94f3fdb0ab1a46fce2e9360fc59b",
+      "hash_anterior": "506b72a0458e1f12c49e39cc676048e4af8b9c65e7be138751323312000086e7",
+      "hash_atual": "7144f6fea631df74ede0d14b913632d9247c32ef0736f9b7b2007da5d6f90585",
       "variacao": 4,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -381,15 +628,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=F7YKa2qc5ywv9mgEcgth8w&_nc_ss=70689&oh=00_AQPXdVxrjdsG0UpebsSUVj1DqKqWCjCNCVMZb46lwlLI8g&oe=6AC9EAC6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=F7YKa2qc5ywv9mgEcgth8w&_nc_ss=70689&oh=00_AQPXdVxrjdsG0UpebsSUVj1DqKqWCjCNCVMZb46lwlLI8g&oe=6AC9EAC6",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136891202,
       "valor_atual": 136891205,
-      "hash_anterior": "f84c8442e91114983021fc50a243e4da0451b655f2215a2c98cf6cf65a7b6a5d",
-      "hash_atual": "0a00315feb93b41cc018e944d903a392cdbab47fabc7a571ae595f45c3ccafdc",
+      "hash_anterior": "e21c76666a59e0843cc1b597eb71688fc47d6872d4cb4d0db87fd5a11b8a5d6b",
+      "hash_atual": "506b72a0458e1f12c49e39cc676048e4af8b9c65e7be138751323312000086e7",
       "variacao": 3,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -416,15 +664,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VyhBjgQdbq6PI5ib6Yvujw&_nc_ss=70689&oh=00_AQPfGRh2Z9NhnymAORKVDmGI-8MupLdapC_pgNp3n6EEQw&oe=6AC9EAC6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VyhBjgQdbq6PI5ib6Yvujw&_nc_ss=70689&oh=00_AQPfGRh2Z9NhnymAORKVDmGI-8MupLdapC_pgNp3n6EEQw&oe=6AC9EAC6",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136891252,
       "valor_atual": 136891202,
-      "hash_anterior": "78ebf80df33e2dcd832936267ad9892855ca5c0ae8a63021932685304fb80d0a",
-      "hash_atual": "f84c8442e91114983021fc50a243e4da0451b655f2215a2c98cf6cf65a7b6a5d",
+      "hash_anterior": "ad56e287225f4a03b0744701e25763bc6ab7fba9de63681f6a8d7022698a1f99",
+      "hash_atual": "e21c76666a59e0843cc1b597eb71688fc47d6872d4cb4d0db87fd5a11b8a5d6b",
       "variacao": -50,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -451,15 +700,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=E5murBr9IOaToY90WBzgQA&_nc_ss=70689&oh=00_AQPZUtbvBoi5DKLhjN7yOO9cnlTg8F9kHmukj0fAtppWBw&oe=6AC9EAC6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=E5murBr9IOaToY90WBzgQA&_nc_ss=70689&oh=00_AQPZUtbvBoi5DKLhjN7yOO9cnlTg8F9kHmukj0fAtppWBw&oe=6AC9EAC6",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136891263,
       "valor_atual": 136891252,
-      "hash_anterior": "3eaf0e6800143533887b78fefd562db0742e3284ea507187839de53088b13195",
-      "hash_atual": "78ebf80df33e2dcd832936267ad9892855ca5c0ae8a63021932685304fb80d0a",
+      "hash_anterior": "a12b8be695041954eb467a9ef3cc5c3a0a0113de9bbe466e9b705eb3beaeebc1",
+      "hash_atual": "ad56e287225f4a03b0744701e25763bc6ab7fba9de63681f6a8d7022698a1f99",
       "variacao": -11,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -486,15 +736,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f_r3gZw1H1L_WXVX7o-p-A&_nc_ss=70689&oh=00_AQOE2VOvdsIhjpxjjFIAaSAsNcUi56diDjFLdaMl3ExfFg&oe=6AC9EAC6"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEJF-Ri&_nc_oc=AdoeVYXxSW7s-Q2EogEMQPNzwaLzVf7UB68bOZkasb5vYtLeCWRHwh16I335Hpx3_p-tr_UWsnppzweEFwFGPqwI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=f_r3gZw1H1L_WXVX7o-p-A&_nc_ss=70689&oh=00_AQOE2VOvdsIhjpxjjFIAaSAsNcUi56diDjFLdaMl3ExfFg&oe=6AC9EAC6",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899067,
       "valor_atual": 136891263,
-      "hash_anterior": "e5e778e3c114ec1a487940d235491009d451377ca1c808962918dc7069348336",
-      "hash_atual": "3eaf0e6800143533887b78fefd562db0742e3284ea507187839de53088b13195",
+      "hash_anterior": "64cd03185fd26b650602001f64c04dfdef0c6b3748b3a7b467b7615639f78383",
+      "hash_atual": "a12b8be695041954eb467a9ef3cc5c3a0a0113de9bbe466e9b705eb3beaeebc1",
       "variacao": -7804,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -521,15 +772,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEjWUF2&_nc_oc=AdoaX9LF4-AKtQWH7KwfhioH8cHZB9RIMa06kMPJKmS4jOHqnfrfiuXSsWWqMO9jrpulTTGpb5-0fBfLKR6Ebnnx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T8REcUSu4_bmM9PVPKw70A&_nc_ss=70689&oh=00_AQMeGj8SXqmfH-4Djmr08IKmUbXMP5Lq4NfKUj-nimdHbA&oe=6AC8D186"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwEjWUF2&_nc_oc=AdoaX9LF4-AKtQWH7KwfhioH8cHZB9RIMa06kMPJKmS4jOHqnfrfiuXSsWWqMO9jrpulTTGpb5-0fBfLKR6Ebnnx&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=T8REcUSu4_bmM9PVPKw70A&_nc_ss=70689&oh=00_AQMeGj8SXqmfH-4Djmr08IKmUbXMP5Lq4NfKUj-nimdHbA&oe=6AC8D186",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899897,
       "valor_atual": 136899067,
-      "hash_anterior": "cb32ab52a34134cfbc387b7a6b7e23ef9b9dc3c5625a0dc0ca411ef2d90c85aa",
-      "hash_atual": "e5e778e3c114ec1a487940d235491009d451377ca1c808962918dc7069348336",
+      "hash_anterior": "fba004d3056d371bb64581135bb1fdbf8578b3dd1186b65580312b8d5c388ead",
+      "hash_atual": "64cd03185fd26b650602001f64c04dfdef0c6b3748b3a7b467b7615639f78383",
       "variacao": -830,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -556,15 +808,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=babU70qVh8sA8w1H9pXRDw&_nc_ss=70689&oh=00_AQOJeN370t6d5Bl_YsQpLY2DdHAOVdkBOb-JO4uxShXYyQ&oe=6AC89946"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=babU70qVh8sA8w1H9pXRDw&_nc_ss=70689&oh=00_AQOJeN370t6d5Bl_YsQpLY2DdHAOVdkBOb-JO4uxShXYyQ&oe=6AC89946",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899895,
       "valor_atual": 136899897,
-      "hash_anterior": "df1db6b031ad74c049c4e21406e3542203cd017d6a9c766d907435a44b029361",
-      "hash_atual": "cb32ab52a34134cfbc387b7a6b7e23ef9b9dc3c5625a0dc0ca411ef2d90c85aa",
+      "hash_anterior": "fdec15d822e6ac33dc4edd42b9df6003af5ebafe640d9457893a8e42b10839c9",
+      "hash_atual": "fba004d3056d371bb64581135bb1fdbf8578b3dd1186b65580312b8d5c388ead",
       "variacao": 2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -591,15 +844,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yM_HP8kuUxRD6FZA7Yk5mw&_nc_ss=70689&oh=00_AQP2ffY23iEong0C9MhJvIT4XdnBXf_iJh7ekPDWiRvSzw&oe=6AC89946"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=yM_HP8kuUxRD6FZA7Yk5mw&_nc_ss=70689&oh=00_AQP2ffY23iEong0C9MhJvIT4XdnBXf_iJh7ekPDWiRvSzw&oe=6AC89946",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899993,
       "valor_atual": 136899895,
-      "hash_anterior": "ffd8077468034bb3769174f0e67d6bd32e4b7af00427990f178c0bee27b9d5a3",
-      "hash_atual": "df1db6b031ad74c049c4e21406e3542203cd017d6a9c766d907435a44b029361",
+      "hash_anterior": "5a0b45f57e3ad4523a6aa0d1f1d09c3635d5956509df849c76daecd12425a22c",
+      "hash_atual": "fdec15d822e6ac33dc4edd42b9df6003af5ebafe640d9457893a8e42b10839c9",
       "variacao": -98,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -626,15 +880,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X0Z071ZtVBwEf1aMIm_w2A&_nc_ss=70689&oh=00_AQOdjElmu5N7QVmP1vUUGXzLPsDwbBWVZMCKopWWzSE4vA&oe=6AC86106"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=X0Z071ZtVBwEf1aMIm_w2A&_nc_ss=70689&oh=00_AQOdjElmu5N7QVmP1vUUGXzLPsDwbBWVZMCKopWWzSE4vA&oe=6AC86106",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899975,
       "valor_atual": 136899993,
-      "hash_anterior": "2b4ab9b7b9071a0f40aa13603a1ae902866bde4b3b6f2d6e99efe949f6e0f3d5",
-      "hash_atual": "ffd8077468034bb3769174f0e67d6bd32e4b7af00427990f178c0bee27b9d5a3",
+      "hash_anterior": "ff979018e05ed75d40204b0dbfa569195f3eb53387be6ff2e4f7c735e593114f",
+      "hash_atual": "5a0b45f57e3ad4523a6aa0d1f1d09c3635d5956509df849c76daecd12425a22c",
       "variacao": 18,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -661,15 +916,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Gd7mwN82tAyXd-PTi2XQXw&_nc_ss=70689&oh=00_AQNVeJk6CxREhqNBzUguoIF13GFsBGlYIMEkLM_S2F2YWQ&oe=6AC86106"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Gd7mwN82tAyXd-PTi2XQXw&_nc_ss=70689&oh=00_AQNVeJk6CxREhqNBzUguoIF13GFsBGlYIMEkLM_S2F2YWQ&oe=6AC86106",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899968,
       "valor_atual": 136899975,
-      "hash_anterior": "b2494d2b4b1c43460bda480985ff8ca53c8494d5cb3c0e83b179db5534cc35bc",
-      "hash_atual": "2b4ab9b7b9071a0f40aa13603a1ae902866bde4b3b6f2d6e99efe949f6e0f3d5",
+      "hash_anterior": "69d82341d6f7b1155293e0809e4d65315550bc0c8f4b66f1cbd6dfdfa2c73a5a",
+      "hash_atual": "ff979018e05ed75d40204b0dbfa569195f3eb53387be6ff2e4f7c735e593114f",
       "variacao": 7,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -696,15 +952,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HHGqx5j6gURf8dboO-m70g&_nc_ss=70689&oh=00_AQNGCkD-mmPW5xL-X2GcDXfuHpDbJbj19NF6-feZx5s7fg&oe=6AC86106"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HHGqx5j6gURf8dboO-m70g&_nc_ss=70689&oh=00_AQNGCkD-mmPW5xL-X2GcDXfuHpDbJbj19NF6-feZx5s7fg&oe=6AC86106",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899970,
       "valor_atual": 136899968,
-      "hash_anterior": "6c682e7a5177168d827128e32b372b37f1ce5ff32eef49c9474b77fd5e2b9da5",
-      "hash_atual": "b2494d2b4b1c43460bda480985ff8ca53c8494d5cb3c0e83b179db5534cc35bc",
+      "hash_anterior": "70890e1a0935e3bb6e8e1af017b62bc10cb6c0843499408696dddf634555604f",
+      "hash_atual": "69d82341d6f7b1155293e0809e4d65315550bc0c8f4b66f1cbd6dfdfa2c73a5a",
       "variacao": -2,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -731,15 +988,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9mwJpe66SMOyi58w_FWf1g&_nc_ss=70689&oh=00_AQN6yvIrWvU8cK92_qI33ClcmtQK5h8XgmUV2mHpr8_euA&oe=6AC86106"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9mwJpe66SMOyi58w_FWf1g&_nc_ss=70689&oh=00_AQN6yvIrWvU8cK92_qI33ClcmtQK5h8XgmUV2mHpr8_euA&oe=6AC86106",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899450,
       "valor_atual": 136899970,
-      "hash_anterior": "e63175bc3418e0d5cff567ff3aa5d7d857880ab322c2f79e4fbe44000fe7d1fe",
-      "hash_atual": "6c682e7a5177168d827128e32b372b37f1ce5ff32eef49c9474b77fd5e2b9da5",
+      "hash_anterior": "f4c960d5a00a25dc9cf1c7ea45be573ea183be13bc4839005ed8291bc112fcfb",
+      "hash_atual": "70890e1a0935e3bb6e8e1af017b62bc10cb6c0843499408696dddf634555604f",
       "variacao": 520,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -766,15 +1024,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Zb-C2hrhB81VFesPhpf5-w&_nc_ss=70689&oh=00_AQMstMCKc8VkaKQMvGDHNFNlN5vEGbuCDF2hB5HcunLzTA&oe=6AC86106"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Zb-C2hrhB81VFesPhpf5-w&_nc_ss=70689&oh=00_AQMstMCKc8VkaKQMvGDHNFNlN5vEGbuCDF2hB5HcunLzTA&oe=6AC86106",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899313,
       "valor_atual": 136899450,
-      "hash_anterior": "efda5ef0be49312dfde9fa84c100d1eed6e6078870a136a5bfcc76d2cba1153f",
-      "hash_atual": "e63175bc3418e0d5cff567ff3aa5d7d857880ab322c2f79e4fbe44000fe7d1fe",
+      "hash_anterior": "435f4f7219be25bafc43bec134f195c965b1237cb2d01d4555d7e1e5aadfa390",
+      "hash_atual": "f4c960d5a00a25dc9cf1c7ea45be573ea183be13bc4839005ed8291bc112fcfb",
       "variacao": 137,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -801,15 +1060,16 @@
         "id": "17841404277686689",
         "username": "k.mbappe",
         "nome": "Kylian Mbappé",
-        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q6fsoSZJGZtg9fzqpRJtxg&_nc_ss=70689&oh=00_AQOX-y-q5rePrD5QXZ4047G-lS2ElAbt43qNu6ulKaC4ow&oe=6AC86106"
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3ZBadwUHK0EQ7kNvwGOw6zK&_nc_oc=Ado9EmwIDGnvqSz_scygFserM1nlpAlKnXAe1UVcpI5GHsHqLrFdFGg6XSwK1dMeQFlGTj_YV3EN1t37aZ_0MAWt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Q6fsoSZJGZtg9fzqpRJtxg&_nc_ss=70689&oh=00_AQOX-y-q5rePrD5QXZ4047G-lS2ElAbt43qNu6ulKaC4ow&oe=6AC86106",
+        "total_posts": 1505
       },
       "tipo": "seguidores",
       "campo": "seguidores",
       "nome_campo": "Seguidores",
       "valor_anterior": 136899298,
       "valor_atual": 136899313,
-      "hash_anterior": "ab0f25098fd867412cf314d44f821c5ad0db46c885925590866f8ae00245204e",
-      "hash_atual": "efda5ef0be49312dfde9fa84c100d1eed6e6078870a136a5bfcc76d2cba1153f",
+      "hash_anterior": "f394725069a9fb5d93f4cbf0976c508d430153c005f0ca97f6c294c07d6bc4ab",
+      "hash_atual": "435f4f7219be25bafc43bec134f195c965b1237cb2d01d4555d7e1e5aadfa390",
       "variacao": 15,
       "categoria": "rede",
       "tempo_desde_anterior": {
@@ -828,30 +1088,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:07:49.560529",
-    "captura_mais_recente": "2026-10-05T19:16:25.178051",
-    "tempo_total_segundos": 104915,
-    "tempo_total_dias": 1.214294,
-    "tempo_total_texto": "1 dia, 5 horas, 8 minutos e 35 segundos",
+    "captura_mais_recente": "2026-11-19T22:32:58.453242",
+    "tempo_total_segundos": 4004708,
+    "tempo_total_dias": 46.350787,
+    "tempo_total_texto": "46 dias, 8 horas, 25 minutos e 8 segundos",
     "dias_configurados": 30,
-    "atingiu_dias": false,
+    "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
+    "1_dias": {
+      "variacao": 224673,
+      "direcao": "ganhou",
+      "quantidade": 224673,
+      "texto": "Ganhou 224673 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-05T19:16:25.178051",
+      "captura_fim": "2026-11-19T22:32:58.453242",
+      "seguidores_inicio": 136891209,
+      "seguidores_fim": 137115882
+    },
     "7_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 224673,
+      "direcao": "ganhou",
+      "quantidade": 224673,
+      "texto": "Ganhou 224673 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-05T19:16:25.178051",
+      "captura_fim": "2026-11-19T22:32:58.453242",
+      "seguidores_inicio": 136891209,
+      "seguidores_fim": 137115882
     },
     "30_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": 224673,
+      "direcao": "ganhou",
+      "quantidade": 224673,
+      "texto": "Ganhou 224673 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-10-05T19:16:25.178051",
+      "captura_fim": "2026-11-19T22:32:58.453242",
+      "seguidores_inicio": 136891209,
+      "seguidores_fim": 137115882
     },
     "90_dias": {
       "variacao": null,
@@ -862,17 +1142,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -8089,
-      "direcao": "perdeu",
-      "quantidade": 8089,
-      "texto": "Perdeu 8089 seguidores",
+      "variacao": 216584,
+      "direcao": "ganhou",
+      "quantidade": 216584,
+      "texto": "Ganhou 216584 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:07:49.560529",
-      "captura_mais_recente": "2026-10-05T19:16:25.178051",
-      "tempo_total_dias": 1.214301,
+      "captura_mais_recente": "2026-11-19T22:32:58.453242",
+      "tempo_total_dias": 46.350797,
       "seguidores_inicio": 136899298,
-      "seguidores_fim": 136891209
+      "seguidores_fim": 137115882
     }
   }
 }
