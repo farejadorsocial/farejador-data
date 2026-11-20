@@ -8,7 +8,7 @@
       "id": "17841400270240212",
       "username": "ivetesangalo",
       "nome": "Veveta",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwGQYCnC&_nc_oc=Adq6ySJHA28AykZkydfkVE66Fq5Xzdbs69JC3CiM0cRMpAR8zFJckOK10fXwIU-lT0-wmAYeCQhCA9D48oXK8FKA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Tt2Hs0IkjlbnU11BpfZ1aQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ2DPwTsXzf0WadwO5RZZdIk7rsPz2255CuTeeG9dC58Q&oe=6B058756",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwFtYyZl&_nc_oc=AdowJJqNUCkyWSMjFHTXiJSZARhiFHH8IJsI0Ortlkw9uIzbe0637SNzqASIcCB026uJyLch0-EFePQ_lSFANVmV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FxJht_WMQZKh1bBU9CjuOw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTEfVoYF-1OGf36rBkat-3yCJ-XK7dj_WCFFdN_R1FuOw&oe=6B05F7D6",
       "total_posts": 9546
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 36091842,
+        "valor_atual": 36091339,
+        "variacao": -503,
+        "direcao": "reducao",
+        "descricao": "-503 seguidores",
+        "timestamp": "2026-11-20T09:39:20.519841",
+        "timestamp_anterior": "2026-11-19T22:34:50.803726",
+        "tempo_desde_anterior_segundos": 39869
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1327,6 +1340,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-20T09:39:20.519841",
+      "timestamp_anterior": "2026-11-19T22:34:50.803726",
+      "timestamp_atual": "2026-11-20T09:39:20.519841",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 13577008,
+        "id": "17841400270240212",
+        "username": "ivetesangalo",
+        "nome": "Veveta",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/906740798_18654687247009009_2423453181886742663_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GD7ECzbxBMHWVkZCAIdAJjTU1aEhbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Z9a3h3yRK0wQ7kNvwFtYyZl&_nc_oc=AdowJJqNUCkyWSMjFHTXiJSZARhiFHH8IJsI0Ortlkw9uIzbe0637SNzqASIcCB026uJyLch0-EFePQ_lSFANVmV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=FxJht_WMQZKh1bBU9CjuOw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTEfVoYF-1OGf36rBkat-3yCJ-XK7dj_WCFFdN_R1FuOw&oe=6B05F7D6",
+        "total_posts": 9546
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 36091842,
+      "valor_atual": 36091339,
+      "hash_anterior": "93f7282666467dd3923c7b505adf08f6abf0c4d1a6e9f5f1e6813c504c827297",
+      "hash_atual": "bd248e8ce8d5b72b6133d354df7170fc44650ee82a95577c77f2a4b40cdda7e3",
+      "variacao": -503,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 39869.716115,
+        "texto": "11 horas e 4 minutos e 29 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 39869.716115,
+        "texto": "11 horas e 4 minutos e 29 segundos"
+      },
+      "titulo": "Perdeu 503 seguidores",
+      "descricao": "Os seguidores caíram de 36.091.842 para 36.091.339",
+      "variacao_texto": "-503 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-19T22:34:50.803726",
@@ -4571,50 +4620,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:39.485671",
-    "captura_mais_recente": "2026-11-19T22:34:50.803726",
-    "tempo_total_segundos": 3894851,
-    "tempo_total_dias": 45.079294,
-    "tempo_total_texto": "45 dias, 1 hora, 54 minutos e 11 segundos",
+    "captura_mais_recente": "2026-11-20T09:39:20.519841",
+    "tempo_total_segundos": 3934721,
+    "tempo_total_dias": 45.540752,
+    "tempo_total_texto": "45 dias, 12 horas, 58 minutos e 41 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -30280,
+      "variacao": -30783,
       "direcao": "perdeu",
-      "quantidade": 30280,
-      "texto": "Perdeu 30280 seguidores",
+      "quantidade": 30783,
+      "texto": "Perdeu 30783 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:15.567438",
-      "captura_fim": "2026-11-19T22:34:50.803726",
+      "captura_fim": "2026-11-20T09:39:20.519841",
       "seguidores_inicio": 36122122,
-      "seguidores_fim": 36091842
+      "seguidores_fim": 36091339
     },
     "7_dias": {
-      "variacao": -30280,
+      "variacao": -30783,
       "direcao": "perdeu",
-      "quantidade": 30280,
-      "texto": "Perdeu 30280 seguidores",
+      "quantidade": 30783,
+      "texto": "Perdeu 30783 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:15.567438",
-      "captura_fim": "2026-11-19T22:34:50.803726",
+      "captura_fim": "2026-11-20T09:39:20.519841",
       "seguidores_inicio": 36122122,
-      "seguidores_fim": 36091842
+      "seguidores_fim": 36091339
     },
     "30_dias": {
-      "variacao": -95380,
+      "variacao": -95883,
       "direcao": "perdeu",
-      "quantidade": 95380,
-      "texto": "Perdeu 95380 seguidores",
+      "quantidade": 95883,
+      "texto": "Perdeu 95883 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-16T23:26:54.414795",
-      "captura_fim": "2026-11-19T22:34:50.803726",
+      "captura_fim": "2026-11-20T09:39:20.519841",
       "seguidores_inicio": 36187222,
-      "seguidores_fim": 36091842
+      "seguidores_fim": 36091339
     },
     "90_dias": {
       "variacao": null,
@@ -4625,17 +4674,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -109691,
+      "variacao": -110194,
       "direcao": "perdeu",
-      "quantidade": 109691,
-      "texto": "Perdeu 109691 seguidores",
+      "quantidade": 110194,
+      "texto": "Perdeu 110194 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:39.485671",
-      "captura_mais_recente": "2026-11-19T22:34:50.803726",
-      "tempo_total_dias": 45.079298,
+      "captura_mais_recente": "2026-11-20T09:39:20.519841",
+      "tempo_total_dias": 45.540753,
       "seguidores_inicio": 36201533,
-      "seguidores_fim": 36091842
+      "seguidores_fim": 36091339
     }
   }
 }
