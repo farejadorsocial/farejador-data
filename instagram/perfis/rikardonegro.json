@@ -8,7 +8,7 @@
       "id": "17841401470818365",
       "username": "rikardonegro",
       "nome": "Rikardo Negro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwEWqOkd&_nc_oc=Adqu9prQlQxyGrkP459czB_oMgffklex7mo2lXOkzfIFKHt5sQowbBnOM6CptSOrzUagLzFYSg2z9a_tMSXwCXi8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=DFJgJ22ZLzRc4cAWvGdk9g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQArWy_2G9VF0q_81535nF2deE_n-HydJ8aPWFUdeDO6Q&oe=6B0623CA",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwEWqOkd&_nc_oc=Adqu9prQlQxyGrkP459czB_oMgffklex7mo2lXOkzfIFKHt5sQowbBnOM6CptSOrzUagLzFYSg2z9a_tMSXwCXi8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kGlDDp2730fIkI5gAHkz8A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTb-ZlpTryKwMd_CRZhIr20Xvk67vYUMvub6LImp80Pww&oe=6B065C0A",
       "total_posts": 178
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 182547,
+        "valor_atual": 182574,
+        "variacao": 27,
+        "direcao": "aumento",
+        "descricao": "+27 seguidores",
+        "timestamp": "2026-11-20T15:28:33.515667",
+        "timestamp_anterior": "2026-11-20T09:28:28.574721",
+        "tempo_desde_anterior_segundos": 21604
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -846,6 +859,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-20T15:28:33.515667",
+      "timestamp_anterior": "2026-11-20T09:28:28.574721",
+      "timestamp_atual": "2026-11-20T15:28:33.515667",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 535409027,
+        "id": "17841401470818365",
+        "username": "rikardonegro",
+        "nome": "Rikardo Negro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902962104_18646946410049028_2199540746011122634_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GLgb0jUEruqITD9CAMqb-aKnVoYebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XQ1eCFvh4tgQ7kNvwEWqOkd&_nc_oc=Adqu9prQlQxyGrkP459czB_oMgffklex7mo2lXOkzfIFKHt5sQowbBnOM6CptSOrzUagLzFYSg2z9a_tMSXwCXi8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=kGlDDp2730fIkI5gAHkz8A&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTb-ZlpTryKwMd_CRZhIr20Xvk67vYUMvub6LImp80Pww&oe=6B065C0A",
+        "total_posts": 178
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 182547,
+      "valor_atual": 182574,
+      "hash_anterior": "d6eccfe6e7b13c1c0591892fed1d5d5d92ba595fcae1296ab167cf3d41fd08a8",
+      "hash_atual": "b7c6d22e9d00ecda8297c77873140fbdf5a5ea8a48d0b43c6e053db60a1480e4",
+      "variacao": 27,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 21604.940946,
+        "texto": "6 horas e 4 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 21604.940946,
+        "texto": "6 horas e 4 segundos"
+      },
+      "titulo": "Ganhou 27 seguidores",
+      "descricao": "Os seguidores passaram de 182.547 para 182.574",
+      "variacao_texto": "+27 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T09:28:28.574721",
@@ -2758,50 +2807,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:17:09.488183",
-    "captura_mais_recente": "2026-11-20T09:28:28.574721",
-    "tempo_total_segundos": 3939079,
-    "tempo_total_dias": 45.591192,
-    "tempo_total_texto": "45 dias, 14 horas, 11 minutos e 19 segundos",
+    "captura_mais_recente": "2026-11-20T15:28:33.515667",
+    "tempo_total_segundos": 3960684,
+    "tempo_total_dias": 45.84125,
+    "tempo_total_texto": "45 dias, 20 horas, 11 minutos e 24 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 4343,
+      "variacao": 4370,
       "direcao": "ganhou",
-      "quantidade": 4343,
-      "texto": "Ganhou 4343 seguidores",
+      "quantidade": 4370,
+      "texto": "Ganhou 4370 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:15:42.660395",
-      "captura_fim": "2026-11-20T09:28:28.574721",
+      "captura_fim": "2026-11-20T15:28:33.515667",
       "seguidores_inicio": 178204,
-      "seguidores_fim": 182547
+      "seguidores_fim": 182574
     },
     "7_dias": {
-      "variacao": 4343,
+      "variacao": 4370,
       "direcao": "ganhou",
-      "quantidade": 4343,
-      "texto": "Ganhou 4343 seguidores",
+      "quantidade": 4370,
+      "texto": "Ganhou 4370 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:15:42.660395",
-      "captura_fim": "2026-11-20T09:28:28.574721",
+      "captura_fim": "2026-11-20T15:28:33.515667",
       "seguidores_inicio": 178204,
-      "seguidores_fim": 182547
+      "seguidores_fim": 182574
     },
     "30_dias": {
-      "variacao": 3917,
+      "variacao": 3944,
       "direcao": "ganhou",
-      "quantidade": 3917,
-      "texto": "Ganhou 3917 seguidores",
+      "quantidade": 3944,
+      "texto": "Ganhou 3944 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-16T23:27:52.319378",
-      "captura_fim": "2026-11-20T09:28:28.574721",
+      "captura_fim": "2026-11-20T15:28:33.515667",
       "seguidores_inicio": 178630,
-      "seguidores_fim": 182547
+      "seguidores_fim": 182574
     },
     "90_dias": {
       "variacao": null,
@@ -2812,17 +2861,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 3351,
+      "variacao": 3378,
       "direcao": "ganhou",
-      "quantidade": 3351,
-      "texto": "Ganhou 3351 seguidores",
+      "quantidade": 3378,
+      "texto": "Ganhou 3378 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:17:09.488183",
-      "captura_mais_recente": "2026-11-20T09:28:28.574721",
-      "tempo_total_dias": 45.591193,
+      "captura_mais_recente": "2026-11-20T15:28:33.515667",
+      "tempo_total_dias": 45.84125,
       "seguidores_inicio": 179196,
-      "seguidores_fim": 182547
+      "seguidores_fim": 182574
     }
   }
 }
