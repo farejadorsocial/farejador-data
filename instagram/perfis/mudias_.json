@@ -8,7 +8,7 @@
       "id": "17841400347104467",
       "username": "mudias_",
       "nome": "Murilo Dias",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954493_18660010957011571_2366532147433600593_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GP390TVz_phcLktCAFF2Uh1znNcgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ncX4zPcut1YQ7kNvwF58C5-&_nc_oc=AdoFbZDKCrqdeELVOWQP5bQViys4E2Gziyg00gWokm6GT_hjqZiIhRQHADRJgYK5TTvy5cB1GZTJFON2pBrgAsT4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=stD_puWazQmvGSRKHQaSrQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSM_-n_xsrrntculX2RUgnRdgtaDUXO06J5pYqcWKW-7Q&oe=6B065954",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954493_18660010957011571_2366532147433600593_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GP390TVz_phcLktCAFF2Uh1znNcgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ncX4zPcut1YQ7kNvwGuFyIG&_nc_oc=AdqEdt8fkPHVFZALpDVwm1cuvM6RzHbdD3m85z5VGWFhcYE8L3Lxc4XO1ZtbW21y4QFFe9JQ3FcirLpqnVvikoqu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=m7jW3VCx4681ebjogO6BuQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRUCeXfTlZNYBuODKYHsmW6vJ7WUqZMe55WCdtEWmGfcA&oe=6B077294",
       "total_posts": 1926
     },
     "biografia": [
@@ -111,6 +111,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 335361,
+        "valor_atual": 335436,
+        "variacao": 75,
+        "direcao": "aumento",
+        "descricao": "+75 seguidores",
+        "timestamp": "2026-11-21T12:30:48.867811",
+        "timestamp_anterior": "2026-11-20T15:28:02.538089",
+        "tempo_desde_anterior_segundos": 75766
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -920,6 +933,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T12:30:48.867811",
+      "timestamp_anterior": "2026-11-20T15:28:02.538089",
+      "timestamp_atual": "2026-11-21T12:30:48.867811",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 285899570,
+        "id": "17841400347104467",
+        "username": "mudias_",
+        "nome": "Murilo Dias",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954493_18660010957011571_2366532147433600593_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GP390TVz_phcLktCAFF2Uh1znNcgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ncX4zPcut1YQ7kNvwGuFyIG&_nc_oc=AdqEdt8fkPHVFZALpDVwm1cuvM6RzHbdD3m85z5VGWFhcYE8L3Lxc4XO1ZtbW21y4QFFe9JQ3FcirLpqnVvikoqu&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=m7jW3VCx4681ebjogO6BuQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRUCeXfTlZNYBuODKYHsmW6vJ7WUqZMe55WCdtEWmGfcA&oe=6B077294",
+        "total_posts": 1926
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 335361,
+      "valor_atual": 335436,
+      "hash_anterior": "a99574a5c4b080ecdf476c59f6da04514b414a56d05ff63c1a21e7c466fb7d93",
+      "hash_atual": "fc82f1a1572984b74b90ad533756ca0dbdcace004ac78c263fc22e68cc54baec",
+      "variacao": 75,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 75766.329722,
+        "texto": "21 horas e 2 minutos e 46 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 75766.329722,
+        "texto": "21 horas e 2 minutos e 46 segundos"
+      },
+      "titulo": "Ganhou 75 seguidores",
+      "descricao": "Os seguidores passaram de 335.361 para 335.436",
+      "variacao_texto": "+75 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T15:28:02.538089",
@@ -2988,50 +3037,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:16:51.144718",
-    "captura_mais_recente": "2026-11-20T15:28:02.538089",
-    "tempo_total_segundos": 3960671,
-    "tempo_total_dias": 45.8411,
-    "tempo_total_texto": "45 dias, 20 horas, 11 minutos e 11 segundos",
+    "captura_mais_recente": "2026-11-21T12:30:48.867811",
+    "tempo_total_segundos": 4036437,
+    "tempo_total_dias": 46.718021,
+    "tempo_total_texto": "46 dias, 17 horas, 13 minutos e 57 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 4711,
+      "variacao": 95,
       "direcao": "ganhou",
-      "quantidade": 4711,
-      "texto": "Ganhou 4711 seguidores",
+      "quantidade": 95,
+      "texto": "Ganhou 95 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:15:28.515869",
-      "captura_fim": "2026-11-20T15:28:02.538089",
-      "seguidores_inicio": 330650,
-      "seguidores_fim": 335361
+      "captura_inicio": "2026-11-20T09:27:57.529815",
+      "captura_fim": "2026-11-21T12:30:48.867811",
+      "seguidores_inicio": 335341,
+      "seguidores_fim": 335436
     },
     "7_dias": {
-      "variacao": 4711,
+      "variacao": 4786,
       "direcao": "ganhou",
-      "quantidade": 4711,
-      "texto": "Ganhou 4711 seguidores",
+      "quantidade": 4786,
+      "texto": "Ganhou 4786 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:15:28.515869",
-      "captura_fim": "2026-11-20T15:28:02.538089",
+      "captura_fim": "2026-11-21T12:30:48.867811",
       "seguidores_inicio": 330650,
-      "seguidores_fim": 335361
+      "seguidores_fim": 335436
     },
     "30_dias": {
-      "variacao": 5203,
+      "variacao": 5326,
       "direcao": "ganhou",
-      "quantidade": 5203,
-      "texto": "Ganhou 5203 seguidores",
+      "quantidade": 5326,
+      "texto": "Ganhou 5326 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:27:38.497312",
-      "captura_fim": "2026-11-20T15:28:02.538089",
-      "seguidores_inicio": 330158,
-      "seguidores_fim": 335361
+      "captura_inicio": "2026-10-21T17:46:27.110795",
+      "captura_fim": "2026-11-21T12:30:48.867811",
+      "seguidores_inicio": 330110,
+      "seguidores_fim": 335436
     },
     "90_dias": {
       "variacao": null,
@@ -3042,17 +3091,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 5291,
+      "variacao": 5366,
       "direcao": "ganhou",
-      "quantidade": 5291,
-      "texto": "Ganhou 5291 seguidores",
+      "quantidade": 5366,
+      "texto": "Ganhou 5366 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:16:51.144718",
-      "captura_mais_recente": "2026-11-20T15:28:02.538089",
-      "tempo_total_dias": 45.841104,
+      "captura_mais_recente": "2026-11-21T12:30:48.867811",
+      "tempo_total_dias": 46.718029,
       "seguidores_inicio": 330070,
-      "seguidores_fim": 335361
+      "seguidores_fim": 335436
     }
   }
 }

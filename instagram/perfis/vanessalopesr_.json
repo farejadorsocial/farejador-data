@@ -8,7 +8,7 @@
       "id": "17841401013405589",
       "username": "vanessalopesr_",
       "nome": "Vanessa Lopes",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954843_18646422955033781_8984140348788202057_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFv-0TW1BJGo0j5CAElaxhUMFK58bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=GeEFQMZosasQ7kNvwEUHutI&_nc_oc=AdpqUyPSuFNhz6mcn1kn4bThDe-JQ4RHd_qqOeW4WvHRdWPTW0XKTNWjd31b342-ptQA2ntlojauhSS06s6PhLvt&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3zozQNTGKKbqnuOe1jM-zw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTSQwkdt5MKgcicMrtxuS1WTIfHjOxajeiCoRq37lfIkw&oe=6B0665F7",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954843_18646422955033781_8984140348788202057_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFv-0TW1BJGo0j5CAElaxhUMFK58bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=GeEFQMZosasQ7kNvwHTw62Q&_nc_oc=Adp5SxcK5PUWXef8bZqvLCC99RN_VGKGdvDWLQyLPmjFR1OtNq1cmP1PsVOtYPUnrLFzHPQXj7iDfHKZ0OvlXZYn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Gl8Dr35DWWzuWX32lCixlQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQes9NhZCIV1cJIfBAEtzXz_LkTN7Yk8RmVt95W5zEXzw&oe=6B07B777",
       "total_posts": 3123
     },
     "biografia": [
@@ -116,6 +116,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 13665711,
+        "valor_atual": 13657659,
+        "variacao": -8052,
+        "direcao": "reducao",
+        "descricao": "-8052 seguidores",
+        "timestamp": "2026-11-21T13:54:33.489541",
+        "timestamp_anterior": "2026-11-20T16:09:57.355468",
+        "tempo_desde_anterior_segundos": 78276
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1276,6 +1289,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T13:54:33.489541",
+      "timestamp_anterior": "2026-11-20T16:09:57.355468",
+      "timestamp_atual": "2026-11-21T13:54:33.489541",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 357729780,
+        "id": "17841401013405589",
+        "username": "vanessalopesr_",
+        "nome": "Vanessa Lopes",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954843_18646422955033781_8984140348788202057_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFv-0TW1BJGo0j5CAElaxhUMFK58bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=GeEFQMZosasQ7kNvwHTw62Q&_nc_oc=Adp5SxcK5PUWXef8bZqvLCC99RN_VGKGdvDWLQyLPmjFR1OtNq1cmP1PsVOtYPUnrLFzHPQXj7iDfHKZ0OvlXZYn&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Gl8Dr35DWWzuWX32lCixlQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQes9NhZCIV1cJIfBAEtzXz_LkTN7Yk8RmVt95W5zEXzw&oe=6B07B777",
+        "total_posts": 3123
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 13665711,
+      "valor_atual": 13657659,
+      "hash_anterior": "275802daeab324a11c57b05f9c2fddb3c08d9c2e335f38c59d6fd79f5d8505cb",
+      "hash_atual": "ddd497f3f828e5fe9fd01a7781221254f39db093859959713f9913e1bd1a237d",
+      "variacao": -8052,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78276.134073,
+        "texto": "21 horas e 44 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78276.134073,
+        "texto": "21 horas e 44 minutos e 36 segundos"
+      },
+      "titulo": "Perdeu 8.052 seguidores",
+      "descricao": "Os seguidores caíram de 13.665.711 para 13.657.659",
+      "variacao_texto": "-8.052 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T16:09:57.355468",
@@ -4349,50 +4398,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:29.826703",
-    "captura_mais_recente": "2026-11-20T16:09:57.355468",
-    "tempo_total_segundos": 3868047,
-    "tempo_total_dias": 44.769062,
-    "tempo_total_texto": "44 dias, 18 horas, 27 minutos e 27 segundos",
+    "captura_mais_recente": "2026-11-21T13:54:33.489541",
+    "tempo_total_segundos": 3946323,
+    "tempo_total_dias": 45.675035,
+    "tempo_total_texto": "45 dias, 16 horas, 12 minutos e 3 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -59731,
+      "variacao": -9852,
       "direcao": "perdeu",
-      "quantidade": 59731,
-      "texto": "Perdeu 59731 seguidores",
+      "quantidade": 9852,
+      "texto": "Perdeu 9852 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:26:48.919102",
-      "captura_fim": "2026-11-20T16:09:57.355468",
-      "seguidores_inicio": 13725442,
-      "seguidores_fim": 13665711
+      "captura_inicio": "2026-11-20T10:09:10.617075",
+      "captura_fim": "2026-11-21T13:54:33.489541",
+      "seguidores_inicio": 13667511,
+      "seguidores_fim": 13657659
     },
     "7_dias": {
-      "variacao": -59731,
+      "variacao": -67783,
       "direcao": "perdeu",
-      "quantidade": 59731,
-      "texto": "Perdeu 59731 seguidores",
+      "quantidade": 67783,
+      "texto": "Perdeu 67783 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:48.919102",
-      "captura_fim": "2026-11-20T16:09:57.355468",
+      "captura_fim": "2026-11-21T13:54:33.489541",
       "seguidores_inicio": 13725442,
-      "seguidores_fim": 13665711
+      "seguidores_fim": 13657659
     },
     "30_dias": {
-      "variacao": -122289,
+      "variacao": -115974,
       "direcao": "perdeu",
-      "quantidade": 122289,
-      "texto": "Perdeu 122289 seguidores",
+      "quantidade": 115974,
+      "texto": "Perdeu 115974 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:27:21.194469",
-      "captura_fim": "2026-11-20T16:09:57.355468",
-      "seguidores_inicio": 13788000,
-      "seguidores_fim": 13665711
+      "captura_inicio": "2026-10-21T17:45:37.773468",
+      "captura_fim": "2026-11-21T13:54:33.489541",
+      "seguidores_inicio": 13773633,
+      "seguidores_fim": 13657659
     },
     "90_dias": {
       "variacao": null,
@@ -4403,17 +4452,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -184548,
+      "variacao": -192600,
       "direcao": "perdeu",
-      "quantidade": 184548,
-      "texto": "Perdeu 184548 seguidores",
+      "quantidade": 192600,
+      "texto": "Perdeu 192600 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:29.826703",
-      "captura_mais_recente": "2026-11-20T16:09:57.355468",
-      "tempo_total_dias": 44.769069,
+      "captura_mais_recente": "2026-11-21T13:54:33.489541",
+      "tempo_total_dias": 45.675042,
       "seguidores_inicio": 13850259,
-      "seguidores_fim": 13665711
+      "seguidores_fim": 13657659
     }
   }
 }

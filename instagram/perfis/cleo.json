@@ -8,7 +8,7 @@
       "id": "17841400127260641",
       "username": "cleo",
       "nome": "Cleo Pires",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/558197127_18531203086004243_8154014840363926083_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIdpRSETsDPxB9ZBAEPCJ6VL4ShxbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mz1U-W9_kD0Q7kNvwGyAR7J&_nc_oc=AdpZsCgd6xWwFA_bjxNf2C0Krd6DRiJGfa8wgP0Hg_MFUB_NdWb2RKdrjlWjOJNkWNo-tkXUW3g4JZ0FbaxbtsKE&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=6j-dVMtA6VMf3nEe3U-RpA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS9B_G2gGYUNhLSukKg-ITYmst8GPRzpiDt7HIDcicWfA&oe=6B065256",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/558197127_18531203086004243_8154014840363926083_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIdpRSETsDPxB9ZBAEPCJ6VL4ShxbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mz1U-W9_kD0Q7kNvwHLrKk5&_nc_oc=AdqcLjQnyaC9oMaffnFu7VPbQaAVQnrNCBZH5kmQXvLgKdkLN-V__mrffo_Yyv1SMf880CXfkwWstKI_QGdLrQyy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=74mv3rZfOiMHxrOFYrShWg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTyr6TxOBLUh71Pj5HCg3SaHIo1b7-08AOrxFxY9Zjq8Q&oe=6B07A3D6",
       "total_posts": 423
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 17938586,
+        "valor_atual": 17937233,
+        "variacao": -1353,
+        "direcao": "reducao",
+        "descricao": "-1353 seguidores",
+        "timestamp": "2026-11-21T13:52:29.055520",
+        "timestamp_anterior": "2026-11-20T16:07:53.465870",
+        "tempo_desde_anterior_segundos": 78275
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1223,6 +1236,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T13:52:29.055520",
+      "timestamp_anterior": "2026-11-20T16:07:53.465870",
+      "timestamp_atual": "2026-11-21T13:52:29.055520",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 41028242,
+        "id": "17841400127260641",
+        "username": "cleo",
+        "nome": "Cleo Pires",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/558197127_18531203086004243_8154014840363926083_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIdpRSETsDPxB9ZBAEPCJ6VL4ShxbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mz1U-W9_kD0Q7kNvwHLrKk5&_nc_oc=AdqcLjQnyaC9oMaffnFu7VPbQaAVQnrNCBZH5kmQXvLgKdkLN-V__mrffo_Yyv1SMf880CXfkwWstKI_QGdLrQyy&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=74mv3rZfOiMHxrOFYrShWg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTyr6TxOBLUh71Pj5HCg3SaHIo1b7-08AOrxFxY9Zjq8Q&oe=6B07A3D6",
+        "total_posts": 423
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 17938586,
+      "valor_atual": 17937233,
+      "hash_anterior": "d6853e12d11482652f26e98392a2e46181224e5ebdca1bc8f755c08f868c3767",
+      "hash_atual": "738928017a56e9eb40a148b83bcce2b8df3ff99876ed75b0e4adb79301459da3",
+      "variacao": -1353,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78275.58965,
+        "texto": "21 horas e 44 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78275.58965,
+        "texto": "21 horas e 44 minutos e 35 segundos"
+      },
+      "titulo": "Perdeu 1.353 seguidores",
+      "descricao": "Os seguidores caíram de 17.938.586 para 17.937.233",
+      "variacao_texto": "-1.353 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T16:07:53.465870",
@@ -4179,50 +4228,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:28.311860",
-    "captura_mais_recente": "2026-11-20T16:07:53.465870",
-    "tempo_total_segundos": 3957925,
-    "tempo_total_dias": 45.809317,
-    "tempo_total_texto": "45 dias, 19 horas, 25 minutos e 25 segundos",
+    "captura_mais_recente": "2026-11-21T13:52:29.055520",
+    "tempo_total_segundos": 4036200,
+    "tempo_total_dias": 46.715278,
+    "tempo_total_texto": "46 dias, 17 horas e 10 minutos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -26581,
+      "variacao": -2460,
       "direcao": "perdeu",
-      "quantidade": 26581,
-      "texto": "Perdeu 26581 seguidores",
+      "quantidade": 2460,
+      "texto": "Perdeu 2460 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:26:37.712807",
-      "captura_fim": "2026-11-20T16:07:53.465870",
-      "seguidores_inicio": 17965167,
-      "seguidores_fim": 17938586
+      "captura_inicio": "2026-11-20T10:07:06.195264",
+      "captura_fim": "2026-11-21T13:52:29.055520",
+      "seguidores_inicio": 17939693,
+      "seguidores_fim": 17937233
     },
     "7_dias": {
-      "variacao": -26581,
+      "variacao": -27934,
       "direcao": "perdeu",
-      "quantidade": 26581,
-      "texto": "Perdeu 26581 seguidores",
+      "quantidade": 27934,
+      "texto": "Perdeu 27934 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:37.712807",
-      "captura_fim": "2026-11-20T16:07:53.465870",
+      "captura_fim": "2026-11-21T13:52:29.055520",
       "seguidores_inicio": 17965167,
-      "seguidores_fim": 17938586
+      "seguidores_fim": 17937233
     },
     "30_dias": {
-      "variacao": -208060,
+      "variacao": -100895,
       "direcao": "perdeu",
-      "quantidade": 208060,
-      "texto": "Perdeu 208060 seguidores",
+      "quantidade": 100895,
+      "texto": "Perdeu 100895 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:28:30.053445",
-      "captura_fim": "2026-11-20T16:07:53.465870",
-      "seguidores_inicio": 18146646,
-      "seguidores_fim": 17938586
+      "captura_inicio": "2026-10-21T17:47:46.028575",
+      "captura_fim": "2026-11-21T13:52:29.055520",
+      "seguidores_inicio": 18038128,
+      "seguidores_fim": 17937233
     },
     "90_dias": {
       "variacao": null,
@@ -4233,17 +4282,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -243705,
+      "variacao": -245058,
       "direcao": "perdeu",
-      "quantidade": 243705,
-      "texto": "Perdeu 243705 seguidores",
+      "quantidade": 245058,
+      "texto": "Perdeu 245058 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:28.311860",
-      "captura_mais_recente": "2026-11-20T16:07:53.465870",
-      "tempo_total_dias": 45.809319,
+      "captura_mais_recente": "2026-11-21T13:52:29.055520",
+      "tempo_total_dias": 46.715286,
       "seguidores_inicio": 18182291,
-      "seguidores_fim": 17938586
+      "seguidores_fim": 17937233
     }
   }
 }

@@ -8,7 +8,7 @@
       "id": "17841400892703779",
       "username": "sergioramos",
       "nome": "Sergio Ramos",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/600936076_18562235890029757_1698536394839416261_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIyO0SO9VHZUQfJBAMXdeRTaaZIXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fakthfbnwX4Q7kNvwF7VNT4&_nc_oc=AdrZNL_Au5akts8rb_8XEgWyTnOFciYpfsEims6WHVeowNEhirr-QOtUUk3dA3kpb2CqVYca2jREjrOtyYveOzEU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=9uPVn7IszXzK5lepgvVnFA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR5rOnVmuwNEB_RWdWa1pn5jLT1EouEiuLX1MyWt08DqQ&oe=6B065971",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/600936076_18562235890029757_1698536394839416261_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIyO0SO9VHZUQfJBAMXdeRTaaZIXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_BpqLPKuZ-cQ7kNvwG0-UuW&_nc_oc=AdrT_0dwWJVB1bXGg6JNOtLRkm_asOS7ymRDoz31K4hDPy9WRHy5S8ieoPH6xYsPPfA_8B4b2nH4CG1OAjUBhHfU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WFERWbPVZvLhFzd92uTkjw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSmayY1McY8tojhYcj8y9tIhXE5bV1yCoqNhG9yGwluJw&oe=6B07AAF1",
       "total_posts": 2977
     },
     "biografia": [
@@ -79,6 +79,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 69661605,
+        "valor_atual": 69652906,
+        "variacao": -8699,
+        "direcao": "reducao",
+        "descricao": "-8699 seguidores",
+        "timestamp": "2026-11-21T13:48:51.536961",
+        "timestamp_anterior": "2026-11-20T16:04:16.121913",
+        "tempo_desde_anterior_segundos": 78275
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1109,6 +1122,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T13:48:51.536961",
+      "timestamp_anterior": "2026-11-20T16:04:16.121913",
+      "timestamp_atual": "2026-11-21T13:48:51.536961",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 1521885756,
+        "id": "17841400892703779",
+        "username": "sergioramos",
+        "nome": "Sergio Ramos",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/600936076_18562235890029757_1698536394839416261_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIyO0SO9VHZUQfJBAMXdeRTaaZIXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_BpqLPKuZ-cQ7kNvwG0-UuW&_nc_oc=AdrT_0dwWJVB1bXGg6JNOtLRkm_asOS7ymRDoz31K4hDPy9WRHy5S8ieoPH6xYsPPfA_8B4b2nH4CG1OAjUBhHfU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WFERWbPVZvLhFzd92uTkjw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSmayY1McY8tojhYcj8y9tIhXE5bV1yCoqNhG9yGwluJw&oe=6B07AAF1",
+        "total_posts": 2977
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 69661605,
+      "valor_atual": 69652906,
+      "hash_anterior": "b1c1308a607b961e999b66896412cf6a34f295352dbd4f5e0450f606fb7fe63c",
+      "hash_atual": "8e31850cb59bd1ba013ac072e6ef045d0cabf323122eafb69085b50c085fb2c6",
+      "variacao": -8699,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78275.415048,
+        "texto": "21 horas e 44 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78275.415048,
+        "texto": "21 horas e 44 minutos e 35 segundos"
+      },
+      "titulo": "Perdeu 8.699 seguidores",
+      "descricao": "Os seguidores caíram de 69.661.605 para 69.652.906",
+      "variacao_texto": "-8.699 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T16:04:16.121913",
@@ -3741,50 +3790,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:10.128167",
-    "captura_mais_recente": "2026-11-20T16:04:16.121913",
-    "tempo_total_segundos": 3957725,
-    "tempo_total_dias": 45.807002,
-    "tempo_total_texto": "45 dias, 19 horas, 22 minutos e 5 segundos",
+    "captura_mais_recente": "2026-11-21T13:48:51.536961",
+    "tempo_total_segundos": 4036001,
+    "tempo_total_dias": 46.712975,
+    "tempo_total_texto": "46 dias, 17 horas, 6 minutos e 41 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -131186,
+      "variacao": -18607,
       "direcao": "perdeu",
-      "quantidade": 131186,
-      "texto": "Perdeu 131186 seguidores",
+      "quantidade": 18607,
+      "texto": "Perdeu 18607 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:26:20.782080",
-      "captura_fim": "2026-11-20T16:04:16.121913",
-      "seguidores_inicio": 69792791,
-      "seguidores_fim": 69661605
+      "captura_inicio": "2026-11-20T10:03:28.822808",
+      "captura_fim": "2026-11-21T13:48:51.536961",
+      "seguidores_inicio": 69671513,
+      "seguidores_fim": 69652906
     },
     "7_dias": {
-      "variacao": -131186,
+      "variacao": -139885,
       "direcao": "perdeu",
-      "quantidade": 131186,
-      "texto": "Perdeu 131186 seguidores",
+      "quantidade": 139885,
+      "texto": "Perdeu 139885 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:20.782080",
-      "captura_fim": "2026-11-20T16:04:16.121913",
+      "captura_fim": "2026-11-21T13:48:51.536961",
       "seguidores_inicio": 69792791,
-      "seguidores_fim": 69661605
+      "seguidores_fim": 69652906
     },
     "30_dias": {
-      "variacao": -193997,
+      "variacao": -200399,
       "direcao": "perdeu",
-      "quantidade": 193997,
-      "texto": "Perdeu 193997 seguidores",
+      "quantidade": 200399,
+      "texto": "Perdeu 200399 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:28:17.208543",
-      "captura_fim": "2026-11-20T16:04:16.121913",
-      "seguidores_inicio": 69855602,
-      "seguidores_fim": 69661605
+      "captura_inicio": "2026-10-21T17:47:26.306346",
+      "captura_fim": "2026-11-21T13:48:51.536961",
+      "seguidores_inicio": 69853305,
+      "seguidores_fim": 69652906
     },
     "90_dias": {
       "variacao": null,
@@ -3795,17 +3844,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -198679,
+      "variacao": -207378,
       "direcao": "perdeu",
-      "quantidade": 198679,
-      "texto": "Perdeu 198679 seguidores",
+      "quantidade": 207378,
+      "texto": "Perdeu 207378 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:10.128167",
-      "captura_mais_recente": "2026-11-20T16:04:16.121913",
-      "tempo_total_dias": 45.807014,
+      "captura_mais_recente": "2026-11-21T13:48:51.536961",
+      "tempo_total_dias": 46.712979,
       "seguidores_inicio": 69860284,
-      "seguidores_fim": 69661605
+      "seguidores_fim": 69652906
     }
   }
 }

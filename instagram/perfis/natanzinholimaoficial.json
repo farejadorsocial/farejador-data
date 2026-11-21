@@ -8,7 +8,7 @@
       "id": "17841416861485116",
       "username": "natanzinholimaoficial",
       "nome": "Natanzinho Lima",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/611671162_18121222741562050_9042229512835840681_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GHpcdSTCEmj0J2FAAKk6IorVc3x9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=XvCQZJZbKp0Q7kNvwFlsnjl&_nc_oc=AdrXo59LTFY8kq0XFQXybsfC1q-XC7_wuV30dZXO3kfj5irQ9u8JYj00wlqipW24qZL9_nnsZ2hmCnr2xRFovTyd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jtcexkd9X-FcwaMTfLTtBg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ0FYNRsuM7zSFGrMYdgEo48EoALwy_EaYPdT9g6RuSIQ&oe=6B065D24",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/611671162_18121222741562050_9042229512835840681_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GHpcdSTCEmj0J2FAAKk6IorVc3x9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=T_SNxP6pI_kQ7kNvwFXhNxS&_nc_oc=Ado5o23y2rAv-7159slF3GKQpqC5j35hoW7-Fdy-ETH4TXaxIwmx1evZ-BqWwFcVrraGNKA1R5JKBFujpSY8cuTJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wVRGm9-mT--TEkEdBb6uuQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ3-WMxyCQ3VQJu5245IssBEtRvFAkhlDRVcD7m5nclsg&oe=6B07AEA4",
       "total_posts": 2029
     },
     "biografia": [
@@ -99,6 +99,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 11841927,
+        "valor_atual": 11846199,
+        "variacao": 4272,
+        "direcao": "aumento",
+        "descricao": "+4272 seguidores",
+        "timestamp": "2026-11-21T13:55:35.717646",
+        "timestamp_anterior": "2026-11-20T16:10:59.673087",
+        "tempo_desde_anterior_segundos": 78276
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -2494,6 +2507,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T13:55:35.717646",
+      "timestamp_anterior": "2026-11-20T16:10:59.673087",
+      "timestamp_atual": "2026-11-21T13:55:35.717646",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 16920930049,
+        "id": "17841416861485116",
+        "username": "natanzinholimaoficial",
+        "nome": "Natanzinho Lima",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/611671162_18121222741562050_9042229512835840681_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GHpcdSTCEmj0J2FAAKk6IorVc3x9bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=T_SNxP6pI_kQ7kNvwFXhNxS&_nc_oc=Ado5o23y2rAv-7159slF3GKQpqC5j35hoW7-Fdy-ETH4TXaxIwmx1evZ-BqWwFcVrraGNKA1R5JKBFujpSY8cuTJ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wVRGm9-mT--TEkEdBb6uuQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ3-WMxyCQ3VQJu5245IssBEtRvFAkhlDRVcD7m5nclsg&oe=6B07AEA4",
+        "total_posts": 2029
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 11841927,
+      "valor_atual": 11846199,
+      "hash_anterior": "31acdc9d99583f5f751ae7c80b3821d03bb0c484d234cb4508b7cf2af9f45d39",
+      "hash_atual": "ca2898bd8cb826b0ba721191207050ca1c57510a6ed592589f2d764ba6fdc827",
+      "variacao": 4272,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78276.044559,
+        "texto": "21 horas e 44 minutos e 36 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78276.044559,
+        "texto": "21 horas e 44 minutos e 36 segundos"
+      },
+      "titulo": "Ganhou 4.272 seguidores",
+      "descricao": "Os seguidores passaram de 11.841.927 para 11.846.199",
+      "variacao_texto": "+4.272 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T16:10:59.673087",
@@ -8948,50 +8997,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:56:43.647546",
-    "captura_mais_recente": "2026-11-20T16:10:59.673087",
-    "tempo_total_segundos": 4144456,
-    "tempo_total_dias": 47.968241,
-    "tempo_total_texto": "47 dias, 23 horas, 14 minutos e 16 segundos",
+    "captura_mais_recente": "2026-11-21T13:55:35.717646",
+    "tempo_total_segundos": 4222732,
+    "tempo_total_dias": 48.874213,
+    "tempo_total_texto": "48 dias, 20 horas, 58 minutos e 52 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 113606,
+      "variacao": 6961,
       "direcao": "ganhou",
-      "quantidade": 113606,
-      "texto": "Ganhou 113606 seguidores",
+      "quantidade": 6961,
+      "texto": "Ganhou 6961 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:26:55.590614",
-      "captura_fim": "2026-11-20T16:10:59.673087",
-      "seguidores_inicio": 11728321,
-      "seguidores_fim": 11841927
+      "captura_inicio": "2026-11-20T10:10:13.116135",
+      "captura_fim": "2026-11-21T13:55:35.717646",
+      "seguidores_inicio": 11839238,
+      "seguidores_fim": 11846199
     },
     "7_dias": {
-      "variacao": 113606,
+      "variacao": 117878,
       "direcao": "ganhou",
-      "quantidade": 113606,
-      "texto": "Ganhou 113606 seguidores",
+      "quantidade": 117878,
+      "texto": "Ganhou 117878 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:55.590614",
-      "captura_fim": "2026-11-20T16:10:59.673087",
+      "captura_fim": "2026-11-21T13:55:35.717646",
       "seguidores_inicio": 11728321,
-      "seguidores_fim": 11841927
+      "seguidores_fim": 11846199
     },
     "30_dias": {
-      "variacao": 89862,
+      "variacao": 98262,
       "direcao": "ganhou",
-      "quantidade": 89862,
-      "texto": "Ganhou 89862 seguidores",
+      "quantidade": 98262,
+      "texto": "Ganhou 98262 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:26:24.272200",
-      "captura_fim": "2026-11-20T16:10:59.673087",
-      "seguidores_inicio": 11752065,
-      "seguidores_fim": 11841927
+      "captura_inicio": "2026-10-21T17:45:10.408194",
+      "captura_fim": "2026-11-21T13:55:35.717646",
+      "seguidores_inicio": 11747937,
+      "seguidores_fim": 11846199
     },
     "90_dias": {
       "variacao": null,
@@ -9002,17 +9051,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 107951,
+      "variacao": 112223,
       "direcao": "ganhou",
-      "quantidade": 107951,
-      "texto": "Ganhou 107951 seguidores",
+      "quantidade": 112223,
+      "texto": "Ganhou 112223 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:56:43.647546",
-      "captura_mais_recente": "2026-11-20T16:10:59.673087",
-      "tempo_total_dias": 47.968241,
+      "captura_mais_recente": "2026-11-21T13:55:35.717646",
+      "tempo_total_dias": 48.874214,
       "seguidores_inicio": 11733976,
-      "seguidores_fim": 11841927
+      "seguidores_fim": 11846199
     }
   }
 }

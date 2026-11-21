@@ -8,7 +8,7 @@
       "id": "17841400239082143",
       "username": "atletico",
       "nome": "Clube Atlético Mineiro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/747422439_18609200782007970_3692935846707035444_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GOfCjCyiXioy_BxCADR9RymW8T8zbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_qyBBBRIiZ4Q7kNvwEIFd47&_nc_oc=Adokr24YvEVBg-_4oogw6aBqG51SFP6pk_FPPHMAbb-zKCoZyIdHkp95zypGj18FABW--YHPAffW7DxtEmkosc6U&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oR-MNkM7LyQpLk-CSlL2JA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRk7acDuRmHVn9nyZZMpP-pBwB6xsT7F1KPvkgbtV5KlA&oe=6B067F9C",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/747422439_18609200782007970_3692935846707035444_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GOfCjCyiXioy_BxCADR9RymW8T8zbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_qyBBBRIiZ4Q7kNvwHp2bjN&_nc_oc=Adqy6nslJUcoViXvDfj4JZybmWUfOGwv5oYoOm1SLj3emt1kW1Grly3YpM6aUprguS5mmIip_pSIdXmgQpXbAgw5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SeifWiPgE0QvSnUUOrMDqA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRfNt8dyCnM7kG8-9esnicCrcIDbZDL4viEjAXFr7k2jw&oe=6B0798DC",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3606650,
+        "valor_atual": 3609233,
+        "variacao": 2583,
+        "direcao": "aumento",
+        "descricao": "+2583 seguidores",
+        "timestamp": "2026-11-21T13:47:49.289431",
+        "timestamp_anterior": "2026-11-20T16:03:14.348727",
+        "tempo_desde_anterior_segundos": 78274
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -768,6 +781,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T13:47:49.289431",
+      "timestamp_anterior": "2026-11-20T16:03:14.348727",
+      "timestamp_atual": "2026-11-21T13:47:49.289431",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 777159969,
+        "id": "17841400239082143",
+        "username": "atletico",
+        "nome": "Clube Atlético Mineiro",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/747422439_18609200782007970_3692935846707035444_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GOfCjCyiXioy_BxCADR9RymW8T8zbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_qyBBBRIiZ4Q7kNvwHp2bjN&_nc_oc=Adqy6nslJUcoViXvDfj4JZybmWUfOGwv5oYoOm1SLj3emt1kW1Grly3YpM6aUprguS5mmIip_pSIdXmgQpXbAgw5&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SeifWiPgE0QvSnUUOrMDqA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRfNt8dyCnM7kG8-9esnicCrcIDbZDL4viEjAXFr7k2jw&oe=6B0798DC",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3606650,
+      "valor_atual": 3609233,
+      "hash_anterior": "22a9b6e75dc48fae0083a88aba3bd6532edc0e54ddb1341a58622697911e1988",
+      "hash_atual": "c3edf6bbe034a18165a7dc56b9d004dc2b1085608ee53eaba6c2e61ac630b6f8",
+      "variacao": 2583,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78274.940704,
+        "texto": "21 horas e 44 minutos e 34 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78274.940704,
+        "texto": "21 horas e 44 minutos e 34 segundos"
+      },
+      "titulo": "Ganhou 2.583 seguidores",
+      "descricao": "Os seguidores passaram de 3.606.650 para 3.609.233",
+      "variacao_texto": "+2.583 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T16:03:14.348727",
@@ -2464,50 +2513,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:09.538460",
-    "captura_mais_recente": "2026-11-20T16:03:14.348727",
-    "tempo_total_segundos": 3867604,
-    "tempo_total_dias": 44.763935,
-    "tempo_total_texto": "44 dias, 18 horas, 20 minutos e 4 segundos",
+    "captura_mais_recente": "2026-11-21T13:47:49.289431",
+    "tempo_total_segundos": 3945879,
+    "tempo_total_dias": 45.669896,
+    "tempo_total_texto": "45 dias, 16 horas, 4 minutos e 39 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 5471,
+      "variacao": 3137,
       "direcao": "ganhou",
-      "quantidade": 5471,
-      "texto": "Ganhou 5471 seguidores",
+      "quantidade": 3137,
+      "texto": "Ganhou 3137 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:26:20.469286",
-      "captura_fim": "2026-11-20T16:03:14.348727",
-      "seguidores_inicio": 3601179,
-      "seguidores_fim": 3606650
+      "captura_inicio": "2026-11-20T10:02:27.076452",
+      "captura_fim": "2026-11-21T13:47:49.289431",
+      "seguidores_inicio": 3606096,
+      "seguidores_fim": 3609233
     },
     "7_dias": {
-      "variacao": 5471,
+      "variacao": 8054,
       "direcao": "ganhou",
-      "quantidade": 5471,
-      "texto": "Ganhou 5471 seguidores",
+      "quantidade": 8054,
+      "texto": "Ganhou 8054 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:20.469286",
-      "captura_fim": "2026-11-20T16:03:14.348727",
+      "captura_fim": "2026-11-21T13:47:49.289431",
       "seguidores_inicio": 3601179,
-      "seguidores_fim": 3606650
+      "seguidores_fim": 3609233
     },
     "30_dias": {
-      "variacao": 12314,
+      "variacao": 13340,
       "direcao": "ganhou",
-      "quantidade": 12314,
-      "texto": "Ganhou 12314 seguidores",
+      "quantidade": 13340,
+      "texto": "Ganhou 13340 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:28:17.443601",
-      "captura_fim": "2026-11-20T16:03:14.348727",
-      "seguidores_inicio": 3594336,
-      "seguidores_fim": 3606650
+      "captura_inicio": "2026-10-21T17:47:28.884481",
+      "captura_fim": "2026-11-21T13:47:49.289431",
+      "seguidores_inicio": 3595893,
+      "seguidores_fim": 3609233
     },
     "90_dias": {
       "variacao": null,
@@ -2518,17 +2567,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 17574,
+      "variacao": 20157,
       "direcao": "ganhou",
-      "quantidade": 17574,
-      "texto": "Ganhou 17574 seguidores",
+      "quantidade": 20157,
+      "texto": "Ganhou 20157 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:09.538460",
-      "captura_mais_recente": "2026-11-20T16:03:14.348727",
-      "tempo_total_dias": 44.763945,
+      "captura_mais_recente": "2026-11-21T13:47:49.289431",
+      "tempo_total_dias": 45.669905,
       "seguidores_inicio": 3589076,
-      "seguidores_fim": 3606650
+      "seguidores_fim": 3609233
     }
   }
 }

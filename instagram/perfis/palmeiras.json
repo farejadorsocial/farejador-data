@@ -8,7 +8,7 @@
       "id": "17841400343534508",
       "username": "palmeiras",
       "nome": "SE Palmeiras",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GLOOFh885J9E58RBAPf4KKVgjcJLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=fUpQYfbPPpwQ7kNvwHZ3cjy&_nc_oc=Adq01KEeFjAVZkmHlT2gFh3TQnSnaSjZGHTCERGpGXNJIkC-oD75-ENfPTlEhJkGNiWf_mTWiM7lxg73rS2uVaUX&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=eGDlO8DE5QQDueHSQynDUw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQkCDwxeVb1ekhWHkcqvpvyySr_ij3BLsqYgmG2a4ARDQ&oe=6B067CF8",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GLOOFh885J9E58RBAPf4KKVgjcJLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=fUpQYfbPPpwQ7kNvwE4GwUH&_nc_oc=Ado3Bemu0vHYGq7v-I4Uzz0gZH3SuSs-2bbae8mF55B9kGmnSY-nNQVCD-gX0cUAd-3zliOYKd_IxZxCApSIum50&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zhb-2a2kTiAwF-uG4S4rMQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTeWJ1ayI_3fVXaC8_Ea4b__ffWOtDxiM7lU5hIQb_XFw&oe=6B079638",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 7764603,
+        "valor_atual": 7765255,
+        "variacao": 652,
+        "direcao": "aumento",
+        "descricao": "+652 seguidores",
+        "timestamp": "2026-11-21T13:26:34.539846",
+        "timestamp_anterior": "2026-11-20T15:40:57.340526",
+        "tempo_desde_anterior_segundos": 78337
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -872,6 +885,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T13:26:34.539846",
+      "timestamp_anterior": "2026-11-20T15:40:57.340526",
+      "timestamp_atual": "2026-11-21T13:26:34.539846",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 288523451,
+        "id": "17841400343534508",
+        "username": "palmeiras",
+        "nome": "SE Palmeiras",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/521572019_18512371054011452_5459081144553765111_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GLOOFh885J9E58RBAPf4KKVgjcJLbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=fUpQYfbPPpwQ7kNvwE4GwUH&_nc_oc=Ado3Bemu0vHYGq7v-I4Uzz0gZH3SuSs-2bbae8mF55B9kGmnSY-nNQVCD-gX0cUAd-3zliOYKd_IxZxCApSIum50&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zhb-2a2kTiAwF-uG4S4rMQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTeWJ1ayI_3fVXaC8_Ea4b__ffWOtDxiM7lU5hIQb_XFw&oe=6B079638",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 7764603,
+      "valor_atual": 7765255,
+      "hash_anterior": "70b771864bc35adfce577c1674c3acc5c74d007310b7c38489c3ad0f99a0f0a6",
+      "hash_atual": "ec7c07d355131cc7a15a8e6266fcaf67a30107bf61549198fea672e98ce77d4a",
+      "variacao": 652,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78337.19932,
+        "texto": "21 horas e 45 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78337.19932,
+        "texto": "21 horas e 45 minutos e 37 segundos"
+      },
+      "titulo": "Ganhou 652 seguidores",
+      "descricao": "Os seguidores passaram de 7.764.603 para 7.765.255",
+      "variacao_texto": "+652 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T15:40:57.340526",
@@ -2856,50 +2905,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:41:53.359186",
-    "captura_mais_recente": "2026-11-20T15:40:57.340526",
-    "tempo_total_segundos": 3866343,
-    "tempo_total_dias": 44.74934,
-    "tempo_total_texto": "44 dias, 17 horas, 59 minutos e 3 segundos",
+    "captura_mais_recente": "2026-11-21T13:26:34.539846",
+    "tempo_total_segundos": 3944681,
+    "tempo_total_dias": 45.65603,
+    "tempo_total_texto": "45 dias, 15 horas, 44 minutos e 41 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 22696,
+      "variacao": 472,
       "direcao": "ganhou",
-      "quantidade": 22696,
-      "texto": "Ganhou 22696 seguidores",
+      "quantidade": 472,
+      "texto": "Ganhou 472 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:25:24.272305",
-      "captura_fim": "2026-11-20T15:40:57.340526",
-      "seguidores_inicio": 7741907,
-      "seguidores_fim": 7764603
+      "captura_inicio": "2026-11-20T09:40:55.401221",
+      "captura_fim": "2026-11-21T13:26:34.539846",
+      "seguidores_inicio": 7764783,
+      "seguidores_fim": 7765255
     },
     "7_dias": {
-      "variacao": 22696,
+      "variacao": 23348,
       "direcao": "ganhou",
-      "quantidade": 22696,
-      "texto": "Ganhou 22696 seguidores",
+      "quantidade": 23348,
+      "texto": "Ganhou 23348 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:24.272305",
-      "captura_fim": "2026-11-20T15:40:57.340526",
+      "captura_fim": "2026-11-21T13:26:34.539846",
       "seguidores_inicio": 7741907,
-      "seguidores_fim": 7764603
+      "seguidores_fim": 7765255
     },
     "30_dias": {
-      "variacao": 55219,
+      "variacao": 52523,
       "direcao": "ganhou",
-      "quantidade": 55219,
-      "texto": "Ganhou 55219 seguidores",
+      "quantidade": 52523,
+      "texto": "Ganhou 52523 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:27:21.985512",
-      "captura_fim": "2026-11-20T15:40:57.340526",
-      "seguidores_inicio": 7709384,
-      "seguidores_fim": 7764603
+      "captura_inicio": "2026-10-21T17:46:32.497245",
+      "captura_fim": "2026-11-21T13:26:34.539846",
+      "seguidores_inicio": 7712732,
+      "seguidores_fim": 7765255
     },
     "90_dias": {
       "variacao": null,
@@ -2910,17 +2959,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 81388,
+      "variacao": 82040,
       "direcao": "ganhou",
-      "quantidade": 81388,
-      "texto": "Ganhou 81388 seguidores",
+      "quantidade": 82040,
+      "texto": "Ganhou 82040 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:41:53.359186",
-      "captura_mais_recente": "2026-11-20T15:40:57.340526",
-      "tempo_total_dias": 44.749352,
+      "captura_mais_recente": "2026-11-21T13:26:34.539846",
+      "tempo_total_dias": 45.656032,
       "seguidores_inicio": 7683215,
-      "seguidores_fim": 7764603
+      "seguidores_fim": 7765255
     }
   }
 }

@@ -8,7 +8,7 @@
       "id": "17841401284379210",
       "username": "cauareymond",
       "nome": "Cauã Reymond",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFtjNCf9UypbywpCAArZqnhCHTcIbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Kuqy4P2Evx4Q7kNvwEXlUb8&_nc_oc=AdpVpQWxHTsYQzTQtrJsl2rX9PUQNyyOV_8Jx9jHQ9ZSeXLd-ekptf-fhgolNFC60O-7t-kXDjwH9pf-iUb-Mwqf&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=UeDaxoYFlSEd3eQ7xEWCKA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSZY_8f_XFNuJ83ncBfbg47qATV7KhReiUfM5NZ8jjzug&oe=6B066BB0",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFtjNCf9UypbywpCAArZqnhCHTcIbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Kuqy4P2Evx4Q7kNvwG0sFkh&_nc_oc=AdoIFqSKslCGl8Aw2NLrTAIhigSvfVeBm5X2u5rdma2Sr8eRYL33zJn8C1qvcww0B9q4PFBiUFaf3JWBK92F9MbL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xbcbimgZc7Cigry1gxtGqg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQvK5-qNDI5bq7iTAytwINoEW3b4MqLae5PrTZTC5e5aw&oe=6B0784F0",
       "total_posts": 4412
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 14636725,
+        "valor_atual": 14635903,
+        "variacao": -822,
+        "direcao": "reducao",
+        "descricao": "-822 seguidores",
+        "timestamp": "2026-11-21T12:28:44.368367",
+        "timestamp_anterior": "2026-11-20T15:25:58.803768",
+        "tempo_desde_anterior_segundos": 75765
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1561,6 +1574,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T12:28:44.368367",
+      "timestamp_anterior": "2026-11-20T15:25:58.803768",
+      "timestamp_atual": "2026-11-21T12:28:44.368367",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 1229482812,
+        "id": "17841401284379210",
+        "username": "cauareymond",
+        "nome": "Cauã Reymond",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/657744731_18589216987042813_591974047352019210_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFtjNCf9UypbywpCAArZqnhCHTcIbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Kuqy4P2Evx4Q7kNvwG0sFkh&_nc_oc=AdoIFqSKslCGl8Aw2NLrTAIhigSvfVeBm5X2u5rdma2Sr8eRYL33zJn8C1qvcww0B9q4PFBiUFaf3JWBK92F9MbL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=xbcbimgZc7Cigry1gxtGqg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQvK5-qNDI5bq7iTAytwINoEW3b4MqLae5PrTZTC5e5aw&oe=6B0784F0",
+        "total_posts": 4412
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 14636725,
+      "valor_atual": 14635903,
+      "hash_anterior": "42e3a88f82d2915d4ea1d570715a4a5bcfe2e901eb89ad228f76514bcea0f760",
+      "hash_atual": "17717e8a87f93d76f730a953d99cb551323925e2d28ea825397fcb2cf61fc04f",
+      "variacao": -822,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 75765.564599,
+        "texto": "21 horas e 2 minutos e 45 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 75765.564599,
+        "texto": "21 horas e 2 minutos e 45 segundos"
+      },
+      "titulo": "Perdeu 822 seguidores",
+      "descricao": "Os seguidores caíram de 14.636.725 para 14.635.903",
+      "variacao_texto": "-822 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T15:25:58.803768",
@@ -5453,50 +5502,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:35.305618",
-    "captura_mais_recente": "2026-11-20T15:25:58.803768",
-    "tempo_total_segundos": 3955463,
-    "tempo_total_dias": 45.780822,
-    "tempo_total_texto": "45 dias, 18 horas, 44 minutos e 23 segundos",
+    "captura_mais_recente": "2026-11-21T12:28:44.368367",
+    "tempo_total_segundos": 4031229,
+    "tempo_total_dias": 46.657743,
+    "tempo_total_texto": "46 dias, 15 horas, 47 minutos e 9 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -9456,
+      "variacao": -1421,
       "direcao": "perdeu",
-      "quantidade": 9456,
-      "texto": "Perdeu 9456 seguidores",
+      "quantidade": 1421,
+      "texto": "Perdeu 1421 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:26:56.133312",
-      "captura_fim": "2026-11-20T15:25:58.803768",
-      "seguidores_inicio": 14646181,
-      "seguidores_fim": 14636725
+      "captura_inicio": "2026-11-20T09:25:53.304133",
+      "captura_fim": "2026-11-21T12:28:44.368367",
+      "seguidores_inicio": 14637324,
+      "seguidores_fim": 14635903
     },
     "7_dias": {
-      "variacao": -9456,
+      "variacao": -10278,
       "direcao": "perdeu",
-      "quantidade": 9456,
-      "texto": "Perdeu 9456 seguidores",
+      "quantidade": 10278,
+      "texto": "Perdeu 10278 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:56.133312",
-      "captura_fim": "2026-11-20T15:25:58.803768",
+      "captura_fim": "2026-11-21T12:28:44.368367",
       "seguidores_inicio": 14646181,
-      "seguidores_fim": 14636725
+      "seguidores_fim": 14635903
     },
     "30_dias": {
-      "variacao": -40332,
+      "variacao": -36933,
       "direcao": "perdeu",
-      "quantidade": 40332,
-      "texto": "Perdeu 40332 seguidores",
+      "quantidade": 36933,
+      "texto": "Perdeu 36933 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-16T23:26:52.803733",
-      "captura_fim": "2026-11-20T15:25:58.803768",
-      "seguidores_inicio": 14677057,
-      "seguidores_fim": 14636725
+      "captura_inicio": "2026-10-21T17:46:43.859463",
+      "captura_fim": "2026-11-21T12:28:44.368367",
+      "seguidores_inicio": 14672836,
+      "seguidores_fim": 14635903
     },
     "90_dias": {
       "variacao": null,
@@ -5507,17 +5556,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -32925,
+      "variacao": -33747,
       "direcao": "perdeu",
-      "quantidade": 32925,
-      "texto": "Perdeu 32925 seguidores",
+      "quantidade": 33747,
+      "texto": "Perdeu 33747 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:35.305618",
-      "captura_mais_recente": "2026-11-20T15:25:58.803768",
-      "tempo_total_dias": 45.780828,
+      "captura_mais_recente": "2026-11-21T12:28:44.368367",
+      "tempo_total_dias": 46.657744,
       "seguidores_inicio": 14669650,
-      "seguidores_fim": 14636725
+      "seguidores_fim": 14635903
     }
   }
 }
