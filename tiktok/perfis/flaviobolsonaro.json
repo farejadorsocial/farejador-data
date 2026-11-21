@@ -9,12 +9,12 @@
       "username": "flaviobolsonaro",
       "nome": "Flávio Bolsonaro",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=28d854a1&x-expires=1795312800&x-signature=ZOppNkQWEsssqTJ2ksvmZyf1UvM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=283e06ca&x-expires=1795312800&x-signature=zpAcYUqP%2Bjmm%2Fz2ysTUUTAn2yqE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
+        "larger": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=96920fb8&x-expires=1795370400&x-signature=bVIJ3g0C709VHQoBSuzvsxHs7QY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+        "medium": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=8004ef5b&x-expires=1795370400&x-signature=CNEpBrGeViHovRxLiCleaSlZPDE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
         "thumb": ""
       },
       "conta_criada_em": "2021-06-05T15:53:53.000-03:00",
-      "total_likes": 38400000,
+      "total_likes": 38500000,
       "total_amigos": 0,
       "total_posts": 1724
     },
@@ -211,6 +211,19 @@
         "plataforma": "tiktok",
         "campo": "total_likes",
         "nome": "Curtidas totais",
+        "valor_anterior": 38400000,
+        "valor_atual": 38500000,
+        "variacao": 100000,
+        "direcao": "aumento",
+        "descricao": "+100000 curtidas",
+        "timestamp": "2026-11-20T15:29:02.779397",
+        "timestamp_anterior": "2026-11-19T17:20:56.427233",
+        "tempo_desde_anterior_segundos": 79686
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "total_likes",
+        "nome": "Curtidas totais",
         "valor_anterior": 36000000,
         "valor_atual": 38400000,
         "variacao": 2400000,
@@ -323,6 +336,49 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-20T15:29:02.779397",
+      "timestamp_anterior": "2026-11-19T23:23:41.692213",
+      "timestamp_atual": "2026-11-20T15:29:02.779397",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "6970384707892544517",
+        "sec_uid": "MS4wLjABAAAA39j0dwN0SG4yuYi8DODblwnBx0B4qvEHjoi0Vqqdo-VfQ8ghCWfxpsr1f2nJsOa3",
+        "username": "flaviobolsonaro",
+        "nome": "Flávio Bolsonaro",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=96920fb8&x-expires=1795370400&x-signature=bVIJ3g0C709VHQoBSuzvsxHs7QY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+          "medium": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=8004ef5b&x-expires=1795370400&x-signature=CNEpBrGeViHovRxLiCleaSlZPDE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+          "thumb": ""
+        },
+        "conta_criada_em": "2021-06-05T15:53:53.000-03:00",
+        "total_likes": 38500000,
+        "total_amigos": 0,
+        "total_posts": 1724
+      },
+      "tipo": "total_likes",
+      "campo": "total_likes",
+      "nome_campo": "Curtidas totais",
+      "valor_anterior": 38400000,
+      "valor_atual": 38500000,
+      "hash_anterior": "7ab7dc5820712bae0477d791cacf91c18f0b022fd3f0dc8b627672afe9aa81fe",
+      "hash_atual": "af344843cd183364967a741a7f302f49b72279c8a29c478cbd1e204c77fa0271",
+      "variacao": 100000,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 57921.087184,
+        "texto": "16 horas e 5 minutos e 21 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 57921.087184,
+        "texto": "16 horas e 5 minutos e 21 segundos"
+      },
+      "titulo": "Recebeu 100.000 curtidas",
+      "descricao": "O total mudou de 38.400.000 para 38.500.000",
+      "variacao_texto": "+100.000 curtidas"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-11-19T23:23:41.692213",
@@ -628,10 +684,10 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T16:26:13.302579",
-    "captura_mais_recente": "2026-11-19T23:23:41.692213",
-    "tempo_total_segundos": 2962648,
-    "tempo_total_dias": 34.289907,
-    "tempo_total_texto": "34 dias, 6 horas, 57 minutos e 28 segundos",
+    "captura_mais_recente": "2026-11-20T15:29:02.779397",
+    "tempo_total_segundos": 3020569,
+    "tempo_total_dias": 34.960289,
+    "tempo_total_texto": "34 dias, 23 horas, 2 minutos e 49 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true

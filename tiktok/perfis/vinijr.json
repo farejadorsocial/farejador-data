@@ -9,8 +9,8 @@
       "username": "vinijr",
       "nome": "Vini Jr.",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=07dda07b&x-expires=1795298400&x-signature=ekKb2becbVaDPmYlb650SH6LpKg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=ece987b9&x-expires=1795298400&x-signature=L9f4IxfzaYj5sg0Rn4RifNdpqdw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "larger": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f2c3aba6&x-expires=1795449600&x-signature=7HjCQ5pMI7DatNku46uuuchMd5s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+        "medium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ce77b3d1&x-expires=1795449600&x-signature=kUumqmxIoI2tE66U0IiCEqPew9s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
         "thumb": ""
       },
       "conta_criada_em": "2020-03-18T13:45:10.000-03:00",
@@ -155,6 +155,32 @@
         "plataforma": "tiktok",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 96,
+        "valor_atual": 97,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-11-21T13:21:42.577833",
+        "timestamp_anterior": "2026-11-20T15:33:20.205730",
+        "tempo_desde_anterior_segundos": 78502
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 95,
+        "valor_atual": 96,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-11-20T15:33:20.205730",
+        "timestamp_anterior": "2026-11-19T19:46:21.935500",
+        "tempo_desde_anterior_segundos": 71218
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 95,
         "timestamp": "2026-11-19T19:46:21.935500",
         "tipo": "inicial"
@@ -231,14 +257,101 @@
       }
     ]
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-21T13:21:42.577833",
+      "timestamp_anterior": "2026-11-20T15:33:20.205730",
+      "timestamp_atual": "2026-11-21T13:21:42.577833",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "atleta - ativo",
+        "id": "6805706310416925702",
+        "sec_uid": "MS4wLjABAAAA1UWBntm1n1BFYlyVP4D7ddbfy_7I2sFo9X67s347pignH3dPyJcn7XFzEsmi4l0Z",
+        "username": "vinijr",
+        "nome": "Vini Jr.",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f2c3aba6&x-expires=1795449600&x-signature=7HjCQ5pMI7DatNku46uuuchMd5s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "medium": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ce77b3d1&x-expires=1795449600&x-signature=kUumqmxIoI2tE66U0IiCEqPew9s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3",
+          "thumb": ""
+        },
+        "conta_criada_em": "2020-03-18T13:45:10.000-03:00",
+        "total_likes": 230900000,
+        "total_amigos": 0,
+        "total_posts": 122
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 96,
+      "valor_atual": 97,
+      "hash_anterior": "051a40547373fa72f4e9a6ef95d75cc7a032455d5010138af6e8483bf68b570d",
+      "hash_atual": "1fda7a3977b5f8e7cbe2a0c03b1cf7da18a807912c5c3b33ec2cb616cd55d31c",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 78502.372103,
+        "texto": "21 horas e 48 minutos e 22 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 78502.372103,
+        "texto": "21 horas e 48 minutos e 22 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 96 e passou a seguir 97",
+      "variacao_texto": "+1 seguindo"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-20T15:33:20.205730",
+      "timestamp_anterior": "2026-11-19T19:46:21.935500",
+      "timestamp_atual": "2026-11-20T15:33:20.205730",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "atleta - ativo",
+        "id": "6805706310416925702",
+        "sec_uid": "MS4wLjABAAAA1UWBntm1n1BFYlyVP4D7ddbfy_7I2sFo9X67s347pignH3dPyJcn7XFzEsmi4l0Z",
+        "username": "vinijr",
+        "nome": "Vini Jr.",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=55504cf0&x-expires=1795370400&x-signature=sOhFUrHayBhY2DyzSb71ijUqa4Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7311387396933681157~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=91f5209b&x-expires=1795370400&x-signature=JAivwJNubh53xKNmYg3j%2Bus3WCQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2020-03-18T13:45:10.000-03:00",
+        "total_likes": 230900000,
+        "total_amigos": 0,
+        "total_posts": 122
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 95,
+      "valor_atual": 96,
+      "hash_anterior": "3597db6b177a7aa98e7e18280c98f8a9c84b654b75a8ae0bde5be6acb1181fc9",
+      "hash_atual": "051a40547373fa72f4e9a6ef95d75cc7a032455d5010138af6e8483bf68b570d",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 71218.27023,
+        "texto": "19 horas e 46 minutos e 58 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": null,
+        "texto": null
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 95 e passou a seguir 96",
+      "variacao_texto": "+1 seguindo"
+    }
+  ],
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-11-19T19:46:21.935500",
-    "captura_mais_recente": "2026-11-19T19:46:21.935500",
-    "tempo_total_segundos": 0,
-    "tempo_total_dias": 0.0,
-    "tempo_total_texto": "0 segundos",
+    "captura_mais_recente": "2026-11-21T13:21:42.577833",
+    "tempo_total_segundos": 149720,
+    "tempo_total_dias": 1.73287,
+    "tempo_total_texto": "1 dia, 17 horas, 35 minutos e 20 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
