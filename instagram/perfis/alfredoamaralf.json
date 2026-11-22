@@ -8,7 +8,7 @@
       "id": "17841400897307818",
       "username": "alfredoamaralf",
       "nome": "Alfredo Amaral | A Fazenda 18 🐎",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/914585062_18654177520029911_5426536581943029501_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GOZ1gzbXkKgo4EVCAP1uYC9F7k5LbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=B7ZUEEGo2PQQ7kNvwFQV5xR&_nc_oc=AdpOmqsSRNRg8kPIaKc9v4WQTfB7KKxDGY-C3aJf_6zHSR1OjhR-a_XH5cHtqLEarYlWXpVb77mMJmdRLc6Dvzjq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wr64apJ26a_BX4A7t5R_RQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQDoZ3jqkX4BIhvwoKYSrvYXaupjpPpUf76em0YE6v9Bw&oe=6B082337",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/914585062_18654177520029911_5426536581943029501_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GOZ1gzbXkKgo4EVCAP1uYC9F7k5LbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=B7ZUEEGo2PQQ7kNvwFQV5xR&_nc_oc=AdpOmqsSRNRg8kPIaKc9v4WQTfB7KKxDGY-C3aJf_6zHSR1OjhR-a_XH5cHtqLEarYlWXpVb77mMJmdRLc6Dvzjq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pn3KeVV36CCzKQv7cbMB6w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_uDqJL8P6hwaoZXuGAUpOgvjeej_cBrxkk6kVzAqoQA&oe=6B08CBF7",
       "total_posts": 254
     },
     "biografia": [
@@ -126,6 +126,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 193329,
+        "valor_atual": 193513,
+        "variacao": 184,
+        "direcao": "aumento",
+        "descricao": "+184 seguidores",
+        "timestamp": "2026-11-22T11:31:11.299217",
+        "timestamp_anterior": "2026-11-21T23:13:29.169120",
+        "tempo_desde_anterior_segundos": 44262
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1442,6 +1455,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:31:11.299217",
+      "timestamp_anterior": "2026-11-21T23:13:29.169120",
+      "timestamp_atual": "2026-11-22T11:31:11.299217",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 500381910,
+        "id": "17841400897307818",
+        "username": "alfredoamaralf",
+        "nome": "Alfredo Amaral | A Fazenda 18 🐎",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/914585062_18654177520029911_5426536581943029501_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GOZ1gzbXkKgo4EVCAP1uYC9F7k5LbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=B7ZUEEGo2PQQ7kNvwFQV5xR&_nc_oc=AdpOmqsSRNRg8kPIaKc9v4WQTfB7KKxDGY-C3aJf_6zHSR1OjhR-a_XH5cHtqLEarYlWXpVb77mMJmdRLc6Dvzjq&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pn3KeVV36CCzKQv7cbMB6w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_uDqJL8P6hwaoZXuGAUpOgvjeej_cBrxkk6kVzAqoQA&oe=6B08CBF7",
+        "total_posts": 254
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 193329,
+      "valor_atual": 193513,
+      "hash_anterior": "80f11887555cff6fb40f5db5e8ad9cde909c11469f1b4d500f1ed9495e388c50",
+      "hash_atual": "cdf32a0027d482811a19f93ca205f7f940d55b47cdf526a1e98824c2d0becf88",
+      "variacao": 184,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44262.130097,
+        "texto": "12 horas e 17 minutos e 42 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44262.130097,
+        "texto": "12 horas e 17 minutos e 42 segundos"
+      },
+      "titulo": "Ganhou 184 seguidores",
+      "descricao": "Os seguidores passaram de 193.329 para 193.513",
+      "variacao_texto": "+184 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:13:29.169120",
@@ -4982,50 +5031,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:56:09.801327",
-    "captura_mais_recente": "2026-11-21T23:13:29.169120",
-    "tempo_total_segundos": 4166239,
-    "tempo_total_dias": 48.220359,
-    "tempo_total_texto": "48 dias, 5 horas, 17 minutos e 19 segundos",
+    "captura_mais_recente": "2026-11-22T11:31:11.299217",
+    "tempo_total_segundos": 4210501,
+    "tempo_total_dias": 48.73265,
+    "tempo_total_texto": "48 dias, 17 horas, 35 minutos e 1 segundo",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 1399,
+      "variacao": 1583,
       "direcao": "ganhou",
-      "quantidade": 1399,
-      "texto": "Ganhou 1399 seguidores",
+      "quantidade": 1583,
+      "texto": "Ganhou 1583 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:43:43.005347",
-      "captura_fim": "2026-11-21T23:13:29.169120",
+      "captura_fim": "2026-11-22T11:31:11.299217",
       "seguidores_inicio": 191930,
-      "seguidores_fim": 193329
+      "seguidores_fim": 193513
     },
     "7_dias": {
-      "variacao": 30466,
+      "variacao": 30650,
       "direcao": "ganhou",
-      "quantidade": 30466,
-      "texto": "Ganhou 30466 seguidores",
+      "quantidade": 30650,
+      "texto": "Ganhou 30650 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:27.751954",
-      "captura_fim": "2026-11-21T23:13:29.169120",
+      "captura_fim": "2026-11-22T11:31:11.299217",
       "seguidores_inicio": 162863,
-      "seguidores_fim": 193329
+      "seguidores_fim": 193513
     },
     "30_dias": {
-      "variacao": 42469,
+      "variacao": 41575,
       "direcao": "ganhou",
-      "quantidade": 42469,
-      "texto": "Ganhou 42469 seguidores",
+      "quantidade": 41575,
+      "texto": "Ganhou 41575 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-22T19:37:37.585929",
-      "captura_fim": "2026-11-21T23:13:29.169120",
-      "seguidores_inicio": 150860,
-      "seguidores_fim": 193329
+      "captura_inicio": "2026-10-23T10:33:16.222378",
+      "captura_fim": "2026-11-22T11:31:11.299217",
+      "seguidores_inicio": 151938,
+      "seguidores_fim": 193513
     },
     "90_dias": {
       "variacao": null,
@@ -5036,17 +5085,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 71662,
+      "variacao": 71846,
       "direcao": "ganhou",
-      "quantidade": 71662,
-      "texto": "Ganhou 71662 seguidores",
+      "quantidade": 71846,
+      "texto": "Ganhou 71846 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:56:09.801327",
-      "captura_mais_recente": "2026-11-21T23:13:29.169120",
-      "tempo_total_dias": 48.220363,
+      "captura_mais_recente": "2026-11-22T11:31:11.299217",
+      "tempo_total_dias": 48.732656,
       "seguidores_inicio": 121667,
-      "seguidores_fim": 193329
+      "seguidores_fim": 193513
     }
   }
 }

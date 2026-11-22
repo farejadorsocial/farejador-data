@@ -8,7 +8,7 @@
       "id": "17841401525574022",
       "username": "eduardabraum",
       "nome": "Eduarda Braum",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811437654_18626338450050853_22210035617224563_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GFaOXTAlD8hejixCAHPXaePo504AbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oXlSiXxFEZYQ7kNvwHWOfLy&_nc_oc=Adqng9_rVp1HbCnSjNvbc6QsxkfC3rfY5uvUO9MuhaQVft6EjowyRSgYS9juK9eSDGe-4Qa6IN6Wy3Wdc8IErPDH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=HmofPjO8eUafAKI2PxoCUA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTZS3q1fBOAwfmY_Ty-T42jMMNesW4n5CA75OpnWL730w&oe=6B082863",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811437654_18626338450050853_22210035617224563_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GFaOXTAlD8hejixCAHPXaePo504AbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oXlSiXxFEZYQ7kNvwHWOfLy&_nc_oc=Adqng9_rVp1HbCnSjNvbc6QsxkfC3rfY5uvUO9MuhaQVft6EjowyRSgYS9juK9eSDGe-4Qa6IN6Wy3Wdc8IErPDH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4y2aN9-1oWNKWLbmxWMX_w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRpiGoDyYsWJJ5z17WpWYeMgAUiHLH-XSWeWzsj760LJQ&oe=6B08D123",
       "total_posts": 747
     },
     "biografia": [
@@ -195,6 +195,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 173817,
+        "valor_atual": 173910,
+        "variacao": 93,
+        "direcao": "aumento",
+        "descricao": "+93 seguidores",
+        "timestamp": "2026-11-22T11:26:31.621460",
+        "timestamp_anterior": "2026-11-21T23:08:48.246668",
+        "tempo_desde_anterior_segundos": 44263
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1355,6 +1368,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:26:31.621460",
+      "timestamp_anterior": "2026-11-21T23:08:48.246668",
+      "timestamp_atual": "2026-11-22T11:26:31.621460",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 897458852,
+        "id": "17841401525574022",
+        "username": "eduardabraum",
+        "nome": "Eduarda Braum",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/811437654_18626338450050853_22210035617224563_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GFaOXTAlD8hejixCAHPXaePo504AbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oXlSiXxFEZYQ7kNvwHWOfLy&_nc_oc=Adqng9_rVp1HbCnSjNvbc6QsxkfC3rfY5uvUO9MuhaQVft6EjowyRSgYS9juK9eSDGe-4Qa6IN6Wy3Wdc8IErPDH&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=4y2aN9-1oWNKWLbmxWMX_w&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRpiGoDyYsWJJ5z17WpWYeMgAUiHLH-XSWeWzsj760LJQ&oe=6B08D123",
+        "total_posts": 747
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 173817,
+      "valor_atual": 173910,
+      "hash_anterior": "cdc829fd031a6e1a7e7449f2bd4e5016588a771198f96c52eb104071c316217d",
+      "hash_atual": "4517108e6b4c6249af9df47cb59ced25cf64c08bf77f1a907fd7736c682ca442",
+      "variacao": 93,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44263.374792,
+        "texto": "12 horas e 17 minutos e 43 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44263.374792,
+        "texto": "12 horas e 17 minutos e 43 segundos"
+      },
+      "titulo": "Ganhou 93 seguidores",
+      "descricao": "Os seguidores passaram de 173.817 para 173.910",
+      "variacao_texto": "+93 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:08:48.246668",
@@ -4573,50 +4622,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:41.599072",
-    "captura_mais_recente": "2026-11-21T23:08:48.246668",
-    "tempo_total_segundos": 4165866,
-    "tempo_total_dias": 48.216042,
-    "tempo_total_texto": "48 dias, 5 horas, 11 minutos e 6 segundos",
+    "captura_mais_recente": "2026-11-22T11:26:31.621460",
+    "tempo_total_segundos": 4210130,
+    "tempo_total_dias": 48.728356,
+    "tempo_total_texto": "48 dias, 17 horas, 28 minutos e 50 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 1000,
+      "variacao": 1093,
       "direcao": "ganhou",
-      "quantidade": 1000,
-      "texto": "Ganhou 1000 seguidores",
+      "quantidade": 1093,
+      "texto": "Ganhou 1093 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:38:22.334870",
-      "captura_fim": "2026-11-21T23:08:48.246668",
+      "captura_fim": "2026-11-22T11:26:31.621460",
       "seguidores_inicio": 172817,
-      "seguidores_fim": 173817
+      "seguidores_fim": 173910
     },
     "7_dias": {
-      "variacao": 10189,
+      "variacao": 10282,
       "direcao": "ganhou",
-      "quantidade": 10189,
-      "texto": "Ganhou 10189 seguidores",
+      "quantidade": 10282,
+      "texto": "Ganhou 10282 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:37.941730",
-      "captura_fim": "2026-11-21T23:08:48.246668",
+      "captura_fim": "2026-11-22T11:26:31.621460",
       "seguidores_inicio": 163628,
-      "seguidores_fim": 173817
+      "seguidores_fim": 173910
     },
     "30_dias": {
-      "variacao": 14871,
+      "variacao": 14515,
       "direcao": "ganhou",
-      "quantidade": 14871,
-      "texto": "Ganhou 14871 seguidores",
+      "quantidade": 14515,
+      "texto": "Ganhou 14515 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-22T19:38:47.371989",
-      "captura_fim": "2026-11-21T23:08:48.246668",
-      "seguidores_inicio": 158946,
-      "seguidores_fim": 173817
+      "captura_inicio": "2026-10-23T10:34:26.361023",
+      "captura_fim": "2026-11-22T11:26:31.621460",
+      "seguidores_inicio": 159395,
+      "seguidores_fim": 173910
     },
     "90_dias": {
       "variacao": null,
@@ -4627,17 +4676,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 30185,
+      "variacao": 30278,
       "direcao": "ganhou",
-      "quantidade": 30185,
-      "texto": "Ganhou 30185 seguidores",
+      "quantidade": 30278,
+      "texto": "Ganhou 30278 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:41.599072",
-      "captura_mais_recente": "2026-11-21T23:08:48.246668",
-      "tempo_total_dias": 48.216049,
+      "captura_mais_recente": "2026-11-22T11:26:31.621460",
+      "tempo_total_dias": 48.728357,
       "seguidores_inicio": 143632,
-      "seguidores_fim": 173817
+      "seguidores_fim": 173910
     }
   }
 }

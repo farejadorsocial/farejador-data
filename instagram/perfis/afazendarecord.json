@@ -8,7 +8,7 @@
       "id": "17841408190472145",
       "username": "afazendarecord",
       "nome": "A Fazenda",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDRvES64QMZ8mSFBAP3pVU4do915bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fG-pQmjaTQ4Q7kNvwEXQm9X&_nc_oc=AdoOltT3cp088VxJW1DTTL3Nl-59xv5A3Ls3-be3fpqPtsDLoiwCYBGrrh2CTVPXlAXUwuDTNYG9QB_SvdqwU8HL&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=v3KYzpXLjqWg6tvocNGduA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSaONgQd_GxMSy79E6nnPqqLHIYDh1yy9WySYLFdopfXg&oe=6B081A0B",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDRvES64QMZ8mSFBAP3pVU4do915bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YETLKRc4E-4Q7kNvwE3UOix&_nc_oc=AdrWEfzgLjXJcDgPOA4_WGDFBFG0ktUPxLO7MgshL4DPTyS8vk2P7o9hj7RgwMOGe4gOZ9CFU0Shl3X0igeI9cqk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YBj-j8ylJlJIfKiJq12B6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT-MYyLrNzm2IuxcQCERllLwV72Lk739xiiIHNhH6CYNA&oe=6B08C2CB",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 5623626,
+        "valor_atual": 5623397,
+        "variacao": -229,
+        "direcao": "reducao",
+        "descricao": "-229 seguidores",
+        "timestamp": "2026-11-22T11:54:26.570504",
+        "timestamp_anterior": "2026-11-21T23:36:51.052963",
+        "tempo_desde_anterior_segundos": 44255
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -2445,6 +2458,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:54:26.570504",
+      "timestamp_anterior": "2026-11-21T23:36:51.052963",
+      "timestamp_atual": "2026-11-22T11:54:26.570504",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "reality show",
+        "pk": 8337161015,
+        "id": "17841408190472145",
+        "username": "afazendarecord",
+        "nome": "A Fazenda",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/772894516_18332816593273016_8781354194705967613_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDRvES64QMZ8mSFBAP3pVU4do915bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=YETLKRc4E-4Q7kNvwE3UOix&_nc_oc=AdrWEfzgLjXJcDgPOA4_WGDFBFG0ktUPxLO7MgshL4DPTyS8vk2P7o9hj7RgwMOGe4gOZ9CFU0Shl3X0igeI9cqk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=YBj-j8ylJlJIfKiJq12B6g&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT-MYyLrNzm2IuxcQCERllLwV72Lk739xiiIHNhH6CYNA&oe=6B08C2CB",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 5623626,
+      "valor_atual": 5623397,
+      "hash_anterior": "b88390d0f9ac1d57d0a2744980a7d28a6db49d87ad36b1cae37fdd3303ce662c",
+      "hash_atual": "e264088f160d5a13ce58be71bbd6382f7148223d7cdfaf71f108850203145e28",
+      "variacao": -229,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44255.517541,
+        "texto": "12 horas e 17 minutos e 35 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44255.517541,
+        "texto": "12 horas e 17 minutos e 35 segundos"
+      },
+      "titulo": "Perdeu 229 seguidores",
+      "descricao": "Os seguidores caíram de 5.623.626 para 5.623.397",
+      "variacao_texto": "-229 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:36:51.052963",
@@ -8785,50 +8834,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:23:32.318334",
-    "captura_mais_recente": "2026-11-21T23:36:51.052963",
-    "tempo_total_segundos": 4169598,
-    "tempo_total_dias": 48.259236,
-    "tempo_total_texto": "48 dias, 6 horas, 13 minutos e 18 segundos",
+    "captura_mais_recente": "2026-11-22T11:54:26.570504",
+    "tempo_total_segundos": 4213854,
+    "tempo_total_dias": 48.771458,
+    "tempo_total_texto": "48 dias, 18 horas, 30 minutos e 54 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -232,
+      "variacao": -461,
       "direcao": "perdeu",
-      "quantidade": 232,
-      "texto": "Perdeu 232 seguidores",
+      "quantidade": 461,
+      "texto": "Perdeu 461 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T16:07:22.436587",
-      "captura_fim": "2026-11-21T23:36:51.052963",
+      "captura_fim": "2026-11-22T11:54:26.570504",
       "seguidores_inicio": 5623858,
-      "seguidores_fim": 5623626
+      "seguidores_fim": 5623397
     },
     "7_dias": {
-      "variacao": 7554,
+      "variacao": 7325,
       "direcao": "ganhou",
-      "quantidade": 7554,
-      "texto": "Ganhou 7554 seguidores",
+      "quantidade": 7325,
+      "texto": "Ganhou 7325 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:35.359823",
-      "captura_fim": "2026-11-21T23:36:51.052963",
+      "captura_fim": "2026-11-22T11:54:26.570504",
       "seguidores_inicio": 5616072,
-      "seguidores_fim": 5623626
+      "seguidores_fim": 5623397
     },
     "30_dias": {
-      "variacao": 9122,
+      "variacao": 7280,
       "direcao": "ganhou",
-      "quantidade": 9122,
-      "texto": "Ganhou 9122 seguidores",
+      "quantidade": 7280,
+      "texto": "Ganhou 7280 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-22T19:40:31.723529",
-      "captura_fim": "2026-11-21T23:36:51.052963",
-      "seguidores_inicio": 5614504,
-      "seguidores_fim": 5623626
+      "captura_inicio": "2026-10-23T11:04:00.573138",
+      "captura_fim": "2026-11-22T11:54:26.570504",
+      "seguidores_inicio": 5616117,
+      "seguidores_fim": 5623397
     },
     "90_dias": {
       "variacao": null,
@@ -8839,17 +8888,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 43545,
+      "variacao": 43316,
       "direcao": "ganhou",
-      "quantidade": 43545,
-      "texto": "Ganhou 43545 seguidores",
+      "quantidade": 43316,
+      "texto": "Ganhou 43316 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:23:32.318334",
-      "captura_mais_recente": "2026-11-21T23:36:51.052963",
-      "tempo_total_dias": 48.259245,
+      "captura_mais_recente": "2026-11-22T11:54:26.570504",
+      "tempo_total_dias": 48.771461,
       "seguidores_inicio": 5580081,
-      "seguidores_fim": 5623626
+      "seguidores_fim": 5623397
     }
   }
 }

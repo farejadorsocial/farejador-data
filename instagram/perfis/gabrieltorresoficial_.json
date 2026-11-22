@@ -8,7 +8,7 @@
       "id": "17841400699823529",
       "username": "gabrieltorresoficial_",
       "nome": "Gabriel Torres",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/860145890_18632317480023328_533116857926515386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GOLIRDMgNb14-jFCALp6eyz1AmYHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s6kVV9_E8_wQ7kNvwESnxQg&_nc_oc=AdrfNwdQUfRwAENQfzVyXnrt7_tz9_l-j9yXnQUhJgHeh42ue__guOyP4oJFnH_EX3s0s_xZ1BbyAAk07CnULfNz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8x2rXF4ac2K6rjuKHkH-pg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT9LuQvbl4uBmBW2yP4A5ynEs8y0ieAo96FmioKMtcezA&oe=6B082E2F",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/860145890_18632317480023328_533116857926515386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GOLIRDMgNb14-jFCALp6eyz1AmYHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s6kVV9_E8_wQ7kNvwESnxQg&_nc_oc=AdrfNwdQUfRwAENQfzVyXnrt7_tz9_l-j9yXnQUhJgHeh42ue__guOyP4oJFnH_EX3s0s_xZ1BbyAAk07CnULfNz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=o84h4mBZbaR-zr9f6-2YDA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQsI7FI6DdpgrkkSGyh5DuzJiYEveXC-p4YxctsEpq0Lg&oe=6B08D6EF",
       "total_posts": 228
     },
     "biografia": [
@@ -170,6 +170,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 126963,
+        "valor_atual": 126964,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 seguidores",
+        "timestamp": "2026-11-22T11:18:14.634835",
+        "timestamp_anterior": "2026-11-21T23:00:30.432739",
+        "tempo_desde_anterior_segundos": 44264
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1187,6 +1200,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:18:14.634835",
+      "timestamp_anterior": "2026-11-21T23:00:30.432739",
+      "timestamp_atual": "2026-11-22T11:18:14.634835",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 865879327,
+        "id": "17841400699823529",
+        "username": "gabrieltorresoficial_",
+        "nome": "Gabriel Torres",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/860145890_18632317480023328_533116857926515386_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GOLIRDMgNb14-jFCALp6eyz1AmYHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=s6kVV9_E8_wQ7kNvwESnxQg&_nc_oc=AdrfNwdQUfRwAENQfzVyXnrt7_tz9_l-j9yXnQUhJgHeh42ue__guOyP4oJFnH_EX3s0s_xZ1BbyAAk07CnULfNz&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=o84h4mBZbaR-zr9f6-2YDA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQsI7FI6DdpgrkkSGyh5DuzJiYEveXC-p4YxctsEpq0Lg&oe=6B08D6EF",
+        "total_posts": 228
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 126963,
+      "valor_atual": 126964,
+      "hash_anterior": "44f2f524120e20b2f9c267a83aff9058523422dd1fc14ea321cbc26b238d647c",
+      "hash_atual": "4212f673f1b929095472c46a1db61976db1f1b4b55dad319ff82fc46f7d8eadd",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44264.202096,
+        "texto": "12 horas e 17 minutos e 44 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44264.202096,
+        "texto": "12 horas e 17 minutos e 44 segundos"
+      },
+      "titulo": "Ganhou 1 seguidor",
+      "descricao": "Os seguidores passaram de 126.963 para 126.964",
+      "variacao_texto": "+1 seguidor"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:00:30.432739",
@@ -4009,50 +4058,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:15:15.038908",
-    "captura_mais_recente": "2026-11-21T23:00:30.432739",
-    "tempo_total_segundos": 4074315,
-    "tempo_total_dias": 47.156424,
-    "tempo_total_texto": "47 dias, 3 horas, 45 minutos e 15 segundos",
+    "captura_mais_recente": "2026-11-22T11:18:14.634835",
+    "tempo_total_segundos": 4118579,
+    "tempo_total_dias": 47.668738,
+    "tempo_total_texto": "47 dias, 16 horas, 2 minutos e 59 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 5,
+      "variacao": 6,
       "direcao": "ganhou",
-      "quantidade": 5,
-      "texto": "Ganhou 5 seguidores",
+      "quantidade": 6,
+      "texto": "Ganhou 6 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:30:06.461260",
-      "captura_fim": "2026-11-21T23:00:30.432739",
+      "captura_fim": "2026-11-22T11:18:14.634835",
       "seguidores_inicio": 126958,
-      "seguidores_fim": 126963
+      "seguidores_fim": 126964
     },
     "7_dias": {
-      "variacao": 479,
+      "variacao": 480,
       "direcao": "ganhou",
-      "quantidade": 479,
-      "texto": "Ganhou 479 seguidores",
+      "quantidade": 480,
+      "texto": "Ganhou 480 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:20:46.888505",
-      "captura_fim": "2026-11-21T23:00:30.432739",
+      "captura_fim": "2026-11-22T11:18:14.634835",
       "seguidores_inicio": 126484,
-      "seguidores_fim": 126963
+      "seguidores_fim": 126964
     },
     "30_dias": {
-      "variacao": 15893,
+      "variacao": 14686,
       "direcao": "ganhou",
-      "quantidade": 15893,
-      "texto": "Ganhou 15893 seguidores",
+      "quantidade": 14686,
+      "texto": "Ganhou 14686 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-22T19:40:25.039033",
-      "captura_fim": "2026-11-21T23:00:30.432739",
-      "seguidores_inicio": 111070,
-      "seguidores_fim": 126963
+      "captura_inicio": "2026-10-23T10:36:03.873191",
+      "captura_fim": "2026-11-22T11:18:14.634835",
+      "seguidores_inicio": 112278,
+      "seguidores_fim": 126964
     },
     "90_dias": {
       "variacao": null,
@@ -4063,17 +4112,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 18188,
+      "variacao": 18189,
       "direcao": "ganhou",
-      "quantidade": 18188,
-      "texto": "Ganhou 18188 seguidores",
+      "quantidade": 18189,
+      "texto": "Ganhou 18189 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:15:15.038908",
-      "captura_mais_recente": "2026-11-21T23:00:30.432739",
-      "tempo_total_dias": 47.156428,
+      "captura_mais_recente": "2026-11-22T11:18:14.634835",
+      "tempo_total_dias": 47.668745,
       "seguidores_inicio": 108775,
-      "seguidores_fim": 126963
+      "seguidores_fim": 126964
     }
   }
 }

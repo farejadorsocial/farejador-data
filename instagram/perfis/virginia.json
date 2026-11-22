@@ -8,7 +8,7 @@
       "id": "17841400226864163",
       "username": "virginia",
       "nome": "Virginia",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/849588592_18670335943007563_5791624955264021986_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GHCxozJLXbhVklRCAOK1zCI2-F9QbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=icqgygnJFugQ7kNvwElqLOX&_nc_oc=AdoJC2iu0nPP-wgsKTc-SMnwAqMD97vkxNiexM6a9auPQITNykwxw1-Vn150JjxoxMFcd1LD2PliTmLn95q6ER6n&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=OrGak8H-KYXtiSjlrojSHw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT1Z_F3tZQQ97C-Z7Zg0v95v85lMRleJdGhDYzxVcmyYA&oe=6B0835B5",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/849588592_18670335943007563_5791624955264021986_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GHCxozJLXbhVklRCAOK1zCI2-F9QbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=gmFZij_NY1IQ7kNvwEcEGEb&_nc_oc=AdrMAAqhx_uN8bsYFsnXPUTRM8-L8ktqPHF0le5y5y4wZfFird6oVqeULzq804MBYOmmQ4iJUKLX0zJ7coYcPsta&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oKWBpoQWaFpQg0eGeaeYZw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSN8APtIc9Sl1UqmY_iy0KY7KtSMmLETLl5O-YKKQjFDw&oe=6B08DE75",
       "total_posts": 3343
     },
     "biografia": [
@@ -139,6 +139,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 57075958,
+        "valor_atual": 57074791,
+        "variacao": -1167,
+        "direcao": "reducao",
+        "descricao": "-1167 seguidores",
+        "timestamp": "2026-11-22T11:41:01.320794",
+        "timestamp_anterior": "2026-11-21T23:23:21.724935",
+        "tempo_desde_anterior_segundos": 44259
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -3379,6 +3392,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:41:01.320794",
+      "timestamp_anterior": "2026-11-21T23:23:21.724935",
+      "timestamp_atual": "2026-11-22T11:41:01.320794",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 266439562,
+        "id": "17841400226864163",
+        "username": "virginia",
+        "nome": "Virginia",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/849588592_18670335943007563_5791624955264021986_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GHCxozJLXbhVklRCAOK1zCI2-F9QbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=gmFZij_NY1IQ7kNvwEcEGEb&_nc_oc=AdrMAAqhx_uN8bsYFsnXPUTRM8-L8ktqPHF0le5y5y4wZfFird6oVqeULzq804MBYOmmQ4iJUKLX0zJ7coYcPsta&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oKWBpoQWaFpQg0eGeaeYZw&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSN8APtIc9Sl1UqmY_iy0KY7KtSMmLETLl5O-YKKQjFDw&oe=6B08DE75",
+        "total_posts": 3343
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 57075958,
+      "valor_atual": 57074791,
+      "hash_anterior": "988603c30948c9dc88e3d95632f3614c40ff3ec4e0b536ae3efe660382a1f2a9",
+      "hash_atual": "d14d8125763d1f9c613ff879236fa849ce068c5fae100a2a963f6a6d40e88bf0",
+      "variacao": -1167,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44259.595859,
+        "texto": "12 horas e 17 minutos e 39 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44259.595859,
+        "texto": "12 horas e 17 minutos e 39 segundos"
+      },
+      "titulo": "Perdeu 1.167 seguidores",
+      "descricao": "Os seguidores caíram de 57.075.958 para 57.074.791",
+      "variacao_texto": "-1.167 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:23:21.724935",
@@ -12260,50 +12309,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:56:43.490939",
-    "captura_mais_recente": "2026-11-21T23:23:21.724935",
-    "tempo_total_segundos": 4256798,
-    "tempo_total_dias": 49.268495,
-    "tempo_total_texto": "49 dias, 6 horas, 26 minutos e 38 segundos",
+    "captura_mais_recente": "2026-11-22T11:41:01.320794",
+    "tempo_total_segundos": 4301057,
+    "tempo_total_dias": 49.780752,
+    "tempo_total_texto": "49 dias, 18 horas, 44 minutos e 17 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -10170,
+      "variacao": -11337,
       "direcao": "perdeu",
-      "quantidade": 10170,
-      "texto": "Perdeu 10170 seguidores",
+      "quantidade": 11337,
+      "texto": "Perdeu 11337 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:53:55.000301",
-      "captura_fim": "2026-11-21T23:23:21.724935",
+      "captura_fim": "2026-11-22T11:41:01.320794",
       "seguidores_inicio": 57086128,
-      "seguidores_fim": 57075958
+      "seguidores_fim": 57074791
     },
     "7_dias": {
-      "variacao": 196971,
+      "variacao": 195804,
       "direcao": "ganhou",
-      "quantidade": 196971,
-      "texto": "Ganhou 196971 seguidores",
+      "quantidade": 195804,
+      "texto": "Ganhou 195804 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:38.633716",
-      "captura_fim": "2026-11-21T23:23:21.724935",
+      "captura_fim": "2026-11-22T11:41:01.320794",
       "seguidores_inicio": 56878987,
-      "seguidores_fim": 57075958
+      "seguidores_fim": 57074791
     },
     "30_dias": {
-      "variacao": 247905,
+      "variacao": 201836,
       "direcao": "ganhou",
-      "quantidade": 247905,
-      "texto": "Ganhou 247905 seguidores",
+      "quantidade": 201836,
+      "texto": "Ganhou 201836 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-22T19:40:06.800490",
-      "captura_fim": "2026-11-21T23:23:21.724935",
-      "seguidores_inicio": 56828053,
-      "seguidores_fim": 57075958
+      "captura_inicio": "2026-10-23T11:03:44.973897",
+      "captura_fim": "2026-11-22T11:41:01.320794",
+      "seguidores_inicio": 56872955,
+      "seguidores_fim": 57074791
     },
     "90_dias": {
       "variacao": null,
@@ -12314,17 +12363,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 580474,
+      "variacao": 579307,
       "direcao": "ganhou",
-      "quantidade": 580474,
-      "texto": "Ganhou 580474 seguidores",
+      "quantidade": 579307,
+      "texto": "Ganhou 579307 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:56:43.490939",
-      "captura_mais_recente": "2026-11-21T23:23:21.724935",
-      "tempo_total_dias": 49.268498,
+      "captura_mais_recente": "2026-11-22T11:41:01.320794",
+      "tempo_total_dias": 49.780762,
       "seguidores_inicio": 56495484,
-      "seguidores_fim": 57075958
+      "seguidores_fim": 57074791
     }
   }
 }

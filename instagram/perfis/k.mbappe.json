@@ -8,7 +8,7 @@
       "id": "17841404277686689",
       "username": "k.mbappe",
       "nome": "Kylian Mbappé",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1HKFypqqZzAQ7kNvwFIiDcG&_nc_oc=AdqAED4U0ulxO08MvvMuSy4BbitV64VCPGs1PAa1iOi-QCvBLB_C69m8bDZQOduAqxY2los3pFFfqeDhELW7Hvt4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=SgmTsD1eV6QtTfisLsudZA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQEaMlJ1xIRyLRRahmGxwHYKyeYNbftU1N8B2K_em1Shw&oe=6B081986",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1HKFypqqZzAQ7kNvwFIiDcG&_nc_oc=AdqAED4U0ulxO08MvvMuSy4BbitV64VCPGs1PAa1iOi-QCvBLB_C69m8bDZQOduAqxY2los3pFFfqeDhELW7Hvt4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VmwE5BH_fpbbUoFkS2zNgA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSLWSVw6jgqN7ZEn4PBG2KiY56C9Cs3sWV2k32Ne-ZEWQ&oe=6B08C246",
       "total_posts": 1508
     },
     "biografia": [
@@ -72,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 137046659,
+        "valor_atual": 137036417,
+        "variacao": -10242,
+        "direcao": "reducao",
+        "descricao": "-10242 seguidores",
+        "timestamp": "2026-11-22T11:23:56.398485",
+        "timestamp_anterior": "2026-11-21T23:06:12.769604",
+        "tempo_desde_anterior_segundos": 44263
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -452,6 +465,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:23:56.398485",
+      "timestamp_anterior": "2026-11-21T23:06:12.769604",
+      "timestamp_atual": "2026-11-22T11:23:56.398485",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 4213518589,
+        "id": "17841404277686689",
+        "username": "k.mbappe",
+        "nome": "Kylian Mbappé",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/724691799_18476757307142590_5958508634033695380_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFfrMSu_seRLg6RBAJQqrXoI4LBSbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1HKFypqqZzAQ7kNvwFIiDcG&_nc_oc=AdqAED4U0ulxO08MvvMuSy4BbitV64VCPGs1PAa1iOi-QCvBLB_C69m8bDZQOduAqxY2los3pFFfqeDhELW7Hvt4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VmwE5BH_fpbbUoFkS2zNgA&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSLWSVw6jgqN7ZEn4PBG2KiY56C9Cs3sWV2k32Ne-ZEWQ&oe=6B08C246",
+        "total_posts": 1508
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 137046659,
+      "valor_atual": 137036417,
+      "hash_anterior": "ef38fdda2fb018cfa223a596c4ab779c451314e669da40ef5774e715c16cd7cd",
+      "hash_atual": "6b77435986e28ef6108a2022156d910d87a18507e93d06afceeeb4bdba1434ff",
+      "variacao": -10242,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44263.628881,
+        "texto": "12 horas e 17 minutos e 43 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44263.628881,
+        "texto": "12 horas e 17 minutos e 43 segundos"
+      },
+      "titulo": "Perdeu 10.242 seguidores",
+      "descricao": "Os seguidores caíram de 137.046.659 para 137.036.417",
+      "variacao_texto": "-10.242 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:06:12.769604",
@@ -1284,50 +1333,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:07:49.560529",
-    "captura_mais_recente": "2026-11-21T23:06:12.769604",
-    "tempo_total_segundos": 4179503,
-    "tempo_total_dias": 48.373877,
-    "tempo_total_texto": "48 dias, 8 horas, 58 minutos e 23 segundos",
+    "captura_mais_recente": "2026-11-22T11:23:56.398485",
+    "tempo_total_segundos": 4223766,
+    "tempo_total_dias": 48.886181,
+    "tempo_total_texto": "48 dias, 21 horas, 16 minutos e 6 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -52540,
+      "variacao": -62782,
       "direcao": "perdeu",
-      "quantidade": 52540,
-      "texto": "Perdeu 52540 seguidores",
+      "quantidade": 62782,
+      "texto": "Perdeu 62782 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:35:47.235841",
-      "captura_fim": "2026-11-21T23:06:12.769604",
+      "captura_fim": "2026-11-22T11:23:56.398485",
       "seguidores_inicio": 137099199,
-      "seguidores_fim": 137046659
+      "seguidores_fim": 137036417
     },
     "7_dias": {
-      "variacao": 155450,
+      "variacao": 145208,
       "direcao": "ganhou",
-      "quantidade": 155450,
-      "texto": "Ganhou 155450 seguidores",
+      "quantidade": 145208,
+      "texto": "Ganhou 145208 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-05T19:16:25.178051",
-      "captura_fim": "2026-11-21T23:06:12.769604",
+      "captura_fim": "2026-11-22T11:23:56.398485",
       "seguidores_inicio": 136891209,
-      "seguidores_fim": 137046659
+      "seguidores_fim": 137036417
     },
     "30_dias": {
-      "variacao": 155450,
+      "variacao": 145208,
       "direcao": "ganhou",
-      "quantidade": 155450,
-      "texto": "Ganhou 155450 seguidores",
+      "quantidade": 145208,
+      "texto": "Ganhou 145208 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-05T19:16:25.178051",
-      "captura_fim": "2026-11-21T23:06:12.769604",
+      "captura_fim": "2026-11-22T11:23:56.398485",
       "seguidores_inicio": 136891209,
-      "seguidores_fim": 137046659
+      "seguidores_fim": 137036417
     },
     "90_dias": {
       "variacao": null,
@@ -1338,17 +1387,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 147361,
+      "variacao": 137119,
       "direcao": "ganhou",
-      "quantidade": 147361,
-      "texto": "Ganhou 147361 seguidores",
+      "quantidade": 137119,
+      "texto": "Ganhou 137119 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:07:49.560529",
-      "captura_mais_recente": "2026-11-21T23:06:12.769604",
-      "tempo_total_dias": 48.37388,
+      "captura_mais_recente": "2026-11-22T11:23:56.398485",
+      "tempo_total_dias": 48.88619,
       "seguidores_inicio": 136899298,
-      "seguidores_fim": 137046659
+      "seguidores_fim": 137036417
     }
   }
 }

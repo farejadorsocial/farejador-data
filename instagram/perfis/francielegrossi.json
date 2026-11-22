@@ -8,7 +8,7 @@
       "id": "17841400802620700",
       "username": "francielegrossi",
       "nome": "FRAN",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954762_18654989572026755_6672078312420536045_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GAr-0TWDsbo6nUZCAO3uaf3f_5dcbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7BjXNoTbEQkQ7kNvwEdBaoE&_nc_oc=AdrnvZ2duEqAXmilC6i0eYEzyY1nLYTznQLDb8VdTXj5DB4-zQxhWuykVhae0OLpSA866SX3uKYZStrnbKfLveUV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=uwHSrej6XERO6y9MwgTLjg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQfvypq9umJ1FwylZICcuWm7xF2mkFWC_A3vMZad9oCfg&oe=6B083736",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954762_18654989572026755_6672078312420536045_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GAr-0TWDsbo6nUZCAO3uaf3f_5dcbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7BjXNoTbEQkQ7kNvwEdBaoE&_nc_oc=AdrnvZ2duEqAXmilC6i0eYEzyY1nLYTznQLDb8VdTXj5DB4-zQxhWuykVhae0OLpSA866SX3uKYZStrnbKfLveUV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hn9but-sIYlCfW_oYuI9Ng&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSx9rDwGSsJ45lAe1CFoc025pVp-Z5AI9dZHWiS2kdCkw&oe=6B08DFF6",
       "total_posts": 5220
     },
     "biografia": [
@@ -72,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 836231,
+        "valor_atual": 836257,
+        "variacao": 26,
+        "direcao": "aumento",
+        "descricao": "+26 seguidores",
+        "timestamp": "2026-11-22T11:44:07.307755",
+        "timestamp_anterior": "2026-11-21T23:26:29.270849",
+        "tempo_desde_anterior_segundos": 44258
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1284,6 +1297,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-22T11:44:07.307755",
+      "timestamp_anterior": "2026-11-21T23:26:29.270849",
+      "timestamp_atual": "2026-11-22T11:44:07.307755",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 44826754,
+        "id": "17841400802620700",
+        "username": "francielegrossi",
+        "nome": "FRAN",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954762_18654989572026755_6672078312420536045_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GAr-0TWDsbo6nUZCAO3uaf3f_5dcbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=7BjXNoTbEQkQ7kNvwEdBaoE&_nc_oc=AdrnvZ2duEqAXmilC6i0eYEzyY1nLYTznQLDb8VdTXj5DB4-zQxhWuykVhae0OLpSA866SX3uKYZStrnbKfLveUV&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hn9but-sIYlCfW_oYuI9Ng&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSx9rDwGSsJ45lAe1CFoc025pVp-Z5AI9dZHWiS2kdCkw&oe=6B08DFF6",
+        "total_posts": 5220
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 836231,
+      "valor_atual": 836257,
+      "hash_anterior": "d73882715b53bef0b12db7eeddf6d8a0fe79413acd8451e3da2cd512ada1a800",
+      "hash_atual": "4652503f43ff0e6fd8b874e15796bb96e87845fbde0c5a6456b9bd29960ca501",
+      "variacao": 26,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44258.036906,
+        "texto": "12 horas e 17 minutos e 38 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44258.036906,
+        "texto": "12 horas e 17 minutos e 38 segundos"
+      },
+      "titulo": "Ganhou 26 seguidores",
+      "descricao": "Os seguidores passaram de 836.231 para 836.257",
+      "variacao_texto": "+26 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T23:26:29.270849",
@@ -4420,50 +4469,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:59.846917",
-    "captura_mais_recente": "2026-11-21T23:26:29.270849",
-    "tempo_total_segundos": 4166909,
-    "tempo_total_dias": 48.228113,
-    "tempo_total_texto": "48 dias, 5 horas, 28 minutos e 29 segundos",
+    "captura_mais_recente": "2026-11-22T11:44:07.307755",
+    "tempo_total_segundos": 4211167,
+    "tempo_total_dias": 48.740359,
+    "tempo_total_texto": "48 dias, 17 horas, 46 minutos e 7 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 178,
+      "variacao": 204,
       "direcao": "ganhou",
-      "quantidade": 178,
-      "texto": "Ganhou 178 seguidores",
+      "quantidade": 204,
+      "texto": "Ganhou 204 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:57:02.119440",
-      "captura_fim": "2026-11-21T23:26:29.270849",
+      "captura_fim": "2026-11-22T11:44:07.307755",
       "seguidores_inicio": 836053,
-      "seguidores_fim": 836231
+      "seguidores_fim": 836257
     },
     "7_dias": {
-      "variacao": 2800,
+      "variacao": 2826,
       "direcao": "ganhou",
-      "quantidade": 2800,
-      "texto": "Ganhou 2800 seguidores",
+      "quantidade": 2826,
+      "texto": "Ganhou 2826 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:52.104045",
-      "captura_fim": "2026-11-21T23:26:29.270849",
+      "captura_fim": "2026-11-22T11:44:07.307755",
       "seguidores_inicio": 833431,
-      "seguidores_fim": 836231
+      "seguidores_fim": 836257
     },
     "30_dias": {
-      "variacao": 2950,
+      "variacao": 2951,
       "direcao": "ganhou",
-      "quantidade": 2950,
-      "texto": "Ganhou 2950 seguidores",
+      "quantidade": 2951,
+      "texto": "Ganhou 2951 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-22T19:39:01.276887",
-      "captura_fim": "2026-11-21T23:26:29.270849",
-      "seguidores_inicio": 833281,
-      "seguidores_fim": 836231
+      "captura_inicio": "2026-10-23T10:34:40.457421",
+      "captura_fim": "2026-11-22T11:44:07.307755",
+      "seguidores_inicio": 833306,
+      "seguidores_fim": 836257
     },
     "90_dias": {
       "variacao": null,
@@ -4474,17 +4523,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 1731,
+      "variacao": 1757,
       "direcao": "ganhou",
-      "quantidade": 1731,
-      "texto": "Ganhou 1731 seguidores",
+      "quantidade": 1757,
+      "texto": "Ganhou 1757 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:59.846917",
-      "captura_mais_recente": "2026-11-21T23:26:29.270849",
-      "tempo_total_dias": 48.228118,
+      "captura_mais_recente": "2026-11-22T11:44:07.307755",
+      "tempo_total_dias": 48.740364,
       "seguidores_inicio": 834500,
-      "seguidores_fim": 836231
+      "seguidores_fim": 836257
     }
   }
 }
