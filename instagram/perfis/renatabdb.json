@@ -8,7 +8,7 @@
       "id": "17841400972000105",
       "username": "renatabdb",
       "nome": "Renata Del Bianco",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mSwjl3hqLtQQ7kNvwHecIG2&_nc_oc=AdpqNo0JEi-1CmhZYmiargpP_hfBkll0yBqusMfW5hDQeVuoGMwkL4k5jANZI8khrW536dl9uyk7OUk5pLkKX7V8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QNcH_DVzRgguGe201p9fZg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQT2Qj4cweC0RcaSPU8rcq3k5b2wIZtksb5jLQa4Ditrw&oe=6B078C0C",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mSwjl3hqLtQQ7kNvwFqnFp_&_nc_oc=AdocT2apbRXPPM_ENOgQSZ8NPXRn5-xOZTLOF9dezJb5UQ1JiKx4dESR4j7d_LXQFeuFbHASHiZZdt14WnSqrCx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zW0Pa4NpaEMfE2D1s-LV3Q&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRMk_bl9Sa3k_K4PFr6GlBqEXX30bspH5x-j7LWZCLyzQ&oe=6B0834CC",
       "total_posts": 2281
     },
     "biografia": [
@@ -131,6 +131,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 151096,
+        "valor_atual": 151116,
+        "variacao": 20,
+        "direcao": "aumento",
+        "descricao": "+20 seguidores",
+        "timestamp": "2026-11-21T22:59:59.273117",
+        "timestamp_anterior": "2026-11-21T12:32:22.083611",
+        "tempo_desde_anterior_segundos": 37657
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1148,6 +1161,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T22:59:59.273117",
+      "timestamp_anterior": "2026-11-21T12:32:22.083611",
+      "timestamp_atual": "2026-11-21T22:59:59.273117",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 6752400,
+        "id": "17841400972000105",
+        "username": "renatabdb",
+        "nome": "Renata Del Bianco",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/892755045_18650486764032401_6968274724429715472_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GGVcNjWRUXXWhEJCABBY9z7xSLRgbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mSwjl3hqLtQQ7kNvwFqnFp_&_nc_oc=AdocT2apbRXPPM_ENOgQSZ8NPXRn5-xOZTLOF9dezJb5UQ1JiKx4dESR4j7d_LXQFeuFbHASHiZZdt14WnSqrCx4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zW0Pa4NpaEMfE2D1s-LV3Q&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRMk_bl9Sa3k_K4PFr6GlBqEXX30bspH5x-j7LWZCLyzQ&oe=6B0834CC",
+        "total_posts": 2281
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 151096,
+      "valor_atual": 151116,
+      "hash_anterior": "22d13d35faa1a06489d4d9734621b56bc2bc72a91932009d496ca843f0c69531",
+      "hash_atual": "e8403275349e0c82e69b1311101724e2e46ada1c269675c00435f3ba4b96499d",
+      "variacao": 20,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 37657.189506,
+        "texto": "10 horas e 27 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 37657.189506,
+        "texto": "10 horas e 27 minutos e 37 segundos"
+      },
+      "titulo": "Ganhou 20 seguidores",
+      "descricao": "Os seguidores passaram de 151.096 para 151.116",
+      "variacao_texto": "+20 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T12:32:22.083611",
@@ -3865,10 +3914,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:14:19.137329",
-    "captura_mais_recente": "2026-11-21T12:32:22.083611",
-    "tempo_total_segundos": 4036682,
-    "tempo_total_dias": 46.720856,
-    "tempo_total_texto": "46 dias, 17 horas, 18 minutos e 2 segundos",
+    "captura_mais_recente": "2026-11-21T22:59:59.273117",
+    "tempo_total_segundos": 4074340,
+    "tempo_total_dias": 47.156713,
+    "tempo_total_texto": "47 dias, 3 horas, 45 minutos e 40 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
@@ -3881,34 +3930,34 @@
       "texto": "Ganhou 113 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T09:29:30.550363",
-      "captura_fim": "2026-11-21T12:32:22.083611",
-      "seguidores_inicio": 150983,
-      "seguidores_fim": 151096
+      "captura_inicio": "2026-11-20T15:29:35.378125",
+      "captura_fim": "2026-11-21T22:59:59.273117",
+      "seguidores_inicio": 151003,
+      "seguidores_fim": 151116
     },
     "7_dias": {
-      "variacao": 1620,
+      "variacao": 1640,
       "direcao": "ganhou",
-      "quantidade": 1620,
-      "texto": "Ganhou 1620 seguidores",
+      "quantidade": 1640,
+      "texto": "Ganhou 1640 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:20:04.887770",
-      "captura_fim": "2026-11-21T12:32:22.083611",
+      "captura_fim": "2026-11-21T22:59:59.273117",
       "seguidores_inicio": 149476,
-      "seguidores_fim": 151096
+      "seguidores_fim": 151116
     },
     "30_dias": {
-      "variacao": 2525,
+      "variacao": 2416,
       "direcao": "ganhou",
-      "quantidade": 2525,
-      "texto": "Ganhou 2525 seguidores",
+      "quantidade": 2416,
+      "texto": "Ganhou 2416 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-21T17:44:36.220045",
-      "captura_fim": "2026-11-21T12:32:22.083611",
-      "seguidores_inicio": 148571,
-      "seguidores_fim": 151096
+      "captura_inicio": "2026-10-22T19:24:31.512597",
+      "captura_fim": "2026-11-21T22:59:59.273117",
+      "seguidores_inicio": 148700,
+      "seguidores_fim": 151116
     },
     "90_dias": {
       "variacao": null,
@@ -3919,17 +3968,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 5243,
+      "variacao": 5263,
       "direcao": "ganhou",
-      "quantidade": 5243,
-      "texto": "Ganhou 5243 seguidores",
+      "quantidade": 5263,
+      "texto": "Ganhou 5263 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:14:19.137329",
-      "captura_mais_recente": "2026-11-21T12:32:22.083611",
-      "tempo_total_dias": 46.720867,
+      "captura_mais_recente": "2026-11-21T22:59:59.273117",
+      "tempo_total_dias": 47.156715,
       "seguidores_inicio": 145853,
-      "seguidores_fim": 151096
+      "seguidores_fim": 151116
     }
   }
 }

@@ -8,7 +8,7 @@
       "id": "17841401426525605",
       "username": "tinacalamba",
       "nome": "Tina Calamba 💎",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/912161779_18646722043047551_4304142885425610916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GPN7XjZ-7plLGD9CAKSAUWQmY7s7bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDMuQzMifQ%3D%3D&_nc_ohc=hvjhUBgEq3kQ7kNvwGNz09I&_nc_oc=Adpq6Bg04HsXvnoIHvXjp82txHHeRGWmXgracPx42YwR1ske19Sz2PstuwluSZw4SvlG-Z0Pa0odcawyPhlkSrz6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=WsRUSd8gfxf4tM63DtzytQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR611OvhtTv0FoluLfBo0ehbnBXOqqQmUEmeY5_vZTQRw&oe=6B07B99A",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/912161779_18646722043047551_4304142885425610916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GPN7XjZ-7plLGD9CAKSAUWQmY7s7bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDMuQzMifQ%3D%3D&_nc_ohc=hvjhUBgEq3kQ7kNvwGNz09I&_nc_oc=Adpq6Bg04HsXvnoIHvXjp82txHHeRGWmXgracPx42YwR1ske19Sz2PstuwluSZw4SvlG-Z0Pa0odcawyPhlkSrz6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lLUB0L7hHFMqr9dWlkX1wQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTxgTb6KkZJ_1_cx0YFuleV_f3SrjZBaZmWfNr1Or31uA&oe=6B082A1A",
       "total_posts": 1252
     },
     "biografia": [
@@ -140,6 +140,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 515757,
+        "valor_atual": 515865,
+        "variacao": 108,
+        "direcao": "aumento",
+        "descricao": "+108 seguidores",
+        "timestamp": "2026-11-21T23:41:31.924777",
+        "timestamp_anterior": "2026-11-21T13:56:38.053797",
+        "tempo_desde_anterior_segundos": 35093
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1131,6 +1144,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-21T23:41:31.924777",
+      "timestamp_anterior": "2026-11-21T13:56:38.053797",
+      "timestamp_atual": "2026-11-21T23:41:31.924777",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 1638767550,
+        "id": "17841401426525605",
+        "username": "tinacalamba",
+        "nome": "Tina Calamba 💎",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/912161779_18646722043047551_4304142885425610916_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GPN7XjZ-7plLGD9CAKSAUWQmY7s7bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDMuQzMifQ%3D%3D&_nc_ohc=hvjhUBgEq3kQ7kNvwGNz09I&_nc_oc=Adpq6Bg04HsXvnoIHvXjp82txHHeRGWmXgracPx42YwR1ske19Sz2PstuwluSZw4SvlG-Z0Pa0odcawyPhlkSrz6&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lLUB0L7hHFMqr9dWlkX1wQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTxgTb6KkZJ_1_cx0YFuleV_f3SrjZBaZmWfNr1Or31uA&oe=6B082A1A",
+        "total_posts": 1252
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 515757,
+      "valor_atual": 515865,
+      "hash_anterior": "ba542ef11e099ec1cbf4b6ef9f6ae7edde46ec4cf93847a69ff346af1c40a918",
+      "hash_atual": "6ead9cd45389310bc81b351e4e84eb54b9d67033addc21d06d78f49623980b9c",
+      "variacao": 108,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 35093.87098,
+        "texto": "9 horas e 44 minutos e 53 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 35093.87098,
+        "texto": "9 horas e 44 minutos e 53 segundos"
+      },
+      "titulo": "Ganhou 108 seguidores",
+      "descricao": "Os seguidores passaram de 515.757 para 515.865",
+      "variacao_texto": "+108 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-21T13:56:38.053797",
@@ -3807,50 +3856,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T19:14:56.505537",
-    "captura_mais_recente": "2026-11-21T13:56:38.053797",
-    "tempo_total_segundos": 4041701,
-    "tempo_total_dias": 46.778947,
-    "tempo_total_texto": "46 dias, 18 horas, 41 minutos e 41 segundos",
+    "captura_mais_recente": "2026-11-21T23:41:31.924777",
+    "tempo_total_segundos": 4076795,
+    "tempo_total_dias": 47.185127,
+    "tempo_total_texto": "47 dias, 4 horas, 26 minutos e 35 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 255,
+      "variacao": 280,
       "direcao": "ganhou",
-      "quantidade": 255,
-      "texto": "Ganhou 255 seguidores",
+      "quantidade": 280,
+      "texto": "Ganhou 280 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T10:11:15.321799",
-      "captura_fim": "2026-11-21T13:56:38.053797",
-      "seguidores_inicio": 515502,
-      "seguidores_fim": 515757
+      "captura_inicio": "2026-11-20T16:12:01.709490",
+      "captura_fim": "2026-11-21T23:41:31.924777",
+      "seguidores_inicio": 515585,
+      "seguidores_fim": 515865
     },
     "7_dias": {
-      "variacao": 5403,
+      "variacao": 5511,
       "direcao": "ganhou",
-      "quantidade": 5403,
-      "texto": "Ganhou 5403 seguidores",
+      "quantidade": 5511,
+      "texto": "Ganhou 5511 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:27:02.680168",
-      "captura_fim": "2026-11-21T13:56:38.053797",
+      "captura_fim": "2026-11-21T23:41:31.924777",
       "seguidores_inicio": 510354,
-      "seguidores_fim": 515757
+      "seguidores_fim": 515865
     },
     "30_dias": {
-      "variacao": 18489,
+      "variacao": 16620,
       "direcao": "ganhou",
-      "quantidade": 18489,
-      "texto": "Ganhou 18489 seguidores",
+      "quantidade": 16620,
+      "texto": "Ganhou 16620 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-21T17:45:03.740346",
-      "captura_fim": "2026-11-21T13:56:38.053797",
-      "seguidores_inicio": 497268,
-      "seguidores_fim": 515757
+      "captura_inicio": "2026-10-22T19:40:11.263177",
+      "captura_fim": "2026-11-21T23:41:31.924777",
+      "seguidores_inicio": 499245,
+      "seguidores_fim": 515865
     },
     "90_dias": {
       "variacao": null,
@@ -3861,17 +3910,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 21279,
+      "variacao": 21387,
       "direcao": "ganhou",
-      "quantidade": 21279,
-      "texto": "Ganhou 21279 seguidores",
+      "quantidade": 21387,
+      "texto": "Ganhou 21387 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T19:14:56.505537",
-      "captura_mais_recente": "2026-11-21T13:56:38.053797",
-      "tempo_total_dias": 46.778953,
+      "captura_mais_recente": "2026-11-21T23:41:31.924777",
+      "tempo_total_dias": 47.185132,
       "seguidores_inicio": 494478,
-      "seguidores_fim": 515757
+      "seguidores_fim": 515865
     }
   }
 }
