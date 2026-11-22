@@ -9,8 +9,8 @@
       "username": "farejador.games",
       "nome": "farejador games",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=a505a212&x-expires=1795485600&x-signature=4dXTvrie59lYsu9b4WXrDr1isNU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c4f6e2d3&x-expires=1795485600&x-signature=e02MLvdE5hUiLFVrJ6aD3MP2jK0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=25645083&x-expires=1795528800&x-signature=uSZp39OKhiIC4ZM5tN6RzwFUDvI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=12ec2d54&x-expires=1795528800&x-signature=m2pgaaim5IAHIAodDXA4EDs5PNc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
         "thumb": ""
       },
       "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
@@ -143,6 +143,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "tiktok",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 724,
+        "valor_atual": 723,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "-1 seguidores",
+        "timestamp": "2026-11-22T11:18:47.280217",
+        "timestamp_anterior": "2026-11-21T23:00:23.723863",
+        "tempo_desde_anterior_segundos": 44303
+      },
       {
         "plataforma": "tiktok",
         "campo": "seguidores",
@@ -338,6 +351,49 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-22T11:18:47.280217",
+      "timestamp_anterior": "2026-11-21T23:00:23.723863",
+      "timestamp_atual": "2026-11-22T11:18:47.280217",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteudo",
+        "id": "7691505041542349831",
+        "sec_uid": "MS4wLjABAAAAknEMelDDdxsSsdthW0WXDUCR2fgq0yBOajBzmMYBY3dNTnnlfh4Oz0FPYfa66Y-m",
+        "username": "farejador.games",
+        "nome": "farejador games",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=25645083&x-expires=1795528800&x-signature=uSZp39OKhiIC4ZM5tN6RzwFUDvI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=12ec2d54&x-expires=1795528800&x-signature=m2pgaaim5IAHIAodDXA4EDs5PNc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
+        "total_likes": 353,
+        "total_amigos": 0,
+        "total_posts": 11
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 724,
+      "valor_atual": 723,
+      "hash_anterior": "99c3c2486d55010875f2227bead34b20af428c4dd27a0abeb3713f8445ecd4db",
+      "hash_atual": "746c7083596c676ae3795c1340b0bc55af5a57b66b2f8ba7289e256f5ffad2a5",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 44303.556354,
+        "texto": "12 horas e 18 minutos e 23 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 44303.556354,
+        "texto": "12 horas e 18 minutos e 23 segundos"
+      },
+      "titulo": "Perdeu 1 seguidor",
+      "descricao": "Os seguidores caíram de 724 para 723",
+      "variacao_texto": "-1 seguidor"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-11-21T23:00:23.723863",
@@ -686,26 +742,26 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-11-19T18:01:33.742883",
-    "captura_mais_recente": "2026-11-21T23:00:23.723863",
-    "tempo_total_segundos": 190729,
-    "tempo_total_dias": 2.207512,
-    "tempo_total_texto": "2 dias, 4 horas, 58 minutos e 49 segundos",
+    "captura_mais_recente": "2026-11-22T11:18:47.280217",
+    "tempo_total_segundos": 235033,
+    "tempo_total_dias": 2.720289,
+    "tempo_total_texto": "2 dias, 17 horas, 17 minutos e 13 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 2,
+      "variacao": 1,
       "direcao": "ganhou",
-      "quantidade": 2,
-      "texto": "Ganhou 2 seguidores",
+      "quantidade": 1,
+      "texto": "Ganhou 1 seguidor",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-20T15:29:48.736287",
-      "captura_fim": "2026-11-21T23:00:23.723863",
+      "captura_fim": "2026-11-22T11:18:47.280217",
       "seguidores_inicio": 722,
-      "seguidores_fim": 724
+      "seguidores_fim": 723
     },
     "7_dias": {
       "variacao": null,
@@ -732,17 +788,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 20,
+      "variacao": 19,
       "direcao": "ganhou",
-      "quantidade": 20,
-      "texto": "Ganhou 20 seguidores",
+      "quantidade": 19,
+      "texto": "Ganhou 19 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-11-19T18:01:33.742883",
-      "captura_mais_recente": "2026-11-21T23:00:23.723863",
-      "tempo_total_dias": 2.207523,
+      "captura_mais_recente": "2026-11-22T11:18:47.280217",
+      "tempo_total_dias": 2.720296,
       "seguidores_inicio": 704,
-      "seguidores_fim": 724
+      "seguidores_fim": 723
     }
   }
 }

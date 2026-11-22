@@ -9,12 +9,12 @@
       "username": "nikolasferreiradm",
       "nome": "Nikolas Ferreira",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=e813ab4b&x-expires=1795370400&x-signature=PkYJXB3Kukii0KnTRpcHTjQu4eY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d9d54b18&x-expires=1795370400&x-signature=qisrkFmgOpfMqUOcFiSnITXKT4M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=7a344ac2&x-expires=1795528800&x-signature=ko38BSzkWPGWNhCCQQ%2FI9yC%2FLhU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=03d284e1&x-expires=1795528800&x-signature=%2F9glvMarTo%2FE%2Ft3anq7lHib45ZY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "thumb": ""
       },
       "conta_criada_em": "2020-11-13T14:29:50.000-03:00",
-      "total_likes": 227300000,
+      "total_likes": 227400000,
       "total_amigos": 0,
       "total_posts": 728
     },
@@ -155,6 +155,19 @@
         "plataforma": "tiktok",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 96,
+        "valor_atual": 97,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-11-22T11:19:37.358892",
+        "timestamp_anterior": "2026-11-19T19:39:01.486197",
+        "tempo_desde_anterior_segundos": 229235
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 96,
         "timestamp": "2026-11-19T19:39:01.486197",
         "tipo": "inicial"
@@ -181,6 +194,19 @@
       }
     ],
     "total_likes": [
+      {
+        "plataforma": "tiktok",
+        "campo": "total_likes",
+        "nome": "Curtidas totais",
+        "valor_anterior": 227300000,
+        "valor_atual": 227400000,
+        "variacao": 100000,
+        "direcao": "aumento",
+        "descricao": "+100000 curtidas",
+        "timestamp": "2026-11-22T11:19:37.358892",
+        "timestamp_anterior": "2026-11-20T15:31:22.641626",
+        "tempo_desde_anterior_segundos": 157694
+      },
       {
         "plataforma": "tiktok",
         "campo": "total_likes",
@@ -247,6 +273,92 @@
   "timeline": [
     {
       "plataforma": "tiktok",
+      "timestamp": "2026-11-22T11:19:37.358892",
+      "timestamp_anterior": "2026-11-20T15:31:22.641626",
+      "timestamp_atual": "2026-11-22T11:19:37.358892",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "6894661372861875205",
+        "sec_uid": "MS4wLjABAAAAbyxSiIw82aXHF4FlTJWRLRDfin6MQ7cA-iBgzQOqzO1oMn1Dn9PU5Y8K5BRZkWCi",
+        "username": "nikolasferreiradm",
+        "nome": "Nikolas Ferreira",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=7a344ac2&x-expires=1795528800&x-signature=ko38BSzkWPGWNhCCQQ%2FI9yC%2FLhU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=03d284e1&x-expires=1795528800&x-signature=%2F9glvMarTo%2FE%2Ft3anq7lHib45ZY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2020-11-13T14:29:50.000-03:00",
+        "total_likes": 227400000,
+        "total_amigos": 0,
+        "total_posts": 728
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 96,
+      "valor_atual": 97,
+      "hash_anterior": "45c8a5e2e68b017312b7ca6ddf7e2e8daf5283d4cc4c41eaafa90bd8d253f65d",
+      "hash_atual": "43b46a10327b72bb93da8c5759c736bf8ece4237966b899701412c8eb37374f8",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 157694.717266,
+        "texto": "1 dia e 19 horas e 48 minutos e 14 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 157694.717266,
+        "texto": "1 dia e 19 horas e 48 minutos e 14 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 96 e passou a seguir 97",
+      "variacao_texto": "+1 seguindo"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-22T11:19:37.358892",
+      "timestamp_anterior": "2026-11-20T15:31:22.641626",
+      "timestamp_atual": "2026-11-22T11:19:37.358892",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "6894661372861875205",
+        "sec_uid": "MS4wLjABAAAAbyxSiIw82aXHF4FlTJWRLRDfin6MQ7cA-iBgzQOqzO1oMn1Dn9PU5Y8K5BRZkWCi",
+        "username": "nikolasferreiradm",
+        "nome": "Nikolas Ferreira",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=7a344ac2&x-expires=1795528800&x-signature=ko38BSzkWPGWNhCCQQ%2FI9yC%2FLhU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3802c616c33317ce99096bfeffa8338c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=03d284e1&x-expires=1795528800&x-signature=%2F9glvMarTo%2FE%2Ft3anq7lHib45ZY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2020-11-13T14:29:50.000-03:00",
+        "total_likes": 227400000,
+        "total_amigos": 0,
+        "total_posts": 728
+      },
+      "tipo": "total_likes",
+      "campo": "total_likes",
+      "nome_campo": "Curtidas totais",
+      "valor_anterior": 227300000,
+      "valor_atual": 227400000,
+      "hash_anterior": "45c8a5e2e68b017312b7ca6ddf7e2e8daf5283d4cc4c41eaafa90bd8d253f65d",
+      "hash_atual": "43b46a10327b72bb93da8c5759c736bf8ece4237966b899701412c8eb37374f8",
+      "variacao": 100000,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 157694.717266,
+        "texto": "1 dia e 19 horas e 48 minutos e 14 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Recebeu 100.000 curtidas",
+      "descricao": "O total mudou de 227.300.000 para 227.400.000",
+      "variacao_texto": "+100.000 curtidas"
+    },
+    {
+      "plataforma": "tiktok",
       "timestamp": "2026-11-20T15:31:22.641626",
       "timestamp_anterior": "2026-11-19T19:39:01.486197",
       "timestamp_atual": "2026-11-20T15:31:22.641626",
@@ -292,10 +404,10 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-11-19T19:39:01.486197",
-    "captura_mais_recente": "2026-11-20T15:31:22.641626",
-    "tempo_total_segundos": 71541,
-    "tempo_total_dias": 0.828021,
-    "tempo_total_texto": "19 horas, 52 minutos e 21 segundos",
+    "captura_mais_recente": "2026-11-22T11:19:37.358892",
+    "tempo_total_segundos": 229235,
+    "tempo_total_dias": 2.653183,
+    "tempo_total_texto": "2 dias, 15 horas, 40 minutos e 35 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
