@@ -9,14 +9,14 @@
       "username": "lulaoficial",
       "nome": "Presidente Lula",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=e2436588&x-expires=1795446000&x-signature=dijphM%2BJJ%2BPWV%2FuG8PQoMDknGWM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b366c931&x-expires=1795446000&x-signature=d96pj2j9fE5VrM4b4jjszF%2FJFjw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=0ef74afa&x-expires=1795471200&x-signature=aecT%2BCYZfkGLA%2Ff162mOLU%2FsQuQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8830ee7b&x-expires=1795471200&x-signature=%2B6I0YUUAOV4X9YNwYMwogj7wUn8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
         "thumb": ""
       },
       "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
       "total_likes": 91800000,
       "total_amigos": 0,
-      "total_posts": 1408
+      "total_posts": 1411
     },
     "biografia": [
       {
@@ -286,6 +286,19 @@
         "plataforma": "tiktok",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1408,
+        "valor_atual": 1411,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "+3 publicações",
+        "timestamp": "2026-11-21T19:44:53.693646",
+        "timestamp_anterior": "2026-11-21T12:32:40.250056",
+        "tempo_desde_anterior_segundos": 25933
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1405,
         "valor_atual": 1408,
         "variacao": 3,
@@ -388,6 +401,49 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-21T19:44:53.693646",
+      "timestamp_anterior": "2026-11-21T12:32:40.250056",
+      "timestamp_atual": "2026-11-21T19:44:53.693646",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "7092066171852719110",
+        "sec_uid": "MS4wLjABAAAA3mxZkBsjbsh3Fw_LZ3aj-Duk8jCoemT9bkMMlia7kdpq3IKKsghnEF0oWZsip4M5",
+        "username": "lulaoficial",
+        "nome": "Presidente Lula",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=0ef74afa&x-expires=1795471200&x-signature=aecT%2BCYZfkGLA%2Ff162mOLU%2FsQuQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b81e785865c9374db64bdcfb536651b1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8830ee7b&x-expires=1795471200&x-signature=%2B6I0YUUAOV4X9YNwYMwogj7wUn8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2022-04-29T15:36:08.000-03:00",
+        "total_likes": 91800000,
+        "total_amigos": 0,
+        "total_posts": 1411
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1408,
+      "valor_atual": 1411,
+      "hash_anterior": "7a74caba989700306a09121925c0b6d4594b960199b5bb2c990f0d5281401d56",
+      "hash_atual": "12a40560d257b9c8aedc4708af7183b08e1a9bba28b1ca58a8ac5f34a350369a",
+      "variacao": 3,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 25933.44359,
+        "texto": "7 horas e 12 minutos e 13 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25933.44359,
+        "texto": "7 horas e 12 minutos e 13 segundos"
+      },
+      "titulo": "Publicou 3 publicações",
+      "descricao": "O total mudou de 1.408 para 1.411",
+      "variacao_texto": "+3 posts"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-11-21T12:32:40.250056",
@@ -907,10 +963,10 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T16:25:32.053834",
-    "captura_mais_recente": "2026-11-21T12:32:40.250056",
-    "tempo_total_segundos": 3096428,
-    "tempo_total_dias": 35.838287,
-    "tempo_total_texto": "35 dias, 20 horas, 7 minutos e 8 segundos",
+    "captura_mais_recente": "2026-11-21T19:44:53.693646",
+    "tempo_total_segundos": 3122361,
+    "tempo_total_dias": 36.138438,
+    "tempo_total_texto": "36 dias, 3 horas, 19 minutos e 21 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
