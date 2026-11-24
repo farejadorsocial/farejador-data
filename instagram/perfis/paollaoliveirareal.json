@@ -8,7 +8,7 @@
       "id": "17841400057120145",
       "username": "paollaoliveirareal",
       "nome": "Paolla Oliveira",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/326340478_728437775569601_7536036692047613795_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GH6PcxPBktqigpYCAGPPzptxYZVobkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Y8YHrduszrAQ7kNvwFe0hx1&_nc_oc=Adq6olSiTkLzbQ1uNgMQwCA7GwP2bBPHdyK3YvOdKYHhF09lk6guupHFRJqAbi3XM2Cpp5QSpx6VcD1HQ4NtPH41&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSFejOEo_I13tn0idlRW8tjzHeBeqSvLoyRNfDbhxMjdg&oe=6B08CF18",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/326340478_728437775569601_7536036692047613795_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GH6PcxPBktqigpYCAGPPzptxYZVobkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=INXxwDXD3cEQ7kNvwGO1WOg&_nc_oc=AdpdZ86LKMz9P270KMye1wLGA785aVBTqeGatbVVWaTyqw80F8foJcTW7fAwMmSnN9Cj_oh7bwFuYpqU6QI1j_L1&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQQFOS2p21lRRrxynXXlUHxt9oihrSW5-udK07jupo1pQ&oe=6B0BAA58",
       "total_posts": 5857
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 37992639,
+        "valor_atual": 37981597,
+        "variacao": -11042,
+        "direcao": "reducao",
+        "descricao": "-11042 seguidores",
+        "timestamp": "2026-11-24T16:04:05.428857",
+        "timestamp_anterior": "2026-11-22T11:34:17.299179",
+        "tempo_desde_anterior_segundos": 188988
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1598,6 +1611,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 2888,
+        "valor_atual": 2889,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-11-24T16:04:05.428857",
+        "timestamp_anterior": "2026-11-19T17:26:03.761457",
+        "tempo_desde_anterior_segundos": 427081
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 2879,
         "valor_atual": 2888,
         "variacao": 9,
@@ -1951,6 +1977,78 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:04:05.428857",
+      "timestamp_anterior": "2026-11-22T11:34:17.299179",
+      "timestamp_atual": "2026-11-24T16:04:05.428857",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 9281904,
+        "id": "17841400057120145",
+        "username": "paollaoliveirareal",
+        "nome": "Paolla Oliveira",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/326340478_728437775569601_7536036692047613795_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GH6PcxPBktqigpYCAGPPzptxYZVobkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=INXxwDXD3cEQ7kNvwGO1WOg&_nc_oc=AdpdZ86LKMz9P270KMye1wLGA785aVBTqeGatbVVWaTyqw80F8foJcTW7fAwMmSnN9Cj_oh7bwFuYpqU6QI1j_L1&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQQFOS2p21lRRrxynXXlUHxt9oihrSW5-udK07jupo1pQ&oe=6B0BAA58",
+        "total_posts": 5857
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 37992639,
+      "valor_atual": 37981597,
+      "hash_anterior": "63c584383f74fc3846340e2acc15e6864943987903edaca7d69896992109882f",
+      "hash_atual": "2297b7ce1f54f5519220d85de194f65cd61d7184184388eef35e044fcfa76d86",
+      "variacao": -11042,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188988.129678,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188988.129678,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "titulo": "Perdeu 11.042 seguidores",
+      "descricao": "Os seguidores caíram de 37.992.639 para 37.981.597",
+      "variacao_texto": "-11.042 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:04:05.428857",
+      "timestamp_anterior": "2026-11-22T11:34:17.299179",
+      "timestamp_atual": "2026-11-24T16:04:05.428857",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atriz",
+        "pk": 9281904,
+        "id": "17841400057120145",
+        "username": "paollaoliveirareal",
+        "nome": "Paolla Oliveira",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/326340478_728437775569601_7536036692047613795_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GH6PcxPBktqigpYCAGPPzptxYZVobkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=INXxwDXD3cEQ7kNvwGO1WOg&_nc_oc=AdpdZ86LKMz9P270KMye1wLGA785aVBTqeGatbVVWaTyqw80F8foJcTW7fAwMmSnN9Cj_oh7bwFuYpqU6QI1j_L1&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQQFOS2p21lRRrxynXXlUHxt9oihrSW5-udK07jupo1pQ&oe=6B0BAA58",
+        "total_posts": 5857
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 2888,
+      "valor_atual": 2889,
+      "hash_anterior": "63c584383f74fc3846340e2acc15e6864943987903edaca7d69896992109882f",
+      "hash_atual": "2297b7ce1f54f5519220d85de194f65cd61d7184184388eef35e044fcfa76d86",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188988.129678,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 2.888 e passou a seguir 2.889",
+      "variacao_texto": "+1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:34:17.299179",
@@ -6923,50 +7021,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:34:09.387101",
-    "captura_mais_recente": "2026-11-22T11:34:17.299179",
-    "tempo_total_segundos": 4222807,
-    "tempo_total_dias": 48.875081,
-    "tempo_total_texto": "48 dias, 21 horas e 7 segundos",
+    "captura_mais_recente": "2026-11-24T16:04:05.428857",
+    "tempo_total_segundos": 4411796,
+    "tempo_total_dias": 51.062454,
+    "tempo_total_texto": "51 dias, 1 hora, 29 minutos e 56 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -8946,
+      "variacao": -11042,
       "direcao": "perdeu",
-      "quantidade": 8946,
-      "texto": "Perdeu 8946 seguidores",
+      "quantidade": 11042,
+      "texto": "Perdeu 11042 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T15:46:49.901204",
-      "captura_fim": "2026-11-22T11:34:17.299179",
-      "seguidores_inicio": 38001585,
-      "seguidores_fim": 37992639
+      "captura_inicio": "2026-11-22T11:34:17.299179",
+      "captura_fim": "2026-11-24T16:04:05.428857",
+      "seguidores_inicio": 37992639,
+      "seguidores_fim": 37981597
     },
     "7_dias": {
-      "variacao": -35982,
+      "variacao": -47024,
       "direcao": "perdeu",
-      "quantidade": 35982,
-      "texto": "Perdeu 35982 seguidores",
+      "quantidade": 47024,
+      "texto": "Perdeu 47024 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:44.351273",
-      "captura_fim": "2026-11-22T11:34:17.299179",
+      "captura_fim": "2026-11-24T16:04:05.428857",
       "seguidores_inicio": 38028621,
-      "seguidores_fim": 37992639
+      "seguidores_fim": 37981597
     },
     "30_dias": {
-      "variacao": -198880,
+      "variacao": -193671,
       "direcao": "perdeu",
-      "quantidade": 198880,
-      "texto": "Perdeu 198880 seguidores",
+      "quantidade": 193671,
+      "texto": "Perdeu 193671 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-23T11:03:44.976102",
-      "captura_fim": "2026-11-22T11:34:17.299179",
-      "seguidores_inicio": 38191519,
-      "seguidores_fim": 37992639
+      "captura_inicio": "2026-10-24T11:06:24.830126",
+      "captura_fim": "2026-11-24T16:04:05.428857",
+      "seguidores_inicio": 38175268,
+      "seguidores_fim": 37981597
     },
     "90_dias": {
       "variacao": null,
@@ -6977,17 +7075,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -408205,
+      "variacao": -419247,
       "direcao": "perdeu",
-      "quantidade": 408205,
-      "texto": "Perdeu 408205 seguidores",
+      "quantidade": 419247,
+      "texto": "Perdeu 419247 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:34:09.387101",
-      "captura_mais_recente": "2026-11-22T11:34:17.299179",
-      "tempo_total_dias": 48.875092,
+      "captura_mais_recente": "2026-11-24T16:04:05.428857",
+      "tempo_total_dias": 51.062454,
       "seguidores_inicio": 38400844,
-      "seguidores_fim": 37992639
+      "seguidores_fim": 37981597
     }
   }
 }

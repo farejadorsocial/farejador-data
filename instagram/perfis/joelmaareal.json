@@ -8,7 +8,7 @@
       "id": "17841402166126746",
       "username": "joelmaareal",
       "nome": "Joelma",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/709166472_18535564180072205_9087164108249921028_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIgFRSoNJ6pW-9lBAAR26k_cFxx_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=os5Cat_bSQUQ7kNvwHPMYJ4&_nc_oc=AdrB138Atdswl3J9MOGj08zWawBqU6Xn7_muScfNnmHEbdCXj5-DL7yrWwvV26fNG82KI3VA6wVijELPK2cfNJiD&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=N4fQspFz5acwIYqztYnkkg&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQKKYTBlc-x2y2gKVWeR4qE_aRnYBqhhLH6CyJ6cNXH4w&oe=6B08B7E3",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/709166472_18535564180072205_9087164108249921028_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIgFRSoNJ6pW-9lBAAR26k_cFxx_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0Uspz8n4KGQQ7kNvwGip1q2&_nc_oc=AdoX3BuP4lnUZATEECIbzrwErH4-X65laggndFqdaNAcbGc-leLf_Cv8TXguy3lfvQxHpEW_vv5XyMdEYPj4ufvZ&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=Cl_KQf2ortzpDb9fW8_iug&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS0Tquw1sPRTDR3E5jb6omtd9Jc7z18bLrGccOCm7IphA&oe=6B0BCB63",
       "total_posts": 5639
     },
     "biografia": [
@@ -118,6 +118,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 6201325,
+        "valor_atual": 6202509,
+        "variacao": 1184,
+        "direcao": "aumento",
+        "descricao": "+1184 seguidores",
+        "timestamp": "2026-11-24T16:11:20.735823",
+        "timestamp_anterior": "2026-11-22T11:41:32.410692",
+        "tempo_desde_anterior_segundos": 188988
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1291,6 +1304,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:11:20.735823",
+      "timestamp_anterior": "2026-11-22T11:41:32.410692",
+      "timestamp_atual": "2026-11-24T16:11:20.735823",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantora",
+        "pk": 2213968204,
+        "id": "17841402166126746",
+        "username": "joelmaareal",
+        "nome": "Joelma",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/709166472_18535564180072205_9087164108249921028_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIgFRSoNJ6pW-9lBAAR26k_cFxx_bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=0Uspz8n4KGQQ7kNvwGip1q2&_nc_oc=AdoX3BuP4lnUZATEECIbzrwErH4-X65laggndFqdaNAcbGc-leLf_Cv8TXguy3lfvQxHpEW_vv5XyMdEYPj4ufvZ&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=Cl_KQf2ortzpDb9fW8_iug&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS0Tquw1sPRTDR3E5jb6omtd9Jc7z18bLrGccOCm7IphA&oe=6B0BCB63",
+        "total_posts": 5639
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 6201325,
+      "valor_atual": 6202509,
+      "hash_anterior": "94dcc63e9f68d653ebd0d0f3d600ef32404c54e6633b50b6ff054212abc754d8",
+      "hash_atual": "d45fb62aaf0fc0b33e94ba1ffe6664f7f4e1fb4fa8a481b29b6ed3d9e2976bf7",
+      "variacao": 1184,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188988.325131,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188988.325131,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "titulo": "Ganhou 1.184 seguidores",
+      "descricao": "Os seguidores passaram de 6.201.325 para 6.202.509",
+      "variacao_texto": "+1.184 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:41:32.410692",
@@ -4374,50 +4423,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:29.901067",
-    "captura_mais_recente": "2026-11-22T11:41:32.410692",
-    "tempo_total_segundos": 4114742,
-    "tempo_total_dias": 47.624329,
-    "tempo_total_texto": "47 dias, 14 horas, 59 minutos e 2 segundos",
+    "captura_mais_recente": "2026-11-24T16:11:20.735823",
+    "tempo_total_segundos": 4303730,
+    "tempo_total_dias": 49.81169,
+    "tempo_total_texto": "49 dias, 19 horas, 28 minutos e 50 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 2353,
+      "variacao": 1184,
       "direcao": "ganhou",
-      "quantidade": 2353,
-      "texto": "Ganhou 2353 seguidores",
+      "quantidade": 1184,
+      "texto": "Ganhou 1184 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T15:54:26.487152",
-      "captura_fim": "2026-11-22T11:41:32.410692",
-      "seguidores_inicio": 6198972,
-      "seguidores_fim": 6201325
+      "captura_inicio": "2026-11-22T11:41:32.410692",
+      "captura_fim": "2026-11-24T16:11:20.735823",
+      "seguidores_inicio": 6201325,
+      "seguidores_fim": 6202509
     },
     "7_dias": {
-      "variacao": 30819,
+      "variacao": 32003,
       "direcao": "ganhou",
-      "quantidade": 30819,
-      "texto": "Ganhou 30819 seguidores",
+      "quantidade": 32003,
+      "texto": "Ganhou 32003 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:40.065672",
-      "captura_fim": "2026-11-22T11:41:32.410692",
+      "captura_fim": "2026-11-24T16:11:20.735823",
       "seguidores_inicio": 6170506,
-      "seguidores_fim": 6201325
+      "seguidores_fim": 6202509
     },
     "30_dias": {
-      "variacao": 26375,
+      "variacao": 27445,
       "direcao": "ganhou",
-      "quantidade": 26375,
-      "texto": "Ganhou 26375 seguidores",
+      "quantidade": 27445,
+      "texto": "Ganhou 27445 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-23T10:37:54.026765",
-      "captura_fim": "2026-11-22T11:41:32.410692",
-      "seguidores_inicio": 6174950,
-      "seguidores_fim": 6201325
+      "captura_inicio": "2026-10-24T11:01:24.339320",
+      "captura_fim": "2026-11-24T16:11:20.735823",
+      "seguidores_inicio": 6175064,
+      "seguidores_fim": 6202509
     },
     "90_dias": {
       "variacao": null,
@@ -4428,17 +4477,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 42634,
+      "variacao": 43818,
       "direcao": "ganhou",
-      "quantidade": 42634,
-      "texto": "Ganhou 42634 seguidores",
+      "quantidade": 43818,
+      "texto": "Ganhou 43818 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:29.901067",
-      "captura_mais_recente": "2026-11-22T11:41:32.410692",
-      "tempo_total_dias": 47.624335,
+      "captura_mais_recente": "2026-11-24T16:11:20.735823",
+      "tempo_total_dias": 49.811699,
       "seguidores_inicio": 6158691,
-      "seguidores_fim": 6201325
+      "seguidores_fim": 6202509
     }
   }
 }

@@ -8,7 +8,7 @@
       "id": "17841401016706680",
       "username": "leomessi",
       "nome": "Leo Messi",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/424905549_7243065989106669_45026390061580919_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GE2LUxnti123h7sZAHeCI2FD958AbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ky0mB2tZMVgQ7kNvwHhpMbi&_nc_oc=AdpeW9itbXYvenAJKujC8AcVQ5D8WMim0doT3Pky5AcNpxo2pfMKBkFHhviWtiKQcvRHj35F4gSeXUETtogL-jB9&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQXj-gDEHEaahfynwKMvfPbn5Vtxe31BH3iZ-EDDxN5rA&oe=6B08BAF1",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/424905549_7243065989106669_45026390061580919_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GE2LUxnti123h7sZAHeCI2FD958AbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8wfY8Rm7bvAQ7kNvwH--Bvj&_nc_oc=AdqmbHH8DeArR0aeaPO5VIGzHDPZmYNiwCKBGLKrmK-SLEVJfSpIPo6rzHXA3TvSORiW_AzQkpfdNC4oyno1JU8T&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRPZdBcb-be2fOAOe33NR9iUTY6BAXIvAUf-PJWu684UA&oe=6B0BCE71",
       "total_posts": 1562
     },
     "biografia": [
@@ -82,6 +82,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 516767132,
+        "valor_atual": 516441312,
+        "variacao": -325820,
+        "direcao": "reducao",
+        "descricao": "-325820 seguidores",
+        "timestamp": "2026-11-24T16:06:40.865076",
+        "timestamp_anterior": "2026-11-22T11:36:52.573198",
+        "tempo_desde_anterior_segundos": 188988
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1541,6 +1554,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:06:40.865076",
+      "timestamp_anterior": "2026-11-22T11:36:52.573198",
+      "timestamp_atual": "2026-11-24T16:06:40.865076",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 427553890,
+        "id": "17841401016706680",
+        "username": "leomessi",
+        "nome": "Leo Messi",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/424905549_7243065989106669_45026390061580919_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GE2LUxnti123h7sZAHeCI2FD958AbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8wfY8Rm7bvAQ7kNvwH--Bvj&_nc_oc=AdqmbHH8DeArR0aeaPO5VIGzHDPZmYNiwCKBGLKrmK-SLEVJfSpIPo6rzHXA3TvSORiW_AzQkpfdNC4oyno1JU8T&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRPZdBcb-be2fOAOe33NR9iUTY6BAXIvAUf-PJWu684UA&oe=6B0BCE71",
+        "total_posts": 1562
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 516767132,
+      "valor_atual": 516441312,
+      "hash_anterior": "cbc95ea7f1d486b20b9af7fb6df5dc7de6126501c36b5a8d12ce6c7ddfa4e9bd",
+      "hash_atual": "b19f0397b61064c17a219f7a85a2711358786a2132e3c0141cc6d29b154ee727",
+      "variacao": -325820,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188988.291878,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188988.291878,
+        "texto": "2 dias e 4 horas e 29 minutos e 48 segundos"
+      },
+      "titulo": "Perdeu 325.820 seguidores",
+      "descricao": "Os seguidores caíram de 516.767.132 para 516.441.312",
+      "variacao_texto": "-325.820 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:36:52.573198",
@@ -5361,50 +5410,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T14:07:31.255869",
-    "captura_mais_recente": "2026-11-22T11:36:52.573198",
-    "tempo_total_segundos": 4224561,
-    "tempo_total_dias": 48.895382,
-    "tempo_total_texto": "48 dias, 21 horas, 29 minutos e 21 segundos",
+    "captura_mais_recente": "2026-11-24T16:06:40.865076",
+    "tempo_total_segundos": 4413549,
+    "tempo_total_dias": 51.082743,
+    "tempo_total_texto": "51 dias, 1 hora, 59 minutos e 9 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -366325,
+      "variacao": -325820,
       "direcao": "perdeu",
-      "quantidade": 366325,
-      "texto": "Perdeu 366325 seguidores",
+      "quantidade": 325820,
+      "texto": "Perdeu 325820 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T15:49:46.862789",
-      "captura_fim": "2026-11-22T11:36:52.573198",
-      "seguidores_inicio": 517133457,
-      "seguidores_fim": 516767132
+      "captura_inicio": "2026-11-22T11:36:52.573198",
+      "captura_fim": "2026-11-24T16:06:40.865076",
+      "seguidores_inicio": 516767132,
+      "seguidores_fim": 516441312
     },
     "7_dias": {
-      "variacao": -791206,
+      "variacao": -1117026,
       "direcao": "perdeu",
-      "quantidade": 791206,
-      "texto": "Perdeu 791206 seguidores",
+      "quantidade": 1117026,
+      "texto": "Perdeu 1117026 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:56.323862",
-      "captura_fim": "2026-11-22T11:36:52.573198",
+      "captura_fim": "2026-11-24T16:06:40.865076",
       "seguidores_inicio": 517558338,
-      "seguidores_fim": 516767132
+      "seguidores_fim": 516441312
     },
     "30_dias": {
-      "variacao": -964698,
+      "variacao": -1297247,
       "direcao": "perdeu",
-      "quantidade": 964698,
-      "texto": "Perdeu 964698 seguidores",
+      "quantidade": 1297247,
+      "texto": "Perdeu 1297247 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-23T11:03:59.391702",
-      "captura_fim": "2026-11-22T11:36:52.573198",
-      "seguidores_inicio": 517731830,
-      "seguidores_fim": 516767132
+      "captura_inicio": "2026-10-24T11:06:35.735203",
+      "captura_fim": "2026-11-24T16:06:40.865076",
+      "seguidores_inicio": 517738559,
+      "seguidores_fim": 516441312
     },
     "90_dias": {
       "variacao": null,
@@ -5415,17 +5464,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -91353,
+      "variacao": -417173,
       "direcao": "perdeu",
-      "quantidade": 91353,
-      "texto": "Perdeu 91353 seguidores",
+      "quantidade": 417173,
+      "texto": "Perdeu 417173 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T14:07:31.255869",
-      "captura_mais_recente": "2026-11-22T11:36:52.573198",
-      "tempo_total_dias": 48.895386,
+      "captura_mais_recente": "2026-11-24T16:06:40.865076",
+      "tempo_total_dias": 51.08275,
       "seguidores_inicio": 516858485,
-      "seguidores_fim": 516767132
+      "seguidores_fim": 516441312
     }
   }
 }

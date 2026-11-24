@@ -8,7 +8,7 @@
       "id": "17841400680070165",
       "username": "caiocastro",
       "nome": "Caio Castro",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/457616008_1253235979181378_8591293693323512226_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIiqRhtC3Vu9z3MEAKIJmm8YaDp3bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VLwwHfnxFwkQ7kNvwFY5xKL&_nc_oc=AdoLSdtcqHXf9b_Ho1JVPdUXDLJrd7Ek9UoBi7kmK2gHhT2oumhlRtyH_8aD7kU0Y_3UGpLmxHav12KbRsCJwgHb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTuTzSwgRd6jC9ZwNxpzbSuEW6EO9hJv9bPpDgbbVmVLg&oe=6B08BD43",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/457616008_1253235979181378_8591293693323512226_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIiqRhtC3Vu9z3MEAKIJmm8YaDp3bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VLwwHfnxFwkQ7kNvwGPQWwm&_nc_oc=AdpN95vnUReKcU0EScx343yy1tFDGERc3cgoyb59_rrbJv2oPDBF5kcny5bhv-2tamMLvilYLpjy5c_sE7ocAeSQ&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRSRBVIGdUrwueTo6f_VdPqeqCXVXmenx86C0gf-pvn0g&oe=6B0BD0C3",
       "total_posts": 2281
     },
     "biografia": [
@@ -79,6 +79,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 18794827,
+        "valor_atual": 18788961,
+        "variacao": -5866,
+        "direcao": "reducao",
+        "descricao": "-5866 seguidores",
+        "timestamp": "2026-11-24T16:18:35.049857",
+        "timestamp_anterior": "2026-11-22T11:49:16.765843",
+        "tempo_desde_anterior_segundos": 188958
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1276,6 +1289,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 613,
+        "valor_atual": 612,
+        "variacao": -1,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 1",
+        "timestamp": "2026-11-24T16:18:35.049857",
+        "timestamp_anterior": "2026-11-20T16:02:12.308046",
+        "tempo_desde_anterior_segundos": 346582
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 614,
         "valor_atual": 613,
         "variacao": -1,
@@ -1590,6 +1616,78 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:18:35.049857",
+      "timestamp_anterior": "2026-11-22T11:49:16.765843",
+      "timestamp_atual": "2026-11-24T16:18:35.049857",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 10582669,
+        "id": "17841400680070165",
+        "username": "caiocastro",
+        "nome": "Caio Castro",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/457616008_1253235979181378_8591293693323512226_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIiqRhtC3Vu9z3MEAKIJmm8YaDp3bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VLwwHfnxFwkQ7kNvwGPQWwm&_nc_oc=AdpN95vnUReKcU0EScx343yy1tFDGERc3cgoyb59_rrbJv2oPDBF5kcny5bhv-2tamMLvilYLpjy5c_sE7ocAeSQ&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRSRBVIGdUrwueTo6f_VdPqeqCXVXmenx86C0gf-pvn0g&oe=6B0BD0C3",
+        "total_posts": 2281
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 18794827,
+      "valor_atual": 18788961,
+      "hash_anterior": "e3bad480745fab8cf2330c8cb92be5a5665e49b1f9675d90ac095f7c1e9df679",
+      "hash_atual": "5bc8121b0ca8cf468c70adb332f9ea16ba652d1c0659d3aa83e8262d343411c7",
+      "variacao": -5866,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188958.284014,
+        "texto": "2 dias e 4 horas e 29 minutos e 18 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188958.284014,
+        "texto": "2 dias e 4 horas e 29 minutos e 18 segundos"
+      },
+      "titulo": "Perdeu 5.866 seguidores",
+      "descricao": "Os seguidores caíram de 18.794.827 para 18.788.961",
+      "variacao_texto": "-5.866 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:18:35.049857",
+      "timestamp_anterior": "2026-11-22T11:49:16.765843",
+      "timestamp_atual": "2026-11-24T16:18:35.049857",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "ator",
+        "pk": 10582669,
+        "id": "17841400680070165",
+        "username": "caiocastro",
+        "nome": "Caio Castro",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/457616008_1253235979181378_8591293693323512226_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GIiqRhtC3Vu9z3MEAKIJmm8YaDp3bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VLwwHfnxFwkQ7kNvwGPQWwm&_nc_oc=AdpN95vnUReKcU0EScx343yy1tFDGERc3cgoyb59_rrbJv2oPDBF5kcny5bhv-2tamMLvilYLpjy5c_sE7ocAeSQ&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRSRBVIGdUrwueTo6f_VdPqeqCXVXmenx86C0gf-pvn0g&oe=6B0BD0C3",
+        "total_posts": 2281
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 613,
+      "valor_atual": 612,
+      "hash_anterior": "e3bad480745fab8cf2330c8cb92be5a5665e49b1f9675d90ac095f7c1e9df679",
+      "hash_atual": "5bc8121b0ca8cf468c70adb332f9ea16ba652d1c0659d3aa83e8262d343411c7",
+      "variacao": -1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188958.284014,
+        "texto": "2 dias e 4 horas e 29 minutos e 18 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 1 pessoa",
+      "descricao": "Estava seguindo 613 e passou a seguir 612",
+      "variacao_texto": "-1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:49:16.765843",
@@ -5554,50 +5652,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:38.845393",
-    "captura_mais_recente": "2026-11-22T11:49:16.765843",
-    "tempo_total_segundos": 4115317,
-    "tempo_total_dias": 47.630984,
-    "tempo_total_texto": "47 dias, 15 horas, 8 minutos e 37 segundos",
+    "captura_mais_recente": "2026-11-24T16:18:35.049857",
+    "tempo_total_segundos": 4304276,
+    "tempo_total_dias": 49.818009,
+    "tempo_total_texto": "49 dias, 19 horas, 37 minutos e 56 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -6270,
+      "variacao": -5866,
       "direcao": "perdeu",
-      "quantidade": 6270,
-      "texto": "Perdeu 6270 seguidores",
+      "quantidade": 5866,
+      "texto": "Perdeu 5866 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T16:02:12.308046",
-      "captura_fim": "2026-11-22T11:49:16.765843",
-      "seguidores_inicio": 18801097,
-      "seguidores_fim": 18794827
+      "captura_inicio": "2026-11-22T11:49:16.765843",
+      "captura_fim": "2026-11-24T16:18:35.049857",
+      "seguidores_inicio": 18794827,
+      "seguidores_fim": 18788961
     },
     "7_dias": {
-      "variacao": -29392,
+      "variacao": -35258,
       "direcao": "perdeu",
-      "quantidade": 29392,
-      "texto": "Perdeu 29392 seguidores",
+      "quantidade": 35258,
+      "texto": "Perdeu 35258 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:14.366145",
-      "captura_fim": "2026-11-22T11:49:16.765843",
+      "captura_fim": "2026-11-24T16:18:35.049857",
       "seguidores_inicio": 18824219,
-      "seguidores_fim": 18794827
+      "seguidores_fim": 18788961
     },
     "30_dias": {
-      "variacao": -53207,
+      "variacao": -57533,
       "direcao": "perdeu",
-      "quantidade": 53207,
-      "texto": "Perdeu 53207 seguidores",
+      "quantidade": 57533,
+      "texto": "Perdeu 57533 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-23T10:35:46.421927",
-      "captura_fim": "2026-11-22T11:49:16.765843",
-      "seguidores_inicio": 18848034,
-      "seguidores_fim": 18794827
+      "captura_inicio": "2026-10-24T11:07:26.084432",
+      "captura_fim": "2026-11-24T16:18:35.049857",
+      "seguidores_inicio": 18846494,
+      "seguidores_fim": 18788961
     },
     "90_dias": {
       "variacao": null,
@@ -5608,17 +5706,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -81673,
+      "variacao": -87539,
       "direcao": "perdeu",
-      "quantidade": 81673,
-      "texto": "Perdeu 81673 seguidores",
+      "quantidade": 87539,
+      "texto": "Perdeu 87539 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:38.845393",
-      "captura_mais_recente": "2026-11-22T11:49:16.765843",
-      "tempo_total_dias": 47.630994,
+      "captura_mais_recente": "2026-11-24T16:18:35.049857",
+      "tempo_total_dias": 49.818012,
       "seguidores_inicio": 18876500,
-      "seguidores_fim": 18794827
+      "seguidores_fim": 18788961
     }
   }
 }

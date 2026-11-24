@@ -8,7 +8,7 @@
       "id": "17841401845019285",
       "username": "karimbenzema",
       "nome": "Karim Benzema",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC9PbRkRhCkVfnUBAK1FRkAUEfQEbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oYuoTGgURosQ7kNvwH1CNuk&_nc_oc=Adolhwh7eRpBXEBlThSjnXGV1K9Pf1d_WFIPNCvhWR0Ozwdp6aOzIfmLTFtfflMo2arhXnwqTYBOusWcHx2GGGDm&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRnSsQfX7T1W67QvCCjzwK3bDOSXvPpI-PPjbBJruHpJQ&oe=6B08BBA5",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC9PbRkRhCkVfnUBAK1FRkAUEfQEbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oYuoTGgURosQ7kNvwFOd5FC&_nc_oc=AdoVuqgjD1ZfZtnbTN5c-Uw-phzDHZtPFW7FwBciciujUGX41ZGZOKZUWZJEfIh17V6zHMn12hGPPtPCSRyViKgD&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQPaM58ChfdzwLj9sS3jl0SOCe0zOlQP22ez37dSNKHOA&oe=6B0BCF25",
       "total_posts": 117
     },
     "biografia": [
@@ -72,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 74173504,
+        "valor_atual": 74135653,
+        "variacao": -37851,
+        "direcao": "reducao",
+        "descricao": "-37851 seguidores",
+        "timestamp": "2026-11-24T16:17:33.007888",
+        "timestamp_anterior": "2026-11-22T11:48:14.932829",
+        "tempo_desde_anterior_segundos": 188958
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1154,6 +1167,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:17:33.007888",
+      "timestamp_anterior": "2026-11-22T11:48:14.932829",
+      "timestamp_atual": "2026-11-24T16:17:33.007888",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 1234301500,
+        "id": "17841401845019285",
+        "username": "karimbenzema",
+        "nome": "Karim Benzema",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/426594095_410659358082065_356929049144477101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GC9PbRkRhCkVfnUBAK1FRkAUEfQEbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oYuoTGgURosQ7kNvwFOd5FC&_nc_oc=AdoVuqgjD1ZfZtnbTN5c-Uw-phzDHZtPFW7FwBciciujUGX41ZGZOKZUWZJEfIh17V6zHMn12hGPPtPCSRyViKgD&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQPaM58ChfdzwLj9sS3jl0SOCe0zOlQP22ez37dSNKHOA&oe=6B0BCF25",
+        "total_posts": 117
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 74173504,
+      "valor_atual": 74135653,
+      "hash_anterior": "b9eb845699bed424690fb5685a348c585e3319aa0bdb8911b7207c5fe5cb8f42",
+      "hash_atual": "9dd68faadc7765c121c1f8f2d59f0737c43aa75a160aac2b6a3c11928bca573c",
+      "variacao": -37851,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188958.075059,
+        "texto": "2 dias e 4 horas e 29 minutos e 18 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188958.075059,
+        "texto": "2 dias e 4 horas e 29 minutos e 18 segundos"
+      },
+      "titulo": "Perdeu 37.851 seguidores",
+      "descricao": "Os seguidores caíram de 74.173.504 para 74.135.653",
+      "variacao_texto": "-37.851 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:48:14.932829",
@@ -3930,50 +3979,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:51.062618",
-    "captura_mais_recente": "2026-11-22T11:48:14.932829",
-    "tempo_total_segundos": 4115183,
-    "tempo_total_dias": 47.629433,
-    "tempo_total_texto": "47 dias, 15 horas, 6 minutos e 23 segundos",
+    "captura_mais_recente": "2026-11-24T16:17:33.007888",
+    "tempo_total_segundos": 4304141,
+    "tempo_total_dias": 49.816447,
+    "tempo_total_texto": "49 dias, 19 horas, 35 minutos e 41 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -28529,
+      "variacao": -37851,
       "direcao": "perdeu",
-      "quantidade": 28529,
-      "texto": "Perdeu 28529 seguidores",
+      "quantidade": 37851,
+      "texto": "Perdeu 37851 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T16:01:10.574120",
-      "captura_fim": "2026-11-22T11:48:14.932829",
-      "seguidores_inicio": 74202033,
-      "seguidores_fim": 74173504
+      "captura_inicio": "2026-11-22T11:48:14.932829",
+      "captura_fim": "2026-11-24T16:17:33.007888",
+      "seguidores_inicio": 74173504,
+      "seguidores_fim": 74135653
     },
     "7_dias": {
-      "variacao": -129317,
+      "variacao": -167168,
       "direcao": "perdeu",
-      "quantidade": 129317,
-      "texto": "Perdeu 129317 seguidores",
+      "quantidade": 167168,
+      "texto": "Perdeu 167168 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:06.790397",
-      "captura_fim": "2026-11-22T11:48:14.932829",
+      "captura_fim": "2026-11-24T16:17:33.007888",
       "seguidores_inicio": 74302821,
-      "seguidores_fim": 74173504
+      "seguidores_fim": 74135653
     },
     "30_dias": {
-      "variacao": -189674,
+      "variacao": -223659,
       "direcao": "perdeu",
-      "quantidade": 189674,
-      "texto": "Perdeu 189674 seguidores",
+      "quantidade": 223659,
+      "texto": "Perdeu 223659 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-23T10:37:36.531271",
-      "captura_fim": "2026-11-22T11:48:14.932829",
-      "seguidores_inicio": 74363178,
-      "seguidores_fim": 74173504
+      "captura_inicio": "2026-10-24T11:04:20.578303",
+      "captura_fim": "2026-11-24T16:17:33.007888",
+      "seguidores_inicio": 74359312,
+      "seguidores_fim": 74135653
     },
     "90_dias": {
       "variacao": null,
@@ -3984,17 +4033,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -242930,
+      "variacao": -280781,
       "direcao": "perdeu",
-      "quantidade": 242930,
-      "texto": "Perdeu 242930 seguidores",
+      "quantidade": 280781,
+      "texto": "Perdeu 280781 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:51.062618",
-      "captura_mais_recente": "2026-11-22T11:48:14.932829",
-      "tempo_total_dias": 47.629443,
+      "captura_mais_recente": "2026-11-24T16:17:33.007888",
+      "tempo_total_dias": 49.816458,
       "seguidores_inicio": 74416434,
-      "seguidores_fim": 74173504
+      "seguidores_fim": 74135653
     }
   }
 }

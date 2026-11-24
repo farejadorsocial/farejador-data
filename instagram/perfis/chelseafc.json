@@ -8,7 +8,7 @@
       "id": "17841400633183817",
       "username": "chelseafc",
       "nome": "Chelsea FC",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857246890_18648803491021107_790813167212315146_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKqMGDMzgZHr-EBCAApCZLtiiPkKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDguQzMifQ%3D%3D&_nc_ohc=4M-PGO1XmRUQ7kNvwF6UDEP&_nc_oc=Adox8AANmxrJ8s4qWqR3v_dXSxJCOZ1Z7KCLRGMeaRVGBNQMdL-foMiE2DjGXe0DN2dWXOEvWufKRpRuBRaJc04i&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=EqEgsjLuuetNPso_hAKpVQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSXtMDDEsqb7SP3-5ZS2vbNOLybA4VCSiEM54NHy5ArTw&oe=6B08D1A3",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/857246890_18648803491021107_790813167212315146_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKqMGDMzgZHr-EBCAApCZLtiiPkKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDguQzMifQ%3D%3D&_nc_ohc=iji3ZFEHQlwQ7kNvwFDIJx7&_nc_oc=Adptgq8DsXIuPvLfdyZT9mzDH10SxW8w1eyuujBNC-h8D1Z5JOoF06TP0R4qau-riJQQhjuoMLJ7nI46VE5D8bUu&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=HouWWTTEMtDnr1Hab2zySg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR2v7WWmhJi1o7YBNJVqL55a7RIKA8wd6HppQ1fZVihXg&oe=6B0BACE3",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 44297391,
+        "valor_atual": 44269763,
+        "variacao": -27628,
+        "direcao": "reducao",
+        "descricao": "-27628 seguidores",
+        "timestamp": "2026-11-24T16:00:21.140923",
+        "timestamp_anterior": "2026-11-22T11:30:40.364388",
+        "tempo_desde_anterior_segundos": 188980
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -248,6 +261,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:00:21.140923",
+      "timestamp_anterior": "2026-11-22T11:30:40.364388",
+      "timestamp_atual": "2026-11-24T16:00:21.140923",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 244309106,
+        "id": "17841400633183817",
+        "username": "chelseafc",
+        "nome": "Chelsea FC",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/857246890_18648803491021107_790813167212315146_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKqMGDMzgZHr-EBCAApCZLtiiPkKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDguQzMifQ%3D%3D&_nc_ohc=iji3ZFEHQlwQ7kNvwFDIJx7&_nc_oc=Adptgq8DsXIuPvLfdyZT9mzDH10SxW8w1eyuujBNC-h8D1Z5JOoF06TP0R4qau-riJQQhjuoMLJ7nI46VE5D8bUu&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=HouWWTTEMtDnr1Hab2zySg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR2v7WWmhJi1o7YBNJVqL55a7RIKA8wd6HppQ1fZVihXg&oe=6B0BACE3",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 44297391,
+      "valor_atual": 44269763,
+      "hash_anterior": "02ea57a004e57e70edf8c7219fa9beebdc1857c0904d285b3a39242bb73d4187",
+      "hash_atual": "d0c31a7d455da4d742b3d4eaa8b78623fcc1d8894cb434b1a25dfca7b3f54dcd",
+      "variacao": -27628,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188980.776535,
+        "texto": "2 dias e 4 horas e 29 minutos e 40 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188980.776535,
+        "texto": "2 dias e 4 horas e 29 minutos e 40 segundos"
+      },
+      "titulo": "Perdeu 27.628 seguidores",
+      "descricao": "Os seguidores caíram de 44.297.391 para 44.269.763",
+      "variacao_texto": "-27.628 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:30:40.364388",
@@ -504,26 +553,26 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-11-19T16:15:54.490453",
-    "captura_mais_recente": "2026-11-22T11:30:40.364388",
-    "tempo_total_segundos": 242085,
-    "tempo_total_dias": 2.80191,
-    "tempo_total_texto": "2 dias, 19 horas, 14 minutos e 45 segundos",
+    "captura_mais_recente": "2026-11-24T16:00:21.140923",
+    "tempo_total_segundos": 431066,
+    "tempo_total_dias": 4.98919,
+    "tempo_total_texto": "4 dias, 23 horas, 44 minutos e 26 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -32024,
+      "variacao": -27628,
       "direcao": "perdeu",
-      "quantidade": 32024,
-      "texto": "Perdeu 32024 seguidores",
+      "quantidade": 27628,
+      "texto": "Perdeu 27628 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T15:42:30.509192",
-      "captura_fim": "2026-11-22T11:30:40.364388",
-      "seguidores_inicio": 44329415,
-      "seguidores_fim": 44297391
+      "captura_inicio": "2026-11-22T11:30:40.364388",
+      "captura_fim": "2026-11-24T16:00:21.140923",
+      "seguidores_inicio": 44297391,
+      "seguidores_fim": 44269763
     },
     "7_dias": {
       "variacao": null,
@@ -550,17 +599,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -35214,
+      "variacao": -62842,
       "direcao": "perdeu",
-      "quantidade": 35214,
-      "texto": "Perdeu 35214 seguidores",
+      "quantidade": 62842,
+      "texto": "Perdeu 62842 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-11-19T16:15:54.490453",
-      "captura_mais_recente": "2026-11-22T11:30:40.364388",
-      "tempo_total_dias": 2.80192,
+      "captura_mais_recente": "2026-11-24T16:00:21.140923",
+      "tempo_total_dias": 4.989197,
       "seguidores_inicio": 44332605,
-      "seguidores_fim": 44297391
+      "seguidores_fim": 44269763
     }
   }
 }

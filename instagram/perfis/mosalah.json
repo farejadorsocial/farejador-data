@@ -8,7 +8,7 @@
       "id": "17841400061328191",
       "username": "mosalah",
       "nome": "Mohamed Salah",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJvj6RuSLFvD4yQDAMkfzuM-I2YObkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=5eKOPUsC8bcQ7kNvwHa4Vc-&_nc_oc=Adolj3bkZy3idF53hfR2HGQMaKUBGOq6vExckqkQxqWTxBq1iGx3NnElqoZzpiDG_cc6-WNtDW7ZkrXG-jrHkCaO&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSbjzDdpasH9DGkMuu_7NR6e9f90J2IhXHNMm2swZx3CA&oe=6B08BCDB",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJvj6RuSLFvD4yQDAMkfzuM-I2YObkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=UG7IR3HHF3UQ7kNvwHmAjIv&_nc_oc=Adq_DCufFed-mNjtumK_O2o8DpqhOezrgTa1OJqHoNIvegyGJlO9LH_femclBA0hwuvASRay5oekCFeAA70iwMcw&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRNd_jJaY2G0tWkn5Vep23wzT2Fv4PJ7C4LQq_Zkcp4-g&oe=6B0BD05B",
       "total_posts": 1199
     },
     "biografia": [
@@ -72,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 67802082,
+        "valor_atual": 67780987,
+        "variacao": -21095,
+        "direcao": "reducao",
+        "descricao": "-21095 seguidores",
+        "timestamp": "2026-11-24T16:23:16.908334",
+        "timestamp_anterior": "2026-11-22T11:53:55.173581",
+        "tempo_desde_anterior_segundos": 188961
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1063,6 +1076,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T16:23:16.908334",
+      "timestamp_anterior": "2026-11-22T11:53:55.173581",
+      "timestamp_atual": "2026-11-24T16:23:16.908334",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 524226044,
+        "id": "17841400061328191",
+        "username": "mosalah",
+        "nome": "Mohamed Salah",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/468312987_884985583840402_1037555521467326409_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJvj6RuSLFvD4yQDAMkfzuM-I2YObkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=UG7IR3HHF3UQ7kNvwHmAjIv&_nc_oc=Adq_DCufFed-mNjtumK_O2o8DpqhOezrgTa1OJqHoNIvegyGJlO9LH_femclBA0hwuvASRay5oekCFeAA70iwMcw&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRNd_jJaY2G0tWkn5Vep23wzT2Fv4PJ7C4LQq_Zkcp4-g&oe=6B0BD05B",
+        "total_posts": 1199
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 67802082,
+      "valor_atual": 67780987,
+      "hash_anterior": "7def9e889ba9b3b9b27ab39076d0b4922253b371f86a5edadf265ba8f232fa61",
+      "hash_atual": "41a8aaab056ea6fca4cab352ee327661cdaa969c6aca3159495cf06d0956d452",
+      "variacao": -21095,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 188961.734753,
+        "texto": "2 dias e 4 horas e 29 minutos e 21 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 188961.734753,
+        "texto": "2 dias e 4 horas e 29 minutos e 21 segundos"
+      },
+      "titulo": "Perdeu 21.095 seguidores",
+      "descricao": "Os seguidores caíram de 67.802.082 para 67.780.987",
+      "variacao_texto": "-21.095 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-22T11:53:55.173581",
@@ -3587,50 +3636,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:42:28.411614",
-    "captura_mais_recente": "2026-11-22T11:53:55.173581",
-    "tempo_total_segundos": 4115486,
-    "tempo_total_dias": 47.63294,
-    "tempo_total_texto": "47 dias, 15 horas, 11 minutos e 26 segundos",
+    "captura_mais_recente": "2026-11-24T16:23:16.908334",
+    "tempo_total_segundos": 4304448,
+    "tempo_total_dias": 49.82,
+    "tempo_total_texto": "49 dias, 19 horas, 40 minutos e 48 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -26247,
+      "variacao": -21095,
       "direcao": "perdeu",
-      "quantidade": 26247,
-      "texto": "Perdeu 26247 seguidores",
+      "quantidade": 21095,
+      "texto": "Perdeu 21095 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-20T16:06:51.470352",
-      "captura_fim": "2026-11-22T11:53:55.173581",
-      "seguidores_inicio": 67828329,
-      "seguidores_fim": 67802082
+      "captura_inicio": "2026-11-22T11:53:55.173581",
+      "captura_fim": "2026-11-24T16:23:16.908334",
+      "seguidores_inicio": 67802082,
+      "seguidores_fim": 67780987
     },
     "7_dias": {
-      "variacao": -75812,
+      "variacao": -96907,
       "direcao": "perdeu",
-      "quantidade": 75812,
-      "texto": "Perdeu 75812 seguidores",
+      "quantidade": 96907,
+      "texto": "Perdeu 96907 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:34.821156",
-      "captura_fim": "2026-11-22T11:53:55.173581",
+      "captura_fim": "2026-11-24T16:23:16.908334",
       "seguidores_inicio": 67877894,
-      "seguidores_fim": 67802082
+      "seguidores_fim": 67780987
     },
     "30_dias": {
-      "variacao": -89825,
+      "variacao": -116260,
       "direcao": "perdeu",
-      "quantidade": 89825,
-      "texto": "Perdeu 89825 seguidores",
+      "quantidade": 116260,
+      "texto": "Perdeu 116260 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-10-23T10:38:05.382273",
-      "captura_fim": "2026-11-22T11:53:55.173581",
-      "seguidores_inicio": 67891907,
-      "seguidores_fim": 67802082
+      "captura_inicio": "2026-10-24T11:04:48.767587",
+      "captura_fim": "2026-11-24T16:23:16.908334",
+      "seguidores_inicio": 67897247,
+      "seguidores_fim": 67780987
     },
     "90_dias": {
       "variacao": null,
@@ -3641,17 +3690,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -119450,
+      "variacao": -140545,
       "direcao": "perdeu",
-      "quantidade": 119450,
-      "texto": "Perdeu 119450 seguidores",
+      "quantidade": 140545,
+      "texto": "Perdeu 140545 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:42:28.411614",
-      "captura_mais_recente": "2026-11-22T11:53:55.173581",
-      "tempo_total_dias": 47.632949,
+      "captura_mais_recente": "2026-11-24T16:23:16.908334",
+      "tempo_total_dias": 49.820006,
       "seguidores_inicio": 67921532,
-      "seguidores_fim": 67802082
+      "seguidores_fim": 67780987
     }
   }
 }
