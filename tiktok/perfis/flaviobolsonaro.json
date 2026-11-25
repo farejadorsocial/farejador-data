@@ -9,14 +9,14 @@
       "username": "flaviobolsonaro",
       "nome": "Flávio Bolsonaro",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=6b01aa7c&x-expires=1795716000&x-signature=SzH1wTPZ3yqaa4TZiPgjsLbm8jg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast2b",
-        "medium": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=84a1e0ff&x-expires=1795716000&x-signature=DCVVFGKYFSXRpCBufwgw6rI28LU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast2b",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=0948e0df&x-expires=1795741200&x-signature=awBe9aUTw6A9mHiKHZtHfOKVNwo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=90c2be48&x-expires=1795741200&x-signature=KnNp6HKnlu4kklZqf5lEXlQ6JGc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "thumb": ""
       },
       "conta_criada_em": "2021-06-05T15:53:53.000-03:00",
       "total_likes": 38600000,
       "total_amigos": 0,
-      "total_posts": 1726
+      "total_posts": 1727
     },
     "biografia": [
       {
@@ -141,6 +141,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "tiktok",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3000000,
+        "valor_atual": 2900000,
+        "variacao": -100000,
+        "direcao": "reducao",
+        "descricao": "-100000 seguidores",
+        "timestamp": "2026-11-24T22:57:47.032036",
+        "timestamp_anterior": "2026-11-24T15:44:09.294364",
+        "tempo_desde_anterior_segundos": 26017
+      },
       {
         "plataforma": "tiktok",
         "campo": "seguidores",
@@ -286,6 +299,19 @@
         "plataforma": "tiktok",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1726,
+        "valor_atual": 1727,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "+1 publicações",
+        "timestamp": "2026-11-24T22:57:47.032036",
+        "timestamp_anterior": "2026-11-24T15:44:09.294364",
+        "tempo_desde_anterior_segundos": 26017
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor_anterior": 1724,
         "valor_atual": 1726,
         "variacao": 2,
@@ -375,6 +401,92 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-24T22:57:47.032036",
+      "timestamp_anterior": "2026-11-24T15:44:09.294364",
+      "timestamp_atual": "2026-11-24T22:57:47.032036",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "6970384707892544517",
+        "sec_uid": "MS4wLjABAAAA39j0dwN0SG4yuYi8DODblwnBx0B4qvEHjoi0Vqqdo-VfQ8ghCWfxpsr1f2nJsOa3",
+        "username": "flaviobolsonaro",
+        "nome": "Flávio Bolsonaro",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=0948e0df&x-expires=1795741200&x-signature=awBe9aUTw6A9mHiKHZtHfOKVNwo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=90c2be48&x-expires=1795741200&x-signature=KnNp6HKnlu4kklZqf5lEXlQ6JGc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2021-06-05T15:53:53.000-03:00",
+        "total_likes": 38600000,
+        "total_amigos": 0,
+        "total_posts": 1727
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3000000,
+      "valor_atual": 2900000,
+      "hash_anterior": "58279cc163195da521c4428a9f3511896588d99328dbf83e0c32eff6b8a6e171",
+      "hash_atual": "7d9ffa49eb2a8897523be662d013d7c217c19b1a03a3d5a164afd2259ac2b5b9",
+      "variacao": -100000,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 26017.737672,
+        "texto": "7 horas e 13 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 26017.737672,
+        "texto": "7 horas e 13 minutos e 37 segundos"
+      },
+      "titulo": "Perdeu 100.000 seguidores",
+      "descricao": "Os seguidores caíram de 3.000.000 para 2.900.000",
+      "variacao_texto": "-100.000 seguidores"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-24T22:57:47.032036",
+      "timestamp_anterior": "2026-11-24T15:44:09.294364",
+      "timestamp_atual": "2026-11-24T22:57:47.032036",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "politico",
+        "id": "6970384707892544517",
+        "sec_uid": "MS4wLjABAAAA39j0dwN0SG4yuYi8DODblwnBx0B4qvEHjoi0Vqqdo-VfQ8ghCWfxpsr1f2nJsOa3",
+        "username": "flaviobolsonaro",
+        "nome": "Flávio Bolsonaro",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=0948e0df&x-expires=1795741200&x-signature=awBe9aUTw6A9mHiKHZtHfOKVNwo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e52f6a5d8e03beeae39c1b9e7758cce9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=90c2be48&x-expires=1795741200&x-signature=KnNp6HKnlu4kklZqf5lEXlQ6JGc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2021-06-05T15:53:53.000-03:00",
+        "total_likes": 38600000,
+        "total_amigos": 0,
+        "total_posts": 1727
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1726,
+      "valor_atual": 1727,
+      "hash_anterior": "58279cc163195da521c4428a9f3511896588d99328dbf83e0c32eff6b8a6e171",
+      "hash_atual": "7d9ffa49eb2a8897523be662d013d7c217c19b1a03a3d5a164afd2259ac2b5b9",
+      "variacao": 1,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 26017.737672,
+        "texto": "7 horas e 13 minutos e 37 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Publicou 1 publicação",
+      "descricao": "O total mudou de 1.726 para 1.727",
+      "variacao_texto": "+1 post"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-11-24T15:44:09.294364",
@@ -852,50 +964,50 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-10-16T16:26:13.302579",
-    "captura_mais_recente": "2026-11-24T15:44:09.294364",
-    "tempo_total_segundos": 3367075,
-    "tempo_total_dias": 38.970775,
-    "tempo_total_texto": "38 dias, 23 horas, 17 minutos e 55 segundos",
+    "captura_mais_recente": "2026-11-24T22:57:47.032036",
+    "tempo_total_segundos": 3393093,
+    "tempo_total_dias": 39.27191,
+    "tempo_total_texto": "39 dias, 6 horas, 31 minutos e 33 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 100000,
-      "direcao": "ganhou",
-      "quantidade": 100000,
-      "texto": "Ganhou 100000 seguidores",
+      "variacao": 0,
+      "direcao": "estavel",
+      "quantidade": 0,
+      "texto": "Não ganhou nem perdeu seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-19T17:20:56.427233",
-      "captura_fim": "2026-11-24T15:44:09.294364",
+      "captura_fim": "2026-11-24T22:57:47.032036",
       "seguidores_inicio": 2900000,
-      "seguidores_fim": 3000000
+      "seguidores_fim": 2900000
     },
     "7_dias": {
-      "variacao": 400000,
+      "variacao": 300000,
       "direcao": "ganhou",
-      "quantidade": 400000,
-      "texto": "Ganhou 400000 seguidores",
+      "quantidade": 300000,
+      "texto": "Ganhou 300000 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:34:32.935949",
-      "captura_fim": "2026-11-24T15:44:09.294364",
+      "captura_fim": "2026-11-24T22:57:47.032036",
       "seguidores_inicio": 2600000,
-      "seguidores_fim": 3000000
+      "seguidores_fim": 2900000
     },
     "30_dias": {
-      "variacao": 400000,
+      "variacao": 300000,
       "direcao": "ganhou",
-      "quantidade": 400000,
-      "texto": "Ganhou 400000 seguidores",
+      "quantidade": 300000,
+      "texto": "Ganhou 300000 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:34:32.935949",
-      "captura_fim": "2026-11-24T15:44:09.294364",
+      "captura_fim": "2026-11-24T22:57:47.032036",
       "seguidores_inicio": 2600000,
-      "seguidores_fim": 3000000
+      "seguidores_fim": 2900000
     },
     "90_dias": {
       "variacao": null,
@@ -906,17 +1018,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 500000,
+      "variacao": 400000,
       "direcao": "ganhou",
-      "quantidade": 500000,
-      "texto": "Ganhou 500000 seguidores",
+      "quantidade": 400000,
+      "texto": "Ganhou 400000 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-16T16:26:13.302579",
-      "captura_mais_recente": "2026-11-24T15:44:09.294364",
-      "tempo_total_dias": 38.970787,
+      "captura_mais_recente": "2026-11-24T22:57:47.032036",
+      "tempo_total_dias": 39.271918,
       "seguidores_inicio": 2500000,
-      "seguidores_fim": 3000000
+      "seguidores_fim": 2900000
     }
   }
 }
