@@ -8,7 +8,7 @@
       "id": "17841401692602711",
       "username": "cristiano",
       "nome": "Cristiano Ronaldo",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aTDH2eUjujQQ7kNvwGAfLoI&_nc_oc=Adr7Nrp_6qLD3cfVfs9oBd6zZBxQWPubc05o-btswRaTu7pDiZaWwShWXVxczqhtWmYFbxpD4yg_2AcVRMbTw7ti&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRWrOOgO0Zp6PSmdN497HhUnoFtRnLRTk2qla1PMIxZmw&oe=6B0BA3DE",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=f6piz1dkyEgQ7kNvwEbgnJW&_nc_oc=AdrfPk5G6BZuSPLxHW94wLjoPTZQULELwcOdCe_OgV0SHVJ_u6xK7WQ_gb17R0mRjXh-fOzgm5NiAexuFQEAiau1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ0PfgyP9PKKaC6N2x8Wwp-VSefTXOWU6Sm4LR2aLkVZA&oe=6B0CBD1E",
       "total_posts": 4158
     },
     "biografia": [
@@ -127,6 +127,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 680102880,
+        "valor_atual": 679788241,
+        "variacao": -314639,
+        "direcao": "reducao",
+        "descricao": "-314639 seguidores",
+        "timestamp": "2026-11-25T12:35:11.069983",
+        "timestamp_anterior": "2026-11-24T15:43:38.005948",
+        "tempo_desde_anterior_segundos": 75093
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -384,6 +397,19 @@
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 639,
+        "valor_atual": 640,
+        "variacao": 1,
+        "direcao": "aumento",
+        "descricao": "Seguiu +1",
+        "timestamp": "2026-11-25T12:35:11.069983",
+        "timestamp_anterior": "2026-11-20T15:26:29.896869",
+        "tempo_desde_anterior_segundos": 421721
+      },
       {
         "plataforma": "instagram",
         "campo": "seguindo",
@@ -650,6 +676,78 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:35:11.069983",
+      "timestamp_anterior": "2026-11-24T15:43:38.005948",
+      "timestamp_atual": "2026-11-25T12:35:11.069983",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 173560420,
+        "id": "17841401692602711",
+        "username": "cristiano",
+        "nome": "Cristiano Ronaldo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=f6piz1dkyEgQ7kNvwEbgnJW&_nc_oc=AdrfPk5G6BZuSPLxHW94wLjoPTZQULELwcOdCe_OgV0SHVJ_u6xK7WQ_gb17R0mRjXh-fOzgm5NiAexuFQEAiau1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ0PfgyP9PKKaC6N2x8Wwp-VSefTXOWU6Sm4LR2aLkVZA&oe=6B0CBD1E",
+        "total_posts": 4158
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 680102880,
+      "valor_atual": 679788241,
+      "hash_anterior": "d3b15d807ff17b7be5646b312c85e23d192038fd99f174ad5278957e41b2ada1",
+      "hash_atual": "11ef374cdf39021c8de474bc488b0591d19522908df60e5e47a75cbb7efb55e3",
+      "variacao": -314639,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 75093.064035,
+        "texto": "20 horas e 51 minutos e 33 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 75093.064035,
+        "texto": "20 horas e 51 minutos e 33 segundos"
+      },
+      "titulo": "Perdeu 314.639 seguidores",
+      "descricao": "Os seguidores caíram de 680.102.880 para 679.788.241",
+      "variacao_texto": "-314.639 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:35:11.069983",
+      "timestamp_anterior": "2026-11-24T15:43:38.005948",
+      "timestamp_atual": "2026-11-25T12:35:11.069983",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 173560420,
+        "id": "17841401692602711",
+        "username": "cristiano",
+        "nome": "Cristiano Ronaldo",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/472007201_1142000150877579_994350541752907763_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GCFCIhyLlVOhpA4EAPM3ZqeMpMwNbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=f6piz1dkyEgQ7kNvwEbgnJW&_nc_oc=AdrfPk5G6BZuSPLxHW94wLjoPTZQULELwcOdCe_OgV0SHVJ_u6xK7WQ_gb17R0mRjXh-fOzgm5NiAexuFQEAiau1&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ0PfgyP9PKKaC6N2x8Wwp-VSefTXOWU6Sm4LR2aLkVZA&oe=6B0CBD1E",
+        "total_posts": 4158
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 639,
+      "valor_atual": 640,
+      "hash_anterior": "d3b15d807ff17b7be5646b312c85e23d192038fd99f174ad5278957e41b2ada1",
+      "hash_atual": "11ef374cdf39021c8de474bc488b0591d19522908df60e5e47a75cbb7efb55e3",
+      "variacao": 1,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 75093.064035,
+        "texto": "20 horas e 51 minutos e 33 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 1 pessoa",
+      "descricao": "Estava seguindo 639 e passou a seguir 640",
+      "variacao_texto": "+1 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T15:43:38.005948",
@@ -1942,50 +2040,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T13:20:19.931037",
-    "captura_mais_recente": "2026-11-24T15:43:38.005948",
-    "tempo_total_segundos": 4414998,
-    "tempo_total_dias": 51.099514,
-    "tempo_total_texto": "51 dias, 2 horas, 23 minutos e 18 segundos",
+    "captura_mais_recente": "2026-11-25T12:35:11.069983",
+    "tempo_total_segundos": 4490091,
+    "tempo_total_dias": 51.968646,
+    "tempo_total_texto": "51 dias, 23 horas, 14 minutos e 51 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -430817,
+      "variacao": -745456,
       "direcao": "perdeu",
-      "quantidade": 430817,
-      "texto": "Perdeu 430817 seguidores",
+      "quantidade": 745456,
+      "texto": "Perdeu 745456 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-21T12:29:15.442308",
-      "captura_fim": "2026-11-24T15:43:38.005948",
+      "captura_fim": "2026-11-25T12:35:11.069983",
       "seguidores_inicio": 680533697,
-      "seguidores_fim": 680102880
+      "seguidores_fim": 679788241
     },
     "7_dias": {
-      "variacao": 271719,
-      "direcao": "ganhou",
-      "quantidade": 271719,
-      "texto": "Ganhou 271719 seguidores",
+      "variacao": -42920,
+      "direcao": "perdeu",
+      "quantidade": 42920,
+      "texto": "Perdeu 42920 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:10:36.969331",
-      "captura_fim": "2026-11-24T15:43:38.005948",
+      "captura_fim": "2026-11-25T12:35:11.069983",
       "seguidores_inicio": 679831161,
-      "seguidores_fim": 680102880
+      "seguidores_fim": 679788241
     },
     "30_dias": {
-      "variacao": 285565,
-      "direcao": "ganhou",
-      "quantidade": 285565,
-      "texto": "Ganhou 285565 seguidores",
+      "variacao": -29074,
+      "direcao": "perdeu",
+      "quantidade": 29074,
+      "texto": "Perdeu 29074 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T10:59:27.524892",
-      "captura_fim": "2026-11-24T15:43:38.005948",
+      "captura_fim": "2026-11-25T12:35:11.069983",
       "seguidores_inicio": 679817315,
-      "seguidores_fim": 680102880
+      "seguidores_fim": 679788241
     },
     "90_dias": {
       "variacao": null,
@@ -1996,17 +2094,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 284080,
-      "direcao": "ganhou",
-      "quantidade": 284080,
-      "texto": "Ganhou 284080 seguidores",
+      "variacao": -30559,
+      "direcao": "perdeu",
+      "quantidade": 30559,
+      "texto": "Perdeu 30559 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T13:20:19.931037",
-      "captura_mais_recente": "2026-11-24T15:43:38.005948",
-      "tempo_total_dias": 51.099515,
+      "captura_mais_recente": "2026-11-25T12:35:11.069983",
+      "tempo_total_dias": 51.968647,
       "seguidores_inicio": 679818800,
-      "seguidores_fim": 680102880
+      "seguidores_fim": 679788241
     }
   }
 }

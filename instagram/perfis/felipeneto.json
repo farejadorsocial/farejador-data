@@ -8,7 +8,7 @@
       "id": "17841400609120167",
       "username": "felipeneto",
       "nome": "Felipe Neto 🦉",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/883558828_18656278735020305_1128218607310427645_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKwJqjQR4dRiyUdCAP1VuYXYPKgPbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDIzLkMzIn0%3D&_nc_ohc=uAp5ub0AQT0Q7kNvwFHGPnl&_nc_oc=Adr5kpBM8BSAzyjGUoz2PV8B_j-YX3Vu7cpwWXet_PYpExYCACCfO4uxPOyOiPrfeCikzJMnsnMQXTqyl_9I5e2a&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=XU8s4JY-agCMy5_Jd8YIcw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTubntYww_pbdF_bS8xpGZlJ2FfevizquSK7UWXj4I05Q&oe=6B0C0262",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558828_18656278735020305_1128218607310427645_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKwJqjQR4dRiyUdCAP1VuYXYPKgPbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDIzLkMzIn0%3D&_nc_ohc=uuQ_yF_vxnIQ7kNvwEj6O9A&_nc_oc=AdriHLo9jKg0ynrBmXfXzbDBNS8XTeVR26iurAZm2LOsbyd7Pb9pOfEX87Xy7MUV9b9VdO4zGV-B22ucuEJcmDyb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IUuBTT3jhmJp97agrL68QA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQw4CNM05cXte-UO-O0l7camfs_zqTDqOhm-HO4dALPiw&oe=6B0CE362",
       "total_posts": 4488
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 16928794,
+        "valor_atual": 16926515,
+        "variacao": -2279,
+        "direcao": "reducao",
+        "descricao": "-2279 seguidores",
+        "timestamp": "2026-11-25T14:14:12.889300",
+        "timestamp_anterior": "2026-11-24T23:41:15.400817",
+        "tempo_desde_anterior_segundos": 52377
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1353,6 +1366,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T14:14:12.889300",
+      "timestamp_anterior": "2026-11-24T23:41:15.400817",
+      "timestamp_atual": "2026-11-25T14:14:12.889300",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 10708304,
+        "id": "17841400609120167",
+        "username": "felipeneto",
+        "nome": "Felipe Neto 🦉",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/883558828_18656278735020305_1128218607310427645_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKwJqjQR4dRiyUdCAP1VuYXYPKgPbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDIzLkMzIn0%3D&_nc_ohc=uuQ_yF_vxnIQ7kNvwEj6O9A&_nc_oc=AdriHLo9jKg0ynrBmXfXzbDBNS8XTeVR26iurAZm2LOsbyd7Pb9pOfEX87Xy7MUV9b9VdO4zGV-B22ucuEJcmDyb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=IUuBTT3jhmJp97agrL68QA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQw4CNM05cXte-UO-O0l7camfs_zqTDqOhm-HO4dALPiw&oe=6B0CE362",
+        "total_posts": 4488
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 16928794,
+      "valor_atual": 16926515,
+      "hash_anterior": "172396b2de87f44f7d0e8418712cfb98f5a9fa57b53558ce0007dca341873481",
+      "hash_atual": "c0ce3abf221c3e9398287ef896aa6161734a3871ede6ae47c5a1bfc28abb28ed",
+      "variacao": -2279,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 52377.488483,
+        "texto": "14 horas e 32 minutos e 57 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 52377.488483,
+        "texto": "14 horas e 32 minutos e 57 segundos"
+      },
+      "titulo": "Perdeu 2.279 seguidores",
+      "descricao": "Os seguidores caíram de 16.928.794 para 16.926.515",
+      "variacao_texto": "-2.279 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T23:41:15.400817",
@@ -4669,50 +4718,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:49.734028",
-    "captura_mais_recente": "2026-11-24T23:41:15.400817",
-    "tempo_total_segundos": 4240705,
-    "tempo_total_dias": 49.082234,
-    "tempo_total_texto": "49 dias, 1 hora, 58 minutos e 25 segundos",
+    "captura_mais_recente": "2026-11-25T14:14:12.889300",
+    "tempo_total_segundos": 4293083,
+    "tempo_total_dias": 49.688461,
+    "tempo_total_texto": "49 dias, 16 horas, 31 minutos e 23 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -5560,
+      "variacao": -7839,
       "direcao": "perdeu",
-      "quantidade": 5560,
-      "texto": "Perdeu 5560 seguidores",
+      "quantidade": 7839,
+      "texto": "Perdeu 7839 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:59:36.632960",
-      "captura_fim": "2026-11-24T23:41:15.400817",
+      "captura_fim": "2026-11-25T14:14:12.889300",
       "seguidores_inicio": 16934354,
-      "seguidores_fim": 16928794
+      "seguidores_fim": 16926515
     },
     "7_dias": {
-      "variacao": -33138,
+      "variacao": -35417,
       "direcao": "perdeu",
-      "quantidade": 33138,
-      "texto": "Perdeu 33138 seguidores",
+      "quantidade": 35417,
+      "texto": "Perdeu 35417 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:27:03.125025",
-      "captura_fim": "2026-11-24T23:41:15.400817",
+      "captura_fim": "2026-11-25T14:14:12.889300",
       "seguidores_inicio": 16961932,
-      "seguidores_fim": 16928794
+      "seguidores_fim": 16926515
     },
     "30_dias": {
-      "variacao": -24710,
+      "variacao": -26989,
       "direcao": "perdeu",
-      "quantidade": 24710,
-      "texto": "Perdeu 24710 seguidores",
+      "quantidade": 26989,
+      "texto": "Perdeu 26989 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:06:48.621254",
-      "captura_fim": "2026-11-24T23:41:15.400817",
+      "captura_fim": "2026-11-25T14:14:12.889300",
       "seguidores_inicio": 16953504,
-      "seguidores_fim": 16928794
+      "seguidores_fim": 16926515
     },
     "90_dias": {
       "variacao": null,
@@ -4723,17 +4772,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 33895,
+      "variacao": 31616,
       "direcao": "ganhou",
-      "quantidade": 33895,
-      "texto": "Ganhou 33895 seguidores",
+      "quantidade": 31616,
+      "texto": "Ganhou 31616 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:49.734028",
-      "captura_mais_recente": "2026-11-24T23:41:15.400817",
-      "tempo_total_dias": 49.082242,
+      "captura_mais_recente": "2026-11-25T14:14:12.889300",
+      "tempo_total_dias": 49.688462,
       "seguidores_inicio": 16894899,
-      "seguidores_fim": 16928794
+      "seguidores_fim": 16926515
     }
   }
 }

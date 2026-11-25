@@ -8,7 +8,7 @@
       "id": "17841400748863016",
       "username": "serginhohondjakoff",
       "nome": "Sergio Hondjakoff",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMoZFjJD_NEf3jdCAB-trJMRklVobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=GTu0Wa4KpMUQ7kNvwGWpuYF&_nc_oc=AdrUTGhJG1Y47P9xjRmKVHggLLlz0PxCKLA3Rqd2TTHrdjHllsjoWVyrAUSJoliT8ybfN4x8MrJAt2MTv6-_-QtB&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=ZQ1IMv4UQAwhDF3-NyXV-Q&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSw_BPkKGvrS918nQ-_20phbWEfxMVwciw7R8LtD0zX3Q&oe=6B0BF997",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMoZFjJD_NEf3jdCAB-trJMRklVobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RwJ7mnd07pQQ7kNvwH9_8wQ&_nc_oc=AdqFW27c8NDM05X-8Ny8xvGSciO4TSGNGHSCwn5k64U6rtLDSiI42JN_qjBVp7JZk_zgWqFV2NpmOEv4Vn8bOQWs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZF3WvwAzH1SNlZTbEzaO2A&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTPvWjlm4m2QjQRm_ZUvXvzEr2GCWy9nN6Ew8nfI66b7w&oe=6B0CDA97",
       "total_posts": 745
     },
     "biografia": [
@@ -287,6 +287,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 1695640,
+        "valor_atual": 1697665,
+        "variacao": 2025,
+        "direcao": "aumento",
+        "descricao": "+2025 seguidores",
+        "timestamp": "2026-11-25T12:42:56.418754",
+        "timestamp_anterior": "2026-11-24T23:03:49.125596",
+        "tempo_desde_anterior_segundos": 49147
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -2643,6 +2656,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:42:56.418754",
+      "timestamp_anterior": "2026-11-24T23:03:49.125596",
+      "timestamp_atual": "2026-11-25T12:42:56.418754",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 193048962,
+        "id": "17841400748863016",
+        "username": "serginhohondjakoff",
+        "nome": "Sergio Hondjakoff",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/840309194_18638775619024963_7518075757154594079_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMoZFjJD_NEf3jdCAB-trJMRklVobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RwJ7mnd07pQQ7kNvwH9_8wQ&_nc_oc=AdqFW27c8NDM05X-8Ny8xvGSciO4TSGNGHSCwn5k64U6rtLDSiI42JN_qjBVp7JZk_zgWqFV2NpmOEv4Vn8bOQWs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZF3WvwAzH1SNlZTbEzaO2A&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTPvWjlm4m2QjQRm_ZUvXvzEr2GCWy9nN6Ew8nfI66b7w&oe=6B0CDA97",
+        "total_posts": 745
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 1695640,
+      "valor_atual": 1697665,
+      "hash_anterior": "970df8c27c57a5134a4f62316d0ccde7b8cce7a75d5031af1d113909a7d8937c",
+      "hash_atual": "a7d1d6933b667d56143144bb1f181ecd6a1c8ed4ee1e89194f4e55d381b15944",
+      "variacao": 2025,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49147.293158,
+        "texto": "13 horas e 39 minutos e 7 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 49147.293158,
+        "texto": "13 horas e 39 minutos e 7 segundos"
+      },
+      "titulo": "Ganhou 2.025 seguidores",
+      "descricao": "Os seguidores passaram de 1.695.640 para 1.697.665",
+      "variacao_texto": "+2.025 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T23:03:49.125596",
@@ -9488,50 +9537,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T16:56:43.726035",
-    "captura_mais_recente": "2026-11-24T23:03:49.125596",
-    "tempo_total_segundos": 4514825,
-    "tempo_total_dias": 52.254919,
-    "tempo_total_texto": "52 dias, 6 horas, 7 minutos e 5 segundos",
+    "captura_mais_recente": "2026-11-25T12:42:56.418754",
+    "tempo_total_segundos": 4563972,
+    "tempo_total_dias": 52.82375,
+    "tempo_total_texto": "52 dias, 19 horas, 46 minutos e 12 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 4450,
+      "variacao": 6475,
       "direcao": "ganhou",
-      "quantidade": 4450,
-      "texto": "Ganhou 4450 seguidores",
+      "quantidade": 6475,
+      "texto": "Ganhou 6475 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:22:23.482003",
-      "captura_fim": "2026-11-24T23:03:49.125596",
+      "captura_fim": "2026-11-25T12:42:56.418754",
       "seguidores_inicio": 1691190,
-      "seguidores_fim": 1695640
+      "seguidores_fim": 1697665
     },
     "7_dias": {
-      "variacao": 14391,
+      "variacao": 16416,
       "direcao": "ganhou",
-      "quantidade": 14391,
-      "texto": "Ganhou 14391 seguidores",
+      "quantidade": 16416,
+      "texto": "Ganhou 16416 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:23:59.476483",
-      "captura_fim": "2026-11-24T23:03:49.125596",
+      "captura_fim": "2026-11-25T12:42:56.418754",
       "seguidores_inicio": 1681249,
-      "seguidores_fim": 1695640
+      "seguidores_fim": 1697665
     },
     "30_dias": {
-      "variacao": 13229,
+      "variacao": 15254,
       "direcao": "ganhou",
-      "quantidade": 13229,
-      "texto": "Ganhou 13229 seguidores",
+      "quantidade": 15254,
+      "texto": "Ganhou 15254 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:05:58.274813",
-      "captura_fim": "2026-11-24T23:03:49.125596",
+      "captura_fim": "2026-11-25T12:42:56.418754",
       "seguidores_inicio": 1682411,
-      "seguidores_fim": 1695640
+      "seguidores_fim": 1697665
     },
     "90_dias": {
       "variacao": null,
@@ -9542,17 +9591,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 56038,
+      "variacao": 58063,
       "direcao": "ganhou",
-      "quantidade": 56038,
-      "texto": "Ganhou 56038 seguidores",
+      "quantidade": 58063,
+      "texto": "Ganhou 58063 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T16:56:43.726035",
-      "captura_mais_recente": "2026-11-24T23:03:49.125596",
-      "tempo_total_dias": 52.254924,
+      "captura_mais_recente": "2026-11-25T12:42:56.418754",
+      "tempo_total_dias": 52.823758,
       "seguidores_inicio": 1639602,
-      "seguidores_fim": 1695640
+      "seguidores_fim": 1697665
     }
   }
 }

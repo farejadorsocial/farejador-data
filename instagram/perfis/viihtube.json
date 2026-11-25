@@ -8,7 +8,7 @@
       "id": "17841400275492848",
       "username": "viihtube",
       "nome": "Vitoria Di Felice",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/902954850_18087319598537011_2927708217290744419_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GGL-0TUzGZxDUkJAAGNim6kcT6EobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OZFIHjIs23gQ7kNvwGjrWlr&_nc_oc=Adpe-shCZSy0avhp8ZPGYyFHfHxwHbAVcgom1CnZJsDarvSfTjldVvCQCfoXOVh3gCfCgXOLhiPCdauVnR7k6f9W&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=HL7TjhNL5SStV52vqRmJcg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSW2Od6V9XTXHB5AUWoIjTP1Bjw-r5JBIrxHJvAd8EE_w&oe=6B0C3027",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954850_18087319598537011_2927708217290744419_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GGL-0TUzGZxDUkJAAGNim6kcT6EobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OZFIHjIs23gQ7kNvwFxwlZN&_nc_oc=AdpY-l7eLMC6RL5WBkqj_nTT_0sAoED9kEipDjxa_cLHGtvgCCxNy28wdKDCf5f2Ss90IjbFlwGRhc5tJvKKx58f&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wA6gOIN_BHUABoOvaY7A0w&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR3kGBbl8K1BX8nl61hUmPNfj90AtrvnM6i_3gSCs4u8w&oe=6B0CD8E7",
       "total_posts": 1343
     },
     "biografia": [
@@ -154,6 +154,19 @@
         "plataforma": "instagram",
         "campo": "privado",
         "nome": "Privacidade",
+        "valor_anterior": true,
+        "valor_atual": false,
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Conta ficou pública",
+        "timestamp": "2026-11-25T12:49:09.016709",
+        "timestamp_anterior": "2026-11-24T15:57:11.786424",
+        "tempo_desde_anterior_segundos": 75117
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "privado",
+        "nome": "Privacidade",
         "valor_anterior": false,
         "valor_atual": true,
         "variacao": null,
@@ -183,6 +196,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 3595,
+        "valor_atual": 7005,
+        "variacao": 3410,
+        "direcao": "aumento",
+        "descricao": "+3410 seguidores",
+        "timestamp": "2026-11-25T12:49:09.016709",
+        "timestamp_anterior": "2026-11-24T23:10:04.443004",
+        "tempo_desde_anterior_segundos": 49144
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1016,6 +1042,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 761,
+        "valor_atual": 817,
+        "variacao": 56,
+        "direcao": "aumento",
+        "descricao": "Seguiu +56",
+        "timestamp": "2026-11-25T12:49:09.016709",
+        "timestamp_anterior": "2026-11-24T23:10:04.443004",
+        "tempo_desde_anterior_segundos": 49144
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor_anterior": 760,
         "valor_atual": 761,
         "variacao": 1,
@@ -1521,6 +1560,19 @@
         "plataforma": "instagram",
         "campo": "verificado",
         "nome": "Verificação",
+        "valor_anterior": true,
+        "valor_atual": false,
+        "variacao": null,
+        "direcao": null,
+        "descricao": "Verificação removida",
+        "timestamp": "2026-11-25T12:49:09.016709",
+        "timestamp_anterior": "2026-10-06T21:43:09.994477",
+        "tempo_desde_anterior_segundos": 4287959
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "verificado",
+        "nome": "Verificação",
         "valor": true,
         "timestamp": "2026-10-06T21:43:09.994477",
         "tipo": "inicial"
@@ -1538,6 +1590,148 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:49:09.016709",
+      "timestamp_anterior": "2026-11-24T23:10:04.443004",
+      "timestamp_atual": "2026-11-25T12:49:09.016709",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 46240721010,
+        "id": "17841400275492848",
+        "username": "viihtube",
+        "nome": "Vitoria Di Felice",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954850_18087319598537011_2927708217290744419_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GGL-0TUzGZxDUkJAAGNim6kcT6EobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OZFIHjIs23gQ7kNvwFxwlZN&_nc_oc=AdpY-l7eLMC6RL5WBkqj_nTT_0sAoED9kEipDjxa_cLHGtvgCCxNy28wdKDCf5f2Ss90IjbFlwGRhc5tJvKKx58f&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wA6gOIN_BHUABoOvaY7A0w&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR3kGBbl8K1BX8nl61hUmPNfj90AtrvnM6i_3gSCs4u8w&oe=6B0CD8E7",
+        "total_posts": 1343
+      },
+      "tipo": "privado",
+      "campo": "privado",
+      "nome_campo": "Privacidade",
+      "valor_anterior": true,
+      "valor_atual": false,
+      "hash_anterior": "5ee34a43fcef6fc65736d5311a6c5faef12a17ddcf4567e639682aa9baedbd79",
+      "hash_atual": "8ec53b8e0776ed10adc94084d3aa69d5c3e57a8e9779938e7bf2e04ee8049b45",
+      "variacao": null,
+      "categoria": "status",
+      "tempo_desde_anterior": {
+        "segundos": 49144.573705,
+        "texto": "13 horas e 39 minutos e 4 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 49144.573705,
+        "texto": "13 horas e 39 minutos e 4 segundos"
+      },
+      "titulo": "O perfil ficou público",
+      "descricao": "O perfil deixou de ser privado"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:49:09.016709",
+      "timestamp_anterior": "2026-11-24T23:10:04.443004",
+      "timestamp_atual": "2026-11-25T12:49:09.016709",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 46240721010,
+        "id": "17841400275492848",
+        "username": "viihtube",
+        "nome": "Vitoria Di Felice",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954850_18087319598537011_2927708217290744419_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GGL-0TUzGZxDUkJAAGNim6kcT6EobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OZFIHjIs23gQ7kNvwFxwlZN&_nc_oc=AdpY-l7eLMC6RL5WBkqj_nTT_0sAoED9kEipDjxa_cLHGtvgCCxNy28wdKDCf5f2Ss90IjbFlwGRhc5tJvKKx58f&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wA6gOIN_BHUABoOvaY7A0w&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR3kGBbl8K1BX8nl61hUmPNfj90AtrvnM6i_3gSCs4u8w&oe=6B0CD8E7",
+        "total_posts": 1343
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 3595,
+      "valor_atual": 7005,
+      "hash_anterior": "5ee34a43fcef6fc65736d5311a6c5faef12a17ddcf4567e639682aa9baedbd79",
+      "hash_atual": "8ec53b8e0776ed10adc94084d3aa69d5c3e57a8e9779938e7bf2e04ee8049b45",
+      "variacao": 3410,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49144.573705,
+        "texto": "13 horas e 39 minutos e 4 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Ganhou 3.410 seguidores",
+      "descricao": "Os seguidores passaram de 3.595 para 7.005",
+      "variacao_texto": "+3.410 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:49:09.016709",
+      "timestamp_anterior": "2026-11-24T23:10:04.443004",
+      "timestamp_atual": "2026-11-25T12:49:09.016709",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 46240721010,
+        "id": "17841400275492848",
+        "username": "viihtube",
+        "nome": "Vitoria Di Felice",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954850_18087319598537011_2927708217290744419_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GGL-0TUzGZxDUkJAAGNim6kcT6EobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OZFIHjIs23gQ7kNvwFxwlZN&_nc_oc=AdpY-l7eLMC6RL5WBkqj_nTT_0sAoED9kEipDjxa_cLHGtvgCCxNy28wdKDCf5f2Ss90IjbFlwGRhc5tJvKKx58f&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wA6gOIN_BHUABoOvaY7A0w&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR3kGBbl8K1BX8nl61hUmPNfj90AtrvnM6i_3gSCs4u8w&oe=6B0CD8E7",
+        "total_posts": 1343
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 761,
+      "valor_atual": 817,
+      "hash_anterior": "5ee34a43fcef6fc65736d5311a6c5faef12a17ddcf4567e639682aa9baedbd79",
+      "hash_atual": "8ec53b8e0776ed10adc94084d3aa69d5c3e57a8e9779938e7bf2e04ee8049b45",
+      "variacao": 56,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49144.573705,
+        "texto": "13 horas e 39 minutos e 4 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 56 pessoas",
+      "descricao": "Estava seguindo 761 e passou a seguir 817",
+      "variacao_texto": "+56 seguindo"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T12:49:09.016709",
+      "timestamp_anterior": "2026-11-24T23:10:04.443004",
+      "timestamp_atual": "2026-11-25T12:49:09.016709",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Influenciadores digital",
+        "pk": 46240721010,
+        "id": "17841400275492848",
+        "username": "viihtube",
+        "nome": "Vitoria Di Felice",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/902954850_18087319598537011_2927708217290744419_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GGL-0TUzGZxDUkJAAGNim6kcT6EobmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OZFIHjIs23gQ7kNvwFxwlZN&_nc_oc=AdpY-l7eLMC6RL5WBkqj_nTT_0sAoED9kEipDjxa_cLHGtvgCCxNy28wdKDCf5f2Ss90IjbFlwGRhc5tJvKKx58f&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=wA6gOIN_BHUABoOvaY7A0w&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR3kGBbl8K1BX8nl61hUmPNfj90AtrvnM6i_3gSCs4u8w&oe=6B0CD8E7",
+        "total_posts": 1343
+      },
+      "tipo": "verificado",
+      "campo": "verificado",
+      "nome_campo": "Verificação",
+      "valor_anterior": true,
+      "valor_atual": false,
+      "hash_anterior": "5ee34a43fcef6fc65736d5311a6c5faef12a17ddcf4567e639682aa9baedbd79",
+      "hash_atual": "8ec53b8e0776ed10adc94084d3aa69d5c3e57a8e9779938e7bf2e04ee8049b45",
+      "variacao": null,
+      "categoria": "status",
+      "tempo_desde_anterior": {
+        "segundos": 49144.573705,
+        "texto": "13 horas e 39 minutos e 4 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Verificação removida",
+      "descricao": "O perfil deixou de ser verificado"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T23:10:04.443004",
@@ -5331,50 +5525,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:43:09.994477",
-    "captura_mais_recente": "2026-11-24T23:10:04.443004",
-    "tempo_total_segundos": 4238814,
-    "tempo_total_dias": 49.060347,
-    "tempo_total_texto": "49 dias, 1 hora, 26 minutos e 54 segundos",
+    "captura_mais_recente": "2026-11-25T12:49:09.016709",
+    "tempo_total_segundos": 4287959,
+    "tempo_total_dias": 49.629155,
+    "tempo_total_texto": "49 dias, 15 horas, 5 minutos e 59 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -31573944,
+      "variacao": -31570534,
       "direcao": "perdeu",
-      "quantidade": 31573944,
-      "texto": "Perdeu 31573944 seguidores",
+      "quantidade": 31570534,
+      "texto": "Perdeu 31570534 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:28:04.940979",
-      "captura_fim": "2026-11-24T23:10:04.443004",
+      "captura_fim": "2026-11-25T12:49:09.016709",
       "seguidores_inicio": 31577539,
-      "seguidores_fim": 3595
+      "seguidores_fim": 7005
     },
     "7_dias": {
-      "variacao": -31678978,
+      "variacao": -31675568,
       "direcao": "perdeu",
-      "quantidade": 31678978,
-      "texto": "Perdeu 31678978 seguidores",
+      "quantidade": 31675568,
+      "texto": "Perdeu 31675568 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:19.306797",
-      "captura_fim": "2026-11-24T23:10:04.443004",
+      "captura_fim": "2026-11-25T12:49:09.016709",
       "seguidores_inicio": 31682573,
-      "seguidores_fim": 3595
+      "seguidores_fim": 7005
     },
     "30_dias": {
-      "variacao": -31741742,
+      "variacao": -31738332,
       "direcao": "perdeu",
-      "quantidade": 31741742,
-      "texto": "Perdeu 31741742 seguidores",
+      "quantidade": 31738332,
+      "texto": "Perdeu 31738332 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:07:02.779850",
-      "captura_fim": "2026-11-24T23:10:04.443004",
+      "captura_fim": "2026-11-25T12:49:09.016709",
       "seguidores_inicio": 31745337,
-      "seguidores_fim": 3595
+      "seguidores_fim": 7005
     },
     "90_dias": {
       "variacao": null,
@@ -5385,17 +5579,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -31876336,
+      "variacao": -31872926,
       "direcao": "perdeu",
-      "quantidade": 31876336,
-      "texto": "Perdeu 31876336 seguidores",
+      "quantidade": 31872926,
+      "texto": "Perdeu 31872926 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:43:09.994477",
-      "captura_mais_recente": "2026-11-24T23:10:04.443004",
-      "tempo_total_dias": 49.060352,
+      "captura_mais_recente": "2026-11-25T12:49:09.016709",
+      "tempo_total_dias": 49.629155,
       "seguidores_inicio": 31879931,
-      "seguidores_fim": 3595
+      "seguidores_fim": 7005
     }
   }
 }

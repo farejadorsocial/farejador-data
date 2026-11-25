@@ -8,7 +8,7 @@
       "id": "17841402946646943",
       "username": "erling",
       "nome": "Erling Braut Haaland",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/917946694_18511499707098222_280263905407551927_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEbBtjZuJE1kHMRBALdJLn2JsuMDbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SQJk7Q51qDwQ7kNvwEhxfV_&_nc_oc=AdrzfrZPt_wrYjRok4zvtofKIyRv0vaC41I4LVLKo-Igi-QK52QK0D5sQIr9mDUzS5Y-c8kYR4O4ruBtmSbltplk&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=xs9q-QpfxdfOTWBEg_oBiQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRzCZmB53XxT9xtifQ34SJg-xATRbycbBcZuGSWxTuF9A&oe=6B0C0228",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/917946694_18511499707098222_280263905407551927_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEbBtjZuJE1kHMRBALdJLn2JsuMDbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SQJk7Q51qDwQ7kNvwEm73Ck&_nc_oc=Ado0oVg7WBHywbjGL9lidZ-cLLuAXtCJsV8jI1Ug10ZGX6eJALZxqvji814nioWXZTDNm864iLr8LEexFhNTa-Sb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zsRnUUPgrC8ky7kU7UaWhw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRGWnk2IOEatCi2KkiylKxNVkLbQXvKvqZoEU1-sF-9TQ&oe=6B0CE328",
       "total_posts": 1150
     },
     "biografia": [
@@ -79,6 +79,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 76377969,
+        "valor_atual": 76362328,
+        "variacao": -15641,
+        "direcao": "reducao",
+        "descricao": "-15641 seguidores",
+        "timestamp": "2026-11-25T13:05:42.397658",
+        "timestamp_anterior": "2026-11-24T23:26:40.836144",
+        "tempo_desde_anterior_segundos": 49141
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1239,6 +1252,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-25T13:05:42.397658",
+      "timestamp_anterior": "2026-11-24T23:26:40.836144",
+      "timestamp_atual": "2026-11-25T13:05:42.397658",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 3015546221,
+        "id": "17841402946646943",
+        "username": "erling",
+        "nome": "Erling Braut Haaland",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/917946694_18511499707098222_280263905407551927_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GEbBtjZuJE1kHMRBALdJLn2JsuMDbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=SQJk7Q51qDwQ7kNvwEm73Ck&_nc_oc=Ado0oVg7WBHywbjGL9lidZ-cLLuAXtCJsV8jI1Ug10ZGX6eJALZxqvji814nioWXZTDNm864iLr8LEexFhNTa-Sb&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=zsRnUUPgrC8ky7kU7UaWhw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRGWnk2IOEatCi2KkiylKxNVkLbQXvKvqZoEU1-sF-9TQ&oe=6B0CE328",
+        "total_posts": 1150
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 76377969,
+      "valor_atual": 76362328,
+      "hash_anterior": "f7bd0074fcf594baf63f39febf4e521d536494552c7949742de6b2e87a19ea41",
+      "hash_atual": "2273b76b75fd15e24b8e0eec89ca5604f94023f743e811332c0f13fba2bd5b87",
+      "variacao": -15641,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49141.561514,
+        "texto": "13 horas e 39 minutos e 1 segundo"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 49141.561514,
+        "texto": "13 horas e 39 minutos e 1 segundo"
+      },
+      "titulo": "Perdeu 15.641 seguidores",
+      "descricao": "Os seguidores caíram de 76.377.969 para 76.362.328",
+      "variacao_texto": "-15.641 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T23:26:40.836144",
@@ -4231,50 +4280,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:41:32.250474",
-    "captura_mais_recente": "2026-11-24T23:26:40.836144",
-    "tempo_total_segundos": 4329908,
-    "tempo_total_dias": 50.114676,
-    "tempo_total_texto": "50 dias, 2 horas, 45 minutos e 8 segundos",
+    "captura_mais_recente": "2026-11-25T13:05:42.397658",
+    "tempo_total_segundos": 4379050,
+    "tempo_total_dias": 50.683449,
+    "tempo_total_texto": "50 dias, 16 horas, 24 minutos e 10 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -56598,
+      "variacao": -72239,
       "direcao": "perdeu",
-      "quantidade": 56598,
-      "texto": "Perdeu 56598 seguidores",
+      "quantidade": 72239,
+      "texto": "Perdeu 72239 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:45:09.532535",
-      "captura_fim": "2026-11-24T23:26:40.836144",
+      "captura_fim": "2026-11-25T13:05:42.397658",
       "seguidores_inicio": 76434567,
-      "seguidores_fim": 76377969
+      "seguidores_fim": 76362328
     },
     "7_dias": {
-      "variacao": -318620,
+      "variacao": -334261,
       "direcao": "perdeu",
-      "quantidade": 318620,
-      "texto": "Perdeu 318620 seguidores",
+      "quantidade": 334261,
+      "texto": "Perdeu 334261 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:52.715503",
-      "captura_fim": "2026-11-24T23:26:40.836144",
+      "captura_fim": "2026-11-25T13:05:42.397658",
       "seguidores_inicio": 76696589,
-      "seguidores_fim": 76377969
+      "seguidores_fim": 76362328
     },
     "30_dias": {
-      "variacao": -294349,
+      "variacao": -309990,
       "direcao": "perdeu",
-      "quantidade": 294349,
-      "texto": "Perdeu 294349 seguidores",
+      "quantidade": 309990,
+      "texto": "Perdeu 309990 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:07:32.181713",
-      "captura_fim": "2026-11-24T23:26:40.836144",
+      "captura_fim": "2026-11-25T13:05:42.397658",
       "seguidores_inicio": 76672318,
-      "seguidores_fim": 76377969
+      "seguidores_fim": 76362328
     },
     "90_dias": {
       "variacao": null,
@@ -4285,17 +4334,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -607463,
+      "variacao": -623104,
       "direcao": "perdeu",
-      "quantidade": 607463,
-      "texto": "Perdeu 607463 seguidores",
+      "quantidade": 623104,
+      "texto": "Perdeu 623104 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:41:32.250474",
-      "captura_mais_recente": "2026-11-24T23:26:40.836144",
-      "tempo_total_dias": 50.114683,
+      "captura_mais_recente": "2026-11-25T13:05:42.397658",
+      "tempo_total_dias": 50.683451,
       "seguidores_inicio": 76985432,
-      "seguidores_fim": 76377969
+      "seguidores_fim": 76362328
     }
   }
 }
