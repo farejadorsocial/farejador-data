@@ -8,7 +8,7 @@
       "id": "17841401752802236",
       "username": "flaviobolsonaro",
       "nome": "Flávio Bolsonaro",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/789264118_18628382635058427_3919854993448411402_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GPY2Cy-75LNRai5CAAqhiCdZH2Y2bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mVNazEkmC2UQ7kNvwGVhpmi&_nc_oc=Adpuk4shwsXm-zokAMc617Ir8U1CisA0qwRMJEL6lPiTPxMCleRoQ9Tvor4ZE74CfVsx7KRgcV78RoKG6NEEoNjy&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=gl2XG0_eYed51yqy-jR7WA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSxGc345KtZi-P0b8dqRi3jQ_0elHNbTNVwzuuNpnfy8A&oe=6B0BAA3D",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/789264118_18628382635058427_3919854993448411402_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GPY2Cy-75LNRai5CAAqhiCdZH2Y2bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mVNazEkmC2UQ7kNvwGVhpmi&_nc_oc=Adpuk4shwsXm-zokAMc617Ir8U1CisA0qwRMJEL6lPiTPxMCleRoQ9Tvor4ZE74CfVsx7KRgcV78RoKG6NEEoNjy&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=yK9xyA_mZIyqTFFCo2AhEQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQT02AtcQjPgsF6WcSDVhk547FUD0NLwmpvsjYNamVdyw&oe=6B0C1ABD",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 17449284,
+        "valor_atual": 17449396,
+        "variacao": 112,
+        "direcao": "aumento",
+        "descricao": "+112 seguidores",
+        "timestamp": "2026-11-24T23:39:10.959672",
+        "timestamp_anterior": "2026-11-24T16:26:53.625683",
+        "tempo_desde_anterior_segundos": 25937
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -2978,6 +2991,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T23:39:10.959672",
+      "timestamp_anterior": "2026-11-24T16:26:53.625683",
+      "timestamp_atual": "2026-11-24T23:39:10.959672",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "politico",
+        "pk": 1423162426,
+        "id": "17841401752802236",
+        "username": "flaviobolsonaro",
+        "nome": "Flávio Bolsonaro",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/789264118_18628382635058427_3919854993448411402_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GPY2Cy-75LNRai5CAAqhiCdZH2Y2bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=mVNazEkmC2UQ7kNvwGVhpmi&_nc_oc=Adpuk4shwsXm-zokAMc617Ir8U1CisA0qwRMJEL6lPiTPxMCleRoQ9Tvor4ZE74CfVsx7KRgcV78RoKG6NEEoNjy&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=yK9xyA_mZIyqTFFCo2AhEQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQT02AtcQjPgsF6WcSDVhk547FUD0NLwmpvsjYNamVdyw&oe=6B0C1ABD",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 17449284,
+      "valor_atual": 17449396,
+      "hash_anterior": "dd336409676d9290734a109e90b8f156517c27e27899269e8f16886ce21b82e4",
+      "hash_atual": "e0ee635144598f0260425f4262d4a30404c9a3fc390e051973928cc596b5a983",
+      "variacao": 112,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25937.333989,
+        "texto": "7 horas e 12 minutos e 17 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25937.333989,
+        "texto": "7 horas e 12 minutos e 17 segundos"
+      },
+      "titulo": "Ganhou 112 seguidores",
+      "descricao": "Os seguidores passaram de 17.449.284 para 17.449.396",
+      "variacao_texto": "+112 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T16:26:53.625683",
@@ -10794,50 +10843,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-03T13:36:02.574547",
-    "captura_mais_recente": "2026-11-24T16:26:53.625683",
-    "tempo_total_segundos": 4503051,
-    "tempo_total_dias": 52.118646,
-    "tempo_total_texto": "52 dias, 2 horas, 50 minutos e 51 segundos",
+    "captura_mais_recente": "2026-11-24T23:39:10.959672",
+    "tempo_total_segundos": 4528988,
+    "tempo_total_dias": 52.418843,
+    "tempo_total_texto": "52 dias, 10 horas, 3 minutos e 8 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -18396,
+      "variacao": -18284,
       "direcao": "perdeu",
-      "quantidade": 18396,
-      "texto": "Perdeu 18396 seguidores",
+      "quantidade": 18284,
+      "texto": "Perdeu 18284 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:57:32.622388",
-      "captura_fim": "2026-11-24T16:26:53.625683",
+      "captura_fim": "2026-11-24T23:39:10.959672",
       "seguidores_inicio": 17467680,
-      "seguidores_fim": 17449284
+      "seguidores_fim": 17449396
     },
     "7_dias": {
-      "variacao": -39409,
+      "variacao": -39297,
       "direcao": "perdeu",
-      "quantidade": 39409,
-      "texto": "Perdeu 39409 seguidores",
+      "quantidade": 39297,
+      "texto": "Perdeu 39297 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:52.274312",
-      "captura_fim": "2026-11-24T16:26:53.625683",
+      "captura_fim": "2026-11-24T23:39:10.959672",
       "seguidores_inicio": 17488693,
-      "seguidores_fim": 17449284
+      "seguidores_fim": 17449396
     },
     "30_dias": {
-      "variacao": 1959034,
+      "variacao": 1959146,
       "direcao": "ganhou",
-      "quantidade": 1959034,
-      "texto": "Ganhou 1959034 seguidores",
+      "quantidade": 1959146,
+      "texto": "Ganhou 1959146 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:06:44.983828",
-      "captura_fim": "2026-11-24T16:26:53.625683",
+      "captura_fim": "2026-11-24T23:39:10.959672",
       "seguidores_inicio": 15490250,
-      "seguidores_fim": 17449284
+      "seguidores_fim": 17449396
     },
     "90_dias": {
       "variacao": null,
@@ -10848,17 +10897,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 5047120,
+      "variacao": 5047232,
       "direcao": "ganhou",
-      "quantidade": 5047120,
-      "texto": "Ganhou 5047120 seguidores",
+      "quantidade": 5047232,
+      "texto": "Ganhou 5047232 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-03T13:36:02.574547",
-      "captura_mais_recente": "2026-11-24T16:26:53.625683",
-      "tempo_total_dias": 52.118646,
+      "captura_mais_recente": "2026-11-24T23:39:10.959672",
+      "tempo_total_dias": 52.418847,
       "seguidores_inicio": 12402164,
-      "seguidores_fim": 17449284
+      "seguidores_fim": 17449396
     }
   }
 }

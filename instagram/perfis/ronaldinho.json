@@ -8,7 +8,7 @@
       "id": "17841401249275299",
       "username": "ronaldinho",
       "nome": "Ronaldo de Assis Moreira",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKFLQBM0UJkewLwBAEaY_14j-NxWbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=I9G8lFRsDLgQ7kNvwFvzvl7&_nc_oc=Adpt2w0dxSYFyr1-PlPsI-NrFGoe7f1zs8uzy1HpR6wzglvoahPIjOq1fnCMcLc0rONEtp33kNqEtX5vKXIjbRmn&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSLXU_qKnG4jAbRJ4puLH-cgRTITNQCpgX7E_aFf6_BpQ&oe=6B0B9FF5",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKFLQBM0UJkewLwBAEaY_14j-NxWbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=I9G8lFRsDLgQ7kNvwFvzvl7&_nc_oc=Adpt2w0dxSYFyr1-PlPsI-NrFGoe7f1zs8uzy1HpR6wzglvoahPIjOq1fnCMcLc0rONEtp33kNqEtX5vKXIjbRmn&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTIT9DzJyX5FnS-I2KWBnJXG5XUQfQ0zXZwfT-S0QLKiw&oe=6B0C1075",
       "total_posts": 3873
     },
     "biografia": [
@@ -88,6 +88,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 81345326,
+        "valor_atual": 81347652,
+        "variacao": 2326,
+        "direcao": "aumento",
+        "descricao": "+2326 seguidores",
+        "timestamp": "2026-11-24T23:05:53.848342",
+        "timestamp_anterior": "2026-11-24T15:53:26.481570",
+        "tempo_desde_anterior_segundos": 25947
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1274,6 +1287,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T23:05:53.848342",
+      "timestamp_anterior": "2026-11-24T15:53:26.481570",
+      "timestamp_atual": "2026-11-24T23:05:53.848342",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "atleta",
+        "pk": 979177642,
+        "id": "17841401249275299",
+        "username": "ronaldinho",
+        "nome": "Ronaldo de Assis Moreira",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/322980769_489008309817396_6259154810985748550_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKFLQBM0UJkewLwBAEaY_14j-NxWbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=I9G8lFRsDLgQ7kNvwFvzvl7&_nc_oc=Adpt2w0dxSYFyr1-PlPsI-NrFGoe7f1zs8uzy1HpR6wzglvoahPIjOq1fnCMcLc0rONEtp33kNqEtX5vKXIjbRmn&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTIT9DzJyX5FnS-I2KWBnJXG5XUQfQ0zXZwfT-S0QLKiw&oe=6B0C1075",
+        "total_posts": 3873
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 81345326,
+      "valor_atual": 81347652,
+      "hash_anterior": "908f1ae3ff6cf9ff1753ee2a4a0c43e0018766a4d02081db9ebf516d9bee1df0",
+      "hash_atual": "bd3036c9d845fb2c8c5e75edca1a6f3c11463dfe16f0a5021d77fab4c410a4af",
+      "variacao": 2326,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25947.366772,
+        "texto": "7 horas e 12 minutos e 27 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25947.366772,
+        "texto": "7 horas e 12 minutos e 27 segundos"
+      },
+      "titulo": "Ganhou 2.326 seguidores",
+      "descricao": "Os seguidores passaram de 81.345.326 para 81.347.652",
+      "variacao_texto": "+2.326 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T15:53:26.481570",
@@ -4338,50 +4387,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:55.163517",
-    "captura_mais_recente": "2026-11-24T15:53:26.481570",
-    "tempo_total_segundos": 4302751,
-    "tempo_total_dias": 49.800359,
-    "tempo_total_texto": "49 dias, 19 horas, 12 minutos e 31 segundos",
+    "captura_mais_recente": "2026-11-24T23:05:53.848342",
+    "tempo_total_segundos": 4328698,
+    "tempo_total_dias": 50.100671,
+    "tempo_total_texto": "50 dias, 2 horas, 24 minutos e 58 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -35096,
+      "variacao": -32770,
       "direcao": "perdeu",
-      "quantidade": 35096,
-      "texto": "Perdeu 35096 seguidores",
+      "quantidade": 32770,
+      "texto": "Perdeu 32770 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:24:27.574694",
-      "captura_fim": "2026-11-24T15:53:26.481570",
+      "captura_fim": "2026-11-24T23:05:53.848342",
       "seguidores_inicio": 81380422,
-      "seguidores_fim": 81345326
+      "seguidores_fim": 81347652
     },
     "7_dias": {
-      "variacao": 194871,
+      "variacao": 197197,
       "direcao": "ganhou",
-      "quantidade": 194871,
-      "texto": "Ganhou 194871 seguidores",
+      "quantidade": 197197,
+      "texto": "Ganhou 197197 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:25:24.531183",
-      "captura_fim": "2026-11-24T15:53:26.481570",
+      "captura_fim": "2026-11-24T23:05:53.848342",
       "seguidores_inicio": 81150455,
-      "seguidores_fim": 81345326
+      "seguidores_fim": 81347652
     },
     "30_dias": {
-      "variacao": 157211,
+      "variacao": 159537,
       "direcao": "ganhou",
-      "quantidade": 157211,
-      "texto": "Ganhou 157211 seguidores",
+      "quantidade": 159537,
+      "texto": "Ganhou 159537 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:07:04.137448",
-      "captura_fim": "2026-11-24T15:53:26.481570",
+      "captura_fim": "2026-11-24T23:05:53.848342",
       "seguidores_inicio": 81188115,
-      "seguidores_fim": 81345326
+      "seguidores_fim": 81347652
     },
     "90_dias": {
       "variacao": null,
@@ -4392,17 +4441,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 253144,
+      "variacao": 255470,
       "direcao": "ganhou",
-      "quantidade": 253144,
-      "texto": "Ganhou 253144 seguidores",
+      "quantidade": 255470,
+      "texto": "Ganhou 255470 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:55.163517",
-      "captura_mais_recente": "2026-11-24T15:53:26.481570",
-      "tempo_total_dias": 49.800362,
+      "captura_mais_recente": "2026-11-24T23:05:53.848342",
+      "tempo_total_dias": 50.100679,
       "seguidores_inicio": 81092182,
-      "seguidores_fim": 81345326
+      "seguidores_fim": 81347652
     }
   }
 }

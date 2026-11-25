@@ -8,7 +8,7 @@
       "id": "17841404546967112",
       "username": "bbb",
       "nome": "Big Brother Brasil",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/613551448_18395443786151566_8923437796884822137_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFgNkiSO9lsEj1pBAHk4ndpla9Z7bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjUuQzMifQ%3D%3D&_nc_ohc=pF8GGBA-5AYQ7kNvwFfNUp-&_nc_oc=AdqLfpXc1ehEOkDnFLMnoXW4U9bTJhzfA565RyepSBVBxle0DdCxOISQx04CEMD24087VIGGhAlApqjwQfj97GoC&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=H8jYdpR17w2CdOUBG7o0_Q&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR8wfdgIu5E1x2dl9BQXve6n575RLJu-f6iGVCC8jMZMg&oe=6B0BCD26",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/613551448_18395443786151566_8923437796884822137_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFgNkiSO9lsEj1pBAHk4ndpla9Z7bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjUuQzMifQ%3D%3D&_nc_ohc=pF8GGBA-5AYQ7kNvwFfNUp-&_nc_oc=AdqLfpXc1ehEOkDnFLMnoXW4U9bTJhzfA565RyepSBVBxle0DdCxOISQx04CEMD24087VIGGhAlApqjwQfj97GoC&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=LK1khooLgwSWpBY9S9GzNA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQTT0p0b2wAh8MmE4d65GK74MW4_0Y0Bv3qLP5GZX6gBQ&oe=6B0C0566",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 21129539,
+        "valor_atual": 21128499,
+        "variacao": -1040,
+        "direcao": "reducao",
+        "descricao": "-1040 seguidores",
+        "timestamp": "2026-11-24T23:33:28.289959",
+        "timestamp_anterior": "2026-11-24T16:21:12.761748",
+        "tempo_desde_anterior_segundos": 25935
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -2458,6 +2471,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T23:33:28.289959",
+      "timestamp_anterior": "2026-11-24T16:21:12.761748",
+      "timestamp_atual": "2026-11-24T23:33:28.289959",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "reality show",
+        "pk": 4456903565,
+        "id": "17841404546967112",
+        "username": "bbb",
+        "nome": "Big Brother Brasil",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/613551448_18395443786151566_8923437796884822137_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFgNkiSO9lsEj1pBAHk4ndpla9Z7bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjUuQzMifQ%3D%3D&_nc_ohc=pF8GGBA-5AYQ7kNvwFfNUp-&_nc_oc=AdqLfpXc1ehEOkDnFLMnoXW4U9bTJhzfA565RyepSBVBxle0DdCxOISQx04CEMD24087VIGGhAlApqjwQfj97GoC&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=LK1khooLgwSWpBY9S9GzNA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQTT0p0b2wAh8MmE4d65GK74MW4_0Y0Bv3qLP5GZX6gBQ&oe=6B0C0566",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 21129539,
+      "valor_atual": 21128499,
+      "hash_anterior": "03fd5d68b55bc87bddc402691718f0f1d6f93fac88f113bcd8dfa5b68ec01361",
+      "hash_atual": "a37a22639fd12cd031eb027511ccebfee47f9c9fad459288a5e89aab1d7df0fa",
+      "variacao": -1040,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25935.528211,
+        "texto": "7 horas e 12 minutos e 15 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25935.528211,
+        "texto": "7 horas e 12 minutos e 15 segundos"
+      },
+      "titulo": "Perdeu 1.040 seguidores",
+      "descricao": "Os seguidores caíram de 21.129.539 para 21.128.499",
+      "variacao_texto": "-1.040 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T16:21:12.761748",
@@ -8834,50 +8883,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:23:13.434990",
-    "captura_mais_recente": "2026-11-24T16:21:12.761748",
-    "tempo_total_segundos": 4402679,
-    "tempo_total_dias": 50.956933,
-    "tempo_total_texto": "50 dias, 22 horas, 57 minutos e 59 segundos",
+    "captura_mais_recente": "2026-11-24T23:33:28.289959",
+    "tempo_total_segundos": 4428614,
+    "tempo_total_dias": 51.257106,
+    "tempo_total_texto": "51 dias, 6 horas, 10 minutos e 14 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -10441,
+      "variacao": -11481,
       "direcao": "perdeu",
-      "quantidade": 10441,
-      "texto": "Perdeu 10441 seguidores",
+      "quantidade": 11481,
+      "texto": "Perdeu 11481 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:51:51.148843",
-      "captura_fim": "2026-11-24T16:21:12.761748",
+      "captura_fim": "2026-11-24T23:33:28.289959",
       "seguidores_inicio": 21139980,
-      "seguidores_fim": 21129539
+      "seguidores_fim": 21128499
     },
     "7_dias": {
-      "variacao": -84633,
+      "variacao": -85673,
       "direcao": "perdeu",
-      "quantidade": 84633,
-      "texto": "Perdeu 84633 seguidores",
+      "quantidade": 85673,
+      "texto": "Perdeu 85673 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:20.985225",
-      "captura_fim": "2026-11-24T16:21:12.761748",
+      "captura_fim": "2026-11-24T23:33:28.289959",
       "seguidores_inicio": 21214172,
-      "seguidores_fim": 21129539
+      "seguidores_fim": 21128499
     },
     "30_dias": {
-      "variacao": -135066,
+      "variacao": -136106,
       "direcao": "perdeu",
-      "quantidade": 135066,
-      "texto": "Perdeu 135066 seguidores",
+      "quantidade": 136106,
+      "texto": "Perdeu 136106 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:07:16.705337",
-      "captura_fim": "2026-11-24T16:21:12.761748",
+      "captura_fim": "2026-11-24T23:33:28.289959",
       "seguidores_inicio": 21264605,
-      "seguidores_fim": 21129539
+      "seguidores_fim": 21128499
     },
     "90_dias": {
       "variacao": null,
@@ -8888,17 +8937,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -203307,
+      "variacao": -204347,
       "direcao": "perdeu",
-      "quantidade": 203307,
-      "texto": "Perdeu 203307 seguidores",
+      "quantidade": 204347,
+      "texto": "Perdeu 204347 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:23:13.434990",
-      "captura_mais_recente": "2026-11-24T16:21:12.761748",
-      "tempo_total_dias": 50.956937,
+      "captura_mais_recente": "2026-11-24T23:33:28.289959",
+      "tempo_total_dias": 51.257116,
       "seguidores_inicio": 21332846,
-      "seguidores_fim": 21129539
+      "seguidores_fim": 21128499
     }
   }
 }

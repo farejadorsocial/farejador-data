@@ -8,7 +8,7 @@
       "id": "17841401176934531",
       "username": "realmadrid",
       "nome": "Real Madrid C.F.",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/902453766_18684140686039232_5489186143350220927_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GAZayjXAWIaAIGFCAH-oYuS2gS1MbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ryuaxhuoud0Q7kNvwGJY_b-&_nc_oc=AdpkOZ2__-OOlLhfDK_z6krBQWYipW8YrOEccjPBNdbjDFh6bUgoV50oH7VoQi-lB-kp8VSBf-DrmeVWJLZt4tva&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=ZC4olzm0UPj8dT_PTLJqcA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRIrYmO8BZjEP-gVAcUmLnFuUGvzeqgjnST465ILBpcyg&oe=6B0BA757",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/902453766_18684140686039232_5489186143350220927_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GAZayjXAWIaAIGFCAH-oYuS2gS1MbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ryuaxhuoud0Q7kNvwGJY_b-&_nc_oc=AdpkOZ2__-OOlLhfDK_z6krBQWYipW8YrOEccjPBNdbjDFh6bUgoV50oH7VoQi-lB-kp8VSBf-DrmeVWJLZt4tva&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=PtwD9wzgc6nuV9OqepKaBw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT4xDgBiB_pwBXjtOFzIBilT3J0QBxgacLWV-Dy50bmzQ&oe=6B0C17D7",
       "total_posts": 0
     },
     "biografia": [
@@ -454,6 +454,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 182374949,
+        "valor_atual": 182395750,
+        "variacao": 20801,
+        "direcao": "aumento",
+        "descricao": "+20801 seguidores",
+        "timestamp": "2026-11-24T23:14:13.494017",
+        "timestamp_anterior": "2026-11-24T16:02:01.566438",
+        "tempo_desde_anterior_segundos": 25931
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1354,6 +1367,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T23:14:13.494017",
+      "timestamp_anterior": "2026-11-24T16:02:01.566438",
+      "timestamp_atual": "2026-11-24T23:14:13.494017",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 290023231,
+        "id": "17841401176934531",
+        "username": "realmadrid",
+        "nome": "Real Madrid C.F.",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/902453766_18684140686039232_5489186143350220927_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GAZayjXAWIaAIGFCAH-oYuS2gS1MbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ryuaxhuoud0Q7kNvwGJY_b-&_nc_oc=AdpkOZ2__-OOlLhfDK_z6krBQWYipW8YrOEccjPBNdbjDFh6bUgoV50oH7VoQi-lB-kp8VSBf-DrmeVWJLZt4tva&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=PtwD9wzgc6nuV9OqepKaBw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT4xDgBiB_pwBXjtOFzIBilT3J0QBxgacLWV-Dy50bmzQ&oe=6B0C17D7",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 182374949,
+      "valor_atual": 182395750,
+      "hash_anterior": "bb16ce05b019ef191cb528d5bab6d28803bdc23244f95b854feffb6bcbc128d2",
+      "hash_atual": "c8bf7468d44709a3e0e4d53f8f73dcc979a617cad45b9523e32fead571fcdabc",
+      "variacao": 20801,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25931.927579,
+        "texto": "7 horas e 12 minutos e 11 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25931.927579,
+        "texto": "7 horas e 12 minutos e 11 segundos"
+      },
+      "titulo": "Ganhou 20.801 seguidores",
+      "descricao": "Os seguidores passaram de 182.374.949 para 182.395.750",
+      "variacao_texto": "+20.801 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T16:02:01.566438",
@@ -4193,50 +4242,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:40:53.375135",
-    "captura_mais_recente": "2026-11-24T16:02:01.566438",
-    "tempo_total_segundos": 4213268,
-    "tempo_total_dias": 48.764676,
-    "tempo_total_texto": "48 dias, 18 horas, 21 minutos e 8 segundos",
+    "captura_mais_recente": "2026-11-24T23:14:13.494017",
+    "tempo_total_segundos": 4239200,
+    "tempo_total_dias": 49.064815,
+    "tempo_total_texto": "49 dias, 1 hora, 33 minutos e 20 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -103160,
+      "variacao": -82359,
       "direcao": "perdeu",
-      "quantidade": 103160,
-      "texto": "Perdeu 103160 seguidores",
+      "quantidade": 82359,
+      "texto": "Perdeu 82359 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:32:13.476495",
-      "captura_fim": "2026-11-24T16:02:01.566438",
+      "captura_fim": "2026-11-24T23:14:13.494017",
       "seguidores_inicio": 182478109,
-      "seguidores_fim": 182374949
+      "seguidores_fim": 182395750
     },
     "7_dias": {
-      "variacao": -13878,
-      "direcao": "perdeu",
-      "quantidade": 13878,
-      "texto": "Perdeu 13878 seguidores",
+      "variacao": 6923,
+      "direcao": "ganhou",
+      "quantidade": 6923,
+      "texto": "Ganhou 6923 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:40.454924",
-      "captura_fim": "2026-11-24T16:02:01.566438",
+      "captura_fim": "2026-11-24T23:14:13.494017",
       "seguidores_inicio": 182388827,
-      "seguidores_fim": 182374949
+      "seguidores_fim": 182395750
     },
     "30_dias": {
-      "variacao": 1012322,
+      "variacao": 1033123,
       "direcao": "ganhou",
-      "quantidade": 1012322,
-      "texto": "Ganhou 1012322 seguidores",
+      "quantidade": 1033123,
+      "texto": "Ganhou 1033123 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:06:20.028949",
-      "captura_fim": "2026-11-24T16:02:01.566438",
+      "captura_fim": "2026-11-24T23:14:13.494017",
       "seguidores_inicio": 181362627,
-      "seguidores_fim": 182374949
+      "seguidores_fim": 182395750
     },
     "90_dias": {
       "variacao": null,
@@ -4247,17 +4296,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 1217412,
+      "variacao": 1238213,
       "direcao": "ganhou",
-      "quantidade": 1217412,
-      "texto": "Ganhou 1217412 seguidores",
+      "quantidade": 1238213,
+      "texto": "Ganhou 1238213 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:40:53.375135",
-      "captura_mais_recente": "2026-11-24T16:02:01.566438",
-      "tempo_total_dias": 48.764678,
+      "captura_mais_recente": "2026-11-24T23:14:13.494017",
+      "tempo_total_dias": 49.064816,
       "seguidores_inicio": 181157537,
-      "seguidores_fim": 182374949
+      "seguidores_fim": 182395750
     }
   }
 }

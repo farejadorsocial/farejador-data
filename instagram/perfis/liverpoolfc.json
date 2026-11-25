@@ -8,7 +8,7 @@
       "id": "17841400912812923",
       "username": "liverpoolfc",
       "nome": "Liverpool Football Club",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/892439348_18670968379030428_5814482307837392112_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDSLMTWcO9iVJVVCAPD0cD-aMLFQbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ozi-oW7mBWcQ7kNvwHg-D6K&_nc_oc=AdpvelcQEBM43OaYnU7dj9SYnA6nm8zavgHEXlLeiF1oszZBfW-9xDC19tQTdigV_THQ6mLeI9BgWFnwRwE1_H_B&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=8Fv97cUdoGHa9Qdc68cIZA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTQyEl7EDZKTXIna7R1YdLAeEP93wXcqhD3q-fR1UqhYQ&oe=6B0BB2ED",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/892439348_18670968379030428_5814482307837392112_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDSLMTWcO9iVJVVCAPD0cD-aMLFQbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ozi-oW7mBWcQ7kNvwHg-D6K&_nc_oc=AdpvelcQEBM43OaYnU7dj9SYnA6nm8zavgHEXlLeiF1oszZBfW-9xDC19tQTdigV_THQ6mLeI9BgWFnwRwE1_H_B&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=CibUeI9sRb2seGlvfLn4eg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT2Dzy8SCxWA1FakeDersbH1BgpC957DkcRkSWZ4hKgSg&oe=6B0C236D",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 48405171,
+        "valor_atual": 48406085,
+        "variacao": 914,
+        "direcao": "aumento",
+        "descricao": "+914 seguidores",
+        "timestamp": "2026-11-24T23:28:16.098444",
+        "timestamp_anterior": "2026-11-24T16:16:00.353309",
+        "tempo_desde_anterior_segundos": 25935
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -898,6 +911,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T23:28:16.098444",
+      "timestamp_anterior": "2026-11-24T16:16:00.353309",
+      "timestamp_atual": "2026-11-24T23:28:16.098444",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 187102427,
+        "id": "17841400912812923",
+        "username": "liverpoolfc",
+        "nome": "Liverpool Football Club",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/892439348_18670968379030428_5814482307837392112_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GDSLMTWcO9iVJVVCAPD0cD-aMLFQbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ozi-oW7mBWcQ7kNvwHg-D6K&_nc_oc=AdpvelcQEBM43OaYnU7dj9SYnA6nm8zavgHEXlLeiF1oszZBfW-9xDC19tQTdigV_THQ6mLeI9BgWFnwRwE1_H_B&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=CibUeI9sRb2seGlvfLn4eg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT2Dzy8SCxWA1FakeDersbH1BgpC957DkcRkSWZ4hKgSg&oe=6B0C236D",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 48405171,
+      "valor_atual": 48406085,
+      "hash_anterior": "8c0c8d732092250cd8fa6273b5bba65fcf63177ea48f060b8eb165caec4c8c48",
+      "hash_atual": "feeba2262100bbfa6da1f47bced64df0b1aa11e1e86bcd54398c08927cf9bec0",
+      "variacao": 914,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25935.745135,
+        "texto": "7 horas e 12 minutos e 15 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25935.745135,
+        "texto": "7 horas e 12 minutos e 15 segundos"
+      },
+      "titulo": "Ganhou 914 seguidores",
+      "descricao": "Os seguidores passaram de 48.405.171 para 48.406.085",
+      "variacao_texto": "+914 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T16:16:00.353309",
@@ -2954,50 +3003,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:55.797656",
-    "captura_mais_recente": "2026-11-24T16:16:00.353309",
-    "tempo_total_segundos": 4213984,
-    "tempo_total_dias": 48.772963,
-    "tempo_total_texto": "48 dias, 18 horas, 33 minutos e 4 segundos",
+    "captura_mais_recente": "2026-11-24T23:28:16.098444",
+    "tempo_total_segundos": 4239920,
+    "tempo_total_dias": 49.073148,
+    "tempo_total_texto": "49 dias, 1 hora, 45 minutos e 20 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 63039,
+      "variacao": 63953,
       "direcao": "ganhou",
-      "quantidade": 63039,
-      "texto": "Ganhou 63039 seguidores",
+      "quantidade": 63953,
+      "texto": "Ganhou 63953 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:46:42.192451",
-      "captura_fim": "2026-11-24T16:16:00.353309",
+      "captura_fim": "2026-11-24T23:28:16.098444",
       "seguidores_inicio": 48342132,
-      "seguidores_fim": 48405171
+      "seguidores_fim": 48406085
     },
     "7_dias": {
-      "variacao": 43696,
+      "variacao": 44610,
       "direcao": "ganhou",
-      "quantidade": 43696,
-      "texto": "Ganhou 43696 seguidores",
+      "quantidade": 44610,
+      "texto": "Ganhou 44610 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:26:04.763679",
-      "captura_fim": "2026-11-24T16:16:00.353309",
+      "captura_fim": "2026-11-24T23:28:16.098444",
       "seguidores_inicio": 48361475,
-      "seguidores_fim": 48405171
+      "seguidores_fim": 48406085
     },
     "30_dias": {
-      "variacao": 69234,
+      "variacao": 70148,
       "direcao": "ganhou",
-      "quantidade": 69234,
-      "texto": "Ganhou 69234 seguidores",
+      "quantidade": 70148,
+      "texto": "Ganhou 70148 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:04:18.823461",
-      "captura_fim": "2026-11-24T16:16:00.353309",
+      "captura_fim": "2026-11-24T23:28:16.098444",
       "seguidores_inicio": 48335937,
-      "seguidores_fim": 48405171
+      "seguidores_fim": 48406085
     },
     "90_dias": {
       "variacao": null,
@@ -3008,17 +3057,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 96474,
+      "variacao": 97388,
       "direcao": "ganhou",
-      "quantidade": 96474,
-      "texto": "Ganhou 96474 seguidores",
+      "quantidade": 97388,
+      "texto": "Ganhou 97388 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:55.797656",
-      "captura_mais_recente": "2026-11-24T16:16:00.353309",
-      "tempo_total_dias": 48.772969,
+      "captura_mais_recente": "2026-11-24T23:28:16.098444",
+      "tempo_total_dias": 49.073152,
       "seguidores_inicio": 48308697,
-      "seguidores_fim": 48405171
+      "seguidores_fim": 48406085
     }
   }
 }

@@ -8,7 +8,7 @@
       "id": "17841400544980416",
       "username": "erthalera",
       "nome": "Daniel Erthal / Artista / Venda",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/915926229_18654112240018167_5119574692206492487_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GNXslzb3oqr10EVCAEc7DNIOYgxHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Wodtdhjsss4Q7kNvwEm7NiM&_nc_oc=AdpN2qerPXWeSAvm6Q6oNOW6nr_SPQR4Y5aGhYP3zYkYbm5usHGGwidY4ZaJR5qMbziptA4qJVbuZnWT5r1Dgfns&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=9-l6hCu0OaqKnU6rRqBOKg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSRCkRgiOhSTMM9o3I4bDf1BlUU_IQY26Kf6OIMmQkm7w&oe=6B0B9F8D",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/915926229_18654112240018167_5119574692206492487_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNXslzb3oqr10EVCAEc7DNIOYgxHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pZkGSdMEkEAQ7kNvwGoIUzn&_nc_oc=AdpbLOP1mAGdljzeQz_vfsqNC_2D27m65PbNns4yRlSogGAsxS6EVsPZuW4kQ2D1uHQmy9mpELeZR6inVUnms71q&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=USM0lg3jmw_3gAZ44R88yA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ5e5YPL6IB6Tw5HOTkdE_deW5-PzpQ9bhkqTYRzGbNpA&oe=6B0C100D",
       "total_posts": 5571
     },
     "biografia": [
@@ -72,6 +72,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 715788,
+        "valor_atual": 715616,
+        "variacao": -172,
+        "direcao": "reducao",
+        "descricao": "-172 seguidores",
+        "timestamp": "2026-11-24T22:58:36.872362",
+        "timestamp_anterior": "2026-11-24T15:46:12.702511",
+        "tempo_desde_anterior_segundos": 25944
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1388,6 +1401,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T22:58:36.872362",
+      "timestamp_anterior": "2026-11-24T15:46:12.702511",
+      "timestamp_atual": "2026-11-24T22:58:36.872362",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "fazenda 2026",
+        "pk": 26642166,
+        "id": "17841400544980416",
+        "username": "erthalera",
+        "nome": "Daniel Erthal / Artista / Venda",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/915926229_18654112240018167_5119574692206492487_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GNXslzb3oqr10EVCAEc7DNIOYgxHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pZkGSdMEkEAQ7kNvwGoIUzn&_nc_oc=AdpbLOP1mAGdljzeQz_vfsqNC_2D27m65PbNns4yRlSogGAsxS6EVsPZuW4kQ2D1uHQmy9mpELeZR6inVUnms71q&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=USM0lg3jmw_3gAZ44R88yA&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ5e5YPL6IB6Tw5HOTkdE_deW5-PzpQ9bhkqTYRzGbNpA&oe=6B0C100D",
+        "total_posts": 5571
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 715788,
+      "valor_atual": 715616,
+      "hash_anterior": "354ab44814bffbf88ba0238421e1fe2d1036c92d5a2789a0ebec4d36d3dfdcf4",
+      "hash_atual": "58b05ef741e76263b8667ffb79c91044a9d719856fab202a546a2309c5b601c9",
+      "variacao": -172,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25944.169851,
+        "texto": "7 horas e 12 minutos e 24 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25944.169851,
+        "texto": "7 horas e 12 minutos e 24 segundos"
+      },
+      "titulo": "Perdeu 172 seguidores",
+      "descricao": "Os seguidores caíram de 715.788 para 715.616",
+      "variacao_texto": "-172 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T15:46:12.702511",
@@ -4812,50 +4861,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-04T17:57:05.068806",
-    "captura_mais_recente": "2026-11-24T15:46:12.702511",
-    "tempo_total_segundos": 4398547,
-    "tempo_total_dias": 50.909109,
-    "tempo_total_texto": "50 dias, 21 horas, 49 minutos e 7 segundos",
+    "captura_mais_recente": "2026-11-24T22:58:36.872362",
+    "tempo_total_segundos": 4424491,
+    "tempo_total_dias": 51.209387,
+    "tempo_total_texto": "51 dias, 5 horas, 1 minuto e 31 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -287,
+      "variacao": -459,
       "direcao": "perdeu",
-      "quantidade": 287,
-      "texto": "Perdeu 287 seguidores",
+      "quantidade": 459,
+      "texto": "Perdeu 459 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:17:12.745561",
-      "captura_fim": "2026-11-24T15:46:12.702511",
+      "captura_fim": "2026-11-24T22:58:36.872362",
       "seguidores_inicio": 716075,
-      "seguidores_fim": 715788
+      "seguidores_fim": 715616
     },
     "7_dias": {
-      "variacao": -2241,
+      "variacao": -2413,
       "direcao": "perdeu",
-      "quantidade": 2241,
-      "texto": "Perdeu 2241 seguidores",
+      "quantidade": 2413,
+      "texto": "Perdeu 2413 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:18:40.937576",
-      "captura_fim": "2026-11-24T15:46:12.702511",
+      "captura_fim": "2026-11-24T22:58:36.872362",
       "seguidores_inicio": 718029,
-      "seguidores_fim": 715788
+      "seguidores_fim": 715616
     },
     "30_dias": {
-      "variacao": -8043,
+      "variacao": -8215,
       "direcao": "perdeu",
-      "quantidade": 8043,
-      "texto": "Perdeu 8043 seguidores",
+      "quantidade": 8215,
+      "texto": "Perdeu 8215 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:07:08.709062",
-      "captura_fim": "2026-11-24T15:46:12.702511",
+      "captura_fim": "2026-11-24T22:58:36.872362",
       "seguidores_inicio": 723831,
-      "seguidores_fim": 715788
+      "seguidores_fim": 715616
     },
     "90_dias": {
       "variacao": null,
@@ -4866,17 +4915,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 28966,
+      "variacao": 28794,
       "direcao": "ganhou",
-      "quantidade": 28966,
-      "texto": "Ganhou 28966 seguidores",
+      "quantidade": 28794,
+      "texto": "Ganhou 28794 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-04T17:57:05.068806",
-      "captura_mais_recente": "2026-11-24T15:46:12.702511",
-      "tempo_total_dias": 50.909116,
+      "captura_mais_recente": "2026-11-24T22:58:36.872362",
+      "tempo_total_dias": 51.209396,
       "seguidores_inicio": 686822,
-      "seguidores_fim": 715788
+      "seguidores_fim": 715616
     }
   }
 }

@@ -8,7 +8,7 @@
       "id": "17841401190010098",
       "username": "luansantana",
       "nome": "Luan Santana",
-      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=VyN74lwfYmwQ7kNvwHGUKzW&_nc_oc=AdrVQnQR2su7Lzblkh3XXZDLUPh9FD2lQ0iBotKTd1E_xaVnGh8YyMiVwZ25FjbQWufwp10T1n-4ZBCFyKLNk4AT&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=ZSZ9U8gbN2VGZ22vNkB2Yg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSeNr4ZBCPPIvl7eQ1IustN2xqXVAsOrNUTgdX88CL1_A&oe=6B0BB908",
+      "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ThKeF8ILLrgQ7kNvwGcA6Ai&_nc_oc=AdrwnEigaYYbrjdq07ZIsSrHk1ExMUcIcoNPk7Hwb1O2uYRZP1F_LuKO1EMsVV3DfbcxI-6zRDXrs2fCtOdEjXQa&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=cXTOmSCyUibLcopxwOLIEg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlZ3hfR6DNoZBTa_T3YJK16eLHVP3h56zUuJUhaTKoew&oe=6B0C2988",
       "total_posts": 2686
     },
     "biografia": [
@@ -113,6 +113,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 36905600,
+        "valor_atual": 36905673,
+        "variacao": 73,
+        "direcao": "aumento",
+        "descricao": "+73 seguidores",
+        "timestamp": "2026-11-24T23:12:08.705018",
+        "timestamp_anterior": "2026-11-24T15:59:37.178171",
+        "tempo_desde_anterior_segundos": 25951
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -1416,6 +1429,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-24T23:12:08.705018",
+      "timestamp_anterior": "2026-11-24T15:59:37.178171",
+      "timestamp_atual": "2026-11-24T23:12:08.705018",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "cantor",
+        "pk": 6311667,
+        "id": "17841401190010098",
+        "username": "luansantana",
+        "nome": "Luan Santana",
+        "foto_perfil": "https://scontent-bsb1-1.cdninstagram.com/v/t51.82787-19/904967068_18682118338039668_7738024426757668177_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GJyz8DV0zzCjSV9CAFG9L_Q3-GJrbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ThKeF8ILLrgQ7kNvwGcA6Ai&_nc_oc=AdrwnEigaYYbrjdq07ZIsSrHk1ExMUcIcoNPk7Hwb1O2uYRZP1F_LuKO1EMsVV3DfbcxI-6zRDXrs2fCtOdEjXQa&_nc_zt=24&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_gid=cXTOmSCyUibLcopxwOLIEg&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTlZ3hfR6DNoZBTa_T3YJK16eLHVP3h56zUuJUhaTKoew&oe=6B0C2988",
+        "total_posts": 2686
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 36905600,
+      "valor_atual": 36905673,
+      "hash_anterior": "2b48871e87152370f0c51ea74c1764a9f2621098a43e286fe89ff7844bac87c4",
+      "hash_atual": "4f540e197543ca4e65b64e648b510478e92f35b24d37ea0390d883b692b04390",
+      "variacao": 73,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 25951.526847,
+        "texto": "7 horas e 12 minutos e 31 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 25951.526847,
+        "texto": "7 horas e 12 minutos e 31 segundos"
+      },
+      "titulo": "Ganhou 73 seguidores",
+      "descricao": "Os seguidores passaram de 36.905.600 para 36.905.673",
+      "variacao_texto": "+73 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-24T15:59:37.178171",
@@ -4885,50 +4934,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-05T20:40:56.537143",
-    "captura_mais_recente": "2026-11-24T15:59:37.178171",
-    "tempo_total_segundos": 4303120,
-    "tempo_total_dias": 49.80463,
-    "tempo_total_texto": "49 dias, 19 horas, 18 minutos e 40 segundos",
+    "captura_mais_recente": "2026-11-24T23:12:08.705018",
+    "tempo_total_segundos": 4329072,
+    "tempo_total_dias": 50.105,
+    "tempo_total_texto": "50 dias, 2 horas, 31 minutos e 12 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -2784,
+      "variacao": -2711,
       "direcao": "perdeu",
-      "quantidade": 2784,
-      "texto": "Perdeu 2784 seguidores",
+      "quantidade": 2711,
+      "texto": "Perdeu 2711 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:30:09.206830",
-      "captura_fim": "2026-11-24T15:59:37.178171",
+      "captura_fim": "2026-11-24T23:12:08.705018",
       "seguidores_inicio": 36908384,
-      "seguidores_fim": 36905600
+      "seguidores_fim": 36905673
     },
     "7_dias": {
-      "variacao": -18246,
+      "variacao": -18173,
       "direcao": "perdeu",
-      "quantidade": 18246,
-      "texto": "Perdeu 18246 seguidores",
+      "quantidade": 18173,
+      "texto": "Perdeu 18173 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-03T12:24:26.503657",
-      "captura_fim": "2026-11-24T15:59:37.178171",
+      "captura_fim": "2026-11-24T23:12:08.705018",
       "seguidores_inicio": 36923846,
-      "seguidores_fim": 36905600
+      "seguidores_fim": 36905673
     },
     "30_dias": {
-      "variacao": -39741,
+      "variacao": -39668,
       "direcao": "perdeu",
-      "quantidade": 39741,
-      "texto": "Perdeu 39741 seguidores",
+      "quantidade": 39668,
+      "texto": "Perdeu 39668 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:06:38.780052",
-      "captura_fim": "2026-11-24T15:59:37.178171",
+      "captura_fim": "2026-11-24T23:12:08.705018",
       "seguidores_inicio": 36945341,
-      "seguidores_fim": 36905600
+      "seguidores_fim": 36905673
     },
     "90_dias": {
       "variacao": null,
@@ -4939,17 +4988,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -17843,
+      "variacao": -17770,
       "direcao": "perdeu",
-      "quantidade": 17843,
-      "texto": "Perdeu 17843 seguidores",
+      "quantidade": 17770,
+      "texto": "Perdeu 17770 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-05T20:40:56.537143",
-      "captura_mais_recente": "2026-11-24T15:59:37.178171",
-      "tempo_total_dias": 49.804637,
+      "captura_mais_recente": "2026-11-24T23:12:08.705018",
+      "tempo_total_dias": 50.105002,
       "seguidores_inicio": 36923443,
-      "seguidores_fim": 36905600
+      "seguidores_fim": 36905673
     }
   }
 }
