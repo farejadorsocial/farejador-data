@@ -9,8 +9,8 @@
       "username": "farejador.games",
       "nome": "farejador games",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=062770b6&x-expires=1795744800&x-signature=ibsBg4ODjuoFksSNUYPVn2TJBkg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-        "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=9e7ca0f4&x-expires=1795744800&x-signature=dLcayUqxwE4yw3xYn%2F0HtWxTabQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=960f6606&x-expires=1795791600&x-signature=AoMVKduOVZ0I0EUVdtGXJPLfako%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=81ab1310&x-expires=1795791600&x-signature=3SdDXHqmx1DLK40rySLDZtbfDLU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
         "thumb": ""
       },
       "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
@@ -147,6 +147,19 @@
         "plataforma": "tiktok",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 744,
+        "valor_atual": 753,
+        "variacao": 9,
+        "direcao": "aumento",
+        "descricao": "+9 seguidores",
+        "timestamp": "2026-11-25T12:41:54.421300",
+        "timestamp_anterior": "2026-11-24T23:00:55.942407",
+        "tempo_desde_anterior_segundos": 49258
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor_anterior": 723,
         "valor_atual": 744,
         "variacao": 21,
@@ -244,6 +257,19 @@
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "tiktok",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 397,
+        "valor_atual": 417,
+        "variacao": 20,
+        "direcao": "aumento",
+        "descricao": "Seguiu +20",
+        "timestamp": "2026-11-25T12:41:54.421300",
+        "timestamp_anterior": "2026-11-24T15:47:28.017407",
+        "tempo_desde_anterior_segundos": 75266
+      },
       {
         "plataforma": "tiktok",
         "campo": "seguindo",
@@ -377,6 +403,92 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-25T12:41:54.421300",
+      "timestamp_anterior": "2026-11-24T23:00:55.942407",
+      "timestamp_atual": "2026-11-25T12:41:54.421300",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteudo",
+        "id": "7691505041542349831",
+        "sec_uid": "MS4wLjABAAAAknEMelDDdxsSsdthW0WXDUCR2fgq0yBOajBzmMYBY3dNTnnlfh4Oz0FPYfa66Y-m",
+        "username": "farejador.games",
+        "nome": "farejador games",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=960f6606&x-expires=1795791600&x-signature=AoMVKduOVZ0I0EUVdtGXJPLfako%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=81ab1310&x-expires=1795791600&x-signature=3SdDXHqmx1DLK40rySLDZtbfDLU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
+        "total_likes": 353,
+        "total_amigos": 0,
+        "total_posts": 11
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 744,
+      "valor_atual": 753,
+      "hash_anterior": "7aa7b52f4bc9a5fefbf4225d6dff9c81161310125c3730ec206efd5f195db781",
+      "hash_atual": "28b5d99f9bd5764d5021bfccd675c1ba907195cc5fd208d52d6003186b7184f3",
+      "variacao": 9,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49258.478893,
+        "texto": "13 horas e 40 minutos e 58 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 49258.478893,
+        "texto": "13 horas e 40 minutos e 58 segundos"
+      },
+      "titulo": "Ganhou 9 seguidores",
+      "descricao": "Os seguidores passaram de 744 para 753",
+      "variacao_texto": "+9 seguidores"
+    },
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-25T12:41:54.421300",
+      "timestamp_anterior": "2026-11-24T23:00:55.942407",
+      "timestamp_atual": "2026-11-25T12:41:54.421300",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "criador de conteudo",
+        "id": "7691505041542349831",
+        "sec_uid": "MS4wLjABAAAAknEMelDDdxsSsdthW0WXDUCR2fgq0yBOajBzmMYBY3dNTnnlfh4Oz0FPYfa66Y-m",
+        "username": "farejador.games",
+        "nome": "farejador games",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=960f6606&x-expires=1795791600&x-signature=AoMVKduOVZ0I0EUVdtGXJPLfako%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "medium": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9b34dad31d6d288d5b246c4be83c74f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=81ab1310&x-expires=1795791600&x-signature=3SdDXHqmx1DLK40rySLDZtbfDLU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "thumb": ""
+        },
+        "conta_criada_em": "2026-09-30T23:04:20.000-03:00",
+        "total_likes": 353,
+        "total_amigos": 0,
+        "total_posts": 11
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 397,
+      "valor_atual": 417,
+      "hash_anterior": "7aa7b52f4bc9a5fefbf4225d6dff9c81161310125c3730ec206efd5f195db781",
+      "hash_atual": "28b5d99f9bd5764d5021bfccd675c1ba907195cc5fd208d52d6003186b7184f3",
+      "variacao": 20,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 49258.478893,
+        "texto": "13 horas e 40 minutos e 58 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Começou a seguir 20 pessoas",
+      "descricao": "Estava seguindo 397 e passou a seguir 417",
+      "variacao_texto": "+20 seguindo"
+    },
     {
       "plataforma": "tiktok",
       "timestamp": "2026-11-24T23:00:55.942407",
@@ -854,26 +966,26 @@
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-11-19T18:01:33.742883",
-    "captura_mais_recente": "2026-11-24T23:00:55.942407",
-    "tempo_total_segundos": 449962,
-    "tempo_total_dias": 5.207894,
-    "tempo_total_texto": "5 dias, 4 horas, 59 minutos e 22 segundos",
+    "captura_mais_recente": "2026-11-25T12:41:54.421300",
+    "tempo_total_segundos": 499220,
+    "tempo_total_dias": 5.778009,
+    "tempo_total_texto": "5 dias, 18 horas, 40 minutos e 20 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": 21,
+      "variacao": 30,
       "direcao": "ganhou",
-      "quantidade": 21,
-      "texto": "Ganhou 21 seguidores",
+      "quantidade": 30,
+      "texto": "Ganhou 30 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-11-22T11:18:47.280217",
-      "captura_fim": "2026-11-24T23:00:55.942407",
+      "captura_fim": "2026-11-25T12:41:54.421300",
       "seguidores_inicio": 723,
-      "seguidores_fim": 744
+      "seguidores_fim": 753
     },
     "7_dias": {
       "variacao": null,
@@ -900,17 +1012,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 40,
+      "variacao": 49,
       "direcao": "ganhou",
-      "quantidade": 40,
-      "texto": "Ganhou 40 seguidores",
+      "quantidade": 49,
+      "texto": "Ganhou 49 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-11-19T18:01:33.742883",
-      "captura_mais_recente": "2026-11-24T23:00:55.942407",
-      "tempo_total_dias": 5.207896,
+      "captura_mais_recente": "2026-11-25T12:41:54.421300",
+      "tempo_total_dias": 5.778017,
       "seguidores_inicio": 704,
-      "seguidores_fim": 744
+      "seguidores_fim": 753
     }
   }
 }
