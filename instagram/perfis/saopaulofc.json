@@ -8,7 +8,7 @@
       "id": "17841401745160318",
       "username": "saopaulofc",
       "nome": "São Paulo Futebol Clube",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/236443244_363871355200833_4437442664796468922_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GGzWFw5B5d5m8EoBALo2W9KX9pQ9bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=hdFulIBzcDIQ7kNvwHr56oN&_nc_oc=AdqbfgRZQbfZCE3-OkZoUXCLCdg0Kd4w36tP-NLx0f-1dqTxS1_cXRUwOWRTe4YtbO1leqPcWhpYPkRZ_x78GRlZ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRPEBHFak82gc3OIApNqwvUifvVpmwkBtFPSQsQo9ABsA&oe=6B0CDDDA",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/236443244_363871355200833_4437442664796468922_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GGzWFw5B5d5m8EoBALo2W9KX9pQ9bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=ewzEcxvlC5wQ7kNvwFQWsxx&_nc_oc=Adoo6jFoNixJLwP0MI-fiBCt8h7ylZsnp7nIsid2o8TkZoAGlqnev5wnTwReGifkkdcRZp4u1hmlt2zD_0Nc5nh3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQUKOfXGuYUVSQEdDfQwG8ou8Xky-T0bgT_CpTOIOUvR9g&oe=6B10D25A",
       "total_posts": 0
     },
     "biografia": [
@@ -97,6 +97,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 6942454,
+        "valor_atual": 6941849,
+        "variacao": -605,
+        "direcao": "reducao",
+        "descricao": "-605 seguidores",
+        "timestamp": "2026-11-28T12:40:42.538797",
+        "timestamp_anterior": "2026-11-25T12:50:42.041514",
+        "tempo_desde_anterior_segundos": 258600
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -906,6 +919,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-28T12:40:42.538797",
+      "timestamp_anterior": "2026-11-25T12:50:42.041514",
+      "timestamp_atual": "2026-11-28T12:40:42.538797",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Nacional",
+        "pk": 20410172,
+        "id": "17841401745160318",
+        "username": "saopaulofc",
+        "nome": "São Paulo Futebol Clube",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.2885-19/236443244_363871355200833_4437442664796468922_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GGzWFw5B5d5m8EoBALo2W9KX9pQ9bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=ewzEcxvlC5wQ7kNvwFQWsxx&_nc_oc=Adoo6jFoNixJLwP0MI-fiBCt8h7ylZsnp7nIsid2o8TkZoAGlqnev5wnTwReGifkkdcRZp4u1hmlt2zD_0Nc5nh3&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQUKOfXGuYUVSQEdDfQwG8ou8Xky-T0bgT_CpTOIOUvR9g&oe=6B10D25A",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 6942454,
+      "valor_atual": 6941849,
+      "hash_anterior": "54a45f69d17db4f4f69180f103d787b5eb0157deb5bb3cbc117b89608945e29d",
+      "hash_atual": "03f03c879ab96cbb568eb340e595911e9d644c050378d4aafaa2debcdbb9b889",
+      "variacao": -605,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 258600.497283,
+        "texto": "2 dias e 23 horas e 50 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 258600.497283,
+        "texto": "2 dias e 23 horas e 50 minutos"
+      },
+      "titulo": "Perdeu 605 seguidores",
+      "descricao": "Os seguidores caíram de 6.942.454 para 6.941.849",
+      "variacao_texto": "-605 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-25T12:50:42.041514",
@@ -2969,50 +3018,50 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-10-06T21:42:12.269191",
-    "captura_mais_recente": "2026-11-25T12:50:42.041514",
-    "tempo_total_segundos": 4288109,
-    "tempo_total_dias": 49.630891,
-    "tempo_total_texto": "49 dias, 15 horas, 8 minutos e 29 segundos",
+    "captura_mais_recente": "2026-11-28T12:40:42.538797",
+    "tempo_total_segundos": 4546710,
+    "tempo_total_dias": 52.623958,
+    "tempo_total_texto": "52 dias, 14 horas, 58 minutos e 30 segundos",
     "dias_configurados": 30,
     "atingiu_dias": true,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -2704,
+      "variacao": -605,
       "direcao": "perdeu",
-      "quantidade": 2704,
-      "texto": "Perdeu 2704 seguidores",
+      "quantidade": 605,
+      "texto": "Perdeu 605 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-22T11:29:38.114063",
-      "captura_fim": "2026-11-25T12:50:42.041514",
-      "seguidores_inicio": 6945158,
-      "seguidores_fim": 6942454
+      "captura_inicio": "2026-11-25T12:50:42.041514",
+      "captura_fim": "2026-11-28T12:40:42.538797",
+      "seguidores_inicio": 6942454,
+      "seguidores_fim": 6941849
     },
     "7_dias": {
-      "variacao": -13316,
+      "variacao": -6035,
       "direcao": "perdeu",
-      "quantidade": 13316,
-      "texto": "Perdeu 13316 seguidores",
+      "quantidade": 6035,
+      "texto": "Perdeu 6035 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-03T12:25:38.330246",
-      "captura_fim": "2026-11-25T12:50:42.041514",
-      "seguidores_inicio": 6955770,
-      "seguidores_fim": 6942454
+      "captura_inicio": "2026-11-20T15:41:28.442570",
+      "captura_fim": "2026-11-28T12:40:42.538797",
+      "seguidores_inicio": 6947884,
+      "seguidores_fim": 6941849
     },
     "30_dias": {
-      "variacao": -24692,
+      "variacao": -25297,
       "direcao": "perdeu",
-      "quantidade": 24692,
-      "texto": "Perdeu 24692 seguidores",
+      "quantidade": 25297,
+      "texto": "Perdeu 25297 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "captura_inicio": "2026-10-24T11:07:18.087986",
-      "captura_fim": "2026-11-25T12:50:42.041514",
+      "captura_fim": "2026-11-28T12:40:42.538797",
       "seguidores_inicio": 6967146,
-      "seguidores_fim": 6942454
+      "seguidores_fim": 6941849
     },
     "90_dias": {
       "variacao": null,
@@ -3023,17 +3072,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -29969,
+      "variacao": -30574,
       "direcao": "perdeu",
-      "quantidade": 29969,
-      "texto": "Perdeu 29969 seguidores",
+      "quantidade": 30574,
+      "texto": "Perdeu 30574 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-10-06T21:42:12.269191",
-      "captura_mais_recente": "2026-11-25T12:50:42.041514",
-      "tempo_total_dias": 49.6309,
+      "captura_mais_recente": "2026-11-28T12:40:42.538797",
+      "tempo_total_dias": 52.623961,
       "seguidores_inicio": 6972423,
-      "seguidores_fim": 6942454
+      "seguidores_fim": 6941849
     }
   }
 }

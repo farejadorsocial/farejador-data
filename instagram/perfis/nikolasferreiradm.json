@@ -7,7 +7,7 @@
       "pk": 359409201,
       "username": "nikolasferreiradm",
       "nome": "Nikolas Ferreira",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825322187_18626835760049202_6314838534472925376_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMtqMTEybMQoAi1CAMAANY0w0KJXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MTguQzMifQ%3D%3D&_nc_ohc=GfJiDqQfhMoQ7kNvwG88eZ0&_nc_oc=AdpV9l1EZC52uPbcdr4NSJYT2muf7x8z7cP-jaEDPvIeKlGWuu-CRjcijQa8Gh3XJdyYZQ3FDR6F_AawEIKXcD8i&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=lWa61a3mSX0MuhJC1WjXHw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSNJzyNPOS2Cs6DS0DKNIOWPTZjXHK6P-QpmI7QNFcHMA&oe=6B0CC68C"
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825322187_18626835760049202_6314838534472925376_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMtqMTEybMQoAi1CAMAANY0w0KJXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MTguQzMifQ%3D%3D&_nc_ohc=rd8mASjrwEoQ7kNvwGdExHD&_nc_oc=Adovf01A3vex3nBNPCrAHfvged8bmWUGicDJl6aaTsw-tx6QSdFWZkAF-lzw-UICNtwQBhMfbQ2ggw9Wk8JLlrhk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QA0wM-ISZgoTc7Vg7uUeFw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQXzoY9J_kXRapYrF_HRHSGYswpg6jKpL3PfIeDmxFDRRQ&oe=6B10BB0C"
     },
     "biografia": [
       {
@@ -78,12 +78,38 @@
         "plataforma": "instagram",
         "campo": "seguidores",
         "nome": "Seguidores",
+        "valor_anterior": 26158201,
+        "valor_atual": 26141888,
+        "variacao": -16313,
+        "direcao": "reducao",
+        "descricao": "-16313 seguidores",
+        "timestamp": "2026-11-28T13:03:27.394428",
+        "timestamp_anterior": "2026-11-25T13:13:04.184033",
+        "tempo_desde_anterior_segundos": 258623
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
         "valor": 26158201,
         "timestamp": "2026-11-25T13:13:04.184033",
         "tipo": "inicial"
       }
     ],
     "seguindo": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
+        "valor_anterior": 2198,
+        "valor_atual": 2195,
+        "variacao": -3,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 3",
+        "timestamp": "2026-11-28T13:03:27.394428",
+        "timestamp_anterior": "2026-11-25T13:13:04.184033",
+        "tempo_desde_anterior_segundos": 258623
+      },
       {
         "plataforma": "instagram",
         "campo": "seguindo",
@@ -154,26 +180,99 @@
       }
     ]
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-28T13:03:27.394428",
+      "timestamp_anterior": "2026-11-25T13:13:04.184033",
+      "timestamp_atual": "2026-11-28T13:03:27.394428",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "politico",
+        "pk": 359409201,
+        "username": "nikolasferreiradm",
+        "nome": "Nikolas Ferreira",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825322187_18626835760049202_6314838534472925376_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMtqMTEybMQoAi1CAMAANY0w0KJXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MTguQzMifQ%3D%3D&_nc_ohc=rd8mASjrwEoQ7kNvwGdExHD&_nc_oc=Adovf01A3vex3nBNPCrAHfvged8bmWUGicDJl6aaTsw-tx6QSdFWZkAF-lzw-UICNtwQBhMfbQ2ggw9Wk8JLlrhk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QA0wM-ISZgoTc7Vg7uUeFw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQXzoY9J_kXRapYrF_HRHSGYswpg6jKpL3PfIeDmxFDRRQ&oe=6B10BB0C"
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 26158201,
+      "valor_atual": 26141888,
+      "hash_anterior": "405fad35e32091348b4a71d422cb6a60e914cd8ca78b394d597547e5b5c33791",
+      "hash_atual": "193654f68644e4c6f66366efdb4f4aaa1158f9dc76825bcb75b5c054fb363bd9",
+      "variacao": -16313,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 258623.210395,
+        "texto": "2 dias e 23 horas e 50 minutos e 23 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": null,
+        "texto": null
+      },
+      "titulo": "Perdeu 16.313 seguidores",
+      "descricao": "Os seguidores caíram de 26.158.201 para 26.141.888",
+      "variacao_texto": "-16.313 seguidores"
+    },
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-28T13:03:27.394428",
+      "timestamp_anterior": "2026-11-25T13:13:04.184033",
+      "timestamp_atual": "2026-11-28T13:03:27.394428",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "politico",
+        "pk": 359409201,
+        "username": "nikolasferreiradm",
+        "nome": "Nikolas Ferreira",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/825322187_18626835760049202_6314838534472925376_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMtqMTEybMQoAi1CAMAANY0w0KJXbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MTguQzMifQ%3D%3D&_nc_ohc=rd8mASjrwEoQ7kNvwGdExHD&_nc_oc=Adovf01A3vex3nBNPCrAHfvged8bmWUGicDJl6aaTsw-tx6QSdFWZkAF-lzw-UICNtwQBhMfbQ2ggw9Wk8JLlrhk&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=QA0wM-ISZgoTc7Vg7uUeFw&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQXzoY9J_kXRapYrF_HRHSGYswpg6jKpL3PfIeDmxFDRRQ&oe=6B10BB0C"
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 2198,
+      "valor_atual": 2195,
+      "hash_anterior": "405fad35e32091348b4a71d422cb6a60e914cd8ca78b394d597547e5b5c33791",
+      "hash_atual": "193654f68644e4c6f66366efdb4f4aaa1158f9dc76825bcb75b5c054fb363bd9",
+      "variacao": -3,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 258623.210395,
+        "texto": "2 dias e 23 horas e 50 minutos e 23 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 0.0,
+        "texto": "0 segundos"
+      },
+      "titulo": "Deixou de seguir 3 pessoas",
+      "descricao": "Estava seguindo 2.198 e passou a seguir 2.195",
+      "variacao_texto": "-3 seguindo"
+    }
+  ],
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-11-25T13:13:04.184033",
-    "captura_mais_recente": "2026-11-25T13:13:04.184033",
-    "tempo_total_segundos": 0,
-    "tempo_total_dias": 0.0,
-    "tempo_total_texto": "0 segundos",
+    "captura_mais_recente": "2026-11-28T13:03:27.394428",
+    "tempo_total_segundos": 258623,
+    "tempo_total_dias": 2.993322,
+    "tempo_total_texto": "2 dias, 23 horas, 50 minutos e 23 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -16313,
+      "direcao": "perdeu",
+      "quantidade": 16313,
+      "texto": "Perdeu 16313 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-25T13:13:04.184033",
+      "captura_fim": "2026-11-28T13:03:27.394428",
+      "seguidores_inicio": 26158201,
+      "seguidores_fim": 26141888
     },
     "7_dias": {
       "variacao": null,
@@ -200,17 +299,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": 0,
-      "direcao": "estavel",
-      "quantidade": 0,
-      "texto": "Não ganhou nem perdeu seguidores",
+      "variacao": -16313,
+      "direcao": "perdeu",
+      "quantidade": 16313,
+      "texto": "Perdeu 16313 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-11-25T13:13:04.184033",
-      "captura_mais_recente": "2026-11-25T13:13:04.184033",
-      "tempo_total_dias": 0,
+      "captura_mais_recente": "2026-11-28T13:03:27.394428",
+      "tempo_total_dias": 2.993324,
       "seguidores_inicio": 26158201,
-      "seguidores_fim": 26158201
+      "seguidores_fim": 26141888
     }
   }
 }

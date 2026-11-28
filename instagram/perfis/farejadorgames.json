@@ -8,7 +8,7 @@
       "id": "17841417024979150",
       "username": "farejadorgames",
       "nome": "Farejador Games | Quizzes e Desafios",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/881717202_18148277809567500_4745254309857593080_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GNLvjTQM1x80w3lAAPgG9EOnh9pBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pxoDLjvRGOwQ7kNvwFHW9ly&_nc_oc=AdqWJviDG0jbOyr2d_WNmwLahiokpiHOXqbm-DQH96kRpfVIZ9wZWRWoMcJ9E1BASQ_ew8tcHxr_Tx_54v7H1HM8&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3jan9A2A2L1GWHg6nyoPfQ&_nc_ss=70689&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS3CKXPk9fhtNo4GxqfpDQxfCcSzjMylLoRx3jFkdJVsw&oe=6B05A10D",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/881717202_18148277809567500_4745254309857593080_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GNLvjTQM1x80w3lAAPgG9EOnh9pBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uIeDR3yUvoMQ7kNvwEsbhwE&_nc_oc=AdrvDZXo8r-xVGKCflcPfGAWNFxN-b7ppcpX4diWWrZsvsW-N3VMgO8EwCyjB5UsK4MvALano9SHVnB6ps1Zp8BU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VQtphMtdFNdcaPUsjmwXMQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQUXPjXUdFa6etgjwzpn6o9YgoEef5_g_AJtNvxaMs41fw&oe=6B10D5CD",
       "total_posts": 11
     },
     "biografia": [
@@ -116,6 +116,19 @@
         "plataforma": "instagram",
         "campo": "seguindo",
         "nome": "Seguindo",
+        "valor_anterior": 12,
+        "valor_atual": 10,
+        "variacao": -2,
+        "direcao": "reducao",
+        "descricao": "Deixou de seguir 2",
+        "timestamp": "2026-11-28T12:35:32.318519",
+        "timestamp_anterior": "2026-11-19T18:05:16.338701",
+        "tempo_desde_anterior_segundos": 757815
+      },
+      {
+        "plataforma": "instagram",
+        "campo": "seguindo",
+        "nome": "Seguindo",
         "valor": 12,
         "timestamp": "2026-11-19T18:05:16.338701",
         "tipo": "inicial"
@@ -196,6 +209,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-28T12:35:32.318519",
+      "timestamp_anterior": "2026-11-20T02:14:38.072683",
+      "timestamp_atual": "2026-11-28T12:35:32.318519",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "criador de conteudo",
+        "pk": 16873207499,
+        "id": "17841417024979150",
+        "username": "farejadorgames",
+        "nome": "Farejador Games | Quizzes e Desafios",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/881717202_18148277809567500_4745254309857593080_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ig_cache_key=GNLvjTQM1x80w3lAAPgG9EOnh9pBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uIeDR3yUvoMQ7kNvwEsbhwE&_nc_oc=AdrvDZXo8r-xVGKCflcPfGAWNFxN-b7ppcpX4diWWrZsvsW-N3VMgO8EwCyjB5UsK4MvALano9SHVnB6ps1Zp8BU&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=VQtphMtdFNdcaPUsjmwXMQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQUXPjXUdFa6etgjwzpn6o9YgoEef5_g_AJtNvxaMs41fw&oe=6B10D5CD",
+        "total_posts": 11
+      },
+      "tipo": "seguindo",
+      "campo": "seguindo",
+      "nome_campo": "Seguindo",
+      "valor_anterior": 12,
+      "valor_atual": 10,
+      "hash_anterior": "b551329956589c9356cba7399b66e42de49d7b74d5b514742aa6b50e1a7df727",
+      "hash_atual": "9bdb1b64f5c88b05637be78f3633fc5fd948ab522f74fea4b5761843f04a2258",
+      "variacao": -2,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 728454.245836,
+        "texto": "8 dias e 10 horas e 20 minutos e 54 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 728454.245836,
+        "texto": "8 dias e 10 horas e 20 minutos e 54 segundos"
+      },
+      "titulo": "Deixou de seguir 2 pessoas",
+      "descricao": "Estava seguindo 12 e passou a seguir 10",
+      "variacao_texto": "-2 seguindo"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-20T02:14:38.072683",
@@ -305,10 +354,10 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-11-19T18:05:16.338701",
-    "captura_mais_recente": "2026-11-20T02:14:38.072683",
-    "tempo_total_segundos": 29361,
-    "tempo_total_dias": 0.339826,
-    "tempo_total_texto": "8 horas, 9 minutos e 21 segundos",
+    "captura_mais_recente": "2026-11-28T12:35:32.318519",
+    "tempo_total_segundos": 757815,
+    "tempo_total_dias": 8.771007,
+    "tempo_total_texto": "8 dias, 18 horas, 30 minutos e 15 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true

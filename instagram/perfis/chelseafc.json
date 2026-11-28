@@ -8,7 +8,7 @@
       "id": "17841400633183817",
       "username": "chelseafc",
       "nome": "Chelsea FC",
-      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857246890_18648803491021107_790813167212315146_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKqMGDMzgZHr-EBCAApCZLtiiPkKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDguQzMifQ%3D%3D&_nc_ohc=iji3ZFEHQlwQ7kNvwHpCCII&_nc_oc=AdpWKvfwHV0hhqTJhJlMZ0JbTD0WrDN_3fZNRMnAovQE0TGXf9egcgXUSauKpdr5SO2gH44N66Y2068IbjFYpun_&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=hJNhHZ5TKoEaibQEO_uZow&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcazRogfdPp2_NhCIKLqYgPWMmh7F7KSoi8GfCw06vFA&oe=6B0CC623",
+      "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857246890_18648803491021107_790813167212315146_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKqMGDMzgZHr-EBCAApCZLtiiPkKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDguQzMifQ%3D%3D&_nc_ohc=EeHJ53OtniYQ7kNvwGEt7BU&_nc_oc=AdpCCoxRpkkJi4rZyKidXBnyxLbFT4Z41Ghi3dP52_SC6jyjx73H0ItCpd_kY2fLWPoWjtb5PC85mGbQToRUqdZd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oJeQ7aC7_-XeuFQes3G5PQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQV3v1Nxd6h75xXLPDkbzSafglpRKVdlhbRtW0PP_8abdQ&oe=6B10BAA3",
       "total_posts": 0
     },
     "biografia": [
@@ -76,6 +76,19 @@
       }
     ],
     "seguidores": [
+      {
+        "plataforma": "instagram",
+        "campo": "seguidores",
+        "nome": "Seguidores",
+        "valor_anterior": 44256010,
+        "valor_atual": 44242365,
+        "variacao": -13645,
+        "direcao": "reducao",
+        "descricao": "-13645 seguidores",
+        "timestamp": "2026-11-28T12:41:44.318921",
+        "timestamp_anterior": "2026-11-25T12:51:44.100906",
+        "tempo_desde_anterior_segundos": 258600
+      },
       {
         "plataforma": "instagram",
         "campo": "seguidores",
@@ -287,6 +300,42 @@
     ]
   },
   "timeline": [
+    {
+      "plataforma": "instagram",
+      "timestamp": "2026-11-28T12:41:44.318921",
+      "timestamp_anterior": "2026-11-25T12:51:44.100906",
+      "timestamp_atual": "2026-11-28T12:41:44.318921",
+      "usuario": {
+        "plataforma": "instagram",
+        "categoria": "Futebol Internacional",
+        "pk": 244309106,
+        "id": "17841400633183817",
+        "username": "chelseafc",
+        "nome": "Chelsea FC",
+        "foto_perfil": "https://scontent.cdninstagram.com/v/t51.82787-19/857246890_18648803491021107_790813167212315146_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GKqMGDMzgZHr-EBCAApCZLtiiPkKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDguQzMifQ%3D%3D&_nc_ohc=EeHJ53OtniYQ7kNvwGEt7BU&_nc_oc=AdpCCoxRpkkJi4rZyKidXBnyxLbFT4Z41Ghi3dP52_SC6jyjx73H0ItCpd_kY2fLWPoWjtb5PC85mGbQToRUqdZd&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=oJeQ7aC7_-XeuFQes3G5PQ&_nc_ss=70789&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQV3v1Nxd6h75xXLPDkbzSafglpRKVdlhbRtW0PP_8abdQ&oe=6B10BAA3",
+        "total_posts": 0
+      },
+      "tipo": "seguidores",
+      "campo": "seguidores",
+      "nome_campo": "Seguidores",
+      "valor_anterior": 44256010,
+      "valor_atual": 44242365,
+      "hash_anterior": "e3cce8c10f0a5f5c141dee716a3abf2a93a465ae861bdb64e5b3833a70b202cb",
+      "hash_atual": "fc02175d7fc453280d4b46568d669ceb036e625ad2b7d3ca76e1ab88669a8449",
+      "variacao": -13645,
+      "categoria": "rede",
+      "tempo_desde_anterior": {
+        "segundos": 258600.218015,
+        "texto": "2 dias e 23 horas e 50 minutos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": 258600.218015,
+        "texto": "2 dias e 23 horas e 50 minutos"
+      },
+      "titulo": "Perdeu 13.645 seguidores",
+      "descricao": "Os seguidores caíram de 44.256.010 para 44.242.365",
+      "variacao_texto": "-13.645 seguidores"
+    },
     {
       "plataforma": "instagram",
       "timestamp": "2026-11-25T12:51:44.100906",
@@ -651,34 +700,38 @@
   "periodo": {
     "plataforma": "instagram",
     "primeira_captura": "2026-11-19T16:15:54.490453",
-    "captura_mais_recente": "2026-11-25T12:51:44.100906",
-    "tempo_total_segundos": 506149,
-    "tempo_total_dias": 5.858206,
-    "tempo_total_texto": "5 dias, 20 horas, 35 minutos e 49 segundos",
+    "captura_mais_recente": "2026-11-28T12:41:44.318921",
+    "tempo_total_segundos": 764749,
+    "tempo_total_dias": 8.851262,
+    "tempo_total_texto": "8 dias, 20 horas, 25 minutos e 49 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
   },
   "crescimento_seguidores": {
     "1_dias": {
-      "variacao": -41381,
+      "variacao": -13645,
       "direcao": "perdeu",
-      "quantidade": 41381,
-      "texto": "Perdeu 41381 seguidores",
+      "quantidade": 13645,
+      "texto": "Perdeu 13645 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
-      "captura_inicio": "2026-11-22T11:30:40.364388",
-      "captura_fim": "2026-11-25T12:51:44.100906",
-      "seguidores_inicio": 44297391,
-      "seguidores_fim": 44256010
+      "captura_inicio": "2026-11-25T12:51:44.100906",
+      "captura_fim": "2026-11-28T12:41:44.318921",
+      "seguidores_inicio": 44256010,
+      "seguidores_fim": 44242365
     },
     "7_dias": {
-      "variacao": null,
-      "direcao": null,
-      "quantidade": null,
-      "texto": null,
-      "atingiu_periodo": false,
-      "tem_dados": false
+      "variacao": -87050,
+      "direcao": "perdeu",
+      "quantidade": 87050,
+      "texto": "Perdeu 87050 seguidores",
+      "atingiu_periodo": true,
+      "tem_dados": true,
+      "captura_inicio": "2026-11-20T15:42:30.509192",
+      "captura_fim": "2026-11-28T12:41:44.318921",
+      "seguidores_inicio": 44329415,
+      "seguidores_fim": 44242365
     },
     "30_dias": {
       "variacao": null,
@@ -697,17 +750,17 @@
       "tem_dados": false
     },
     "todo_periodo": {
-      "variacao": -76595,
+      "variacao": -90240,
       "direcao": "perdeu",
-      "quantidade": 76595,
-      "texto": "Perdeu 76595 seguidores",
+      "quantidade": 90240,
+      "texto": "Perdeu 90240 seguidores",
       "atingiu_periodo": true,
       "tem_dados": true,
       "primeira_captura": "2026-11-19T16:15:54.490453",
-      "captura_mais_recente": "2026-11-25T12:51:44.100906",
-      "tempo_total_dias": 5.858213,
+      "captura_mais_recente": "2026-11-28T12:41:44.318921",
+      "tempo_total_dias": 8.851271,
       "seguidores_inicio": 44332605,
-      "seguidores_fim": 44256010
+      "seguidores_fim": 44242365
     }
   }
 }
