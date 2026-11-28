@@ -9,14 +9,14 @@
       "username": "virginiafonseca",
       "nome": "Virginia",
       "foto_perfil": {
-        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/25fbe01a98c8dc2c9a2606935ec972fa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=7f8aed8b&x-expires=1795298400&x-signature=ZSrFzQ7Sp%2B9xnTIfUyXbI78fcl4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/25fbe01a98c8dc2c9a2606935ec972fa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=ea492bbb&x-expires=1795298400&x-signature=kTH3BJWVfIzfFWPeta1izi4ovhY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/25fbe01a98c8dc2c9a2606935ec972fa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=22f320dd&x-expires=1796050800&x-signature=8gzIzt5lzjZ5twPK5MIm1VISfXA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/25fbe01a98c8dc2c9a2606935ec972fa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=41d469e6&x-expires=1796050800&x-signature=j0m5kt3H509LFi4cTGDx%2FRJb9gg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "thumb": ""
       },
       "conta_criada_em": "2020-02-10T02:28:57.000-03:00",
       "total_likes": 1300000000,
       "total_amigos": 0,
-      "total_posts": 1784
+      "total_posts": 1787
     },
     "biografia": [
       {
@@ -195,6 +195,19 @@
         "plataforma": "tiktok",
         "campo": "total_posts",
         "nome": "Total de Posts",
+        "valor_anterior": 1784,
+        "valor_atual": 1787,
+        "variacao": 3,
+        "direcao": "aumento",
+        "descricao": "+3 publicações",
+        "timestamp": "2026-11-28T12:30:59.422716",
+        "timestamp_anterior": "2026-11-19T19:40:46.580455",
+        "tempo_desde_anterior_segundos": 751812
+      },
+      {
+        "plataforma": "tiktok",
+        "campo": "total_posts",
+        "nome": "Total de Posts",
         "valor": 1784,
         "timestamp": "2026-11-19T19:40:46.580455",
         "tipo": "inicial"
@@ -231,14 +244,58 @@
       }
     ]
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "plataforma": "tiktok",
+      "timestamp": "2026-11-28T12:30:59.422716",
+      "timestamp_anterior": "2026-11-19T19:40:46.580455",
+      "timestamp_atual": "2026-11-28T12:30:59.422716",
+      "usuario": {
+        "plataforma": "tiktok",
+        "categoria": "influenciadores digital",
+        "id": "6791803115148018693",
+        "sec_uid": "MS4wLjABAAAAkgZ-BUUdW2KlPa_B4OdcWzAnh7uTB9yGL1Dp0EEdVA5Y1Jzi1F9GOBb8HLLqzn-6",
+        "username": "virginiafonseca",
+        "nome": "Virginia",
+        "foto_perfil": {
+          "larger": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/25fbe01a98c8dc2c9a2606935ec972fa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=22f320dd&x-expires=1796050800&x-signature=8gzIzt5lzjZ5twPK5MIm1VISfXA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "medium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/25fbe01a98c8dc2c9a2606935ec972fa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=41d469e6&x-expires=1796050800&x-signature=j0m5kt3H509LFi4cTGDx%2FRJb9gg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "thumb": ""
+        },
+        "conta_criada_em": "2020-02-10T02:28:57.000-03:00",
+        "total_likes": 1300000000,
+        "total_amigos": 0,
+        "total_posts": 1787
+      },
+      "tipo": "total_posts",
+      "campo": "total_posts",
+      "nome_campo": "Total de Posts",
+      "valor_anterior": 1784,
+      "valor_atual": 1787,
+      "hash_anterior": "d986cb74d8a9f337d49b07779ddf35ca4f26aad9976b6b2a07ca1cbc57b2947a",
+      "hash_atual": "80d0447601602bb958863fbdddce6356b0ceb500ef87dbd7555d444cea4d9a92",
+      "variacao": 3,
+      "categoria": "conteudo",
+      "tempo_desde_anterior": {
+        "segundos": 751812.842261,
+        "texto": "8 dias e 16 horas e 50 minutos e 12 segundos"
+      },
+      "tempo_desde_ultimo_evento": {
+        "segundos": null,
+        "texto": null
+      },
+      "titulo": "Publicou 3 publicações",
+      "descricao": "O total mudou de 1.784 para 1.787",
+      "variacao_texto": "+3 posts"
+    }
+  ],
   "periodo": {
     "plataforma": "tiktok",
     "primeira_captura": "2026-11-19T19:40:46.580455",
-    "captura_mais_recente": "2026-11-19T19:40:46.580455",
-    "tempo_total_segundos": 0,
-    "tempo_total_dias": 0.0,
-    "tempo_total_texto": "0 segundos",
+    "captura_mais_recente": "2026-11-28T12:30:59.422716",
+    "tempo_total_segundos": 751812,
+    "tempo_total_dias": 8.701528,
+    "tempo_total_texto": "8 dias, 16 horas, 50 minutos e 12 segundos",
     "dias_configurados": 30,
     "atingiu_dias": false,
     "tem_dados": true
